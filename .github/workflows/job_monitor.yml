@@ -1,0 +1,55 @@
+name: SDET Job Watcher
+
+on:
+  schedule:
+    # Every hour
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run job watcher
+        env:
+          # Your Google Alerts RSS URL:
+          RSS_FEEDS: "https://www.google.co.uk/alerts/feeds/12220827806768459862/13953957820836228291"
+
+          SEEN_FILE: "seen_urls.txt"
+
+          EMAIL_TO: "${{ secrets.EMAIL_TO }}"
+          EMAIL_FROM: "${{ secrets.EMAIL_FROM }}"
+          SMTP_HOST: "${{ secrets.SMTP_HOST }}"
+          SMTP_PORT: "${{ secrets.SMTP_PORT }}"
+          SMTP_USERNAME: "${{ secrets.SMTP_USERNAME }}"
+          SMTP_PASSWORD: "${{ secrets.SMTP_PASSWORD }}"
+        run: |
+          python monitor_jobs.py
+
+      - name: Commit updated seen URLs
+        run: |
+          if git status --porcelain | grep -q "seen_urls.txt"; then
+            echo "Changes detected in seen_urls.txt, committing..."
+            git config user.name "sdet-job-watcher-bot"
+            git config user.email "sdet-job-watcher-bot@example.com"
+            git add seen_urls.txt
+            git commit -m "Update seen job URLs"
+            git push
+          else
+            echo "No changes to commit."
+          fi
