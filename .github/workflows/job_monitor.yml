@@ -50,6 +50,6 @@ jobs:
             git add seen_urls.txt
             git commit -m "Update seen job URLs"
             git push
-          else:
+          else
             echo "No changes to commit."
           fi
