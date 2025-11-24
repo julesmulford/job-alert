@@ -10,6 +10,7 @@ import smtplib
 from email.message import EmailMessage
 from datetime import datetime
 from typing import List, Dict, Tuple
+from urllib.parse import urlparse, parse_qs, unquote
 
 
 # --------- FILTER CONFIG ---------
@@ -113,6 +114,30 @@ USER_AGENT = (
     "Chrome/120.0 Safari/537.36"
 )
 REQUEST_TIMEOUT = 20
+
+
+# --------- URL NORMALISATION ---------
+def canonical_link(url: str) -> str:
+    """
+    Turn Google redirect URLs like:
+      https://www.google.com/url?...&url=https://uk.linkedin.com/jobs/view/...&...
+    into the underlying job URL (https://uk.linkedin.com/...)
+    so we don't treat the same job as different every run.
+    """
+    try:
+        parsed = urlparse(url)
+    except Exception:
+        return url
+
+    host = parsed.netloc.lower()
+    if host in ("www.google.com", "google.com") and parsed.path == "/url":
+        qs = parse_qs(parsed.query)
+        # Google often uses "url" or sometimes "q"
+        target_list = qs.get("url") or qs.get("q")
+        if target_list:
+            return unquote(target_list[0])
+
+    return url
 
 
 # --------- SEEN URL + HASH HANDLING ---------
@@ -398,10 +423,12 @@ def main() -> int:
             print(f"[INFO] Parsed {len(items)} items from {feed_url}")
 
             for item in items:
-                link = item.get("link", "")
+                raw_link = item.get("link", "")
                 title = item.get("title", "")
-                if not link:
+                if not raw_link:
                     continue
+
+                link = canonical_link(raw_link)
 
                 # Fetch the job page (we always fetch, because content might have changed)
                 try:
@@ -426,6 +453,8 @@ def main() -> int:
                 matched, reason = job_matches(html_text, title)
                 if matched:
                     print(f"[MATCH] {title} -> {link} ({reason})")
+                    # Update the item link to canonical for emails
+                    item["link"] = link
                     new_matches.append(item)
                 else:
                     print(f"[SKIP] {title} -> {link} ({reason})")
