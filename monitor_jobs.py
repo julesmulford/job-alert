@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import os
 import sys
+import re
 import hashlib
 import urllib.request
 import urllib.error
@@ -13,34 +14,53 @@ from typing import List, Dict
 
 # --------- FILTER CONFIG ---------
 LOCATION_KEYWORDS = [
+    # Leeds & York (city + postcodes + regions)
     "leeds",
+    "ls1", "ls2", "ls3", "ls4", "ls5", "ls6", "ls7", "ls8", "ls9",
+    "ls10", "ls11", "ls12", "ls13", "ls14", "ls15",
     "york",
+    "yo1", "yo10", "yo24", "yo26", "yo30",
     "west yorkshire",
-    "ls1",
-    "ls2",
-    "ls3",
-    "ls10",
-    "ls11",
-    "yo1",
-    "yo10",
-    "yo26",
+    "north yorkshire",
+
+    # Remote patterns
     "remote",
+    "remote uk",
+    "remote (uk)",
+    "uk remote",
+    "remote united kingdom",
+    "work remotely",
+    "remote-first",
+    "home-based",
     "work from home",
     "wfh",
-    "home-based",
+
+    # Hybrid / flexible patterns
+    "hybrid",
+    "hybrid role",
+    "hybrid working",
+    "hybrid remote",
+    "flexible working",
 ]
 
 AUTOMATION_KEYWORDS = [
     "automation",
-    "automated testing",
     "test automation",
+    "qa automation",
+    "sdet",
+    "software engineer in test",
+    "development engineer in test",
+    "automated testing",
     "selenium",
     "playwright",
     "cypress",
     "webdriver",
     "appium",
-    "sdet",
-    "software engineer in test",
+    "robot framework",
+    "cucumber",           # often in automation roles (BDD)
+    "api testing",
+    "api automation",
+    "performance testing",
 ]
 
 SENIORITY_KEYWORDS = [
@@ -95,16 +115,16 @@ def load_seen_map(path: str) -> Dict[str, str]:
     if not os.path.exists(path):
         return seen
     with open(path, "r", encoding="utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if not line:
-                    continue
-                if "|" in line:
-                    url, h = line.split("|", 1)
-                    seen[url.strip()] = h.strip()
-                else:
-                    # Backwards compatibility: if old file had just URLs, store empty hash
-                    seen[line] = ""
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            if "|" in line:
+                url, h = line.split("|", 1)
+                seen[url.strip()] = h.strip()
+            else:
+                # Backwards compatibility: if old file had just URLs, store empty hash
+                seen[line] = ""
     return seen
 
 
@@ -181,15 +201,58 @@ def text_contains_none(text: str, keywords: List[str]) -> bool:
     return not any(k.lower() in t for k in keywords)
 
 
+def salary_meets_requirement(text: str) -> bool:
+    """
+    Return True if salary is >= £60k or salary unspecified.
+    Reject roles clearly under £60k (e.g., 30k-45k, 45k, 50-55k).
+    We look for patterns like:
+      - 45k, £50k, 60k
+      - £45,000, 60,000
+    """
+    t = text.lower()
+
+    # Match patterns like 45k, £60k
+    k_based = re.findall(r"£?\s?(\d{2,3})\s?k", t)
+    # Match patterns like 45,000 / £60,000
+    thousand_based = re.findall(r"£?\s?(\d{2,3})\s?,\s?000", t)
+
+    nums = []
+
+    for s in k_based:
+        try:
+            nums.append(int(s))
+        except ValueError:
+            continue
+
+    for s in thousand_based:
+        try:
+            nums.append(int(s))
+        except ValueError:
+            continue
+
+    if not nums:
+        # If no salary is listed, keep the role (can't rule it out).
+        return True
+
+    # Interpret these as "k" values: 45 -> 45k, 60 -> 60k
+    max_k = max(nums)
+    return max_k >= 60
+
+
 def job_matches(html: str, title: str) -> bool:
     """
     Decide if a job page matches your criteria:
-    - Location: Leeds/York/Remote/WFH etc.
-    - Automation: at least one automation-related term.
+    - Salary: >= 60k or unspecified.
+    - Location: Leeds/York/Remote/Hybrid etc.
+    - Automation: automation/SDET/test automation.
     - Seniority: senior/lead/principal/staff/etc.
-    - Exclude manual-only, test analyst, junior/grad roles.
+    - Exclude: manual-only, test analyst, junior/grad roles.
     """
     combined = f"{title}\n{html}".lower()
+
+    # Salary filter: reject roles clearly under 60k
+    if not salary_meets_requirement(combined):
+        return False
 
     # Location
     if not text_contains_any(combined, LOCATION_KEYWORDS):
