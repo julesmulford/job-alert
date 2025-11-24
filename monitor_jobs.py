@@ -9,7 +9,7 @@ import xml.etree.ElementTree as ET
 import smtplib
 from email.message import EmailMessage
 from datetime import datetime
-from typing import List, Dict
+from typing import List, Dict, Tuple
 
 
 # --------- FILTER CONFIG ---------
@@ -207,7 +207,7 @@ def salary_meets_requirement(text: str) -> bool:
     Reject roles clearly under £60k (e.g., 30k-45k, 45k, 50-55k).
     We look for patterns like:
       - 45k, £50k, 60k
-      - £45,000, 60,000
+      - £45,000, £60,000
     """
     t = text.lower()
 
@@ -234,47 +234,45 @@ def salary_meets_requirement(text: str) -> bool:
         # If no salary is listed, keep the role (can't rule it out).
         return True
 
-    # Interpret these as "k" values: 45 -> 45k, 60 -> 60k
     max_k = max(nums)
     return max_k >= 60
 
 
-def job_matches(html: str, title: str) -> bool:
+def job_matches(html: str, title: str) -> Tuple[bool, str]:
     """
-    Decide if a job page matches your criteria:
-    - Salary: >= 60k or unspecified.
-    - Location: Leeds/York/Remote/Hybrid etc.
-    - Automation: automation/SDET/test automation.
-    - Seniority: senior/lead/principal/staff/etc.
-    - Exclude: manual-only, test analyst, junior/grad roles.
+    Decide if a job page matches your criteria.
+    Returns (matched: bool, reason: str).
+
+    Reasons are designed to be human-readable so you can see exactly
+    why something was skipped in the logs.
     """
     combined = f"{title}\n{html}".lower()
 
     # Salary filter: reject roles clearly under 60k
     if not salary_meets_requirement(combined):
-        return False
+        return False, "salary below 60k (or band clearly < 60k)"
 
     # Location
     if not text_contains_any(combined, LOCATION_KEYWORDS):
-        return False
+        return False, "location missing (no Leeds/York/remote/hybrid keywords)"
 
     # Automation / SDET
     if not text_contains_any(combined, AUTOMATION_KEYWORDS):
-        return False
+        return False, "no strong automation/SDET keywords found"
 
     # Exclude manual-only / analyst-heavy pages
     if not text_contains_none(combined, EXCLUDE_MANUAL):
-        return False
+        return False, "looks manual/analyst-focused (manual tester / test analyst / QA analyst)"
 
     # Exclude junior / grad etc
     if not text_contains_none(combined, EXCLUDE_JUNIOR):
-        return False
+        return False, "junior/grad/trainee-level role"
 
     # Require some seniority signal
     if not text_contains_any(combined, SENIORITY_KEYWORDS):
-        return False
+        return False, "no seniority signal (senior/lead/principal/staff/head/manager)"
 
-    return True
+    return True, "passed all filters"
 
 
 # --------- EMAIL HELPERS ---------
@@ -366,12 +364,12 @@ def main() -> int:
                     print(f"[SKIP] {title} -> {link} (same content hash as seen)")
                     continue
 
-                # Evaluate whether this page now matches our criteria
-                if job_matches(html_text, title):
-                    print(f"[MATCH] {title} -> {link}")
+                matched, reason = job_matches(html_text, title)
+                if matched:
+                    print(f"[MATCH] {title} -> {link} ({reason})")
                     new_matches.append(item)
                 else:
-                    print(f"[SKIP] {title} -> {link} (does not match filters)")
+                    print(f"[SKIP] {title} -> {link} ({reason})")
 
                 # Update stored hash for this URL regardless of match outcome
                 seen_map[link] = current_hash
