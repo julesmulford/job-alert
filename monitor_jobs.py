@@ -13,6 +13,22 @@ from typing import List, Dict, Tuple
 from urllib.parse import urlparse, parse_qs, unquote
 
 
+# --------- LOGGING HELPERS (ASCII-SAFE) ---------
+def _ascii_safe(msg: str) -> str:
+    """Ensure log messages don't blow up on £/Unicode in ASCII-only terminals."""
+    if not isinstance(msg, str):
+        msg = str(msg)
+    return msg.encode("ascii", "backslashreplace").decode("ascii")
+
+
+def log_info(msg: str) -> None:
+    print(_ascii_safe(msg))
+
+
+def log_warn(msg: str) -> None:
+    print(_ascii_safe(msg), file=sys.stderr)
+
+
 # --------- FILTER CONFIG ---------
 LOCATION_KEYWORDS = [
     # Leeds & York (city + postcodes + regions)
@@ -191,7 +207,7 @@ def parse_rss_items(feed_xml: bytes, feed_url: str) -> List[Dict[str, str]]:
     try:
         root = ET.fromstring(feed_xml)
     except ET.ParseError as e:
-        print(f"[WARN] Could not parse RSS from {feed_url}: {e}", file=sys.stderr)
+        log_warn(f"[WARN] Could not parse RSS from {feed_url}: {e}")
         return items
 
     channel = root.find("channel")
@@ -401,26 +417,26 @@ def send_email(
 def main() -> int:
     rss_feeds_env = os.getenv("RSS_FEEDS", "").strip()
     if not rss_feeds_env:
-        print("[ERROR] RSS_FEEDS env var is empty. Set it to one or more RSS URLs separated by commas.", file=sys.stderr)
+        log_warn("[ERROR] RSS_FEEDS env var is empty. Set it to one or more RSS URLs separated by commas.")
         return 1
 
     rss_feeds = [f.strip() for f in rss_feeds_env.split(",") if f.strip()]
     if not rss_feeds:
-        print("[ERROR] No valid RSS URLs found in RSS_FEEDS.", file=sys.stderr)
+        log_warn("[ERROR] No valid RSS URLs found in RSS_FEEDS.")
         return 1
 
     seen_file = os.getenv("SEEN_FILE", "seen_urls.txt")
     seen_map = load_seen_map(seen_file)
-    print(f"[INFO] Loaded {len(seen_map)} entries from {seen_file}")
+    log_info(f"[INFO] Loaded {len(seen_map)} entries from {seen_file}")
 
     new_matches: List[Dict[str, str]] = []
 
     for feed_url in rss_feeds:
         try:
-            print(f"[INFO] Fetching RSS feed: {feed_url}")
+            log_info(f"[INFO] Fetching RSS feed: {feed_url}")
             xml_bytes = fetch_rss(feed_url)
             items = parse_rss_items(xml_bytes, feed_url)
-            print(f"[INFO] Parsed {len(items)} items from {feed_url}")
+            log_info(f"[INFO] Parsed {len(items)} items from {feed_url}")
 
             for item in items:
                 raw_link = item.get("link", "")
@@ -432,14 +448,14 @@ def main() -> int:
 
                 # Fetch the job page (we always fetch, because content might have changed)
                 try:
-                    print(f"[INFO] Fetching job page: {link}")
+                    log_info(f"[INFO] Fetching job page: {link}")
                     html_bytes = fetch_url(link)
                     try:
                         html_text = html_bytes.decode("utf-8", errors="ignore")
                     except UnicodeDecodeError:
                         html_text = html_bytes.decode("latin-1", errors="ignore")
                 except urllib.error.URLError as e:
-                    print(f"[WARN] Failed to fetch {link}: {e}", file=sys.stderr)
+                    log_warn(f"[WARN] Failed to fetch {link}: {e}")
                     continue
 
                 current_hash = page_hash(html_text)
@@ -447,35 +463,35 @@ def main() -> int:
 
                 if previous_hash == current_hash:
                     # Same URL + same content as before: skip
-                    print(f"[SKIP] {title} -> {link} (same content hash as seen)")
+                    log_info(f"[SKIP] {title} -> {link} (same content hash as seen)")
                     continue
 
                 matched, reason = job_matches(html_text, title)
                 if matched:
-                    print(f"[MATCH] {title} -> {link} ({reason})")
+                    log_info(f"[MATCH] {title} -> {link} ({reason})")
                     # Update the item link to canonical for emails
                     item["link"] = link
                     new_matches.append(item)
                 else:
-                    print(f"[SKIP] {title} -> {link} ({reason})")
+                    log_info(f"[SKIP] {title} -> {link} ({reason})")
 
                 # Update stored hash for this URL regardless of match outcome
                 seen_map[link] = current_hash
 
         except Exception as e:
-            print(f"[WARN] Failed to process feed {feed_url}: {e}", file=sys.stderr)
+            log_warn(f"[WARN] Failed to process feed {feed_url}: {e}")
 
     # Save updated seen map
     save_seen_map(seen_file, seen_map)
-    print(f"[INFO] Saved {len(seen_map)} entries to {seen_file}")
+    log_info(f"[INFO] Saved {len(seen_map)} entries to {seen_file}")
 
     if not new_matches:
-        print("[INFO] No new matching jobs found this run.")
+        log_info("[INFO] No new matching jobs found this run.")
         return 0
 
     body = format_items_plain(new_matches)
-    print("[INFO] New matching jobs:")
-    print(body)
+    log_info("[INFO] New matching jobs:")
+    log_info(body)
 
     email_to = os.getenv("EMAIL_TO", "").strip()
     smtp_username = os.getenv("SMTP_USERNAME", "").strip()
@@ -502,11 +518,11 @@ def main() -> int:
                 subject=subject,
                 body=body,
             )
-            print(f"[INFO] Email sent to {email_to}")
+            log_info(f"[INFO] Email sent to {email_to}")
         except Exception as e:
-            print(f"[WARN] Failed to send email: {e}", file=sys.stderr)
+            log_warn(f"[WARN] Failed to send email: {e}")
     else:
-        print("[INFO] EMAIL_TO / SMTP_USERNAME / SMTP_PASSWORD not set, skipping email send.")
+        log_info("[INFO] EMAIL_TO / SMTP_USERNAME / SMTP_PASSWORD not set, skipping email send.")
 
     return 0
 
