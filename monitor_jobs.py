@@ -23,6 +23,22 @@ LOCATION_KEYWORDS = [
     "west yorkshire",
     "north yorkshire",
 
+    # Commutable North – Option C
+    "manchester",
+    "greater manchester",
+    "sheffield",
+    "south yorkshire",
+    "bradford",
+    "wakefield",
+    "huddersfield",
+    "halifax",
+    "harrogate",
+    "hull",
+    "kingston upon hull",
+    "newcastle",
+    "newcastle upon tyne",
+    "tyne and wear",
+
     # Remote patterns
     "remote",
     "remote uk",
@@ -203,38 +219,81 @@ def text_contains_none(text: str, keywords: List[str]) -> bool:
 
 def salary_meets_requirement(text: str) -> bool:
     """
-    Return True if salary is >= £60k or salary unspecified.
-    Reject roles clearly under £60k (e.g., 30k-45k, 45k, 50-55k).
-    We look for patterns like:
-      - 45k, £50k, 60k
-      - £45,000, £60,000
+    Return True if salary is clearly >= £60k (annual GBP) or salary unspecified.
+
+    Rules:
+    - If salary is expressed in USD or per day/month/hour/week -> we DON'T block:
+      treat as "unknown", so return True.
+    - Only enforce the 60k threshold when we see clear GBP annual patterns:
+      £60k, £60,000, GBP 60k, GBP 60,000.
     """
     t = text.lower()
 
-    # Match patterns like 45k, £60k
-    k_based = re.findall(r"£?\s?(\d{2,3})\s?k", t)
-    # Match patterns like 45,000 / £60,000
-    thousand_based = re.findall(r"£?\s?(\d{2,3})\s?,\s?000", t)
-
-    nums = []
-
-    for s in k_based:
-        try:
-            nums.append(int(s))
-        except ValueError:
-            continue
-
-    for s in thousand_based:
-        try:
-            nums.append(int(s))
-        except ValueError:
-            continue
-
-    if not nums:
-        # If no salary is listed, keep the role (can't rule it out).
+    # If it's clearly non-GBP currency (USD / $), don't block based on salary.
+    if "$" in t or " usd" in t:
         return True
 
-    max_k = max(nums)
+    # If it mentions day / hour / week / month rates, assume contract or non-annual -> don't block.
+    if any(
+        kw in t
+        for kw in [
+            "per day",
+            "per-day",
+            "/day",
+            "day rate",
+            "daily rate",
+            "per hour",
+            "per-hour",
+            "/hour",
+            "hourly",
+            "per month",
+            "per-month",
+            "/month",
+            "monthly",
+            "per week",
+            "per-week",
+            "/week",
+            "weekly",
+        ]
+    ):
+        return True
+
+    # Look for GBP annual-style salaries only
+    nums: List[int] = []
+
+    # £60k, £65 k etc.
+    nums += [
+        int(s)
+        for s in re.findall(r"£\s*(\d{2,3})\s*k", t)
+        if s.isdigit()
+    ]
+
+    # £60,000 etc.
+    nums += [
+        int(s)
+        for s in re.findall(r"£\s*(\d{2,3})\s*,\s*000", t)
+        if s.isdigit()
+    ]
+
+    # GBP 60k, GBP 65k etc.
+    nums += [
+        int(s)
+        for s in re.findall(r"gbp\s*(\d{2,3})\s*k", t)
+        if s.isdigit()
+    ]
+
+    # GBP 60,000 etc.
+    nums += [
+        int(s)
+        for s in re.findall(r"gbp\s*(\d{2,3})\s*,\s*000", t)
+        if s.isdigit()
+    ]
+
+    if not nums:
+        # If no clearly annual GBP salary is listed, keep the role (can't rule it out).
+        return True
+
+    max_k = max(nums)  # interpret as 60 -> 60k, etc.
     return max_k >= 60
 
 
@@ -250,11 +309,11 @@ def job_matches(html: str, title: str) -> Tuple[bool, str]:
 
     # Salary filter: reject roles clearly under 60k
     if not salary_meets_requirement(combined):
-        return False, "salary below 60k (or band clearly < 60k)"
+        return False, "salary below 60k (or band clearly < 60k in GBP annual)"
 
     # Location
     if not text_contains_any(combined, LOCATION_KEYWORDS):
-        return False, "location missing (no Leeds/York/remote/hybrid keywords)"
+        return False, "location missing (no Leeds/York/commutable North/remote/hybrid keywords)"
 
     # Automation / SDET
     if not text_contains_any(combined, AUTOMATION_KEYWORDS):
