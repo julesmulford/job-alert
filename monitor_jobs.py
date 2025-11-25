@@ -360,9 +360,11 @@ def job_matches(html: str, title: str) -> Tuple[bool, str]:
     if not text_contains_any(combined, AUTOMATION_KEYWORDS):
         return False, "no strong automation/SDET keywords found"
 
-    # Exclude manual-only / analyst-heavy pages
+    # Exclude manual-only / analyst-heavy pages,
+    # BUT allow if they also clearly require automation/SDET skills.
     if not text_contains_none(combined, EXCLUDE_MANUAL):
-        return False, "looks manual/analyst-focused (manual tester / test analyst / QA analyst)"
+        if not text_contains_any(combined, AUTOMATION_KEYWORDS):
+            return False, "manual/analyst-heavy and no strong automation requirement"
 
     # Exclude junior / grad etc
     if not text_contains_none(combined, EXCLUDE_JUNIOR):
