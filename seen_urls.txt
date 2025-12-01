@@ -1,12 +1,13 @@
 https://uk.jobtome.com/job/environmental-test-engineer/f81909c2d0e48e3aba31c74440bc74d1|5639ca1f3f53e8bc
 https://uk.jobtome.com/job/integration-test-engineer/cd659bfa74569a61d683fa9bdac16eb7|5a1705949866e97a
-https://uk.linkedin.com/jobs/view/ai-assistant-user-tester-at-taskify-ai-4339868441|f332053ee87699e2
+https://uk.linkedin.com/jobs/view/ai-assistant-user-tester-at-taskify-ai-4339868441|28adc3bcd6683467
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-hackajob-4324082996|80da2bbf8cace59e
 https://uk.linkedin.com/jobs/view/frontend-quality-assurance-engineer-remote-at-taskify-ai-4338503541|a7a0e2af78dfdc6a
-https://uk.linkedin.com/jobs/view/manual-uat-tester-at-lumenalta-4340390240|fac0a1ea7a21e48d
-https://uk.linkedin.com/jobs/view/materials-test-engineer-at-survitec-group-ltd-4339849541|4869dc2fba6411fd
+https://uk.linkedin.com/jobs/view/manual-uat-tester-at-lumenalta-4340390240|e2d30f5568205e79
+https://uk.linkedin.com/jobs/view/materials-test-engineer-at-survitec-group-ltd-4339849541|c07d021524f66213
 https://uk.linkedin.com/jobs/view/new-job-georgia-test-at-bath-north-east-somerset-council-4339834532|63bf12faadc62aaf
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-track24-4324689558|78a811ee20fccd92
+https://uk.linkedin.com/jobs/view/qa-automation-engineer-on-site-at-insight-international-uk-ltd-4325026085|aeef06dec6fc35ed
 https://uk.linkedin.com/jobs/view/qa-engineer-manual-mid-level-12-month-ftc-at-informa-4339482495|9009e4ac4ad456c6
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4338654888|39955294fa06f4f9
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4339450297|0f2676ee91a465a0
@@ -14,7 +15,9 @@ https://uk.linkedin.com/jobs/view/quality-engineer-remote-at-taskify-ai-43398380
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-n-able-4347590980|be238205d7350d0c
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-tp-icap-4347492608|d8dcfb2c130aae89
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-tp-icap-4347391110|a5dbd38f52188bb6
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-1spatial-4340312479|97131dcf929927aa
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-tst-group-4339364094|77e2528712aef090
+https://uk.linkedin.com/jobs/view/test-automation-engineer-at-health-project-4340703016|55848427993f4bee
 https://uk.linkedin.com/jobs/view/test-data-specialist-remote-at-taskify-ai-4338525459|c0d854d4514e033f
 https://uk.linkedin.com/jobs/view/test-engineer-at-ixceed-solutions-4339126718|98069541245c25bb
 https://uk.linkedin.com/jobs/view/testing-analyst-remote-at-taskify-ai-4339868277|d8a7537dd47dacbb
