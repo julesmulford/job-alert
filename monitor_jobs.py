@@ -348,12 +348,16 @@ def job_matches(html: str, title: str) -> Tuple[bool, str]:
     """
     combined = f"{title}\n{html}".lower()
 
+    # 🔎 Location: only consider the title + first 4000 chars to avoid
+    # "other jobs you may like" further down the page skewing the result.
+    location_window = combined[:4000]
+
     # Salary filter: reject roles clearly under 60k
     if not salary_meets_requirement(combined):
         return False, "salary below 60k (or band clearly < 60k in GBP annual)"
 
     # Location
-    if not text_contains_any(combined, LOCATION_KEYWORDS):
+    if not text_contains_any(location_window, LOCATION_KEYWORDS):
         return False, "location missing (no Leeds/York/commutable North/remote/hybrid keywords)"
 
     # Automation / SDET
