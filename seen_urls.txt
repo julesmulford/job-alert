@@ -1,4 +1,4 @@
-https://gb.bebee.com/job/8281f5875ad02f4d2723588bb570cee2|112377d2daac4d4a
+https://gb.bebee.com/job/8281f5875ad02f4d2723588bb570cee2|61db20c7d4b7c5e7
 https://gb.bebee.com/job/d98a15a8aa30ee251350899c5c138684|9136b73e45608470
 https://uk.jobtome.com/job/environmental-test-engineer/f81909c2d0e48e3aba31c74440bc74d1|5639ca1f3f53e8bc
 https://uk.jobtome.com/job/integration-test-engineer/cd659bfa74569a61d683fa9bdac16eb7|5a1705949866e97a
@@ -17,7 +17,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-manual-mid-level-12-month-ftc-at-i
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4338654888|39955294fa06f4f9
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4339450297|0f2676ee91a465a0
 https://uk.linkedin.com/jobs/view/quality-engineer-remote-at-taskify-ai-4339838044|68c9e9b88a7f9aa6
-https://uk.linkedin.com/jobs/view/sdet-at-xcede-4325820951|77b67bbd431aca47
+https://uk.linkedin.com/jobs/view/sdet-at-xcede-4325820951|c526579bb5868078
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-n-able-4347590980|be238205d7350d0c
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-tp-icap-4347492608|d8dcfb2c130aae89
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-tp-icap-4347391110|a5dbd38f52188bb6
@@ -25,7 +25,7 @@ https://uk.linkedin.com/jobs/view/senior-sdet-at-visa-4325523240|19fa7180632f86c
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-1spatial-4340312479|1c3ed75608427f8e
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-caraffi-4348271560|b77ba115d934c1e6
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-tst-group-4339364094|77e2528712aef090
-https://uk.linkedin.com/jobs/view/software-tester-at-culverdocs-4342181779|a8e00f841c00dfdb
+https://uk.linkedin.com/jobs/view/software-tester-at-culverdocs-4342181779|c5ffa7c8e31d9b4a
 https://uk.linkedin.com/jobs/view/software-tester-qa-at-robertson-sumner-4348480072|99f79aa851119221
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-health-project-4340703016|bfd4d5ddc8cd9317
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pentenamio-4337852477|0bc864521d202384
