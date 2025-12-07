@@ -2,7 +2,10 @@ https://gb.bebee.com/job/8281f5875ad02f4d2723588bb570cee2|cb38e20712b34601
 https://gb.bebee.com/job/c784c7b38485209a759b217b94f5247f|e586a1d22199146a
 https://gb.bebee.com/job/d98a15a8aa30ee251350899c5c138684|9136b73e45608470
 https://gb.bebee.com/job/ebb07f7589e02268879299b8016bac79|b21f99dba29cb333
-https://uk.jobrapido.com/jobpreview/5571628648798093312|76359474f58c3779
+https://uk.jobrapido.com/jobpreview/163139747860971520|41885f149607b8e3
+https://uk.jobrapido.com/jobpreview/5494903627900256256|723b67326a9a0f25
+https://uk.jobrapido.com/jobpreview/5571628648798093312|87332bfdfaafe5c1
+https://uk.jobrapido.com/jobpreview/6923649718962618368|49c6cf29c830b398
 https://uk.jobtome.com/job/environmental-test-engineer/f81909c2d0e48e3aba31c74440bc74d1|5639ca1f3f53e8bc
 https://uk.jobtome.com/job/integration-test-engineer/cd659bfa74569a61d683fa9bdac16eb7|5a1705949866e97a
 https://uk.jobtome.com/job/propulsion-test-engineer/bfda88798e6f5c204e053430e496f55f|e1d6ddb6e41ddf1e
