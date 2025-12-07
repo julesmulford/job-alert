@@ -1,7 +1,7 @@
 https://gb.bebee.com/job/8281f5875ad02f4d2723588bb570cee2|cb38e20712b34601
 https://gb.bebee.com/job/c784c7b38485209a759b217b94f5247f|e586a1d22199146a
 https://gb.bebee.com/job/d98a15a8aa30ee251350899c5c138684|9136b73e45608470
-https://gb.bebee.com/job/ebb07f7589e02268879299b8016bac79|5d0db28f05eeb5f7
+https://gb.bebee.com/job/ebb07f7589e02268879299b8016bac79|4f49f5b538f2f519
 https://uk.jobtome.com/job/environmental-test-engineer/f81909c2d0e48e3aba31c74440bc74d1|5639ca1f3f53e8bc
 https://uk.jobtome.com/job/integration-test-engineer/cd659bfa74569a61d683fa9bdac16eb7|5a1705949866e97a
 https://uk.jobtome.com/job/propulsion-test-engineer/bfda88798e6f5c204e053430e496f55f|e1d6ddb6e41ddf1e
@@ -20,7 +20,7 @@ https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-tek-tron-it-43412405
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-track24-4324689558|78a811ee20fccd92
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-on-site-at-insight-international-uk-ltd-4325026085|b354a5572290a238
 https://uk.linkedin.com/jobs/view/qa-engineer-manual-mid-level-12-month-ftc-at-informa-4339482495|9009e4ac4ad456c6
-https://uk.linkedin.com/jobs/view/qa-tester-at-zap-4326172679|af0cfa81aff557d1
+https://uk.linkedin.com/jobs/view/qa-tester-at-zap-4326172679|40d053615611cfd5
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4338654888|39955294fa06f4f9
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4339450297|0f2676ee91a465a0
 https://uk.linkedin.com/jobs/view/quality-automation-engineer-at-hackajob-4325935309|1734bdcf9abd85e8
@@ -48,9 +48,9 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-oho-group-ltd-4325583001|fc6f
 https://uk.linkedin.com/jobs/view/test-engineer-at-smart4-chemicals-4325720996|cd07f7351d1a5e91
 https://uk.linkedin.com/jobs/view/test-engineer-at-system-c-4325418648|38415537ff2c427d
 https://uk.linkedin.com/jobs/view/test-engineer-at-tact-4340346408|198d7eec60f85fa0
-https://uk.linkedin.com/jobs/view/tester-remote-at-talent-orbit-4342316289|d59dca7f7c564b77
+https://uk.linkedin.com/jobs/view/tester-remote-at-talent-orbit-4342316289|16d118cf8c8e4867
 https://uk.linkedin.com/jobs/view/testing-analyst-remote-at-taskify-ai-4339868277|d8a7537dd47dacbb
-https://uk.talent.com/view?id=3f6fbee33b26|557a5d88942dba70
+https://uk.talent.com/view?id=3f6fbee33b26|393679f6bf439804
 https://www.google.com/url?rct=j&sa=t&url=https://uk.indeed.com/q-software-tester-l-stoke-on-trent-jobs.html%3Fstart%3D10&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw19O_Nm2xkl35IJNoahYIzB|cccc9d5b4f048905
 https://www.google.com/url?rct=j&sa=t&url=https://uk.jooble.org/jdp/-5177900960689959283&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw2NYgRQ2ZsVYKQMEvbl7czI|b364d5754ff2f009
 https://www.google.com/url?rct=j&sa=t&url=https://uk.jooble.org/jdp/195197851374480301&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw3dyHICZoruTy21La4b2Umg|8fd04a30a8505006
