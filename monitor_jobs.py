@@ -9,7 +9,7 @@ import xml.etree.ElementTree as ET
 import smtplib
 from email.message import EmailMessage
 from datetime import datetime
-from typing import List, Dict, Tuple
+from typing import List, Dict, Tuple, Set
 from urllib.parse import urlparse, parse_qs, unquote
 
 
@@ -189,6 +189,29 @@ def save_seen_map(path: str, data: Dict[str, str]) -> None:
     with open(path, "w", encoding="utf-8") as f:
         for url, h in sorted(data.items(), key=lambda kv: kv[0]):
             f.write(f"{url}|{h}\n")
+
+
+# --------- EMAILED URL HANDLING ---------
+def load_emailed_set(path: str) -> Set[str]:
+    """
+    Load URLs that have already been emailed.
+    One URL per line.
+    """
+    emailed: Set[str] = set()
+    if not os.path.exists(path):
+        return emailed
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if line:
+                emailed.add(line)
+    return emailed
+
+
+def save_emailed_set(path: str, urls: Set[str]) -> None:
+    with open(path, "w", encoding="utf-8") as f:
+        for url in sorted(urls):
+            f.write(url + "\n")
 
 
 # --------- BASIC UTILITIES ---------
@@ -432,8 +455,13 @@ def main() -> int:
         return 1
 
     seen_file = os.getenv("SEEN_FILE", "seen_urls.txt")
+    emailed_file = os.getenv("EMAILED_FILE", "emailed_urls.txt")
+
     seen_map = load_seen_map(seen_file)
+    emailed_set = load_emailed_set(emailed_file)
+
     log_info(f"[INFO] Loaded {len(seen_map)} entries from {seen_file}")
+    log_info(f"[INFO] Loaded {len(emailed_set)} emailed URLs from {emailed_file}")
 
     new_matches: List[Dict[str, str]] = []
 
@@ -474,10 +502,14 @@ def main() -> int:
 
                 matched, reason = job_matches(html_text, title)
                 if matched:
-                    log_info(f"[MATCH] {title} -> {link} ({reason})")
-                    # Update the item link to canonical for emails
-                    item["link"] = link
-                    new_matches.append(item)
+                    if link in emailed_set:
+                        log_info(f"[SKIP] {title} -> {link} (already emailed previously)")
+                    else:
+                        log_info(f"[MATCH] {title} -> {link} ({reason})")
+                        # Update the item link to canonical for emails
+                        item["link"] = link
+                        new_matches.append(item)
+                        emailed_set.add(link)
                 else:
                     log_info(f"[SKIP] {title} -> {link} ({reason})")
 
@@ -487,9 +519,12 @@ def main() -> int:
         except Exception as e:
             log_warn(f"[WARN] Failed to process feed {feed_url}: {e}")
 
-    # Save updated seen map
+    # Save updated seen map and emailed set
     save_seen_map(seen_file, seen_map)
+    save_emailed_set(emailed_file, emailed_set)
+
     log_info(f"[INFO] Saved {len(seen_map)} entries to {seen_file}")
+    log_info(f"[INFO] Saved {len(emailed_set)} emailed URLs to {emailed_file}")
 
     if not new_matches:
         log_info("[INFO] No new matching jobs found this run.")
