@@ -31,6 +31,7 @@ jobs:
           RSS_FEEDS: "https://www.google.co.uk/alerts/feeds/12220827806768459862/13953957820836228291"
 
           SEEN_FILE: "seen_urls.txt"
+          EMAILED_FILE: "emailed_urls.txt"
 
           EMAIL_TO: "${{ secrets.EMAIL_TO }}"
           EMAIL_FROM: "${{ secrets.EMAIL_FROM }}"
@@ -41,14 +42,23 @@ jobs:
         run: |
           python monitor_jobs.py
 
-      - name: Commit updated seen URLs
+      - name: Commit updated tracking files
         run: |
-          if git status --porcelain | grep -q "seen_urls.txt"; then
-            echo "Changes detected in seen_urls.txt, committing..."
+          # Check if seen_urls.txt or emailed_urls.txt has changed
+          if git status --porcelain | grep -E "seen_urls\.txt|emailed_urls\.txt" >/dev/null; then
+            echo "Changes detected in tracking files, committing..."
             git config user.name "sdet-job-watcher-bot"
             git config user.email "sdet-job-watcher-bot@example.com"
-            git add seen_urls.txt
-            git commit -m "Update seen job URLs"
+
+            # Add tracking files if they exist
+            if [ -f seen_urls.txt ]; then
+              git add seen_urls.txt
+            fi
+            if [ -f emailed_urls.txt ]; then
+              git add emailed_urls.txt
+            fi
+
+            git commit -m "Update seen/emailed job URLs"
             git push
           else
             echo "No changes to commit."
