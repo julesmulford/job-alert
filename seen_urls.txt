@@ -7,6 +7,7 @@ https://gb.bebee.com/job/eef67ab7c098e677a138f416f7c1bacd|d31d93925373d447
 https://jobs.theguardian.com/job/9974624/automation-engineer-eica-buk-service-dept/|077135f818a9f9f9
 https://uk.jobrapido.com/jobpreview/163139747860971520|07dfaa3180ad35a7
 https://uk.jobrapido.com/jobpreview/3080041841769316352|248313265f503d1b
+https://uk.jobrapido.com/jobpreview/4362273885261922304|687aafee78926534
 https://uk.jobrapido.com/jobpreview/5090107427018244096|39343a7c1ff9b926
 https://uk.jobrapido.com/jobpreview/5181785806053834752|481699b72e032900
 https://uk.jobrapido.com/jobpreview/5494903627900256256|48e116a537c517f7
@@ -55,6 +56,7 @@ https://uk.linkedin.com/jobs/view/senior-quality-test-engineer-at-yolk-recruitme
 https://uk.linkedin.com/jobs/view/senior-sdet-at-visa-4325523240|19fa7180632f86c5
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-synergize-consulting-4348876811|e4f77cf02e1ac09e
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-premier-group-4342574183|9fc6f65253428ec6
+https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-xperi-inc-4326506723|2745901db43560f3
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-1spatial-4340312479|1c3ed75608427f8e
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-caraffi-4348271560|b77ba115d934c1e6
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-free-work-uk-4342510829|620dfa58431adae2
