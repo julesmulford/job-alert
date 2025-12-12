@@ -6,7 +6,7 @@ https://gb.bebee.com/job/ebb07f7589e02268879299b8016bac79|b21f99dba29cb333
 https://gb.bebee.com/job/eef67ab7c098e677a138f416f7c1bacd|d31d93925373d447
 https://jobs.theguardian.com/job/9974624/automation-engineer-eica-buk-service-dept/|077135f818a9f9f9
 https://uk.jobrapido.com/jobpreview/163139747860971520|07dfaa3180ad35a7
-https://uk.jobrapido.com/jobpreview/2706984993938210816|85e41d2d92e5c2c2
+https://uk.jobrapido.com/jobpreview/2706984993938210816|ee11146083f83c4e
 https://uk.jobrapido.com/jobpreview/3080041841769316352|248313265f503d1b
 https://uk.jobrapido.com/jobpreview/4362273885261922304|687aafee78926534
 https://uk.jobrapido.com/jobpreview/5090107427018244096|39343a7c1ff9b926
@@ -29,7 +29,7 @@ https://uk.linkedin.com/jobs/view/affiliate-software-engineer-in-test-at-and-dig
 https://uk.linkedin.com/jobs/view/ai-assistant-user-tester-at-taskify-ai-4339868441|88204efb30fd0b5c
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-hackajob-4324082996|80da2bbf8cace59e
 https://uk.linkedin.com/jobs/view/automation-engineer-at-census-ex-forces-recruitment-ltd-4348864043|bac3d74efe35182f
-https://uk.linkedin.com/jobs/view/automation-engineer-at-darktrace-4343433811|81ed946e7292d36d
+https://uk.linkedin.com/jobs/view/automation-engineer-at-darktrace-4343433811|7595f171dad44dcf
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-natobotics-4325826061|71c11201427e433c
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-txp-4341770738|67276035208b1db5
 https://uk.linkedin.com/jobs/view/automation-test-engineer-dv-at-npaworldwide-4325008520|ec485d93d5dd6a02
@@ -67,7 +67,7 @@ https://uk.linkedin.com/jobs/view/senior-test-analyst-at-premier-group-434257418
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-xperi-inc-4326506723|2745901db43560f3
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-1spatial-4340312479|1c3ed75608427f8e
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-caraffi-4348271560|b77ba115d934c1e6
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-diversejobsmatter-4343531379|fdb341af865bb94b
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-diversejobsmatter-4343531379|337c8a239028e637
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-free-work-uk-4342510829|620dfa58431adae2
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-lrqa-4342733252|7de82e1f7d276383
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-sepura-4342671512|802c4a8e196a88f1
