@@ -15,7 +15,8 @@ https://uk.jobrapido.com/jobpreview/5494903627900256256|48e116a537c517f7
 https://uk.jobrapido.com/jobpreview/5571628648798093312|e40de68890517d2f
 https://uk.jobrapido.com/jobpreview/6608405716505985024|eebb854a03856518
 https://uk.jobrapido.com/jobpreview/6923649718962618368|da84d4a0bee82ebd
-https://uk.jobrapido.com/jobpreview/8167477496334254080|3f8da176dd4abe7d
+https://uk.jobrapido.com/jobpreview/7502031068971663360|87475201a0c56cd7
+https://uk.jobrapido.com/jobpreview/8167477496334254080|eb0d83c5ec3f7d7e
 https://uk.jobrapido.com/jobpreview/8419337376458866688|2d9c402e048dcef8
 https://uk.jobrapido.com/jobpreview/8638691896115331072|d3a70761f4e7a09d
 https://uk.jobrapido.com/jobpreview/9193484821878276096|e820d75a22f26709
@@ -32,7 +33,7 @@ https://uk.linkedin.com/jobs/view/ai-assistant-user-tester-at-taskify-ai-4339868
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-hackajob-4324082996|80da2bbf8cace59e
 https://uk.linkedin.com/jobs/view/automation-engineer-at-census-ex-forces-recruitment-ltd-4348864043|bac3d74efe35182f
 https://uk.linkedin.com/jobs/view/automation-engineer-at-darktrace-4343433811|a6b597fa89c4339f
-https://uk.linkedin.com/jobs/view/automation-engineer-at-self-employed-4343378556|c0aec33aecb6fbd5
+https://uk.linkedin.com/jobs/view/automation-engineer-at-self-employed-4343378556|a10e1850a06e6946
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-natobotics-4325826061|71c11201427e433c
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-txp-4341770738|67276035208b1db5
 https://uk.linkedin.com/jobs/view/automation-test-engineer-dv-at-npaworldwide-4325008520|ec485d93d5dd6a02
@@ -99,7 +100,7 @@ https://uk.talent.com/view?id=3df1217e59d6|61db31cdf0f0565c
 https://uk.talent.com/view?id=3f6fbee33b26|5b4a5db273a3d67e
 https://uk.talent.com/view?id=6c90ee7608fc|e8d485771142094b
 https://uk.talent.com/view?id=7c3d322ef722|49a7049d0926c825
-https://uk.talent.com/view?id=82868499554a|ff30487a4b6cf1ec
+https://uk.talent.com/view?id=82868499554a|c44b7efc75ea8491
 https://uk.talent.com/view?id=c64e4c1e9345|829dadec9b1aaaf2
 https://uk.talent.com/view?id=d33631af3982|d458962a3fe57049
 https://uk.talent.com/view?id=f2e2cd058946|a2a6e25b89f32206
