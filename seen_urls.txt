@@ -27,14 +27,14 @@ https://uk.jobrapido.com/jobpreview/8402608057934151680|5826d30723b1e031
 https://uk.jobrapido.com/jobpreview/8419337376458866688|2d9c402e048dcef8
 https://uk.jobrapido.com/jobpreview/8638691896115331072|d3a70761f4e7a09d
 https://uk.jobrapido.com/jobpreview/9193484821878276096|e820d75a22f26709
-https://uk.jobtome.com/job/devops-engineer/2612ad35fdbf73f7544721043e045ff9|9004f07e18e40468
+https://uk.jobtome.com/job/devops-engineer/2612ad35fdbf73f7544721043e045ff9|a88501153b84e2f5
 https://uk.jobtome.com/job/environmental-test-engineer/f81909c2d0e48e3aba31c74440bc74d1|5639ca1f3f53e8bc
 https://uk.jobtome.com/job/integration-test-engineer/cd659bfa74569a61d683fa9bdac16eb7|5a1705949866e97a
 https://uk.jobtome.com/job/mainframe-system-automation-engineer/8b2b6d1f12c4c40d197de3523b6868b8|b33405c357f2593a
 https://uk.jobtome.com/job/propulsion-test-engineer/bfda88798e6f5c204e053430e496f55f|e1d6ddb6e41ddf1e
 https://uk.jobtome.com/job/qa-engineer-with-banking-exp/071f0df705530704dddf8b4f27a07d86|5467d8c496e34acd
 https://uk.jobtome.com/job/rf-test-engineer/cdb1a9916708ea1ee127d92c1a059c2c|4d39e190e9d7478a
-https://uk.jobtome.com/job/senior-test-engineer/7617fb5b75b2aaa596fdd0829d0b1e07|720f0feef3bf79d1
+https://uk.jobtome.com/job/senior-test-engineer/7617fb5b75b2aaa596fdd0829d0b1e07|8c1b11ab49f42f1c
 https://uk.jobtome.com/job/software-tester-remote/59c4fd629d579b89d74ce4eaa73cb864|48ca661c91a3d262
 https://uk.linkedin.com/jobs/view/aem-qa-automation-engineer-at-red-global-4348843342|25c2ad62c4905622
 https://uk.linkedin.com/jobs/view/affiliate-software-engineer-in-test-at-and-digital-4342781054|52249c509c6b31e4
@@ -68,7 +68,7 @@ https://uk.linkedin.com/jobs/view/qa-tester-at-zap-4326172679|35823f445514ecca
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4338654888|39955294fa06f4f9
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4339450297|0f2676ee91a465a0
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-recenso-services-4343518438|b52ad03fe9ca74d3
-https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-skillspree-4349846037|caeae197a5a9f7e7
+https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-skillspree-4349846037|6059d533c654b364
 https://uk.linkedin.com/jobs/view/quality-automation-engineer-at-hackajob-4325935309|1734bdcf9abd85e8
 https://uk.linkedin.com/jobs/view/quality-engineer-remote-at-taskify-ai-4339838044|68c9e9b88a7f9aa6
 https://uk.linkedin.com/jobs/view/sdet-at-xcede-4325820951|5d46d56bc466b04d
@@ -114,7 +114,7 @@ https://uk.linkedin.com/jobs/view/testing-consultant-remote-at-talent-pulse-4342
 https://uk.linkedin.com/jobs/view/testing-specialist-remote-at-hire-wave-4342690970|f531e5354d615a47
 https://uk.talent.com/view?id=018d5bf0a687|4bce2344565e5ac2
 https://uk.talent.com/view?id=16f7f703543d|28a1956ea8466ed5
-https://uk.talent.com/view?id=2c40fcd91589|f6504ad8e6c21173
+https://uk.talent.com/view?id=2c40fcd91589|57e4ffd7ddb8b665
 https://uk.talent.com/view?id=3df1217e59d6|61db31cdf0f0565c
 https://uk.talent.com/view?id=3f6fbee33b26|5b4a5db273a3d67e
 https://uk.talent.com/view?id=6c90ee7608fc|e8d485771142094b
