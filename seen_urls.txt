@@ -43,6 +43,7 @@ https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-hackajob-4324082996|
 https://uk.linkedin.com/jobs/view/automation-engineer-at-census-ex-forces-recruitment-ltd-4348864043|bac3d74efe35182f
 https://uk.linkedin.com/jobs/view/automation-engineer-at-darktrace-4343433811|a6b597fa89c4339f
 https://uk.linkedin.com/jobs/view/automation-engineer-at-self-employed-4343378556|4e47adf5a3a804db
+https://uk.linkedin.com/jobs/view/automation-engineer-fea-at-capgemini-engineering-4327805525|81515acb516bc0e2
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-natobotics-4325826061|71c11201427e433c
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-txp-4341770738|67276035208b1db5
 https://uk.linkedin.com/jobs/view/automation-test-engineer-dv-at-npaworldwide-4325008520|ec485d93d5dd6a02
@@ -60,7 +61,7 @@ https://uk.linkedin.com/jobs/view/materials-test-engineer-at-survitec-group-ltd-
 https://uk.linkedin.com/jobs/view/microservices-test-engineer-at-inoverse-groupe-4342509830|9b57414df6d0e4a8
 https://uk.linkedin.com/jobs/view/mobile-qa-engineer-at-leo-club-maastricht-4343199676|fc2cf7916d082ecf
 https://uk.linkedin.com/jobs/view/new-job-georgia-test-at-bath-north-east-somerset-council-4339834532|63bf12faadc62aaf
-https://uk.linkedin.com/jobs/view/performance-test-engineer-at-coforge-4327626051|c0f59ea27d5545e1
+https://uk.linkedin.com/jobs/view/performance-test-engineer-at-coforge-4327626051|646ad838432143d4
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-tek-tron-it-4341240584|8c85bdd9a6cf1ef6
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-track24-4324689558|78a811ee20fccd92
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-on-site-at-insight-international-uk-ltd-4325026085|b354a5572290a238
@@ -69,7 +70,7 @@ https://uk.linkedin.com/jobs/view/qa-tester-at-zap-4326172679|35823f445514ecca
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4338654888|39955294fa06f4f9
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4339450297|0f2676ee91a465a0
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-recenso-services-4343518438|b52ad03fe9ca74d3
-https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tria-4350252385|b8d0fe11f7414847
+https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tria-4350252385|7524309888b21991
 https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-skillspree-4349846037|6059d533c654b364
 https://uk.linkedin.com/jobs/view/quality-automation-engineer-at-hackajob-4325935309|1734bdcf9abd85e8
 https://uk.linkedin.com/jobs/view/quality-engineer-remote-at-taskify-ai-4339838044|68c9e9b88a7f9aa6
