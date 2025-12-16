@@ -42,7 +42,7 @@ https://uk.linkedin.com/jobs/view/ai-assistant-user-tester-at-taskify-ai-4339868
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-hackajob-4324082996|80da2bbf8cace59e
 https://uk.linkedin.com/jobs/view/automation-engineer-at-census-ex-forces-recruitment-ltd-4348864043|bac3d74efe35182f
 https://uk.linkedin.com/jobs/view/automation-engineer-at-darktrace-4343433811|a6b597fa89c4339f
-https://uk.linkedin.com/jobs/view/automation-engineer-at-john-goddard-associates-4343609737|fcc46feec0abb19e
+https://uk.linkedin.com/jobs/view/automation-engineer-at-john-goddard-associates-4343609737|d7adb9b32e192b14
 https://uk.linkedin.com/jobs/view/automation-engineer-at-self-employed-4343378556|4e47adf5a3a804db
 https://uk.linkedin.com/jobs/view/automation-engineer-fea-at-capgemini-engineering-4327805525|81515acb516bc0e2
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-natobotics-4325826061|71c11201427e433c
@@ -56,7 +56,7 @@ https://uk.linkedin.com/jobs/view/frontend-quality-assurance-engineer-remote-at-
 https://uk.linkedin.com/jobs/view/graduate-automation-engineer-at-hitachi-energy-4327207297|92ee46761ae15f6b
 https://uk.linkedin.com/jobs/view/lead-ai-automation-architect-at-partnerize-4343710286|36f138131f220ad0
 https://uk.linkedin.com/jobs/view/lead-test-engineer-at-dwp-digital-4343452622|51516104c77510d8
-https://uk.linkedin.com/jobs/view/lead-test-engineer-microservices-at-io-associates-4327796235|80edb0d453752933
+https://uk.linkedin.com/jobs/view/lead-test-engineer-microservices-at-io-associates-4327796235|6e288aa0a7dbb677
 https://uk.linkedin.com/jobs/view/manual-uat-tester-at-lumenalta-4340390240|58c3a7aebd070700
 https://uk.linkedin.com/jobs/view/material-testing-engineer-soft-trim-materials-at-q1-technologies-inc-4348911405|cb3fe222a3e4901d
 https://uk.linkedin.com/jobs/view/materials-test-engineer-at-survitec-group-ltd-4339849541|2c6bcc5397f412dc
@@ -125,7 +125,7 @@ https://uk.talent.com/view?id=3f6fbee33b26|5b4a5db273a3d67e
 https://uk.talent.com/view?id=6c90ee7608fc|e8d485771142094b
 https://uk.talent.com/view?id=7c3d322ef722|49a7049d0926c825
 https://uk.talent.com/view?id=82868499554a|c44b7efc75ea8491
-https://uk.talent.com/view?id=c3fb5d06e338|e12d3acf581ca409
+https://uk.talent.com/view?id=c3fb5d06e338|c9dc02b7abc14115
 https://uk.talent.com/view?id=c64e4c1e9345|829dadec9b1aaaf2
 https://uk.talent.com/view?id=d33631af3982|d458962a3fe57049
 https://uk.talent.com/view?id=deee8e534888|90d6b6cf812f11a6
