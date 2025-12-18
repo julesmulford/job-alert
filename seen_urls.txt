@@ -106,7 +106,7 @@ https://uk.linkedin.com/jobs/view/software-tester-at-fdm-group-4348622615|63521e
 https://uk.linkedin.com/jobs/view/software-tester-qa-at-robertson-sumner-4348480072|99f79aa851119221
 https://uk.linkedin.com/jobs/view/systems-test-engineer-at-sava-4344281499|d0a9e8df05b68da5
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-health-project-4340703016|bfd4d5ddc8cd9317
-https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pelion-4344514030|d5087ad420afab14
+https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pelion-4344514030|81e8ada59b885863
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pentenamio-4337852477|0bc864521d202384
 https://uk.linkedin.com/jobs/view/test-data-specialist-remote-at-taskify-ai-4338525459|c0d854d4514e033f
 https://uk.linkedin.com/jobs/view/test-engineer-at-anson-mccade-4325377562|2b7a96d89b872bbb
@@ -114,7 +114,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-cure-talent-4342032416|8883a3
 https://uk.linkedin.com/jobs/view/test-engineer-at-ixceed-solutions-4339126718|98069541245c25bb
 https://uk.linkedin.com/jobs/view/test-engineer-at-oho-group-ltd-4325583001|fc6f061b72f0f66f
 https://uk.linkedin.com/jobs/view/test-engineer-at-smart4-chemicals-4325720996|cd07f7351d1a5e91
-https://uk.linkedin.com/jobs/view/test-engineer-at-sunamp-4344711208|26ff5306973dcca8
+https://uk.linkedin.com/jobs/view/test-engineer-at-sunamp-4344711208|989f40d6dee63af6
 https://uk.linkedin.com/jobs/view/test-engineer-at-system-c-4325418648|38415537ff2c427d
 https://uk.linkedin.com/jobs/view/test-engineer-at-tact-4340346408|198d7eec60f85fa0
 https://uk.linkedin.com/jobs/view/test-engineer-iot-audio-video-networks-at-mayflower-recruitment-ltd-4349703749|3c702b2fbfb7c4e6
@@ -164,6 +164,6 @@ https://www.microtech-global.com/en/job_detail.asp?jobid=19003UMQ|045f1298b72e03
 https://www.prs.uk.com/job/production-test-engineer-essex-bh-68485|9bf9421c3b4f4ddf
 https://www.redglobal.com/jobs/job/aem-qa-automation-engineer/Y3D8MoPP|b0028ca629e8cbc2
 https://www.s1jobs.com/job/automation-test-engineer-finance-trading-126120952|45f55b58f969c9d9
-https://www.s1jobs.com/job/senior-ai-automation-engineer-test-lead-126146833|681a70a77beacd3e
+https://www.s1jobs.com/job/senior-ai-automation-engineer-test-lead-126146833|89a7580d30d60957
 https://www.s1jobs.com/job/senior-test-automation-engineer-healthcare-platform-126121086|15bce13f0f4c4c2e
 https://www.thechemicalengineer.com/news/uk-commits-75m-to-phasing-out-animal-testing/|f90c12a96dee0861
