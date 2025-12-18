@@ -106,7 +106,7 @@ https://uk.linkedin.com/jobs/view/software-tester-at-fdm-group-4348622615|63521e
 https://uk.linkedin.com/jobs/view/software-tester-qa-at-robertson-sumner-4348480072|99f79aa851119221
 https://uk.linkedin.com/jobs/view/systems-test-engineer-at-sava-4344281499|d0a9e8df05b68da5
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-health-project-4340703016|bfd4d5ddc8cd9317
-https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pelion-4344514030|7129d52b874997c5
+https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pelion-4344514030|bb5c9858c579423e
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pentenamio-4337852477|0bc864521d202384
 https://uk.linkedin.com/jobs/view/test-data-specialist-remote-at-taskify-ai-4338525459|c0d854d4514e033f
 https://uk.linkedin.com/jobs/view/test-engineer-at-anson-mccade-4325377562|2b7a96d89b872bbb
@@ -163,6 +163,6 @@ https://www.microtech-global.com/en/job_detail.asp?jobid=19003UMQ|045f1298b72e03
 https://www.prs.uk.com/job/production-test-engineer-essex-bh-68485|9bf9421c3b4f4ddf
 https://www.redglobal.com/jobs/job/aem-qa-automation-engineer/Y3D8MoPP|b0028ca629e8cbc2
 https://www.s1jobs.com/job/automation-test-engineer-finance-trading-126120952|45f55b58f969c9d9
-https://www.s1jobs.com/job/senior-ai-automation-engineer-test-lead-126146833|8c90bb72efc5e5d8
+https://www.s1jobs.com/job/senior-ai-automation-engineer-test-lead-126146833|f6baaebac5f49838
 https://www.s1jobs.com/job/senior-test-automation-engineer-healthcare-platform-126121086|15bce13f0f4c4c2e
 https://www.thechemicalengineer.com/news/uk-commits-75m-to-phasing-out-animal-testing/|f90c12a96dee0861
