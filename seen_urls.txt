@@ -100,7 +100,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-free-work-uk-434251082
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-lrqa-4342733252|7de82e1f7d276383
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-sepura-4342671512|802c4a8e196a88f1
 https://uk.linkedin.com/jobs/view/software-automation-engineer-at-owen-daniels-4348882795|4484d7689910b096
-https://uk.linkedin.com/jobs/view/software-test-engineer-at-explore-group-4350146205|890679468a9acb5f
+https://uk.linkedin.com/jobs/view/software-test-engineer-at-explore-group-4350146205|26f46ac70416b5c6
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-tst-group-4339364094|77e2528712aef090
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-vanrath-4343264665|3f309a83f0eccb19
 https://uk.linkedin.com/jobs/view/software-tester-at-culverdocs-4342181779|b35890caa39d6ecc
@@ -114,7 +114,7 @@ https://uk.linkedin.com/jobs/view/test-data-specialist-remote-at-taskify-ai-4338
 https://uk.linkedin.com/jobs/view/test-engineer-at-actuation-lab-4344746482|1723be821d3dbb37
 https://uk.linkedin.com/jobs/view/test-engineer-at-anson-mccade-4325377562|2b7a96d89b872bbb
 https://uk.linkedin.com/jobs/view/test-engineer-at-cure-talent-4342032416|8883a3cc8ee084e8
-https://uk.linkedin.com/jobs/view/test-engineer-at-forrit-4345411356|039b11d56d30a9d7
+https://uk.linkedin.com/jobs/view/test-engineer-at-forrit-4345411356|12b36bea29a7187c
 https://uk.linkedin.com/jobs/view/test-engineer-at-isr-recruitment-4344881979|4bd14c58dfb08bfa
 https://uk.linkedin.com/jobs/view/test-engineer-at-ixceed-solutions-4339126718|98069541245c25bb
 https://uk.linkedin.com/jobs/view/test-engineer-at-nhs-4344984973|43bdc87c9ebc6e28
@@ -136,6 +136,7 @@ https://uk.talent.com/view?id=3f6fbee33b26|5b4a5db273a3d67e
 https://uk.talent.com/view?id=6c90ee7608fc|e8d485771142094b
 https://uk.talent.com/view?id=77df8c1cacb8|1814655bb6263f18
 https://uk.talent.com/view?id=7c3d322ef722|49a7049d0926c825
+https://uk.talent.com/view?id=7e46fa1f85b1|a22fc9982223b3c2
 https://uk.talent.com/view?id=82868499554a|c44b7efc75ea8491
 https://uk.talent.com/view?id=8abd0fa4da3b|0f2ad67a3821357c
 https://uk.talent.com/view?id=c3fb5d06e338|bd52d13ebf40fd8c
