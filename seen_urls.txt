@@ -10,7 +10,7 @@ https://uk.jobrapido.com/jobpreview/163139747860971520|07dfaa3180ad35a7
 https://uk.jobrapido.com/jobpreview/2706984993938210816|19572d4fd2b3e919
 https://uk.jobrapido.com/jobpreview/3080041841769316352|248313265f503d1b
 https://uk.jobrapido.com/jobpreview/3797409158110642176|f0cb35e69812acf9
-https://uk.jobrapido.com/jobpreview/3833319345312759808|5f54fa6307231eee
+https://uk.jobrapido.com/jobpreview/3833319345312759808|05e7bb2fc3351544
 https://uk.jobrapido.com/jobpreview/4362273885261922304|687aafee78926534
 https://uk.jobrapido.com/jobpreview/4734674651068760064|7f845cf509691553
 https://uk.jobrapido.com/jobpreview/4867344747733188608|4267a89aee3a8526
@@ -48,7 +48,7 @@ https://uk.linkedin.com/jobs/view/automation-engineer-at-john-goddard-associates
 https://uk.linkedin.com/jobs/view/automation-engineer-at-logistex-4344865655|014497cf8106484b
 https://uk.linkedin.com/jobs/view/automation-engineer-at-self-employed-4343378556|4e47adf5a3a804db
 https://uk.linkedin.com/jobs/view/automation-engineer-fea-at-capgemini-engineering-4327805525|81515acb516bc0e2
-https://uk.linkedin.com/jobs/view/automation-qa-engineer-oracle-at-coinmarketcap-4345425426|7220a4a27511a276
+https://uk.linkedin.com/jobs/view/automation-qa-engineer-oracle-at-coinmarketcap-4345425426|258f5a9461873ea4
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-natobotics-4325826061|71c11201427e433c
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-txp-4341770738|67276035208b1db5
 https://uk.linkedin.com/jobs/view/automation-test-engineer-dv-at-npaworldwide-4325008520|ec485d93d5dd6a02
@@ -56,7 +56,7 @@ https://uk.linkedin.com/jobs/view/automation-test-engineer-sc-cleared-6-months-f
 https://uk.linkedin.com/jobs/view/automation-test-lead-it-contractor-at-free-work-uk-4342670153|b730e36d46d03f30
 https://uk.linkedin.com/jobs/view/automation-tester-at-associated-terminals-4343659682|36cd814d9d3880d7
 https://uk.linkedin.com/jobs/view/electrical-domestic-tester-at-rge-services-4343670607|c7baaa4a186528fd
-https://uk.linkedin.com/jobs/view/electronics-test-engineer-at-pickering-interfaces-4328181603|cf196fc696741d58
+https://uk.linkedin.com/jobs/view/electronics-test-engineer-at-pickering-interfaces-4328181603|61fd6c452b228ec9
 https://uk.linkedin.com/jobs/view/embedded-software-verification-and-validation-engineer-at-the-one-group-ltd-4349616712|7b1e5b398f85b5b6
 https://uk.linkedin.com/jobs/view/frontend-quality-assurance-engineer-remote-at-taskify-ai-4338503541|a7a0e2af78dfdc6a
 https://uk.linkedin.com/jobs/view/graduate-automation-engineer-at-hitachi-energy-4327207297|92ee46761ae15f6b
@@ -84,10 +84,10 @@ https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tria-4350252385|
 https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-skillspree-4349846037|6059d533c654b364
 https://uk.linkedin.com/jobs/view/quality-automation-engineer-at-hackajob-4325935309|1734bdcf9abd85e8
 https://uk.linkedin.com/jobs/view/quality-automation-engineer-london-at-accenture-uk-ireland-4345023360|2b93a6aa5bd17353
-https://uk.linkedin.com/jobs/view/quality-engineer-at-best-job-tool-4345600421|205f25f3ab24db95
+https://uk.linkedin.com/jobs/view/quality-engineer-at-best-job-tool-4345600421|fea92af7799236a1
 https://uk.linkedin.com/jobs/view/quality-engineer-remote-at-taskify-ai-4339838044|68c9e9b88a7f9aa6
-https://uk.linkedin.com/jobs/view/rf-systems-and-product-test-engineer-at-tiptopjob-4345504827|ec8baf5e711fa067
-https://uk.linkedin.com/jobs/view/rf-test-engineer-at-socode-recruitment-4328480492|dc048ab345a69209
+https://uk.linkedin.com/jobs/view/rf-systems-and-product-test-engineer-at-tiptopjob-4345504827|e68d63555030c91f
+https://uk.linkedin.com/jobs/view/rf-test-engineer-at-socode-recruitment-4328480492|d3f30f03c83f27e8
 https://uk.linkedin.com/jobs/view/sdet-at-xcede-4325820951|5d46d56bc466b04d
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-n-able-4347590980|be238205d7350d0c
 https://uk.linkedin.com/jobs/view/senior-automation-service-engineer-at-spx-flow-inc-4349524418|20157b13a0845e6c
@@ -104,7 +104,7 @@ https://uk.linkedin.com/jobs/view/senior-software-test-automation-engineer-at-sc
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-dotmatics-4327865434|6e78732589f49267
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-synergize-consulting-4348876811|e4f77cf02e1ac09e
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-premier-group-4342574183|9fc6f65253428ec6
-https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-hackajob-4328310922|765ac6a1ba4dc161
+https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-hackajob-4328310922|34aba915c158ee90
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-xperi-inc-4326506723|2745901db43560f3
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-1spatial-4340312479|1c3ed75608427f8e
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-caraffi-4348271560|b77ba115d934c1e6
@@ -121,7 +121,7 @@ https://uk.linkedin.com/jobs/view/software-tester-at-culverdocs-4342181779|b3589
 https://uk.linkedin.com/jobs/view/software-tester-at-fdm-group-4348622615|63521ed80df38291
 https://uk.linkedin.com/jobs/view/software-tester-qa-at-robertson-sumner-4348480072|99f79aa851119221
 https://uk.linkedin.com/jobs/view/systems-test-engineer-at-sava-4344281499|d0a9e8df05b68da5
-https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4328330834|4b8f0533b503d636
+https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4328330834|c2764fcb11c1bf6a
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-health-project-4340703016|bfd4d5ddc8cd9317
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pelion-4344514030|09a1ce95d7968027
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pentenamio-4337852477|0bc864521d202384
@@ -152,7 +152,7 @@ https://uk.talent.com/view?id=2c40fcd91589|57e4ffd7ddb8b665
 https://uk.talent.com/view?id=2e2f3bf4ac96|c65560553dfb6e89
 https://uk.talent.com/view?id=3df1217e59d6|61db31cdf0f0565c
 https://uk.talent.com/view?id=3f6fbee33b26|5b4a5db273a3d67e
-https://uk.talent.com/view?id=5820c9771091|3e247c3a2d231447
+https://uk.talent.com/view?id=5820c9771091|72c2b282e6384266
 https://uk.talent.com/view?id=6c90ee7608fc|e8d485771142094b
 https://uk.talent.com/view?id=6dc125ae4d8c|77504b9c4fe31f5b
 https://uk.talent.com/view?id=77df8c1cacb8|1814655bb6263f18
@@ -198,6 +198,6 @@ https://www.s1jobs.com/job/automation-engineer-126170329|f085a5302a564262
 https://www.s1jobs.com/job/automation-test-engineer-finance-trading-126120952|45f55b58f969c9d9
 https://www.s1jobs.com/job/lead-qa-tester-126180217|d5f42936139f8384
 https://www.s1jobs.com/job/senior-ai-automation-engineer-test-lead-126146833|1d5f7af693219f1f
-https://www.s1jobs.com/job/senior-medical-device-qa-engineer-regulatory-quality-126196837|4b842b1f69e628d6
+https://www.s1jobs.com/job/senior-medical-device-qa-engineer-regulatory-quality-126196837|0eb7b3d4c44749e0
 https://www.s1jobs.com/job/senior-test-automation-engineer-healthcare-platform-126121086|15bce13f0f4c4c2e
 https://www.thechemicalengineer.com/news/uk-commits-75m-to-phasing-out-animal-testing/|f90c12a96dee0861
