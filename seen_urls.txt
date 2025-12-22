@@ -90,7 +90,7 @@ https://uk.linkedin.com/jobs/view/quality-engineer-at-best-job-tool-4345600421|e
 https://uk.linkedin.com/jobs/view/quality-engineer-remote-at-taskify-ai-4339838044|68c9e9b88a7f9aa6
 https://uk.linkedin.com/jobs/view/rf-systems-and-product-test-engineer-at-tiptopjob-4345504827|0d1dbb4645522fee
 https://uk.linkedin.com/jobs/view/rf-test-engineer-at-socode-recruitment-4328480492|4b811867b8ac1c7e
-https://uk.linkedin.com/jobs/view/sap-test-lead-at-testq-technologies-4345646156|9db0319960f3955e
+https://uk.linkedin.com/jobs/view/sap-test-lead-at-testq-technologies-4345646156|7497d7acc0b3e172
 https://uk.linkedin.com/jobs/view/sdet-at-xcede-4325820951|5d46d56bc466b04d
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-n-able-4347590980|be238205d7350d0c
 https://uk.linkedin.com/jobs/view/senior-automation-service-engineer-at-spx-flow-inc-4349524418|20157b13a0845e6c
@@ -157,7 +157,7 @@ https://uk.talent.com/view?id=2e2f3bf4ac96|52e8f61c616ff463
 https://uk.talent.com/view?id=3df1217e59d6|61db31cdf0f0565c
 https://uk.talent.com/view?id=3f6fbee33b26|5b4a5db273a3d67e
 https://uk.talent.com/view?id=40c6026b452d|37113c27ede6beb5
-https://uk.talent.com/view?id=48845a6dd6fb|fc750ff8f59b8fc1
+https://uk.talent.com/view?id=48845a6dd6fb|a08f1831fae0cbb8
 https://uk.talent.com/view?id=4a3bfdfa2ade|58d28fc5aaa226bb
 https://uk.talent.com/view?id=50165283f930|6f953d701e8b1fe7
 https://uk.talent.com/view?id=5820c9771091|311d0ebb44741ca4
@@ -179,12 +179,13 @@ https://uk.talent.com/view?id=c64e4c1e9345|829dadec9b1aaaf2
 https://uk.talent.com/view?id=d0b2aba03c3e|da773a09c969a7d4
 https://uk.talent.com/view?id=d33631af3982|d458962a3fe57049
 https://uk.talent.com/view?id=d36c4263f4df|f1fd8955d42fecd5
-https://uk.talent.com/view?id=da9f014915ce|bfdbfa71f2785fcf
+https://uk.talent.com/view?id=da9f014915ce|6fc1927f4eeb91ea
 https://uk.talent.com/view?id=deee8e534888|90d6b6cf812f11a6
 https://uk.talent.com/view?id=e8b3a7f7e94e|26982ba44ccd21c8
-https://uk.talent.com/view?id=e924903e307e|91106f09e8ea8cff
+https://uk.talent.com/view?id=e924903e307e|f56d220ab2d92c05
 https://uk.talent.com/view?id=f2e2cd058946|a2a6e25b89f32206
 https://uk.talent.com/view?id=f40ce1db0c97|803b9a860910648d
+https://uk.talent.com/view?id=f69459eeac3d|e1fe17ba0be9500d
 https://uk.talent.com/view?id=ffb1c9fa61c8|7bee750ca43f0535
 https://www.google.com/url?rct=j&sa=t&url=https://uk.indeed.com/q-software-tester-l-stoke-on-trent-jobs.html%3Fstart%3D10&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw19O_Nm2xkl35IJNoahYIzB|cccc9d5b4f048905
 https://www.google.com/url?rct=j&sa=t&url=https://uk.jooble.org/jdp/-5177900960689959283&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw2NYgRQ2ZsVYKQMEvbl7czI|b364d5754ff2f009
