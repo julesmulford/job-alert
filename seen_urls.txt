@@ -66,7 +66,7 @@ https://uk.linkedin.com/jobs/view/jcf-test-at-johnston-carmichael-chartered-acco
 https://uk.linkedin.com/jobs/view/junior-qa-engineer-at-welland-medical-ltd-4345437790|04701112bba25875
 https://uk.linkedin.com/jobs/view/junior-test-automation-engineer-at-socode-recruitment-4328600467|0523e60a5fd7357d
 https://uk.linkedin.com/jobs/view/lead-ai-automation-architect-at-partnerize-4343710286|36f138131f220ad0
-https://uk.linkedin.com/jobs/view/lead-automation-test-architect-at-cipher-talent-4328871747|200d5664a831a2bf
+https://uk.linkedin.com/jobs/view/lead-automation-test-architect-at-cipher-talent-4328871747|020d13415ae41fda
 https://uk.linkedin.com/jobs/view/lead-test-engineer-at-dwp-digital-4343452622|51516104c77510d8
 https://uk.linkedin.com/jobs/view/lead-test-engineer-microservices-at-io-associates-4327796235|bb401a9bce1d2392
 https://uk.linkedin.com/jobs/view/manual-uat-tester-at-lumenalta-4340390240|58c3a7aebd070700
@@ -129,7 +129,7 @@ https://uk.linkedin.com/jobs/view/software-tester-at-culverdocs-4342181779|b3589
 https://uk.linkedin.com/jobs/view/software-tester-at-fdm-group-4348622615|63521ed80df38291
 https://uk.linkedin.com/jobs/view/software-tester-qa-at-robertson-sumner-4348480072|99f79aa851119221
 https://uk.linkedin.com/jobs/view/systems-test-engineer-at-sava-4344281499|d0a9e8df05b68da5
-https://uk.linkedin.com/jobs/view/test-and-authentication-engineer-at-navantia-uk-4328911069|b1bf163a78a87fff
+https://uk.linkedin.com/jobs/view/test-and-authentication-engineer-at-navantia-uk-4328911069|32a800a03e1d0f30
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4328330834|042d44c33833c196
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-health-project-4340703016|bfd4d5ddc8cd9317
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pelion-4344514030|09a1ce95d7968027
