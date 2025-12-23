@@ -160,6 +160,7 @@ https://uk.talent.com/en/view?id=88b9d54bbc0b&trigger_from=related_jobs|7f10f1dc
 https://uk.talent.com/en/view?id=a74f8d69f483&trigger_from=related_jobs|be826279d9aa6710
 https://uk.talent.com/en/view?id=f36b243e2c39&trigger_from=related_jobs|4926ae26a28e4346
 https://uk.talent.com/view?id=018d5bf0a687|4bce2344565e5ac2
+https://uk.talent.com/view?id=02f3070b5dc9|a6382ab831a3a543
 https://uk.talent.com/view?id=07ab1eb88c1b|eb56db77ee4f71eb
 https://uk.talent.com/view?id=16f7f703543d|28a1956ea8466ed5
 https://uk.talent.com/view?id=2c40fcd91589|57e4ffd7ddb8b665
