@@ -62,11 +62,12 @@ https://uk.linkedin.com/jobs/view/automation-tester-at-associated-terminals-4343
 https://uk.linkedin.com/jobs/view/automation-tester-at-hackajob-4328947455|d3e2794071644f04
 https://uk.linkedin.com/jobs/view/electrical-domestic-tester-at-rge-services-4343670607|c7baaa4a186528fd
 https://uk.linkedin.com/jobs/view/electronics-test-engineer-at-pickering-interfaces-4328181603|f1f1ea9f71b4ea74
+https://uk.linkedin.com/jobs/view/embedded-software-test-engineer-at-alten-4345849973|c8230f59334a3561
 https://uk.linkedin.com/jobs/view/embedded-software-verification-and-validation-engineer-at-the-one-group-ltd-4349616712|7b1e5b398f85b5b6
 https://uk.linkedin.com/jobs/view/flexcube-qa-testing-analyst-at-zenith-bank-uk-limited-4345657112|c75a91273ecc0692
 https://uk.linkedin.com/jobs/view/frontend-quality-assurance-engineer-remote-at-taskify-ai-4338503541|a7a0e2af78dfdc6a
 https://uk.linkedin.com/jobs/view/graduate-automation-engineer-at-hitachi-energy-4327207297|92ee46761ae15f6b
-https://uk.linkedin.com/jobs/view/graduate-qa-engineer-at-ovarro-4329290939|86812e6dc3055816
+https://uk.linkedin.com/jobs/view/graduate-qa-engineer-at-ovarro-4329290939|7e433a714152c145
 https://uk.linkedin.com/jobs/view/java-sdet-at-cognizant-4346115894|831da1900154ff7d
 https://uk.linkedin.com/jobs/view/jcf-test-at-johnston-carmichael-chartered-accountants-and-business-advisers-4328142874|ef4d79395c541bb8
 https://uk.linkedin.com/jobs/view/junior-qa-engineer-at-welland-medical-ltd-4345437790|04701112bba25875
@@ -106,7 +107,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-kainos-434564775
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-n-able-4347590980|be238205d7350d0c
 https://uk.linkedin.com/jobs/view/senior-automation-service-engineer-at-spx-flow-inc-4349524418|20157b13a0845e6c
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-netcompany-4344991895|3d4dbf0417845212
-https://uk.linkedin.com/jobs/view/senior-development-engineer-in-test-sdet-at-valstro-4345975778|1e9efc65f01e859b
+https://uk.linkedin.com/jobs/view/senior-development-engineer-in-test-sdet-at-valstro-4345975778|7427a7d49272bcd3
 https://uk.linkedin.com/jobs/view/senior-intelligent-automation-engineer-at-ciklum-4349455288|b9e216a3e121562a
 https://uk.linkedin.com/jobs/view/senior-mobile-automation-tester-at-w3global-4342763594|8e182b4bd9741edf
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-tp-icap-4347492608|d8dcfb2c130aae89
@@ -205,6 +206,7 @@ https://uk.talent.com/view?id=a87073ffa577|da767d3351ba155d
 https://uk.talent.com/view?id=ad60964087ad|9aaca0d68089bc8b
 https://uk.talent.com/view?id=c3fb5d06e338|bd52d13ebf40fd8c
 https://uk.talent.com/view?id=c64e4c1e9345|829dadec9b1aaaf2
+https://uk.talent.com/view?id=cae32fba98c4|b131d4f5386aa1e6
 https://uk.talent.com/view?id=d0b2aba03c3e|da773a09c969a7d4
 https://uk.talent.com/view?id=d33631af3982|d458962a3fe57049
 https://uk.talent.com/view?id=d36c4263f4df|f1fd8955d42fecd5
