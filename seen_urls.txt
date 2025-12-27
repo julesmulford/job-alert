@@ -67,7 +67,7 @@ https://uk.linkedin.com/jobs/view/automation-test-lead-it-contractor-at-free-wor
 https://uk.linkedin.com/jobs/view/automation-tester-at-associated-terminals-4343659682|36cd814d9d3880d7
 https://uk.linkedin.com/jobs/view/automation-tester-at-hackajob-4328947455|d3e2794071644f04
 https://uk.linkedin.com/jobs/view/automation-tester-government-at-stealth-it-consulting-4328978615|e187652c0ee5c47a
-https://uk.linkedin.com/jobs/view/content-tester-shipit-at-shipit-4346291657|f5421f7a1d6ea3ed
+https://uk.linkedin.com/jobs/view/content-tester-shipit-at-shipit-4346291657|df85d99fab14b8f0
 https://uk.linkedin.com/jobs/view/e2e-test-engineer-manual-at-g4s-4346195365|c690f0684efa81c4
 https://uk.linkedin.com/jobs/view/electrical-domestic-tester-at-rge-services-4343670607|c7baaa4a186528fd
 https://uk.linkedin.com/jobs/view/electronics-test-engineer-at-pickering-interfaces-4328181603|f1f1ea9f71b4ea74
@@ -131,7 +131,7 @@ https://uk.linkedin.com/jobs/view/senior-sdet-at-visa-4325523240|19fa7180632f86c
 https://uk.linkedin.com/jobs/view/senior-software-development-test-engineer-at-paysafe-4328929077|760efaaefc55491b
 https://uk.linkedin.com/jobs/view/senior-software-test-automation-engineer-at-scg-midlands-4327114543|077577d78963813c
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-dotmatics-4327865434|6e78732589f49267
-https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-hackajob-4329322584|9ea32ea63709ec79
+https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-hackajob-4329322584|b878dbd81dbb14be
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-synergize-consulting-4348876811|e4f77cf02e1ac09e
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-premier-group-4342574183|9fc6f65253428ec6
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-hackajob-4328310922|3e71ee73833045a8
@@ -145,6 +145,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-ncr-atleos-4328117500|
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-sepura-4342671512|802c4a8e196a88f1
 https://uk.linkedin.com/jobs/view/service-desk-automation-engineer-at-klipboard-4328657575|ae4412447abd9f4d
 https://uk.linkedin.com/jobs/view/software-automation-engineer-at-owen-daniels-4348882795|4484d7689910b096
+https://uk.linkedin.com/jobs/view/software-engineer-iii-sdet-at-hackajob-4329392484|b0e14918e561b011
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-michael-james-associates-4329040513|3934a53764eda1b8
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-explore-group-4350146205|90039330509a4368
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-tst-group-4339364094|77e2528712aef090
@@ -181,7 +182,7 @@ https://uk.linkedin.com/jobs/view/tester-remote-at-talent-orbit-4342316289|e228e
 https://uk.linkedin.com/jobs/view/testing-analyst-remote-at-taskify-ai-4339868277|d8a7537dd47dacbb
 https://uk.linkedin.com/jobs/view/testing-consultant-remote-at-talent-pulse-4342526153|5260f2d7cdd031de
 https://uk.linkedin.com/jobs/view/testing-specialist-remote-at-hire-wave-4342690970|f531e5354d615a47
-https://uk.linkedin.com/jobs/view/trainee-software-tester-at-taxpad-ltd-4346412018|bad2669558ab1fe6
+https://uk.linkedin.com/jobs/view/trainee-software-tester-at-taxpad-ltd-4346412018|067696a1184401fc
 https://uk.linkedin.com/jobs/view/validation-engineer-at-ic-resources-4345646712|16505730f1ae5d37
 https://uk.linkedin.com/jobs/view/verification-qa-engineer-at-socode-recruitment-4328879923|15b875cccb579ed9
 https://uk.talent.com/en/view?id=88b9d54bbc0b&trigger_from=related_jobs|7f10f1dc94d08f23
@@ -189,10 +190,10 @@ https://uk.talent.com/en/view?id=a74f8d69f483&trigger_from=related_jobs|be826279
 https://uk.talent.com/en/view?id=f36b243e2c39&trigger_from=related_jobs|4926ae26a28e4346
 https://uk.talent.com/view?id=018d5bf0a687|4bce2344565e5ac2
 https://uk.talent.com/view?id=02f3070b5dc9|eb92445f1b6fc11c
-https://uk.talent.com/view?id=066af145d43d|5135bb5bb00efd74
+https://uk.talent.com/view?id=066af145d43d|62f28669fd3eadd3
 https://uk.talent.com/view?id=07ab1eb88c1b|eb56db77ee4f71eb
 https://uk.talent.com/view?id=16f7f703543d|28a1956ea8466ed5
-https://uk.talent.com/view?id=17b64fc9bb37|9b1a9c3e742bb09c
+https://uk.talent.com/view?id=17b64fc9bb37|285dda756f8f7aff
 https://uk.talent.com/view?id=197346e14e15|059d612c7f2de7ad
 https://uk.talent.com/view?id=21c42a5e4e3e|423b8a7e347e3c12
 https://uk.talent.com/view?id=2c40fcd91589|57e4ffd7ddb8b665
@@ -208,10 +209,10 @@ https://uk.talent.com/view?id=50165283f930|6f953d701e8b1fe7
 https://uk.talent.com/view?id=5820c9771091|311d0ebb44741ca4
 https://uk.talent.com/view?id=5d5f71d41c35|f3c7f346cb4794bf
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
-https://uk.talent.com/view?id=689d2942a739|4f956dac6acf5093
+https://uk.talent.com/view?id=689d2942a739|f1dc5a8ec15f69e7
 https://uk.talent.com/view?id=6c90ee7608fc|e8d485771142094b
 https://uk.talent.com/view?id=6dc125ae4d8c|77504b9c4fe31f5b
-https://uk.talent.com/view?id=70974f3b55e8|7fcace27677a37b0
+https://uk.talent.com/view?id=70974f3b55e8|0594b158594c3977
 https://uk.talent.com/view?id=76e830be8f5e|514818a52aec3edd
 https://uk.talent.com/view?id=77df8c1cacb8|1814655bb6263f18
 https://uk.talent.com/view?id=79aef70f5b80|219c5dac95b8e29d
@@ -229,12 +230,13 @@ https://uk.talent.com/view?id=9a709a06af26|3d5e03b457ce6ed9
 https://uk.talent.com/view?id=9fc3b0d6fd0d|48c6faedc0337033
 https://uk.talent.com/view?id=a87073ffa577|da767d3351ba155d
 https://uk.talent.com/view?id=ad60964087ad|9aaca0d68089bc8b
-https://uk.talent.com/view?id=bae0bd05f87e|99c978d42a4db64a
+https://uk.talent.com/view?id=b06d48da8f49|9ded621e903a9972
+https://uk.talent.com/view?id=bae0bd05f87e|af425b53a653ee2f
 https://uk.talent.com/view?id=c2b03b8d7a57|954e5952ef5dd90a
 https://uk.talent.com/view?id=c3fb5d06e338|bd52d13ebf40fd8c
 https://uk.talent.com/view?id=c5a6ce19207d|f4ee64cf7b7afd30
 https://uk.talent.com/view?id=c64e4c1e9345|829dadec9b1aaaf2
-https://uk.talent.com/view?id=c71c0e012dad|ee7dadc4e4818bdd
+https://uk.talent.com/view?id=c71c0e012dad|18dbce1a4b82e99e
 https://uk.talent.com/view?id=c875d4831ea2|0b0fb40a041e33fc
 https://uk.talent.com/view?id=cae32fba98c4|5059d46681c543da
 https://uk.talent.com/view?id=d0b2aba03c3e|da773a09c969a7d4
@@ -248,7 +250,7 @@ https://uk.talent.com/view?id=e924903e307e|9cebda6e6ace4566
 https://uk.talent.com/view?id=f2e2cd058946|a2a6e25b89f32206
 https://uk.talent.com/view?id=f40ce1db0c97|803b9a860910648d
 https://uk.talent.com/view?id=f69459eeac3d|e1fe17ba0be9500d
-https://uk.talent.com/view?id=fbbba1849b0f|63700fc0ef895944
+https://uk.talent.com/view?id=fbbba1849b0f|8ae6033e45298a45
 https://uk.talent.com/view?id=ffb1c9fa61c8|7bee750ca43f0535
 https://www.google.com/url?rct=j&sa=t&url=https://uk.indeed.com/q-software-tester-l-stoke-on-trent-jobs.html%3Fstart%3D10&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw19O_Nm2xkl35IJNoahYIzB|cccc9d5b4f048905
 https://www.google.com/url?rct=j&sa=t&url=https://uk.jooble.org/jdp/-5177900960689959283&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw2NYgRQ2ZsVYKQMEvbl7czI|b364d5754ff2f009
