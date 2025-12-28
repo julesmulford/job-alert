@@ -24,7 +24,7 @@ https://uk.jobrapido.com/jobpreview/5212141492440662016|d51037a7890cb496
 https://uk.jobrapido.com/jobpreview/5494903627900256256|48e116a537c517f7
 https://uk.jobrapido.com/jobpreview/5571628648798093312|e40de68890517d2f
 https://uk.jobrapido.com/jobpreview/5636512848587784192|8c791474cada7d50
-https://uk.jobrapido.com/jobpreview/6128130885645500416|6dea93e4c2a04ca0
+https://uk.jobrapido.com/jobpreview/6128130885645500416|2f24479f6e383a45
 https://uk.jobrapido.com/jobpreview/6608405716505985024|eebb854a03856518
 https://uk.jobrapido.com/jobpreview/6923649718962618368|da84d4a0bee82ebd
 https://uk.jobrapido.com/jobpreview/704774869513928704|89a1cb4583590be7
@@ -120,7 +120,7 @@ https://uk.linkedin.com/jobs/view/sdet-at-xcede-4325820951|5d46d56bc466b04d
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-kainos-4345647757|d20f9b074a651b7c
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-n-able-4347590980|be238205d7350d0c
 https://uk.linkedin.com/jobs/view/senior-automation-service-engineer-at-spx-flow-inc-4349524418|20157b13a0845e6c
-https://uk.linkedin.com/jobs/view/senior-automation-software-development-test-engineer-at-spacelabs-healthcare-4346530829|9015784005504523
+https://uk.linkedin.com/jobs/view/senior-automation-software-development-test-engineer-at-spacelabs-healthcare-4346530829|b90e04da01b8b138
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-netcompany-4344991895|3d4dbf0417845212
 https://uk.linkedin.com/jobs/view/senior-development-engineer-in-test-sdet-at-valstro-4345975778|e30d68f51d0fe9a2
 https://uk.linkedin.com/jobs/view/senior-intelligent-automation-engineer-at-ciklum-4349455288|b9e216a3e121562a
@@ -148,7 +148,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-ncr-atleos-4328117500|
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-sepura-4342671512|802c4a8e196a88f1
 https://uk.linkedin.com/jobs/view/service-desk-automation-engineer-at-klipboard-4328657575|ae4412447abd9f4d
 https://uk.linkedin.com/jobs/view/software-automation-engineer-at-owen-daniels-4348882795|4484d7689910b096
-https://uk.linkedin.com/jobs/view/software-engineer-iii-sdet-at-hackajob-4329392484|aff76a40351bb54a
+https://uk.linkedin.com/jobs/view/software-engineer-iii-sdet-at-hackajob-4329392484|98d59f9faa3a1295
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-michael-james-associates-4329040513|3934a53764eda1b8
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-explore-group-4350146205|90039330509a4368
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-tst-group-4339364094|77e2528712aef090
@@ -188,7 +188,7 @@ https://uk.linkedin.com/jobs/view/testing-specialist-remote-at-hire-wave-4342690
 https://uk.linkedin.com/jobs/view/trainee-software-tester-at-taxpad-ltd-4346412018|1aacc02d1e77fa82
 https://uk.linkedin.com/jobs/view/validation-engineer-at-ic-resources-4345646712|16505730f1ae5d37
 https://uk.linkedin.com/jobs/view/verification-qa-engineer-at-socode-recruitment-4328879923|15b875cccb579ed9
-https://uk.linkedin.com/jobs/website-testing-jobs-london-area-united-kingdom|ffec4e247cf37800
+https://uk.linkedin.com/jobs/website-testing-jobs-london-area-united-kingdom|5567b348ba2cfc69
 https://uk.talent.com/en/view?id=88b9d54bbc0b&trigger_from=related_jobs|7f10f1dc94d08f23
 https://uk.talent.com/en/view?id=a74f8d69f483&trigger_from=related_jobs|be826279d9aa6710
 https://uk.talent.com/en/view?id=f36b243e2c39&trigger_from=related_jobs|4926ae26a28e4346
@@ -202,7 +202,7 @@ https://uk.talent.com/view?id=197346e14e15|059d612c7f2de7ad
 https://uk.talent.com/view?id=21c42a5e4e3e|423b8a7e347e3c12
 https://uk.talent.com/view?id=2c40fcd91589|57e4ffd7ddb8b665
 https://uk.talent.com/view?id=2e2f3bf4ac96|52e8f61c616ff463
-https://uk.talent.com/view?id=31d66c17314c|ab42519cf3dbb888
+https://uk.talent.com/view?id=31d66c17314c|4e1fc4110feaa92a
 https://uk.talent.com/view?id=359c0770034b|b9624aceabc5414b
 https://uk.talent.com/view?id=3b9609aff6f8|d12607294230b8de
 https://uk.talent.com/view?id=3df1217e59d6|61db31cdf0f0565c
@@ -234,9 +234,9 @@ https://uk.talent.com/view?id=9911313ed2e4|71ae7173c31a2c19
 https://uk.talent.com/view?id=9a709a06af26|3d5e03b457ce6ed9
 https://uk.talent.com/view?id=9fc3b0d6fd0d|48c6faedc0337033
 https://uk.talent.com/view?id=a87073ffa577|da767d3351ba155d
-https://uk.talent.com/view?id=ab11c067d008|d07381b40b1ea6e6
+https://uk.talent.com/view?id=ab11c067d008|6c56430cf1e523ce
 https://uk.talent.com/view?id=ad60964087ad|9aaca0d68089bc8b
-https://uk.talent.com/view?id=b06d48da8f49|e29fa0be11f56bcb
+https://uk.talent.com/view?id=b06d48da8f49|50d16bc25823f47d
 https://uk.talent.com/view?id=bae0bd05f87e|de77f1be2a2286a9
 https://uk.talent.com/view?id=c2b03b8d7a57|954e5952ef5dd90a
 https://uk.talent.com/view?id=c3fb5d06e338|bd52d13ebf40fd8c
@@ -256,7 +256,7 @@ https://uk.talent.com/view?id=e924903e307e|9cebda6e6ace4566
 https://uk.talent.com/view?id=f2e2cd058946|a2a6e25b89f32206
 https://uk.talent.com/view?id=f40ce1db0c97|803b9a860910648d
 https://uk.talent.com/view?id=f69459eeac3d|e1fe17ba0be9500d
-https://uk.talent.com/view?id=f6fee7cd10b4|3a73b05da5213701
+https://uk.talent.com/view?id=f6fee7cd10b4|7a404c071dc12353
 https://uk.talent.com/view?id=fbbba1849b0f|8ae6033e45298a45
 https://uk.talent.com/view?id=ffb1c9fa61c8|7bee750ca43f0535
 https://www.google.com/url?rct=j&sa=t&url=https://uk.indeed.com/q-software-tester-l-stoke-on-trent-jobs.html%3Fstart%3D10&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw19O_Nm2xkl35IJNoahYIzB|cccc9d5b4f048905
