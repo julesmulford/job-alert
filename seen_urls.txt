@@ -16,10 +16,10 @@ https://uk.jobrapido.com/jobpreview/3797409158110642176|f0cb35e69812acf9
 https://uk.jobrapido.com/jobpreview/3833319345312759808|9442d5f525a37fc0
 https://uk.jobrapido.com/jobpreview/4362273885261922304|687aafee78926534
 https://uk.jobrapido.com/jobpreview/4404405066304323584|06c26b96bee07ead
-https://uk.jobrapido.com/jobpreview/4499764060513894400|875004c8023077a2
+https://uk.jobrapido.com/jobpreview/4499764060513894400|3313f538dac78632
 https://uk.jobrapido.com/jobpreview/4734674651068760064|7f845cf509691553
 https://uk.jobrapido.com/jobpreview/4867344747733188608|4267a89aee3a8526
-https://uk.jobrapido.com/jobpreview/4910374478883586048|8c4aa2e7f69bc885
+https://uk.jobrapido.com/jobpreview/4910374478883586048|7e53c8d29b1e8cc8
 https://uk.jobrapido.com/jobpreview/5090107427018244096|39343a7c1ff9b926
 https://uk.jobrapido.com/jobpreview/5181785806053834752|481699b72e032900
 https://uk.jobrapido.com/jobpreview/5212141492440662016|d51037a7890cb496
@@ -183,7 +183,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-system-c-4325418648|38415537f
 https://uk.linkedin.com/jobs/view/test-engineer-at-tact-4340346408|198d7eec60f85fa0
 https://uk.linkedin.com/jobs/view/test-engineer-construction-at-lucideon-4328789447|e3bd07b985aac63b
 https://uk.linkedin.com/jobs/view/test-engineer-iot-audio-video-networks-at-mayflower-recruitment-ltd-4349703749|3c702b2fbfb7c4e6
-https://uk.linkedin.com/jobs/view/tester-enhanced-dv-at-learning-for-now-4346384598|a30d1d5e73c9f6c5
+https://uk.linkedin.com/jobs/view/tester-enhanced-dv-at-learning-for-now-4346384598|4066cd2f2435cec9
 https://uk.linkedin.com/jobs/view/tester-remote-at-talent-orbit-4342316289|e228e772e7403b73
 https://uk.linkedin.com/jobs/view/testing-analyst-remote-at-taskify-ai-4339868277|d8a7537dd47dacbb
 https://uk.linkedin.com/jobs/view/testing-consultant-remote-at-talent-pulse-4342526153|5260f2d7cdd031de
@@ -205,7 +205,7 @@ https://uk.talent.com/view?id=197346e14e15|059d612c7f2de7ad
 https://uk.talent.com/view?id=21c42a5e4e3e|423b8a7e347e3c12
 https://uk.talent.com/view?id=2c40fcd91589|57e4ffd7ddb8b665
 https://uk.talent.com/view?id=2e2f3bf4ac96|52e8f61c616ff463
-https://uk.talent.com/view?id=30914a1f3c2a|bb7c9b757885023a
+https://uk.talent.com/view?id=30914a1f3c2a|96dfc48cbc2469a5
 https://uk.talent.com/view?id=31d66c17314c|6fad6ddead6e04c8
 https://uk.talent.com/view?id=359c0770034b|b9624aceabc5414b
 https://uk.talent.com/view?id=3b9609aff6f8|d12607294230b8de
@@ -223,7 +223,7 @@ https://uk.talent.com/view?id=689d2942a739|f7bc613f9e3716fa
 https://uk.talent.com/view?id=6c90ee7608fc|e8d485771142094b
 https://uk.talent.com/view?id=6dc125ae4d8c|77504b9c4fe31f5b
 https://uk.talent.com/view?id=70974f3b55e8|f2822a4ebce1ef6c
-https://uk.talent.com/view?id=7299fd70d07d|af9cf3a4ac6a1971
+https://uk.talent.com/view?id=7299fd70d07d|d351db7abf8d90db
 https://uk.talent.com/view?id=76e830be8f5e|514818a52aec3edd
 https://uk.talent.com/view?id=77df8c1cacb8|1814655bb6263f18
 https://uk.talent.com/view?id=79aef70f5b80|219c5dac95b8e29d
@@ -246,7 +246,7 @@ https://uk.talent.com/view?id=b06d48da8f49|a4da087ce5c203e5
 https://uk.talent.com/view?id=bae0bd05f87e|de77f1be2a2286a9
 https://uk.talent.com/view?id=c2b03b8d7a57|954e5952ef5dd90a
 https://uk.talent.com/view?id=c3fb5d06e338|bd52d13ebf40fd8c
-https://uk.talent.com/view?id=c41729de41cd|808eda1a4524a945
+https://uk.talent.com/view?id=c41729de41cd|a65673ebfad2b318
 https://uk.talent.com/view?id=c5a6ce19207d|f4ee64cf7b7afd30
 https://uk.talent.com/view?id=c64e4c1e9345|829dadec9b1aaaf2
 https://uk.talent.com/view?id=c71c0e012dad|35b456bca0406a89
@@ -255,7 +255,7 @@ https://uk.talent.com/view?id=cae32fba98c4|5059d46681c543da
 https://uk.talent.com/view?id=d0b2aba03c3e|da773a09c969a7d4
 https://uk.talent.com/view?id=d33631af3982|d458962a3fe57049
 https://uk.talent.com/view?id=d36c4263f4df|f1fd8955d42fecd5
-https://uk.talent.com/view?id=d81939713358|5f206672ba5266b8
+https://uk.talent.com/view?id=d81939713358|0a366aa65554a83f
 https://uk.talent.com/view?id=da02ff2ce024|a6051613e018663f
 https://uk.talent.com/view?id=da9f014915ce|ba915d7492f9ea70
 https://uk.talent.com/view?id=deee8e534888|90d6b6cf812f11a6
@@ -268,8 +268,8 @@ https://uk.talent.com/view?id=f69459eeac3d|e1fe17ba0be9500d
 https://uk.talent.com/view?id=f6fee7cd10b4|dc9ad8c6ec85684e
 https://uk.talent.com/view?id=fbbba1849b0f|8ae6033e45298a45
 https://uk.talent.com/view?id=ffb1c9fa61c8|7bee750ca43f0535
-https://uk.whatjobs.com/jobs/qa-engineer?id=364443368|1a39e2d0d603e740
-https://uk.whatjobs.com/jobs/test-engineer?id=364423812|3bbede4ac3848060
+https://uk.whatjobs.com/jobs/qa-engineer?id=364443368|2805db3966f1b165
+https://uk.whatjobs.com/jobs/test-engineer?id=364423812|ee9a12c0c5ef3955
 https://www.google.com/url?rct=j&sa=t&url=https://uk.indeed.com/q-software-tester-l-stoke-on-trent-jobs.html%3Fstart%3D10&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw19O_Nm2xkl35IJNoahYIzB|cccc9d5b4f048905
 https://www.google.com/url?rct=j&sa=t&url=https://uk.jooble.org/jdp/-5177900960689959283&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw2NYgRQ2ZsVYKQMEvbl7czI|b364d5754ff2f009
 https://www.google.com/url?rct=j&sa=t&url=https://uk.jooble.org/jdp/195197851374480301&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw3dyHICZoruTy21La4b2Umg|8fd04a30a8505006
