@@ -47,6 +47,7 @@ https://uk.jobtome.com/job/qa-engineer-with-banking-exp/071f0df705530704dddf8b4f
 https://uk.jobtome.com/job/rf-test-engineer/cdb1a9916708ea1ee127d92c1a059c2c|4d39e190e9d7478a
 https://uk.jobtome.com/job/senior-test-engineer/7617fb5b75b2aaa596fdd0829d0b1e07|8c1b11ab49f42f1c
 https://uk.jobtome.com/job/software-tester-remote/59c4fd629d579b89d74ce4eaa73cb864|48ca661c91a3d262
+https://uk.linkedin.com/jobs/view/actemium-automation-nottingham-senior-control-systems-engineer-siemens-specialist-at-actemium-uk-4329640161|7c5b4f936b81866c
 https://uk.linkedin.com/jobs/view/aem-qa-automation-engineer-at-red-global-4348843342|25c2ad62c4905622
 https://uk.linkedin.com/jobs/view/affiliate-software-engineer-in-test-at-and-digital-4342781054|52249c509c6b31e4
 https://uk.linkedin.com/jobs/view/ai-assistant-user-tester-at-taskify-ai-4339868441|88204efb30fd0b5c
@@ -225,6 +226,7 @@ https://uk.talent.com/view?id=6c90ee7608fc|e8d485771142094b
 https://uk.talent.com/view?id=6dc125ae4d8c|77504b9c4fe31f5b
 https://uk.talent.com/view?id=70974f3b55e8|f2822a4ebce1ef6c
 https://uk.talent.com/view?id=7299fd70d07d|db93b240916e25ed
+https://uk.talent.com/view?id=7490a578d108|8f265b3fa12874dd
 https://uk.talent.com/view?id=76e830be8f5e|514818a52aec3edd
 https://uk.talent.com/view?id=77df8c1cacb8|1814655bb6263f18
 https://uk.talent.com/view?id=79aef70f5b80|219c5dac95b8e29d
