@@ -102,11 +102,11 @@ https://uk.linkedin.com/jobs/view/performance-test-engineer-at-coforge-432762605
 https://uk.linkedin.com/jobs/view/principal-test-engineer-at-hackajob-4329216868|b442b734201dc71b
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-tek-tron-it-4341240584|8c85bdd9a6cf1ef6
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-track24-4324689558|78a811ee20fccd92
-https://uk.linkedin.com/jobs/view/qa-automation-engineer-london-stock-exchange-group-at-jobs-via-efinancialcareers-4346657191|eede5638e224346b
+https://uk.linkedin.com/jobs/view/qa-automation-engineer-london-stock-exchange-group-at-jobs-via-efinancialcareers-4346657191|357f62990c1a5209
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-on-site-at-insight-international-uk-ltd-4325026085|b354a5572290a238
 https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-rm-plc-4328787520|9247e76f76e6e89f
 https://uk.linkedin.com/jobs/view/qa-engineer-manual-mid-level-12-month-ftc-at-informa-4339482495|9009e4ac4ad456c6
-https://uk.linkedin.com/jobs/view/qa-tester-at-tekton-billing-4346850509|29a38c86f45d8906
+https://uk.linkedin.com/jobs/view/qa-tester-at-tekton-billing-4346850509|d662321c5b0938f2
 https://uk.linkedin.com/jobs/view/qa-tester-at-zap-4326172679|35823f445514ecca
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4338654888|39955294fa06f4f9
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4339450297|0f2676ee91a465a0
@@ -132,6 +132,7 @@ https://uk.linkedin.com/jobs/view/senior-development-engineer-in-test-sdet-at-va
 https://uk.linkedin.com/jobs/view/senior-dft-engineer-at-arm-4329674368|dff917696abd35e2
 https://uk.linkedin.com/jobs/view/senior-intelligent-automation-engineer-at-ciklum-4349455288|b9e216a3e121562a
 https://uk.linkedin.com/jobs/view/senior-mobile-automation-tester-at-w3global-4342763594|8e182b4bd9741edf
+https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-jobs-via-efinancialcareers-4346694704|4bdab3c535822087
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-tp-icap-4347492608|d8dcfb2c130aae89
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-tp-icap-4347391110|a5dbd38f52188bb6
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-net-automation-at-wheelright-4344959473|010aac78c78e52a5
@@ -150,7 +151,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-1spatial-4340312479|1c
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-caraffi-4348271560|b77ba115d934c1e6
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-companies-house-4350711948|ef73e247cd8510d5
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-diversejobsmatter-4343531379|1c7f217dd918b093
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-eclectic-recruitment-ltd-4350658842|d4b924db4d46f914
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-eclectic-recruitment-ltd-4350658842|b46546d80081f7f1
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-free-work-uk-4342510829|620dfa58431adae2
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-lrqa-4342733252|7de82e1f7d276383
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-ncr-atleos-4328117500|ec03eab6907ecb97
@@ -180,7 +181,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-actuation-lab-4344746482|1723
 https://uk.linkedin.com/jobs/view/test-engineer-at-anson-mccade-4325377562|2b7a96d89b872bbb
 https://uk.linkedin.com/jobs/view/test-engineer-at-connexai-4329565504|c438c4d4a528df64
 https://uk.linkedin.com/jobs/view/test-engineer-at-cure-talent-4342032416|8883a3cc8ee084e8
-https://uk.linkedin.com/jobs/view/test-engineer-at-dynamic-tech-startup-at-jack-jill-4350796849|eeed02b90081c6d0
+https://uk.linkedin.com/jobs/view/test-engineer-at-dynamic-tech-startup-at-jack-jill-4350796849|94d41cfdb3c0a2a0
 https://uk.linkedin.com/jobs/view/test-engineer-at-forrit-4345411356|2888884afa1ba690
 https://uk.linkedin.com/jobs/view/test-engineer-at-isr-recruitment-4344881979|4bd14c58dfb08bfa
 https://uk.linkedin.com/jobs/view/test-engineer-at-ixceed-solutions-4339126718|98069541245c25bb
@@ -218,7 +219,7 @@ https://uk.talent.com/view?id=17b64fc9bb37|dd74f38d9662cb9a
 https://uk.talent.com/view?id=197346e14e15|059d612c7f2de7ad
 https://uk.talent.com/view?id=1ca9ff95addf|4487984516c86917
 https://uk.talent.com/view?id=21c42a5e4e3e|423b8a7e347e3c12
-https://uk.talent.com/view?id=22524b91b322|b5829803855b975c
+https://uk.talent.com/view?id=22524b91b322|91cce2bb3356247a
 https://uk.talent.com/view?id=26a0e15269ed|fd7a297042284017
 https://uk.talent.com/view?id=2a6ceb9645f6|c71d2870da395be7
 https://uk.talent.com/view?id=2c40fcd91589|57e4ffd7ddb8b665
@@ -231,7 +232,7 @@ https://uk.talent.com/view?id=3b9609aff6f8|d12607294230b8de
 https://uk.talent.com/view?id=3df1217e59d6|61db31cdf0f0565c
 https://uk.talent.com/view?id=3f6fbee33b26|5b4a5db273a3d67e
 https://uk.talent.com/view?id=40c6026b452d|37113c27ede6beb5
-https://uk.talent.com/view?id=4175c914d3bd|94c325aaa8f69448
+https://uk.talent.com/view?id=4175c914d3bd|390490ca6f2b13ed
 https://uk.talent.com/view?id=48845a6dd6fb|fc750ff8f59b8fc1
 https://uk.talent.com/view?id=4a3bfdfa2ade|58d28fc5aaa226bb
 https://uk.talent.com/view?id=50165283f930|6f953d701e8b1fe7
@@ -242,7 +243,7 @@ https://uk.talent.com/view?id=595c3434a998|3f692464382d53aa
 https://uk.talent.com/view?id=5d5f71d41c35|f3c7f346cb4794bf
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
-https://uk.talent.com/view?id=6581187a15eb|c80682de2aca420e
+https://uk.talent.com/view?id=6581187a15eb|c9513310edd2fd5b
 https://uk.talent.com/view?id=689d2942a739|f7bc613f9e3716fa
 https://uk.talent.com/view?id=6c90ee7608fc|e8d485771142094b
 https://uk.talent.com/view?id=6dc125ae4d8c|77504b9c4fe31f5b
@@ -252,6 +253,7 @@ https://uk.talent.com/view?id=73711ddd59fc|80dc335b474e7d45
 https://uk.talent.com/view?id=7490a578d108|8f265b3fa12874dd
 https://uk.talent.com/view?id=76e830be8f5e|514818a52aec3edd
 https://uk.talent.com/view?id=772772a2a1d3|c7411db948232b87
+https://uk.talent.com/view?id=777c7bb73752|731eac7643c6ca27
 https://uk.talent.com/view?id=77df8c1cacb8|1814655bb6263f18
 https://uk.talent.com/view?id=79aef70f5b80|219c5dac95b8e29d
 https://uk.talent.com/view?id=7c3d322ef722|49a7049d0926c825
@@ -270,16 +272,16 @@ https://uk.talent.com/view?id=9a709a06af26|3d5e03b457ce6ed9
 https://uk.talent.com/view?id=9fc3b0d6fd0d|48c6faedc0337033
 https://uk.talent.com/view?id=a42aa9ba323d|a74ede9057ad2779
 https://uk.talent.com/view?id=a7d6f5938ba5|d56259ab200bb01e
-https://uk.talent.com/view?id=a84a6e9ad811|315a4342af88c3c7
+https://uk.talent.com/view?id=a84a6e9ad811|2885b87683b84b28
 https://uk.talent.com/view?id=a87073ffa577|da767d3351ba155d
 https://uk.talent.com/view?id=ab11c067d008|e4183f4f62d3ce17
 https://uk.talent.com/view?id=ad60964087ad|9aaca0d68089bc8b
-https://uk.talent.com/view?id=af882ccdddac|0eb350d483a33ee4
+https://uk.talent.com/view?id=af882ccdddac|b1ffe34bfa563c1b
 https://uk.talent.com/view?id=b06d48da8f49|a4da087ce5c203e5
 https://uk.talent.com/view?id=bae0bd05f87e|de77f1be2a2286a9
 https://uk.talent.com/view?id=bee623b4515b|76ed02be5547efba
 https://uk.talent.com/view?id=c2b03b8d7a57|954e5952ef5dd90a
-https://uk.talent.com/view?id=c329b402b4c4|365358b09dbd06d9
+https://uk.talent.com/view?id=c329b402b4c4|1004fbb5cf86b36a
 https://uk.talent.com/view?id=c3fb5d06e338|bd52d13ebf40fd8c
 https://uk.talent.com/view?id=c41729de41cd|573e60299128651f
 https://uk.talent.com/view?id=c5a6ce19207d|f4ee64cf7b7afd30
@@ -299,10 +301,10 @@ https://uk.talent.com/view?id=deee8e534888|90d6b6cf812f11a6
 https://uk.talent.com/view?id=e12b84463c0c|90c0961871dbfbb5
 https://uk.talent.com/view?id=e1961f384c08|62f3859cf15a09d5
 https://uk.talent.com/view?id=e272721dd005|6b206f4a0ca0ab3d
-https://uk.talent.com/view?id=e4440a55dd0f|c7093bce50cec45d
+https://uk.talent.com/view?id=e4440a55dd0f|8a8970ec7e39377f
 https://uk.talent.com/view?id=e8b3a7f7e94e|26982ba44ccd21c8
 https://uk.talent.com/view?id=e924903e307e|9cebda6e6ace4566
-https://uk.talent.com/view?id=ed44bb23d487|566d9ef24bf1789d
+https://uk.talent.com/view?id=ed44bb23d487|13cf732b256ea59f
 https://uk.talent.com/view?id=f1a10b70013e|bce5bb63c44fc0bd
 https://uk.talent.com/view?id=f2e2cd058946|a2a6e25b89f32206
 https://uk.talent.com/view?id=f3bc2d724ece|b2a578b851f3681f
