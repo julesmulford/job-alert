@@ -104,12 +104,12 @@ https://uk.linkedin.com/jobs/view/new-job-georgia-test-at-bath-north-east-somers
 https://uk.linkedin.com/jobs/view/performance-test-engineer-at-coforge-4327626051|646ad838432143d4
 https://uk.linkedin.com/jobs/view/principal-test-engineer-at-hackajob-4329216868|b442b734201dc71b
 https://uk.linkedin.com/jobs/view/product-test-engineer-luxury-audio-at-harman-international-4351011419|2d0a56c30be833f4
-https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-sage-4337158436|504d8447db449b1d
+https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-sage-4337158436|07cecb285277f114
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-tek-tron-it-4341240584|8c85bdd9a6cf1ef6
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-track24-4324689558|78a811ee20fccd92
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-london-stock-exchange-group-at-jobs-via-efinancialcareers-4346657191|f70db5ed825add1e
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-on-site-at-insight-international-uk-ltd-4325026085|b354a5572290a238
-https://uk.linkedin.com/jobs/view/qa-engineer-at-track24-4329964964|ebb303b873c8d18e
+https://uk.linkedin.com/jobs/view/qa-engineer-at-track24-4329964964|70b5ad4adcba867c
 https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-rm-plc-4328787520|9247e76f76e6e89f
 https://uk.linkedin.com/jobs/view/qa-engineer-manual-mid-level-12-month-ftc-at-informa-4339482495|9009e4ac4ad456c6
 https://uk.linkedin.com/jobs/view/qa-tester-at-tekton-billing-4346850509|91f6269b04830d2f
@@ -127,6 +127,7 @@ https://uk.linkedin.com/jobs/view/quality-engineer-at-best-job-tool-4345600421|e
 https://uk.linkedin.com/jobs/view/quality-engineer-remote-at-taskify-ai-4339838044|68c9e9b88a7f9aa6
 https://uk.linkedin.com/jobs/view/rf-systems-and-product-test-engineer-at-tiptopjob-4345504827|0d1dbb4645522fee
 https://uk.linkedin.com/jobs/view/rf-test-engineer-at-socode-recruitment-4328480492|4b811867b8ac1c7e
+https://uk.linkedin.com/jobs/view/sac-tester-at-natobotics-4330021219|661874f82c1e43ac
 https://uk.linkedin.com/jobs/view/sap-test-lead-at-testq-technologies-4345646156|f874080424847060
 https://uk.linkedin.com/jobs/view/sdet-at-xcede-4325820951|5d46d56bc466b04d
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-kainos-4345647757|d20f9b074a651b7c
