@@ -113,7 +113,7 @@ https://uk.linkedin.com/jobs/view/qa-automation-engineer-on-site-at-insight-inte
 https://uk.linkedin.com/jobs/view/qa-engineer-at-track24-4329964964|e6c5aaea37e21a83
 https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-rm-plc-4328787520|9247e76f76e6e89f
 https://uk.linkedin.com/jobs/view/qa-engineer-manual-mid-level-12-month-ftc-at-informa-4339482495|9009e4ac4ad456c6
-https://uk.linkedin.com/jobs/view/qa-test-engineer-at-techshack-4349323829|ef2da8603603a4f5
+https://uk.linkedin.com/jobs/view/qa-test-engineer-at-techshack-4349323829|3fd186b3d8be12c9
 https://uk.linkedin.com/jobs/view/qa-tester-at-tekton-billing-4346850509|91f6269b04830d2f
 https://uk.linkedin.com/jobs/view/qa-tester-at-zap-4326172679|35823f445514ecca
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4338654888|39955294fa06f4f9
@@ -136,11 +136,12 @@ https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-kainos-434564775
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-n-able-4347590980|be238205d7350d0c
 https://uk.linkedin.com/jobs/view/senior-automation-service-engineer-at-spx-flow-inc-4349524418|20157b13a0845e6c
 https://uk.linkedin.com/jobs/view/senior-automation-software-development-test-engineer-at-spacelabs-healthcare-4346530829|06f52bbe3feadac8
+https://uk.linkedin.com/jobs/view/senior-automation-test-anaylst-at-7im-4329956923|eb78ad67f9514c5b
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-netcompany-4344991895|3d4dbf0417845212
 https://uk.linkedin.com/jobs/view/senior-development-engineer-in-test-sdet-at-valstro-4345975778|e30d68f51d0fe9a2
 https://uk.linkedin.com/jobs/view/senior-dft-engineer-at-arm-4329674368|dff917696abd35e2
 https://uk.linkedin.com/jobs/view/senior-intelligent-automation-engineer-at-ciklum-4349455288|b9e216a3e121562a
-https://uk.linkedin.com/jobs/view/senior-manufacturing-test-engineer-at-siemens-4329866510|0fe1ffbe135827f5
+https://uk.linkedin.com/jobs/view/senior-manufacturing-test-engineer-at-siemens-4329866510|5a7e21aff63e3b84
 https://uk.linkedin.com/jobs/view/senior-mobile-automation-tester-at-w3global-4342763594|8e182b4bd9741edf
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-jobs-via-efinancialcareers-4346694704|e5197ed78aeface3
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-tp-icap-4347492608|d8dcfb2c130aae89
@@ -174,6 +175,7 @@ https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-michael
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-explore-group-4350146205|90039330509a4368
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-tst-group-4339364094|77e2528712aef090
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-vanrath-4343264665|3f309a83f0eccb19
+https://uk.linkedin.com/jobs/view/software-test-engineers-at-hackajob-4329857405|9470e6e2a4774f30
 https://uk.linkedin.com/jobs/view/software-tester-at-culverdocs-4342181779|b35890caa39d6ecc
 https://uk.linkedin.com/jobs/view/software-tester-at-fdm-group-4348622615|63521ed80df38291
 https://uk.linkedin.com/jobs/view/software-tester-qa-at-robertson-sumner-4348480072|99f79aa851119221
@@ -237,7 +239,7 @@ https://uk.talent.com/view?id=2c40fcd91589|57e4ffd7ddb8b665
 https://uk.talent.com/view?id=2e2f3bf4ac96|52e8f61c616ff463
 https://uk.talent.com/view?id=30914a1f3c2a|bb7c9b757885023a
 https://uk.talent.com/view?id=31d66c17314c|6fad6ddead6e04c8
-https://uk.talent.com/view?id=3563bdbef6a6|d3dc743fd27325c0
+https://uk.talent.com/view?id=3563bdbef6a6|c349a5d8fb7e663d
 https://uk.talent.com/view?id=359c0770034b|b9624aceabc5414b
 https://uk.talent.com/view?id=3960bc18ebcd|d3031fcf9f911245
 https://uk.talent.com/view?id=3b9609aff6f8|d12607294230b8de
