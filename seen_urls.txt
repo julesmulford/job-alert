@@ -50,7 +50,7 @@ https://uk.jobtome.com/job/rf-test-engineer/cdb1a9916708ea1ee127d92c1a059c2c|4d3
 https://uk.jobtome.com/job/senior-test-engineer/7617fb5b75b2aaa596fdd0829d0b1e07|8c1b11ab49f42f1c
 https://uk.jobtome.com/job/software-tester-remote/59c4fd629d579b89d74ce4eaa73cb864|48ca661c91a3d262
 https://uk.linkedin.com/jobs/view/actemium-automation-nottingham-senior-control-systems-engineer-siemens-specialist-at-actemium-uk-4329640161|7c5b4f936b81866c
-https://uk.linkedin.com/jobs/view/actemium-ics-test-engineer-at-actemium-uk-4330073147|87f82a471133ff3c
+https://uk.linkedin.com/jobs/view/actemium-ics-test-engineer-at-actemium-uk-4330073147|bbfa5b637a392b82
 https://uk.linkedin.com/jobs/view/aem-qa-automation-engineer-at-red-global-4348843342|25c2ad62c4905622
 https://uk.linkedin.com/jobs/view/affiliate-software-engineer-in-test-at-and-digital-4342781054|52249c509c6b31e4
 https://uk.linkedin.com/jobs/view/ai-assistant-user-tester-at-taskify-ai-4339868441|88204efb30fd0b5c
@@ -107,7 +107,7 @@ https://uk.linkedin.com/jobs/view/mobile-qa-engineer-at-leo-club-maastricht-4343
 https://uk.linkedin.com/jobs/view/new-job-georgia-test-at-bath-north-east-somerset-council-4339834532|63bf12faadc62aaf
 https://uk.linkedin.com/jobs/view/pat-tester-at-ecs-ltd-4329895656|4681d398c2c71711
 https://uk.linkedin.com/jobs/view/performance-test-engineer-at-coforge-4327626051|646ad838432143d4
-https://uk.linkedin.com/jobs/view/principal-system-test-engineer-at-graphcore-4330087351|176b09073afdcdb2
+https://uk.linkedin.com/jobs/view/principal-system-test-engineer-at-graphcore-4330087351|10cf148312639cfd
 https://uk.linkedin.com/jobs/view/principal-test-engineer-at-hackajob-4329216868|b442b734201dc71b
 https://uk.linkedin.com/jobs/view/product-test-engineer-luxury-audio-at-harman-international-4351011419|2d0a56c30be833f4
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-sage-4337158436|091c0ef1c56bf02c
@@ -123,7 +123,7 @@ https://uk.linkedin.com/jobs/view/qa-tester-at-tekton-billing-4346850509|91f6269
 https://uk.linkedin.com/jobs/view/qa-tester-at-zap-4326172679|35823f445514ecca
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4338654888|39955294fa06f4f9
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4339450297|0f2676ee91a465a0
-https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-green-cad-it-consulting-pvt-ltd-4330121951|3bd461cda3212294
+https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-green-cad-it-consulting-pvt-ltd-4330121951|72d57c84abdfcc95
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-hitachi-energy-4328330307|08573c3341c8409b
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-recenso-services-4343518438|b52ad03fe9ca74d3
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tria-4350252385|7524309888b21991
@@ -140,7 +140,7 @@ https://uk.linkedin.com/jobs/view/sap-test-lead-at-testq-technologies-4345646156
 https://uk.linkedin.com/jobs/view/sdet-at-xcede-4325820951|5d46d56bc466b04d
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-kainos-4345647757|d20f9b074a651b7c
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-n-able-4347590980|be238205d7350d0c
-https://uk.linkedin.com/jobs/view/senior-automation-qa-remote-at-tiptopjob-4346999306|23f34a9fb7a4d9c6
+https://uk.linkedin.com/jobs/view/senior-automation-qa-remote-at-tiptopjob-4346999306|d9970c705c6a87d5
 https://uk.linkedin.com/jobs/view/senior-automation-service-engineer-at-spx-flow-inc-4349524418|20157b13a0845e6c
 https://uk.linkedin.com/jobs/view/senior-automation-software-development-test-engineer-at-spacelabs-healthcare-4346530829|06f52bbe3feadac8
 https://uk.linkedin.com/jobs/view/senior-automation-test-anaylst-at-7im-4329956923|7b4f09ddb0b5074d
@@ -218,8 +218,8 @@ https://uk.linkedin.com/jobs/view/test-engineer-construction-at-lucideon-4328789
 https://uk.linkedin.com/jobs/view/test-engineer-dfe-seo-at-manchester-digital-4329654428|171db8e357731827
 https://uk.linkedin.com/jobs/view/test-engineer-iot-audio-video-networks-at-mayflower-recruitment-ltd-4349703749|3c702b2fbfb7c4e6
 https://uk.linkedin.com/jobs/view/test-lead-at-hcltech-4350695341|658e32187b176a1b
-https://uk.linkedin.com/jobs/view/test-lead-operational-technology-poweron-adms-at-sword-group-4349397283|65d075d30a5c2db4
-https://uk.linkedin.com/jobs/view/test-lead-studentjob-co-uk-at-jobster-4330124478|d630d9200b73cbcb
+https://uk.linkedin.com/jobs/view/test-lead-operational-technology-poweron-adms-at-sword-group-4349397283|b04167f113a13fe2
+https://uk.linkedin.com/jobs/view/test-lead-studentjob-co-uk-at-jobster-4330124478|867017509cb2080a
 https://uk.linkedin.com/jobs/view/tester-enhanced-dv-at-learning-for-now-4346384598|cf086484e63a161a
 https://uk.linkedin.com/jobs/view/tester-remote-at-talent-orbit-4342316289|e228e772e7403b73
 https://uk.linkedin.com/jobs/view/testing-analyst-remote-at-taskify-ai-4339868277|d8a7537dd47dacbb
