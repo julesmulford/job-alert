@@ -50,7 +50,7 @@ https://uk.jobtome.com/job/rf-test-engineer/cdb1a9916708ea1ee127d92c1a059c2c|4d3
 https://uk.jobtome.com/job/senior-test-engineer/7617fb5b75b2aaa596fdd0829d0b1e07|8c1b11ab49f42f1c
 https://uk.jobtome.com/job/software-tester-remote/59c4fd629d579b89d74ce4eaa73cb864|48ca661c91a3d262
 https://uk.linkedin.com/jobs/view/actemium-automation-nottingham-senior-control-systems-engineer-siemens-specialist-at-actemium-uk-4329640161|7c5b4f936b81866c
-https://uk.linkedin.com/jobs/view/actemium-ics-test-engineer-at-actemium-uk-4330073147|b0f2376347e9050e
+https://uk.linkedin.com/jobs/view/actemium-ics-test-engineer-at-actemium-uk-4330073147|d1a566189d76438d
 https://uk.linkedin.com/jobs/view/aem-qa-automation-engineer-at-red-global-4348843342|25c2ad62c4905622
 https://uk.linkedin.com/jobs/view/affiliate-software-engineer-in-test-at-and-digital-4342781054|52249c509c6b31e4
 https://uk.linkedin.com/jobs/view/ai-assistant-user-tester-at-taskify-ai-4339868441|88204efb30fd0b5c
@@ -122,7 +122,7 @@ https://uk.linkedin.com/jobs/view/qa-tester-at-tekton-billing-4346850509|91f6269
 https://uk.linkedin.com/jobs/view/qa-tester-at-zap-4326172679|35823f445514ecca
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4338654888|39955294fa06f4f9
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4339450297|0f2676ee91a465a0
-https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-green-cad-it-consulting-pvt-ltd-4330121951|4aaa03e6eb7d2271
+https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-green-cad-it-consulting-pvt-ltd-4330121951|2656174b1827ebdd
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-hitachi-energy-4328330307|08573c3341c8409b
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-recenso-services-4343518438|b52ad03fe9ca74d3
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tria-4350252385|7524309888b21991
@@ -139,7 +139,7 @@ https://uk.linkedin.com/jobs/view/sap-test-lead-at-testq-technologies-4345646156
 https://uk.linkedin.com/jobs/view/sdet-at-xcede-4325820951|5d46d56bc466b04d
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-kainos-4345647757|d20f9b074a651b7c
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-n-able-4347590980|be238205d7350d0c
-https://uk.linkedin.com/jobs/view/senior-automation-qa-remote-at-tiptopjob-4346999306|240a28789a238d0f
+https://uk.linkedin.com/jobs/view/senior-automation-qa-remote-at-tiptopjob-4346999306|675cb193244f8e09
 https://uk.linkedin.com/jobs/view/senior-automation-service-engineer-at-spx-flow-inc-4349524418|20157b13a0845e6c
 https://uk.linkedin.com/jobs/view/senior-automation-software-development-test-engineer-at-spacelabs-healthcare-4346530829|06f52bbe3feadac8
 https://uk.linkedin.com/jobs/view/senior-automation-test-anaylst-at-7im-4329956923|7b4f09ddb0b5074d
@@ -217,7 +217,8 @@ https://uk.linkedin.com/jobs/view/test-engineer-construction-at-lucideon-4328789
 https://uk.linkedin.com/jobs/view/test-engineer-dfe-seo-at-manchester-digital-4329654428|171db8e357731827
 https://uk.linkedin.com/jobs/view/test-engineer-iot-audio-video-networks-at-mayflower-recruitment-ltd-4349703749|3c702b2fbfb7c4e6
 https://uk.linkedin.com/jobs/view/test-lead-at-hcltech-4350695341|658e32187b176a1b
-https://uk.linkedin.com/jobs/view/test-lead-operational-technology-poweron-adms-at-sword-group-4349397283|6b6cd0ecf8049085
+https://uk.linkedin.com/jobs/view/test-lead-operational-technology-poweron-adms-at-sword-group-4349397283|b13e0b84f7a23409
+https://uk.linkedin.com/jobs/view/test-lead-studentjob-co-uk-at-jobster-4330124478|5bdc4f347f56bad1
 https://uk.linkedin.com/jobs/view/tester-enhanced-dv-at-learning-for-now-4346384598|cf086484e63a161a
 https://uk.linkedin.com/jobs/view/tester-remote-at-talent-orbit-4342316289|e228e772e7403b73
 https://uk.linkedin.com/jobs/view/testing-analyst-remote-at-taskify-ai-4339868277|d8a7537dd47dacbb
