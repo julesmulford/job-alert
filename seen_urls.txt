@@ -82,7 +82,7 @@ https://uk.linkedin.com/jobs/view/automation-tester-government-at-stealth-it-con
 https://uk.linkedin.com/jobs/view/content-tester-shipit-at-shipit-4346291657|266049a624aab948
 https://uk.linkedin.com/jobs/view/e2e-test-engineer-manual-at-g4s-4346195365|c690f0684efa81c4
 https://uk.linkedin.com/jobs/view/electrical-domestic-tester-at-rge-services-4343670607|c7baaa4a186528fd
-https://uk.linkedin.com/jobs/view/electronic-test-engineer-at-hawk-3-talent-solutions-4351792831|c672b0bcb5efe3e3
+https://uk.linkedin.com/jobs/view/electronic-test-engineer-at-hawk-3-talent-solutions-4351792831|d847467fadeee8d4
 https://uk.linkedin.com/jobs/view/electronics-test-engineer-at-pickering-interfaces-4328181603|f1f1ea9f71b4ea74
 https://uk.linkedin.com/jobs/view/electronics-test-engineer-at-tiptopjob-4346129381|34f12403d760c4b7
 https://uk.linkedin.com/jobs/view/embedded-software-test-engineer-at-alten-4345849973|134922170443d6c1
@@ -215,8 +215,8 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-connexai-4329565504|c438c4d4a
 https://uk.linkedin.com/jobs/view/test-engineer-at-cure-talent-4342032416|8883a3cc8ee084e8
 https://uk.linkedin.com/jobs/view/test-engineer-at-dynamic-tech-startup-at-jack-jill-4350796849|7b583101d799e453
 https://uk.linkedin.com/jobs/view/test-engineer-at-forrit-4345411356|2888884afa1ba690
-https://uk.linkedin.com/jobs/view/test-engineer-at-high-growth-uk-tech-startup-at-jack-jill-4351945842|3bb08a9a03d5e352
-https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4358501849|8a301966ca8712cb
+https://uk.linkedin.com/jobs/view/test-engineer-at-high-growth-uk-tech-startup-at-jack-jill-4351945842|ce33339cad8a6a94
+https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4358501849|6b90e09d8a8b7c21
 https://uk.linkedin.com/jobs/view/test-engineer-at-isr-recruitment-4344881979|4bd14c58dfb08bfa
 https://uk.linkedin.com/jobs/view/test-engineer-at-ixceed-solutions-4339126718|98069541245c25bb
 https://uk.linkedin.com/jobs/view/test-engineer-at-la-fosse-4329705420|2bafa911600c8827
@@ -258,7 +258,7 @@ https://uk.talent.com/view?id=16795454309a|c6ca956ab152c1d8
 https://uk.talent.com/view?id=16f7f703543d|28a1956ea8466ed5
 https://uk.talent.com/view?id=17988f6e13ea|2891f96a4e220fb8
 https://uk.talent.com/view?id=17b64fc9bb37|dd74f38d9662cb9a
-https://uk.talent.com/view?id=187f4a731431|20224cc9e1262ede
+https://uk.talent.com/view?id=187f4a731431|c60a86746b7c7892
 https://uk.talent.com/view?id=197346e14e15|059d612c7f2de7ad
 https://uk.talent.com/view?id=1ca9ff95addf|4487984516c86917
 https://uk.talent.com/view?id=21c42a5e4e3e|423b8a7e347e3c12
@@ -289,7 +289,7 @@ https://uk.talent.com/view?id=56d166262aa3|a0c7c3176b83f697
 https://uk.talent.com/view?id=5820c9771091|311d0ebb44741ca4
 https://uk.talent.com/view?id=595c3434a998|3f692464382d53aa
 https://uk.talent.com/view?id=5d5f71d41c35|f3c7f346cb4794bf
-https://uk.talent.com/view?id=5ed64925b112|08c8ebf4cdcb2dfc
+https://uk.talent.com/view?id=5ed64925b112|33ebae5520c5d2d9
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
 https://uk.talent.com/view?id=6581187a15eb|f2a191d8937e441f
@@ -336,7 +336,7 @@ https://uk.talent.com/view?id=af882ccdddac|0eb350d483a33ee4
 https://uk.talent.com/view?id=b06d48da8f49|a4da087ce5c203e5
 https://uk.talent.com/view?id=b6af00e0bc65|41f4cb395e52d181
 https://uk.talent.com/view?id=b7ccdf8fd7d6|6d397b0f51a763f6
-https://uk.talent.com/view?id=b9710f358097|faf9793eacde887b
+https://uk.talent.com/view?id=b9710f358097|e51b9703d6531a29
 https://uk.talent.com/view?id=bae0bd05f87e|de77f1be2a2286a9
 https://uk.talent.com/view?id=bee623b4515b|94d282e8590bc9e7
 https://uk.talent.com/view?id=c2b03b8d7a57|954e5952ef5dd90a
@@ -367,11 +367,12 @@ https://uk.talent.com/view?id=e1de9ba2c900|ef878862a266abac
 https://uk.talent.com/view?id=e272721dd005|6b206f4a0ca0ab3d
 https://uk.talent.com/view?id=e4440a55dd0f|79b7bd8b8440bd3c
 https://uk.talent.com/view?id=e4b8614bbf67|f715aa06a08fceb9
+https://uk.talent.com/view?id=e5ec23cdc9fe|0332b68b3934c578
 https://uk.talent.com/view?id=e621b4c2931a|de883282921b9543
 https://uk.talent.com/view?id=e8b3a7f7e94e|26982ba44ccd21c8
 https://uk.talent.com/view?id=e924903e307e|9cebda6e6ace4566
-https://uk.talent.com/view?id=ea7d56dc86cc|0e9fd91da7341b92
-https://uk.talent.com/view?id=ec8836b0251c|3e3d1be9eeb29060
+https://uk.talent.com/view?id=ea7d56dc86cc|3e6f02bcb2987457
+https://uk.talent.com/view?id=ec8836b0251c|1016013a3eca4297
 https://uk.talent.com/view?id=ed1efa800e3d|90a1b6e3d8137866
 https://uk.talent.com/view?id=ed44bb23d487|c21980f71a9ee307
 https://uk.talent.com/view?id=f1a10b70013e|4147ff60ca35e8f4
@@ -416,7 +417,7 @@ https://www.microtech-global.com/en/job_detail.asp?jobid=19003UMQ|045f1298b72e03
 https://www.prs.uk.com/job/production-test-engineer-essex-bh-68485|9bf9421c3b4f4ddf
 https://www.qualifiedfinder.com/jobs/software-tester-3055124012|59643bafcdf9e2d3
 https://www.railwaypeople.com/Rail-Jobs/General-Rail-Jobs/IVVQ-Engineer-System-Test-Engineer/Details/646741|8b8ba09c82a61b9b
-https://www.railwaypeople.com/Rail-Jobs/Quantity-Surveyor-Jobs/Senior-Quantity-Surveyor/Details/646770|86d8d26d2af5708b
+https://www.railwaypeople.com/Rail-Jobs/Quantity-Surveyor-Jobs/Senior-Quantity-Surveyor/Details/646770|d0750def93b7d35e
 https://www.redglobal.com/jobs/job/aem-qa-automation-engineer/Y3D8MoPP|b0028ca629e8cbc2
 https://www.s1jobs.com/job/advanced-assembly-test-engineer-apprentice-126175264|35c098da573ffc43
 https://www.s1jobs.com/job/automation-engineer-126170329|f085a5302a564262
