@@ -6,6 +6,7 @@ https://gb.bebee.com/job/c784c7b38485209a759b217b94f5247f|e586a1d22199146a
 https://gb.bebee.com/job/d98a15a8aa30ee251350899c5c138684|9136b73e45608470
 https://gb.bebee.com/job/ebb07f7589e02268879299b8016bac79|b21f99dba29cb333
 https://gb.bebee.com/job/eef67ab7c098e677a138f416f7c1bacd|d31d93925373d447
+https://jobs.jobg8.com/jobs/junior-test-engineer-remote-playwright-jest-gds-in-united-kingdom/5673-3057150701ED|0721f71a057fb311
 https://jobs.theguardian.com/job/9974624/automation-engineer-eica-buk-service-dept/|077135f818a9f9f9
 https://jobs.theguardian.com/job/9996002/automation-engineer-eica-buk-service-dept/|b988361b43f008de
 https://uk.jobrapido.com/jobpreview/1403946067279478784|bf07d07da5bf477a
@@ -416,7 +417,7 @@ https://www.jobserve.com/gb/en/mob/job/2EDCDAB8B0A6B1E0D9?shid=539624818B2FA6C8C
 https://www.jobsinwales.com/jobs-in-st-asaph/test-engineer_1425893?region=south|3d77650c53142102
 https://www.microtech-global.com/en/job_detail.asp?jobid=19003UMQ|045f1298b72e0376
 https://www.prs.uk.com/job/production-test-engineer-essex-bh-68485|9bf9421c3b4f4ddf
-https://www.qualifiedfinder.com/jobs/software-development-engineer-in-test-sdet-3057112854|152691c312cf8af5
+https://www.qualifiedfinder.com/jobs/software-development-engineer-in-test-sdet-3057112854|0f2982e9be3ac5b0
 https://www.qualifiedfinder.com/jobs/software-tester-3055124012|59643bafcdf9e2d3
 https://www.railwaypeople.com/Rail-Jobs/General-Rail-Jobs/IVVQ-Engineer-System-Test-Engineer/Details/646741|8b8ba09c82a61b9b
 https://www.railwaypeople.com/Rail-Jobs/Quantity-Surveyor-Jobs/Senior-Quantity-Surveyor/Details/646770|44e7f334386fe79e
