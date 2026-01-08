@@ -82,7 +82,7 @@ https://uk.linkedin.com/jobs/view/automation-tester-government-at-stealth-it-con
 https://uk.linkedin.com/jobs/view/content-tester-shipit-at-shipit-4346291657|266049a624aab948
 https://uk.linkedin.com/jobs/view/e2e-test-engineer-manual-at-g4s-4346195365|c690f0684efa81c4
 https://uk.linkedin.com/jobs/view/electrical-domestic-tester-at-rge-services-4343670607|c7baaa4a186528fd
-https://uk.linkedin.com/jobs/view/electronic-test-engineer-at-hawk-3-talent-solutions-4351792831|13ac713fdf15f556
+https://uk.linkedin.com/jobs/view/electronic-test-engineer-at-hawk-3-talent-solutions-4351792831|8b27c87aebd1b0c6
 https://uk.linkedin.com/jobs/view/electronics-test-engineer-at-pickering-interfaces-4328181603|f1f1ea9f71b4ea74
 https://uk.linkedin.com/jobs/view/electronics-test-engineer-at-tiptopjob-4346129381|34f12403d760c4b7
 https://uk.linkedin.com/jobs/view/embedded-software-test-engineer-at-alten-4345849973|134922170443d6c1
@@ -215,7 +215,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-connexai-4329565504|c438c4d4a
 https://uk.linkedin.com/jobs/view/test-engineer-at-cure-talent-4342032416|8883a3cc8ee084e8
 https://uk.linkedin.com/jobs/view/test-engineer-at-dynamic-tech-startup-at-jack-jill-4350796849|7b583101d799e453
 https://uk.linkedin.com/jobs/view/test-engineer-at-forrit-4345411356|2888884afa1ba690
-https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4358501849|17333f44f319d255
+https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4358501849|b9a43c1371405aed
 https://uk.linkedin.com/jobs/view/test-engineer-at-isr-recruitment-4344881979|4bd14c58dfb08bfa
 https://uk.linkedin.com/jobs/view/test-engineer-at-ixceed-solutions-4339126718|98069541245c25bb
 https://uk.linkedin.com/jobs/view/test-engineer-at-la-fosse-4329705420|2bafa911600c8827
@@ -257,6 +257,7 @@ https://uk.talent.com/view?id=16795454309a|c6ca956ab152c1d8
 https://uk.talent.com/view?id=16f7f703543d|28a1956ea8466ed5
 https://uk.talent.com/view?id=17988f6e13ea|2891f96a4e220fb8
 https://uk.talent.com/view?id=17b64fc9bb37|dd74f38d9662cb9a
+https://uk.talent.com/view?id=187f4a731431|2830688ff676397c
 https://uk.talent.com/view?id=197346e14e15|059d612c7f2de7ad
 https://uk.talent.com/view?id=1ca9ff95addf|4487984516c86917
 https://uk.talent.com/view?id=21c42a5e4e3e|423b8a7e347e3c12
