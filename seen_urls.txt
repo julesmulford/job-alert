@@ -151,7 +151,7 @@ https://uk.linkedin.com/jobs/view/sdet-at-techshack-4359410354|cfde93afeb07d39f
 https://uk.linkedin.com/jobs/view/sdet-at-xcede-4325820951|5d46d56bc466b04d
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-kainos-4345647757|d20f9b074a651b7c
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-n-able-4347590980|be238205d7350d0c
-https://uk.linkedin.com/jobs/view/senior-automation-engineer-game-engine-at-games-factory-talents-connecting-passion-talent-4352326737|9cc31a2a04b4796d
+https://uk.linkedin.com/jobs/view/senior-automation-engineer-game-engine-at-games-factory-talents-connecting-passion-talent-4352326737|98b6efd6d504d4c3
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-london-global-prime-brokerage-financing-platform-at-jobs-via-efinancialcareers-4354670360|3075a98a7f834576
 https://uk.linkedin.com/jobs/view/senior-automation-qa-remote-at-tiptopjob-4346999306|d9970c705c6a87d5
 https://uk.linkedin.com/jobs/view/senior-automation-service-engineer-at-spx-flow-inc-4349524418|20157b13a0845e6c
@@ -281,7 +281,7 @@ https://uk.talent.com/view?id=31d66c17314c|6fad6ddead6e04c8
 https://uk.talent.com/view?id=3563bdbef6a6|b1c91361d186a128
 https://uk.talent.com/view?id=359c0770034b|b9624aceabc5414b
 https://uk.talent.com/view?id=3960bc18ebcd|d3031fcf9f911245
-https://uk.talent.com/view?id=3b7fb5839f55|82173c782d32701b
+https://uk.talent.com/view?id=3b7fb5839f55|f598c537bd5ceccc
 https://uk.talent.com/view?id=3b9609aff6f8|d12607294230b8de
 https://uk.talent.com/view?id=3df1217e59d6|61db31cdf0f0565c
 https://uk.talent.com/view?id=3f6fbee33b26|5b4a5db273a3d67e
@@ -303,7 +303,7 @@ https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
 https://uk.talent.com/view?id=6581187a15eb|f2a191d8937e441f
 https://uk.talent.com/view?id=689d2942a739|f7bc613f9e3716fa
-https://uk.talent.com/view?id=6ad821575f56|55041c4be9822cdc
+https://uk.talent.com/view?id=6ad821575f56|e297219ebf9597cc
 https://uk.talent.com/view?id=6c90ee7608fc|e8d485771142094b
 https://uk.talent.com/view?id=6dc125ae4d8c|77504b9c4fe31f5b
 https://uk.talent.com/view?id=70974f3b55e8|f2822a4ebce1ef6c
@@ -326,7 +326,7 @@ https://uk.talent.com/view?id=82868499554a|c44b7efc75ea8491
 https://uk.talent.com/view?id=8abd0fa4da3b|0f2ad67a3821357c
 https://uk.talent.com/view?id=8ba01dc6cda7|23dba05555d24c85
 https://uk.talent.com/view?id=91ce2c764138|5c5ae4887f7b0d6d
-https://uk.talent.com/view?id=9320437e4e55|8b133da77b1206ac
+https://uk.talent.com/view?id=9320437e4e55|a801130185e0e87c
 https://uk.talent.com/view?id=9512aa99d0e2|0e39b4841b7a32ea
 https://uk.talent.com/view?id=96eaf7f0616b|25651977e31608ab
 https://uk.talent.com/view?id=97a87f276102|bad5d030566469cd
