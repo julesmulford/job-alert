@@ -43,15 +43,15 @@ https://uk.jobrapido.com/jobpreview/8419337376458866688|2d9c402e048dcef8
 https://uk.jobrapido.com/jobpreview/8638691896115331072|d3a70761f4e7a09d
 https://uk.jobrapido.com/jobpreview/9193484821878276096|e820d75a22f26709
 https://uk.jobtome.com/job/automation-infrastructure-engineer-corsham/02e5c3b98943edac9898bb381ba79b61|61ac1930405723cc
-https://uk.jobtome.com/job/automation-test-engineer/24ae5192e97b359d47b0021e072d206b|5504a4f6e544cfab
+https://uk.jobtome.com/job/automation-test-engineer/24ae5192e97b359d47b0021e072d206b|071a02599367df07
 https://uk.jobtome.com/job/devops-engineer/2612ad35fdbf73f7544721043e045ff9|a88501153b84e2f5
 https://uk.jobtome.com/job/environmental-test-engineer/f81909c2d0e48e3aba31c74440bc74d1|5639ca1f3f53e8bc
 https://uk.jobtome.com/job/integration-test-engineer/cd659bfa74569a61d683fa9bdac16eb7|5a1705949866e97a
 https://uk.jobtome.com/job/mainframe-system-automation-engineer/8b2b6d1f12c4c40d197de3523b6868b8|b33405c357f2593a
 https://uk.jobtome.com/job/propulsion-test-engineer/bfda88798e6f5c204e053430e496f55f|e1d6ddb6e41ddf1e
 https://uk.jobtome.com/job/qa-engineer-with-banking-exp/071f0df705530704dddf8b4f27a07d86|5467d8c496e34acd
-https://uk.jobtome.com/job/qa-engineer/2bfd9f8756c6c623237fbb634bd02d9e|2512938499db9607
-https://uk.jobtome.com/job/qa-engineer/7522886bfc63e58012eb96f13d6b688a|dbb5619b1056ceb3
+https://uk.jobtome.com/job/qa-engineer/2bfd9f8756c6c623237fbb634bd02d9e|f4de2d76079e230a
+https://uk.jobtome.com/job/qa-engineer/7522886bfc63e58012eb96f13d6b688a|0c1ee079cd56d9d9
 https://uk.jobtome.com/job/rf-test-engineer/cdb1a9916708ea1ee127d92c1a059c2c|4d39e190e9d7478a
 https://uk.jobtome.com/job/senior-test-engineer/7617fb5b75b2aaa596fdd0829d0b1e07|8c1b11ab49f42f1c
 https://uk.jobtome.com/job/software-tester-remote/59c4fd629d579b89d74ce4eaa73cb864|48ca661c91a3d262
@@ -442,7 +442,7 @@ https://www.jobserve.com/gb/en/mob/job/2EDCDAB8B0A6B1E0D9?shid=539624818B2FA6C8C
 https://www.jobsinwales.com/jobs-in-st-asaph/test-engineer_1425893?region=south|3d77650c53142102
 https://www.microtech-global.com/en/job_detail.asp?jobid=19003UMQ|045f1298b72e0376
 https://www.prs.uk.com/job/production-test-engineer-essex-bh-68485|9bf9421c3b4f4ddf
-https://www.qualifiedfinder.com/jobs/environmental-test-engineer-3058483800|5364812f8d7df119
+https://www.qualifiedfinder.com/jobs/environmental-test-engineer-3058483800|e7fffbd7e631d68c
 https://www.qualifiedfinder.com/jobs/software-development-engineer-in-test-sdet-3057112854|aca4769bacb918ce
 https://www.qualifiedfinder.com/jobs/software-tester-3055124012|59643bafcdf9e2d3
 https://www.railwaypeople.com/Rail-Jobs/General-Rail-Jobs/IVVQ-Engineer-System-Test-Engineer/Details/646741|8b8ba09c82a61b9b
