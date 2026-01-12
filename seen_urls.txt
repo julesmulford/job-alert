@@ -208,6 +208,7 @@ https://uk.linkedin.com/jobs/view/software-engineer-iii-test-automation-at-hacka
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-michael-james-associates-4329040513|3934a53764eda1b8
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-explore-group-4350146205|90039330509a4368
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-ic-resources-4359453757|17b23602836072a5
+https://uk.linkedin.com/jobs/view/software-test-engineer-at-the-one-group-ltd-4352574775|7a8edb65154335e2
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-tst-group-4339364094|77e2528712aef090
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-vanrath-4343264665|3f309a83f0eccb19
 https://uk.linkedin.com/jobs/view/software-test-engineers-at-hackajob-4329857405|eacb900a5b67cb11
@@ -225,6 +226,7 @@ https://uk.linkedin.com/jobs/view/test-automation-engineer-at-health-project-434
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pelion-4344514030|09a1ce95d7968027
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pentenamio-4337852477|0bc864521d202384
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-shawbrook-4359646770|a3f308934b6f493b
+https://uk.linkedin.com/jobs/view/test-automation-engineer-mobile-at-person-centred-software-ltd-4360773585|6026471f9dba3a91
 https://uk.linkedin.com/jobs/view/test-automation-lead-at-natobotics-4346044508|1202ef8b183040bc
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-ceox-services-ltd-4345182421|0cbc1dbc9a3a05d3
 https://uk.linkedin.com/jobs/view/test-data-specialist-remote-at-taskify-ai-4338525459|c0d854d4514e033f
