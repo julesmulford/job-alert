@@ -60,7 +60,7 @@ https://uk.linkedin.com/jobs/view/actemium-automation-nottingham-senior-control-
 https://uk.linkedin.com/jobs/view/actemium-ics-test-engineer-at-actemium-uk-4330073147|1d0016fe50de061f
 https://uk.linkedin.com/jobs/view/aem-qa-automation-engineer-at-red-global-4348843342|25c2ad62c4905622
 https://uk.linkedin.com/jobs/view/affiliate-software-engineer-in-test-at-and-digital-4342781054|52249c509c6b31e4
-https://uk.linkedin.com/jobs/view/ai-artificial-intelligence-test-automation-engineer-at-de-mare-consulting-4360757332|9cdd148e85a3c3fe
+https://uk.linkedin.com/jobs/view/ai-artificial-intelligence-test-automation-engineer-at-de-mare-consulting-4360757332|5e1f8d0e647d8a8d
 https://uk.linkedin.com/jobs/view/ai-assistant-user-tester-at-taskify-ai-4339868441|88204efb30fd0b5c
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-hackajob-4324082996|80da2bbf8cace59e
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-kennedypearce-consulting-4345851075|76be3af28a108a33
@@ -137,7 +137,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-at-xpertise-recruitment-4352390269
 https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-rm-plc-4328787520|9247e76f76e6e89f
 https://uk.linkedin.com/jobs/view/qa-engineer-contractor-at-pulse-innovations-gmbh-4360642801|e9bdcc2f1c86907a
 https://uk.linkedin.com/jobs/view/qa-engineer-manual-mid-level-12-month-ftc-at-informa-4339482495|9009e4ac4ad456c6
-https://uk.linkedin.com/jobs/view/qa-engineer-web-app-d65-integration-sc-cleared-at-pioneer-search-4354715256|be9bb296f974bcb0
+https://uk.linkedin.com/jobs/view/qa-engineer-web-app-d65-integration-sc-cleared-at-pioneer-search-4354715256|b6d3d619c735a2d6
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-dine-4358754863?position=34&pageNum=0&refId=82jCfizjECYS02Im/WtfeQ==&trackingId=g2GFRa6Ry42KihTL0xDURQ==|39491eda9bc42633
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-techshack-4349323829|2b3f492655cf3cbd
 https://uk.linkedin.com/jobs/view/qa-tester-at-tekton-billing-4346850509|91f6269b04830d2f
@@ -203,7 +203,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-diversejobsmatter-4343
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-eclectic-recruitment-ltd-4350658842|7e34576cdebd2678
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-free-work-uk-4342510829|620dfa58431adae2
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-lrqa-4342733252|7de82e1f7d276383
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-mygwork-lgbtq+-business-community-4352790694|65910368906daa42
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-mygwork-lgbtq+-business-community-4352790694|f4e5cfb4135aebec
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-ncr-atleos-4328117500|ec03eab6907ecb97
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-sepura-4342671512|802c4a8e196a88f1
 https://uk.linkedin.com/jobs/view/service-desk-automation-engineer-at-klipboard-4328657575|ae4412447abd9f4d
@@ -446,7 +446,7 @@ https://www.google.com/url?rct=j&sa=t&url=https://www.totaljobs.com/job/test-eng
 https://www.google.com/url?rct=j&sa=t&url=https://www.waconsultants.com/jobs/embedded-softwaresystems-test-engineer-hybrid-3571/&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw2TnhgdjdgBG8yOhW38MxfK|c79988a546822281
 https://www.jobserve.com/gb/en/JobListing.aspx?shid=F2BF1CC59F2D179A8DA4|241902bbeb2f5a67
 https://www.jobserve.com/gb/en/mob/job/2EDCDAB8B0A6B1E0D9?shid=539624818B2FA6C8CB14&page=1|c56c8251964bc2f0
-https://www.jobsinwales.com/jobs-in-pontyclun/test-engineer_1429672?region=south|c53e86eeec2684f8
+https://www.jobsinwales.com/jobs-in-pontyclun/test-engineer_1429672?region=south|8114375f873427c5
 https://www.jobsinwales.com/jobs-in-st-asaph/test-engineer_1425893?region=south|3d77650c53142102
 https://www.microtech-global.com/en/job_detail.asp?jobid=19003UMQ|045f1298b72e0376
 https://www.prs.uk.com/job/production-test-engineer-essex-bh-68485|9bf9421c3b4f4ddf
