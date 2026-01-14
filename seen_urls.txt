@@ -131,7 +131,7 @@ https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-tek-tron-it-43412405
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-track24-4324689558|78a811ee20fccd92
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-london-stock-exchange-group-at-jobs-via-efinancialcareers-4346657191|f70db5ed825add1e
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-on-site-at-insight-international-uk-ltd-4325026085|b354a5572290a238
-https://uk.linkedin.com/jobs/view/qa-automation-engineer-python-pytest-cosmos-db-banking-client-exp-required-vallum-associates-at-jobster-4354477343|07c0cc6c960e0626
+https://uk.linkedin.com/jobs/view/qa-automation-engineer-python-pytest-cosmos-db-banking-client-exp-required-vallum-associates-at-jobster-4354477343|2f3a59c3f4dbd164
 https://uk.linkedin.com/jobs/view/qa-embedded-tester-at-hutch-4359983518|0479fb1e2a2e69d6
 https://uk.linkedin.com/jobs/view/qa-engineer-at-track24-4329964964|e6c5aaea37e21a83
 https://uk.linkedin.com/jobs/view/qa-engineer-at-xpertise-recruitment-4352390269|bfdbf73c88f4aaa3
@@ -207,7 +207,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-lrqa-4342733252|7de82e
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-mygwork-lgbtq+-business-community-4352790694|f4e5cfb4135aebec
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-ncr-atleos-4328117500|ec03eab6907ecb97
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-sepura-4342671512|802c4a8e196a88f1
-https://uk.linkedin.com/jobs/view/senior-test-engineer-mastek-at-jobster-4351888412|434510eb0fc28951
+https://uk.linkedin.com/jobs/view/senior-test-engineer-mastek-at-jobster-4351888412|a0a1fa55a8e3301b
 https://uk.linkedin.com/jobs/view/service-desk-automation-engineer-at-klipboard-4328657575|ae4412447abd9f4d
 https://uk.linkedin.com/jobs/view/software-automation-engineer-at-owen-daniels-4348882795|4484d7689910b096
 https://uk.linkedin.com/jobs/view/software-engineer-iii-sdet-at-hackajob-4329392484|cb7f223f5b6091c4
