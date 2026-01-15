@@ -48,7 +48,7 @@ https://uk.jobtome.com/job/devops-engineer/2612ad35fdbf73f7544721043e045ff9|a885
 https://uk.jobtome.com/job/environmental-test-engineer/f81909c2d0e48e3aba31c74440bc74d1|5639ca1f3f53e8bc
 https://uk.jobtome.com/job/integration-test-engineer/cd659bfa74569a61d683fa9bdac16eb7|5a1705949866e97a
 https://uk.jobtome.com/job/mainframe-system-automation-engineer/8b2b6d1f12c4c40d197de3523b6868b8|b33405c357f2593a
-https://uk.jobtome.com/job/process-automation-engineer/7b3bc2ca0efcbec8e01268fd810a1136|cc825ca4e589b388
+https://uk.jobtome.com/job/process-automation-engineer/7b3bc2ca0efcbec8e01268fd810a1136|c4753b9a9f1fb9b6
 https://uk.jobtome.com/job/propulsion-test-engineer/bfda88798e6f5c204e053430e496f55f|e1d6ddb6e41ddf1e
 https://uk.jobtome.com/job/qa-engineer-with-banking-exp/071f0df705530704dddf8b4f27a07d86|5467d8c496e34acd
 https://uk.jobtome.com/job/qa-engineer/2bfd9f8756c6c623237fbb634bd02d9e|f4de2d76079e230a
@@ -78,7 +78,7 @@ https://uk.linkedin.com/jobs/view/automation-engineer-at-john-goddard-associates
 https://uk.linkedin.com/jobs/view/automation-engineer-at-logistex-4344865655|014497cf8106484b
 https://uk.linkedin.com/jobs/view/automation-engineer-at-self-employed-4343378556|4e47adf5a3a804db
 https://uk.linkedin.com/jobs/view/automation-engineer-fea-at-capgemini-engineering-4327805525|81515acb516bc0e2
-https://uk.linkedin.com/jobs/view/automation-engineer-rme-at-amazon-4361665708|9f8392a79bd544ab
+https://uk.linkedin.com/jobs/view/automation-engineer-rme-at-amazon-4361665708|30015ebb4763a27b
 https://uk.linkedin.com/jobs/view/automation-qa-engineer-oracle-at-coinmarketcap-4345425426|116430409b16195c
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-natobotics-4325826061|71c11201427e433c
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-test-yantra-4346084735|47fff4f0e57ef1b0
@@ -105,7 +105,7 @@ https://uk.linkedin.com/jobs/view/frontend-quality-assurance-engineer-remote-at-
 https://uk.linkedin.com/jobs/view/ftc-test-automation-engineer-at-pentenamio-4344686960|4d762840a0fae8dc
 https://uk.linkedin.com/jobs/view/graduate-automation-engineer-at-hitachi-energy-4327207297|92ee46761ae15f6b
 https://uk.linkedin.com/jobs/view/graduate-qa-engineer-at-ovarro-4329290939|e241c2590d20c3a1
-https://uk.linkedin.com/jobs/view/hardware-test-compliance-engineer-at-fuse-energy-4361666692|c9607920e6bcf392
+https://uk.linkedin.com/jobs/view/hardware-test-compliance-engineer-at-fuse-energy-4361666692|6def7703801c2e84
 https://uk.linkedin.com/jobs/view/java-sdet-at-cognizant-4346115894|831da1900154ff7d
 https://uk.linkedin.com/jobs/view/jcf-test-at-johnston-carmichael-chartered-accountants-and-business-advisers-4328142874|ef4d79395c541bb8
 https://uk.linkedin.com/jobs/view/junior-qa-engineer-at-welland-medical-ltd-4345437790|04701112bba25875
@@ -210,7 +210,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-free-work-uk-434251082
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-lrqa-4342733252|7de82e1f7d276383
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-mygwork-lgbtq+-business-community-4352790694|f4e5cfb4135aebec
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-ncr-atleos-4328117500|ec03eab6907ecb97
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-platform-recruitment-4353124635|a17c194d1774bdcf
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-platform-recruitment-4353124635|d6451abbc33d4f61
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-sepura-4342671512|802c4a8e196a88f1
 https://uk.linkedin.com/jobs/view/senior-test-engineer-mastek-at-jobster-4351888412|3efc0d7a88b7c4d5
 https://uk.linkedin.com/jobs/view/senior-test-engineer-williams-racing-at-jobster-4354707490|f7e06dc26c107b79
@@ -270,6 +270,7 @@ https://uk.linkedin.com/jobs/view/test-lead-at-hcltech-4350695341|658e32187b176a
 https://uk.linkedin.com/jobs/view/test-lead-at-primus-global-solutions-primus-uk-europe-4354515937|92d559d65d9d33dc
 https://uk.linkedin.com/jobs/view/test-lead-operational-technology-poweron-adms-at-sword-group-4349397283|f2adf25a8a917e5e
 https://uk.linkedin.com/jobs/view/test-lead-studentjob-co-uk-at-jobster-4330124478|76bd8d41538ebdf2
+https://uk.linkedin.com/jobs/view/test-rig-engineer-at-trescal-4362404132|0e8ef14e05b26c6b
 https://uk.linkedin.com/jobs/view/tester-enhanced-dv-at-learning-for-now-4346384598|cf086484e63a161a
 https://uk.linkedin.com/jobs/view/tester-remote-at-talent-orbit-4342316289|e228e772e7403b73
 https://uk.linkedin.com/jobs/view/testing-analyst-remote-at-taskify-ai-4339868277|d8a7537dd47dacbb
@@ -454,7 +455,7 @@ https://www.google.com/url?rct=j&sa=t&url=https://www.totaljobs.com/job/test-eng
 https://www.google.com/url?rct=j&sa=t&url=https://www.waconsultants.com/jobs/embedded-softwaresystems-test-engineer-hybrid-3571/&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw2TnhgdjdgBG8yOhW38MxfK|c79988a546822281
 https://www.jobserve.com/gb/en/JobListing.aspx?shid=F2BF1CC59F2D179A8DA4|241902bbeb2f5a67
 https://www.jobserve.com/gb/en/mob/job/2EDCDAB8B0A6B1E0D9?shid=539624818B2FA6C8CB14&page=1|c56c8251964bc2f0
-https://www.jobsinwales.com/jobs-in-bassaleg/test-engineer_1430130?region=south|55d0bc36621fa839
+https://www.jobsinwales.com/jobs-in-bassaleg/test-engineer_1430130?region=south|37705c64e5734de4
 https://www.jobsinwales.com/jobs-in-pontyclun/test-engineer_1429672?region=south|8114375f873427c5
 https://www.jobsinwales.com/jobs-in-st-asaph/test-engineer_1425893?region=south|3d77650c53142102
 https://www.microtech-global.com/en/job_detail.asp?jobid=19003UMQ|045f1298b72e0376
@@ -475,4 +476,4 @@ https://www.s1jobs.com/job/senior-test-automation-engineer-healthcare-platform-1
 https://www.securityclearedjobs.com/job/802067479/manufacturing-test-engineer/|a4648775d19b6a5e
 https://www.thechemicalengineer.com/news/uk-commits-75m-to-phasing-out-animal-testing/|f90c12a96dee0861
 https://www.tiptopjob.com/search/jobs/132575587_-qa-engineer-city-of-westminster-london-city-and-west-end-london-uk-united-kingdom-_job.asp|b649dc8eb44c120b
-https://www.tiptopjob.com/search/jobs/132627846_-switchgear-test-engineer-aberdeen-pitmedden-ind-est-inverness-shire-scotland-uk-united-kingdom-_job.asp|d218851c1cd89a48
+https://www.tiptopjob.com/search/jobs/132627846_-switchgear-test-engineer-aberdeen-pitmedden-ind-est-inverness-shire-scotland-uk-united-kingdom-_job.asp|d298da27f4909edf
