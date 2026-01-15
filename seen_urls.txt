@@ -103,6 +103,7 @@ https://uk.linkedin.com/jobs/view/frontend-quality-assurance-engineer-remote-at-
 https://uk.linkedin.com/jobs/view/ftc-test-automation-engineer-at-pentenamio-4344686960|4d762840a0fae8dc
 https://uk.linkedin.com/jobs/view/graduate-automation-engineer-at-hitachi-energy-4327207297|92ee46761ae15f6b
 https://uk.linkedin.com/jobs/view/graduate-qa-engineer-at-ovarro-4329290939|e241c2590d20c3a1
+https://uk.linkedin.com/jobs/view/hardware-test-compliance-engineer-at-fuse-energy-4361666692|21d1689cb40adc05
 https://uk.linkedin.com/jobs/view/java-sdet-at-cognizant-4346115894|831da1900154ff7d
 https://uk.linkedin.com/jobs/view/jcf-test-at-johnston-carmichael-chartered-accountants-and-business-advisers-4328142874|ef4d79395c541bb8
 https://uk.linkedin.com/jobs/view/junior-qa-engineer-at-welland-medical-ltd-4345437790|04701112bba25875
@@ -450,6 +451,7 @@ https://www.google.com/url?rct=j&sa=t&url=https://www.totaljobs.com/job/test-eng
 https://www.google.com/url?rct=j&sa=t&url=https://www.waconsultants.com/jobs/embedded-softwaresystems-test-engineer-hybrid-3571/&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw2TnhgdjdgBG8yOhW38MxfK|c79988a546822281
 https://www.jobserve.com/gb/en/JobListing.aspx?shid=F2BF1CC59F2D179A8DA4|241902bbeb2f5a67
 https://www.jobserve.com/gb/en/mob/job/2EDCDAB8B0A6B1E0D9?shid=539624818B2FA6C8CB14&page=1|c56c8251964bc2f0
+https://www.jobsinwales.com/jobs-in-bassaleg/test-engineer_1430130?region=south|edc170557339d71d
 https://www.jobsinwales.com/jobs-in-pontyclun/test-engineer_1429672?region=south|8114375f873427c5
 https://www.jobsinwales.com/jobs-in-st-asaph/test-engineer_1425893?region=south|3d77650c53142102
 https://www.microtech-global.com/en/job_detail.asp?jobid=19003UMQ|045f1298b72e0376
@@ -470,4 +472,4 @@ https://www.s1jobs.com/job/senior-test-automation-engineer-healthcare-platform-1
 https://www.securityclearedjobs.com/job/802067479/manufacturing-test-engineer/|a4648775d19b6a5e
 https://www.thechemicalengineer.com/news/uk-commits-75m-to-phasing-out-animal-testing/|f90c12a96dee0861
 https://www.tiptopjob.com/search/jobs/132575587_-qa-engineer-city-of-westminster-london-city-and-west-end-london-uk-united-kingdom-_job.asp|b649dc8eb44c120b
-https://www.tiptopjob.com/search/jobs/132627846_-switchgear-test-engineer-aberdeen-pitmedden-ind-est-inverness-shire-scotland-uk-united-kingdom-_job.asp|2d9a70190951bc4c
+https://www.tiptopjob.com/search/jobs/132627846_-switchgear-test-engineer-aberdeen-pitmedden-ind-est-inverness-shire-scotland-uk-united-kingdom-_job.asp|5472698f5e5f89d2
