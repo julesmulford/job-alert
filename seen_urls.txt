@@ -276,6 +276,7 @@ https://uk.linkedin.com/jobs/view/tester-remote-at-talent-orbit-4342316289|e228e
 https://uk.linkedin.com/jobs/view/testing-analyst-remote-at-taskify-ai-4339868277|d8a7537dd47dacbb
 https://uk.linkedin.com/jobs/view/testing-consultant-remote-at-talent-pulse-4342526153|5260f2d7cdd031de
 https://uk.linkedin.com/jobs/view/testing-specialist-remote-at-hire-wave-4342690970|f531e5354d615a47
+https://uk.linkedin.com/jobs/view/tooling-automation-engineer-at-apple-4360065154|c329e3d4ea77e383
 https://uk.linkedin.com/jobs/view/trainee-software-tester-at-taxpad-ltd-4346412018|1aacc02d1e77fa82
 https://uk.linkedin.com/jobs/view/validation-engineer-at-ic-resources-4345646712|16505730f1ae5d37
 https://uk.linkedin.com/jobs/view/verification-qa-engineer-at-socode-recruitment-4328879923|15b875cccb579ed9
@@ -366,6 +367,7 @@ https://uk.talent.com/view?id=9b547faf25b0|05c83a1a6091fd4f
 https://uk.talent.com/view?id=9f09b9d5caed|77fdc640c7f2dd16
 https://uk.talent.com/view?id=9fc3b0d6fd0d|48c6faedc0337033
 https://uk.talent.com/view?id=a42aa9ba323d|a74ede9057ad2779
+https://uk.talent.com/view?id=a614d8ea6d1a|b6d1d183c88197d8
 https://uk.talent.com/view?id=a7d6f5938ba5|d56259ab200bb01e
 https://uk.talent.com/view?id=a84a6e9ad811|9b8f1d1167a7085d
 https://uk.talent.com/view?id=a87073ffa577|da767d3351ba155d
