@@ -46,6 +46,7 @@ https://uk.jobtome.com/job/automation-infrastructure-engineer-corsham/02e5c3b989
 https://uk.jobtome.com/job/automation-test-engineer/24ae5192e97b359d47b0021e072d206b|071a02599367df07
 https://uk.jobtome.com/job/devops-engineer/2612ad35fdbf73f7544721043e045ff9|a88501153b84e2f5
 https://uk.jobtome.com/job/environmental-test-engineer/f81909c2d0e48e3aba31c74440bc74d1|5639ca1f3f53e8bc
+https://uk.jobtome.com/job/graduate-software-test-engineer/b807f359d089e020b273fda0424f572d|360159810e83e898
 https://uk.jobtome.com/job/integration-test-engineer/cd659bfa74569a61d683fa9bdac16eb7|5a1705949866e97a
 https://uk.jobtome.com/job/mainframe-system-automation-engineer/8b2b6d1f12c4c40d197de3523b6868b8|b33405c357f2593a
 https://uk.jobtome.com/job/process-automation-engineer/7b3bc2ca0efcbec8e01268fd810a1136|c4753b9a9f1fb9b6
@@ -91,10 +92,10 @@ https://uk.linkedin.com/jobs/view/automation-tester-at-associated-terminals-4343
 https://uk.linkedin.com/jobs/view/automation-tester-at-hackajob-4328947455|d3e2794071644f04
 https://uk.linkedin.com/jobs/view/automation-tester-government-at-stealth-it-consulting-4328978615|e187652c0ee5c47a
 https://uk.linkedin.com/jobs/view/content-tester-shipit-at-shipit-4346291657|266049a624aab948
-https://uk.linkedin.com/jobs/view/controls-automation-engineer-connected-consulting-limited-at-jobster-4360038306|f59cf3070e307289
+https://uk.linkedin.com/jobs/view/controls-automation-engineer-connected-consulting-limited-at-jobster-4360038306|cfba94a030600e37
 https://uk.linkedin.com/jobs/view/e2e-test-engineer-manual-at-g4s-4346195365|c690f0684efa81c4
 https://uk.linkedin.com/jobs/view/electrical-domestic-tester-at-rge-services-4343670607|c7baaa4a186528fd
-https://uk.linkedin.com/jobs/view/electrified-powertrain-development-and-test-engineer-changan-uk-r-d-centre-limited-at-jobster-4360086757|466646d0acac2e6e
+https://uk.linkedin.com/jobs/view/electrified-powertrain-development-and-test-engineer-changan-uk-r-d-centre-limited-at-jobster-4360086757|d26809eaacebfe4d
 https://uk.linkedin.com/jobs/view/electronic-test-engineer-at-hawk-3-talent-solutions-4351792831|8698d078493a5daf
 https://uk.linkedin.com/jobs/view/electronics-test-engineer-at-pickering-interfaces-4328181603|f1f1ea9f71b4ea74
 https://uk.linkedin.com/jobs/view/electronics-test-engineer-at-tiptopjob-4346129381|34f12403d760c4b7
@@ -203,6 +204,7 @@ https://uk.linkedin.com/jobs/view/senior-software-test-automation-engineer-at-sc
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-dotmatics-4327865434|6e78732589f49267
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-hackajob-4329322584|3b7732b91824ca0f
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-synergize-consulting-4348876811|e4f77cf02e1ac09e
+https://uk.linkedin.com/jobs/view/senior-software-tester-g-digital-at-jobster-4360104519|efc93c63c3aab820
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-premier-group-4342574183|9fc6f65253428ec6
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-hackajob-4328310922|3e71ee73833045a8
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-xperi-inc-4326506723|2745901db43560f3
