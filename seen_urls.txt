@@ -185,6 +185,7 @@ https://uk.linkedin.com/jobs/view/senior-manufacturing-test-engineer-at-siemens-
 https://uk.linkedin.com/jobs/view/senior-mobile-automation-tester-at-w3global-4342763594|8e182b4bd9741edf
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-jobs-via-efinancialcareers-4346694704|e5197ed78aeface3
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-tp-icap-4347492608|d8dcfb2c130aae89
+https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-investengine-4360014970|57df837398502b98
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-tp-icap-4347391110|a5dbd38f52188bb6
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-net-automation-at-wheelright-4344959473|010aac78c78e52a5
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-kinetic-games-4358954740|36b781f80b4025c8
@@ -276,7 +277,7 @@ https://uk.linkedin.com/jobs/view/tester-remote-at-talent-orbit-4342316289|e228e
 https://uk.linkedin.com/jobs/view/testing-analyst-remote-at-taskify-ai-4339868277|d8a7537dd47dacbb
 https://uk.linkedin.com/jobs/view/testing-consultant-remote-at-talent-pulse-4342526153|5260f2d7cdd031de
 https://uk.linkedin.com/jobs/view/testing-specialist-remote-at-hire-wave-4342690970|f531e5354d615a47
-https://uk.linkedin.com/jobs/view/tooling-automation-engineer-at-apple-4360065154|c329e3d4ea77e383
+https://uk.linkedin.com/jobs/view/tooling-automation-engineer-at-apple-4360065154|253135c90cbe16b4
 https://uk.linkedin.com/jobs/view/trainee-software-tester-at-taxpad-ltd-4346412018|1aacc02d1e77fa82
 https://uk.linkedin.com/jobs/view/validation-engineer-at-ic-resources-4345646712|16505730f1ae5d37
 https://uk.linkedin.com/jobs/view/verification-qa-engineer-at-socode-recruitment-4328879923|15b875cccb579ed9
@@ -295,6 +296,7 @@ https://uk.talent.com/view?id=16795454309a|c6ca956ab152c1d8
 https://uk.talent.com/view?id=16f7f703543d|28a1956ea8466ed5
 https://uk.talent.com/view?id=17988f6e13ea|2891f96a4e220fb8
 https://uk.talent.com/view?id=17b64fc9bb37|dd74f38d9662cb9a
+https://uk.talent.com/view?id=1801c4644c31|8fce6f26091bcb4e
 https://uk.talent.com/view?id=187f4a731431|c60a86746b7c7892
 https://uk.talent.com/view?id=197346e14e15|059d612c7f2de7ad
 https://uk.talent.com/view?id=1ca9ff95addf|4487984516c86917
@@ -367,7 +369,7 @@ https://uk.talent.com/view?id=9b547faf25b0|05c83a1a6091fd4f
 https://uk.talent.com/view?id=9f09b9d5caed|77fdc640c7f2dd16
 https://uk.talent.com/view?id=9fc3b0d6fd0d|48c6faedc0337033
 https://uk.talent.com/view?id=a42aa9ba323d|a74ede9057ad2779
-https://uk.talent.com/view?id=a614d8ea6d1a|b6d1d183c88197d8
+https://uk.talent.com/view?id=a614d8ea6d1a|87894652e1988f31
 https://uk.talent.com/view?id=a7d6f5938ba5|d56259ab200bb01e
 https://uk.talent.com/view?id=a84a6e9ad811|9b8f1d1167a7085d
 https://uk.talent.com/view?id=a87073ffa577|da767d3351ba155d
@@ -430,6 +432,7 @@ https://uk.talent.com/view?id=f69459eeac3d|e1fe17ba0be9500d
 https://uk.talent.com/view?id=f6fee7cd10b4|dc9ad8c6ec85684e
 https://uk.talent.com/view?id=fbbba1849b0f|8ae6033e45298a45
 https://uk.talent.com/view?id=fdec976de6bf|52023d94811169b3
+https://uk.talent.com/view?id=fec907b32877|acbf07bc388ac079
 https://uk.talent.com/view?id=fef049610beb|efef477a39e08ea1
 https://uk.talent.com/view?id=ffb1c9fa61c8|7bee750ca43f0535
 https://uk.whatjobs.com/jobs/java-sdet?id=364605333|6f4e6b8b9206c7b4
