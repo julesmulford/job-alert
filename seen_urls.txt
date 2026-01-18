@@ -46,7 +46,7 @@ https://uk.jobtome.com/job/automation-infrastructure-engineer-corsham/02e5c3b989
 https://uk.jobtome.com/job/automation-test-engineer/24ae5192e97b359d47b0021e072d206b|071a02599367df07
 https://uk.jobtome.com/job/devops-engineer/2612ad35fdbf73f7544721043e045ff9|a88501153b84e2f5
 https://uk.jobtome.com/job/environmental-test-engineer/f81909c2d0e48e3aba31c74440bc74d1|5639ca1f3f53e8bc
-https://uk.jobtome.com/job/graduate-software-test-engineer/b807f359d089e020b273fda0424f572d|ad548bf75cf95672
+https://uk.jobtome.com/job/graduate-software-test-engineer/b807f359d089e020b273fda0424f572d|dbf27a5a1ca29e3e
 https://uk.jobtome.com/job/integration-test-engineer/cd659bfa74569a61d683fa9bdac16eb7|5a1705949866e97a
 https://uk.jobtome.com/job/mainframe-system-automation-engineer/8b2b6d1f12c4c40d197de3523b6868b8|b33405c357f2593a
 https://uk.jobtome.com/job/process-automation-engineer/7b3bc2ca0efcbec8e01268fd810a1136|c4753b9a9f1fb9b6
@@ -57,7 +57,7 @@ https://uk.jobtome.com/job/qa-engineer/7522886bfc63e58012eb96f13d6b688a|0c1ee079
 https://uk.jobtome.com/job/rf-test-engineer/cdb1a9916708ea1ee127d92c1a059c2c|4d39e190e9d7478a
 https://uk.jobtome.com/job/senior-test-engineer/7617fb5b75b2aaa596fdd0829d0b1e07|8c1b11ab49f42f1c
 https://uk.jobtome.com/job/software-test-engineer/f07cb5b9008937bc0ee7b9016cfd094f|fb412cf65f9a348b
-https://uk.jobtome.com/job/software-tester-1-year-fixed-term/d7ca9b44ad31d520dbd727390aa656d0|9d213ab334be6b95
+https://uk.jobtome.com/job/software-tester-1-year-fixed-term/d7ca9b44ad31d520dbd727390aa656d0|cebe70ef48910daf
 https://uk.jobtome.com/job/software-tester-remote/59c4fd629d579b89d74ce4eaa73cb864|48ca661c91a3d262
 https://uk.linkedin.com/jobs/view/actemium-automation-nottingham-senior-control-systems-engineer-siemens-specialist-at-actemium-uk-4329640161|7c5b4f936b81866c
 https://uk.linkedin.com/jobs/view/actemium-ics-test-engineer-at-actemium-uk-4330073147|1d0016fe50de061f
@@ -93,10 +93,10 @@ https://uk.linkedin.com/jobs/view/automation-tester-at-associated-terminals-4343
 https://uk.linkedin.com/jobs/view/automation-tester-at-hackajob-4328947455|d3e2794071644f04
 https://uk.linkedin.com/jobs/view/automation-tester-government-at-stealth-it-consulting-4328978615|e187652c0ee5c47a
 https://uk.linkedin.com/jobs/view/content-tester-shipit-at-shipit-4346291657|266049a624aab948
-https://uk.linkedin.com/jobs/view/controls-automation-engineer-connected-consulting-limited-at-jobster-4360038306|e0447f9a907c9568
+https://uk.linkedin.com/jobs/view/controls-automation-engineer-connected-consulting-limited-at-jobster-4360038306|add6afe31e0f7156
 https://uk.linkedin.com/jobs/view/e2e-test-engineer-manual-at-g4s-4346195365|c690f0684efa81c4
 https://uk.linkedin.com/jobs/view/electrical-domestic-tester-at-rge-services-4343670607|c7baaa4a186528fd
-https://uk.linkedin.com/jobs/view/electrified-powertrain-development-and-test-engineer-changan-uk-r-d-centre-limited-at-jobster-4360086757|2611149b3979d096
+https://uk.linkedin.com/jobs/view/electrified-powertrain-development-and-test-engineer-changan-uk-r-d-centre-limited-at-jobster-4360086757|94c14931ab9cc2f0
 https://uk.linkedin.com/jobs/view/electronic-test-engineer-at-hawk-3-talent-solutions-4351792831|8698d078493a5daf
 https://uk.linkedin.com/jobs/view/electronics-test-engineer-at-pickering-interfaces-4328181603|f1f1ea9f71b4ea74
 https://uk.linkedin.com/jobs/view/electronics-test-engineer-at-tiptopjob-4346129381|34f12403d760c4b7
@@ -205,7 +205,7 @@ https://uk.linkedin.com/jobs/view/senior-software-test-automation-engineer-at-sc
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-dotmatics-4327865434|6e78732589f49267
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-hackajob-4329322584|3b7732b91824ca0f
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-synergize-consulting-4348876811|e4f77cf02e1ac09e
-https://uk.linkedin.com/jobs/view/senior-software-tester-g-digital-at-jobster-4360104519|9ce4bd47f47033eb
+https://uk.linkedin.com/jobs/view/senior-software-tester-g-digital-at-jobster-4360104519|0db3867ce3479f67
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-premier-group-4342574183|9fc6f65253428ec6
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-hackajob-4328310922|3e71ee73833045a8
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-xperi-inc-4326506723|2745901db43560f3
@@ -235,7 +235,7 @@ https://uk.linkedin.com/jobs/view/software-test-engineer-at-vanrath-4343264665|3
 https://uk.linkedin.com/jobs/view/software-test-engineers-at-hackajob-4329857405|eacb900a5b67cb11
 https://uk.linkedin.com/jobs/view/software-tester-at-culverdocs-4342181779|b35890caa39d6ecc
 https://uk.linkedin.com/jobs/view/software-tester-at-fdm-group-4348622615|63521ed80df38291
-https://uk.linkedin.com/jobs/view/software-tester-innova-recruitment-at-jobster-4359228466|90f9734828cc857c
+https://uk.linkedin.com/jobs/view/software-tester-innova-recruitment-at-jobster-4359228466|62a1ff08f7b8c11b
 https://uk.linkedin.com/jobs/view/software-tester-qa-at-robertson-sumner-4348480072|99f79aa851119221
 https://uk.linkedin.com/jobs/view/software-tester-qa-at-robertson-sumner-4351213562|5989d0e52918d75f
 https://uk.linkedin.com/jobs/view/sr-software-test-engineer-at-entrust-4358775231|d7480921afa00733
@@ -288,6 +288,7 @@ https://uk.linkedin.com/jobs/view/testing-specialist-remote-at-hire-wave-4342690
 https://uk.linkedin.com/jobs/view/tooling-automation-engineer-at-apple-4360065154|8e76b6a9f04f9003
 https://uk.linkedin.com/jobs/view/trainee-software-tester-at-taxpad-ltd-4346412018|1aacc02d1e77fa82
 https://uk.linkedin.com/jobs/view/validation-engineer-at-ic-resources-4345646712|16505730f1ae5d37
+https://uk.linkedin.com/jobs/view/vehicle-test-engineer-at-quintessential-design-services-limited-4364037357|f9081103f4f3da6d
 https://uk.linkedin.com/jobs/view/verification-qa-engineer-at-socode-recruitment-4328879923|15b875cccb579ed9
 https://uk.linkedin.com/jobs/website-testing-jobs-london-area-united-kingdom|824a2e964dc7af73
 https://uk.talent.com/en/view?id=88b9d54bbc0b&trigger_from=related_jobs|7f10f1dc94d08f23
@@ -295,7 +296,7 @@ https://uk.talent.com/en/view?id=a74f8d69f483&trigger_from=related_jobs|be826279
 https://uk.talent.com/en/view?id=f36b243e2c39&trigger_from=related_jobs|4926ae26a28e4346
 https://uk.talent.com/view?id=018d5bf0a687|4bce2344565e5ac2
 https://uk.talent.com/view?id=02f3070b5dc9|eb92445f1b6fc11c
-https://uk.talent.com/view?id=03532e4af2fc|9db9e1ad3b26c439
+https://uk.talent.com/view?id=03532e4af2fc|4a528bea73b94bdc
 https://uk.talent.com/view?id=066af145d43d|5135bb5bb00efd74
 https://uk.talent.com/view?id=069a6c9aaf71|cd919acee1dc847c
 https://uk.talent.com/view?id=079fdf07d8f2|ce297bd18b72c8a9
