@@ -122,7 +122,7 @@ https://uk.linkedin.com/jobs/view/lead-automation-test-architect-at-cipher-talen
 https://uk.linkedin.com/jobs/view/lead-salesforce-test-engineer-at-axa-health-4346833034|a121a621cdfe48bb
 https://uk.linkedin.com/jobs/view/lead-test-engineer-at-dwp-digital-4343452622|51516104c77510d8
 https://uk.linkedin.com/jobs/view/lead-test-engineer-at-public-sector-resourcing-4351224757|b708631322123882
-https://uk.linkedin.com/jobs/view/lead-test-engineer-cure-talent-at-jobster-4360241165|1ddae070622a23e5
+https://uk.linkedin.com/jobs/view/lead-test-engineer-cure-talent-at-jobster-4360241165|eb0e7d443c70c022
 https://uk.linkedin.com/jobs/view/lead-test-engineer-microservices-at-inoverse-groupe-4359679612|ddef492d7e329d1b
 https://uk.linkedin.com/jobs/view/lead-test-engineer-microservices-at-io-associates-4327796235|bb401a9bce1d2392
 https://uk.linkedin.com/jobs/view/manual-uat-tester-at-lumenalta-4340390240|58c3a7aebd070700
@@ -258,7 +258,7 @@ https://uk.linkedin.com/jobs/view/test-automation-engineer-mobile-at-person-cent
 https://uk.linkedin.com/jobs/view/test-automation-lead-at-natobotics-4346044508|1202ef8b183040bc
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-ceox-services-ltd-4345182421|0cbc1dbc9a3a05d3
 https://uk.linkedin.com/jobs/view/test-data-specialist-remote-at-taskify-ai-4338525459|c0d854d4514e033f
-https://uk.linkedin.com/jobs/view/test-early-careers-at-marks-and-spencer-4363869850|1de7a586f529e6b6
+https://uk.linkedin.com/jobs/view/test-early-careers-at-marks-and-spencer-4363869850|1919cb68499187d9
 https://uk.linkedin.com/jobs/view/test-engineer-at-actuation-lab-4344746482|1723be821d3dbb37
 https://uk.linkedin.com/jobs/view/test-engineer-at-anson-mccade-4325377562|2b7a96d89b872bbb
 https://uk.linkedin.com/jobs/view/test-engineer-at-bmr-solutions-ltd-4352255198|787fc4ed0b6ddeb7
@@ -311,7 +311,7 @@ https://uk.talent.com/view?id=069a6c9aaf71|cd919acee1dc847c
 https://uk.talent.com/view?id=079fdf07d8f2|154ab0c4866430a3
 https://uk.talent.com/view?id=07ab1eb88c1b|eb56db77ee4f71eb
 https://uk.talent.com/view?id=09175ccdc325|ae14fc3cc42cd8c3
-https://uk.talent.com/view?id=0de8a34bc94a|4a741879ef1e6bbe
+https://uk.talent.com/view?id=0de8a34bc94a|0a22cb5210549c1e
 https://uk.talent.com/view?id=10a5dc9ddee3|0ced12d3cb171827
 https://uk.talent.com/view?id=12bba96a8dba|28411fe71ecbf91a
 https://uk.talent.com/view?id=16795454309a|c6ca956ab152c1d8
