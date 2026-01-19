@@ -93,6 +93,7 @@ https://uk.linkedin.com/jobs/view/automation-test-lead-it-contractor-at-free-wor
 https://uk.linkedin.com/jobs/view/automation-tester-at-associated-terminals-4343659682|36cd814d9d3880d7
 https://uk.linkedin.com/jobs/view/automation-tester-at-hackajob-4328947455|d3e2794071644f04
 https://uk.linkedin.com/jobs/view/automation-tester-government-at-stealth-it-consulting-4328978615|e187652c0ee5c47a
+https://uk.linkedin.com/jobs/view/back-end-automation-engineer-at-kham-lab-4363877284|1bbf345969af0056
 https://uk.linkedin.com/jobs/view/content-tester-shipit-at-shipit-4346291657|266049a624aab948
 https://uk.linkedin.com/jobs/view/controls-automation-engineer-connected-consulting-limited-at-jobster-4360038306|fcf0d6a3dbbce355
 https://uk.linkedin.com/jobs/view/e2e-test-engineer-manual-at-g4s-4346195365|c690f0684efa81c4
@@ -122,7 +123,7 @@ https://uk.linkedin.com/jobs/view/lead-automation-test-architect-at-cipher-talen
 https://uk.linkedin.com/jobs/view/lead-salesforce-test-engineer-at-axa-health-4346833034|a121a621cdfe48bb
 https://uk.linkedin.com/jobs/view/lead-test-engineer-at-dwp-digital-4343452622|51516104c77510d8
 https://uk.linkedin.com/jobs/view/lead-test-engineer-at-public-sector-resourcing-4351224757|b708631322123882
-https://uk.linkedin.com/jobs/view/lead-test-engineer-cure-talent-at-jobster-4360241165|3f45ac2ff02dd34d
+https://uk.linkedin.com/jobs/view/lead-test-engineer-cure-talent-at-jobster-4360241165|6c1a49a68842cc6b
 https://uk.linkedin.com/jobs/view/lead-test-engineer-microservices-at-inoverse-groupe-4359679612|ddef492d7e329d1b
 https://uk.linkedin.com/jobs/view/lead-test-engineer-microservices-at-io-associates-4327796235|bb401a9bce1d2392
 https://uk.linkedin.com/jobs/view/manual-uat-tester-at-lumenalta-4340390240|58c3a7aebd070700
@@ -258,7 +259,7 @@ https://uk.linkedin.com/jobs/view/test-automation-engineer-mobile-at-person-cent
 https://uk.linkedin.com/jobs/view/test-automation-lead-at-natobotics-4346044508|1202ef8b183040bc
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-ceox-services-ltd-4345182421|0cbc1dbc9a3a05d3
 https://uk.linkedin.com/jobs/view/test-data-specialist-remote-at-taskify-ai-4338525459|c0d854d4514e033f
-https://uk.linkedin.com/jobs/view/test-early-careers-at-marks-and-spencer-4363869850|299f5ac95f8bc968
+https://uk.linkedin.com/jobs/view/test-early-careers-at-marks-and-spencer-4363869850|55d0f6c4b89d18cb
 https://uk.linkedin.com/jobs/view/test-engineer-at-actuation-lab-4344746482|1723be821d3dbb37
 https://uk.linkedin.com/jobs/view/test-engineer-at-anson-mccade-4325377562|2b7a96d89b872bbb
 https://uk.linkedin.com/jobs/view/test-engineer-at-bmr-solutions-ltd-4352255198|787fc4ed0b6ddeb7
@@ -311,7 +312,7 @@ https://uk.talent.com/view?id=069a6c9aaf71|cd919acee1dc847c
 https://uk.talent.com/view?id=079fdf07d8f2|154ab0c4866430a3
 https://uk.talent.com/view?id=07ab1eb88c1b|eb56db77ee4f71eb
 https://uk.talent.com/view?id=09175ccdc325|ae14fc3cc42cd8c3
-https://uk.talent.com/view?id=0de8a34bc94a|68405c808a665b9a
+https://uk.talent.com/view?id=0de8a34bc94a|225aa364b08e1b04
 https://uk.talent.com/view?id=10a5dc9ddee3|0ced12d3cb171827
 https://uk.talent.com/view?id=12bba96a8dba|28411fe71ecbf91a
 https://uk.talent.com/view?id=16795454309a|c6ca956ab152c1d8
@@ -328,7 +329,7 @@ https://uk.talent.com/view?id=248002460680|b424b4c1c86ccf82
 https://uk.talent.com/view?id=26a0e15269ed|fd7a297042284017
 https://uk.talent.com/view?id=2a6ceb9645f6|c71d2870da395be7
 https://uk.talent.com/view?id=2c40fcd91589|57e4ffd7ddb8b665
-https://uk.talent.com/view?id=2d09ca5d86bb|70be99ee5f318cc5
+https://uk.talent.com/view?id=2d09ca5d86bb|615fa3eac9174aa7
 https://uk.talent.com/view?id=2e2f3bf4ac96|52e8f61c616ff463
 https://uk.talent.com/view?id=2f5d2d52c60e|011a69cdb142bf76
 https://uk.talent.com/view?id=30914a1f3c2a|bb7c9b757885023a
