@@ -232,6 +232,7 @@ https://uk.linkedin.com/jobs/view/service-desk-automation-engineer-at-klipboard-
 https://uk.linkedin.com/jobs/view/software-automation-engineer-at-owen-daniels-4348882795|4484d7689910b096
 https://uk.linkedin.com/jobs/view/software-engineer-iii-sdet-at-hackajob-4329392484|cb7f223f5b6091c4
 https://uk.linkedin.com/jobs/view/software-engineer-iii-test-automation-at-hackajob-4329747933|fd7364b5d1fa634d
+https://uk.linkedin.com/jobs/view/software-engineer-in-test-balance-talent-at-jobster-4360393554|056ed5aea2497ce7
 https://uk.linkedin.com/jobs/view/software-qa-fruition-group-at-jobster-4360161348|01781b0cf46ef3b9
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-michael-james-associates-4329040513|3934a53764eda1b8
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-explore-group-4350146205|90039330509a4368
@@ -394,7 +395,7 @@ https://uk.talent.com/view?id=9ae5fce31741|c9d3465c7627a1d5
 https://uk.talent.com/view?id=9b547faf25b0|05c83a1a6091fd4f
 https://uk.talent.com/view?id=9f09b9d5caed|77fdc640c7f2dd16
 https://uk.talent.com/view?id=9fc3b0d6fd0d|48c6faedc0337033
-https://uk.talent.com/view?id=a063c31a24ee|bdb3f3c68e77acb9
+https://uk.talent.com/view?id=a063c31a24ee|2a3630aa13be0a0b
 https://uk.talent.com/view?id=a42aa9ba323d|a74ede9057ad2779
 https://uk.talent.com/view?id=a614d8ea6d1a|87894652e1988f31
 https://uk.talent.com/view?id=a7d6f5938ba5|d56259ab200bb01e
