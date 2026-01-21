@@ -74,7 +74,7 @@ https://uk.linkedin.com/jobs/view/application-security-test-engineer-at-oxford-n
 https://uk.linkedin.com/jobs/view/apprenticeship-test-engineer-at-hitachi-energy-4330273429|37ef82a6d852bea4
 https://uk.linkedin.com/jobs/view/automation-engineer-at-aberdeen-4346252000|399e4354887b23ce
 https://uk.linkedin.com/jobs/view/automation-engineer-at-census-ex-forces-recruitment-ltd-4348864043|bac3d74efe35182f
-https://uk.linkedin.com/jobs/view/automation-engineer-at-clear-4361961076|ce2bed1ca8580154
+https://uk.linkedin.com/jobs/view/automation-engineer-at-clear-4361961076|d9bf778dc4ecfa7f
 https://uk.linkedin.com/jobs/view/automation-engineer-at-darktrace-4343433811|a6b597fa89c4339f
 https://uk.linkedin.com/jobs/view/automation-engineer-at-gxo-logistics-inc-4344864037|fc330bda3d1d5438
 https://uk.linkedin.com/jobs/view/automation-engineer-at-innovo-global-talent-4361203447|813c67acb7512619
@@ -277,7 +277,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4358501849|14668
 https://uk.linkedin.com/jobs/view/test-engineer-at-isr-recruitment-4344881979|4bd14c58dfb08bfa
 https://uk.linkedin.com/jobs/view/test-engineer-at-ixceed-solutions-4339126718|98069541245c25bb
 https://uk.linkedin.com/jobs/view/test-engineer-at-la-fosse-4329705420|2bafa911600c8827
-https://uk.linkedin.com/jobs/view/test-engineer-at-la-fosse-4362021163|92dd0002f86c56f7
+https://uk.linkedin.com/jobs/view/test-engineer-at-la-fosse-4362021163|9ea76b7e06641085
 https://uk.linkedin.com/jobs/view/test-engineer-at-nhs-4344984973|43bdc87c9ebc6e28
 https://uk.linkedin.com/jobs/view/test-engineer-at-oho-group-ltd-4325583001|fc6f061b72f0f66f
 https://uk.linkedin.com/jobs/view/test-engineer-at-oxford-instruments-plc-4354369275|29bac4a361d6d5a2
