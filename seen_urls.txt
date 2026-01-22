@@ -154,7 +154,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-nudge-global-limited
 https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-rm-plc-4328787520|9247e76f76e6e89f
 https://uk.linkedin.com/jobs/view/qa-engineer-contractor-at-pulse-innovations-gmbh-4360642801|e9bdcc2f1c86907a
 https://uk.linkedin.com/jobs/view/qa-engineer-manual-mid-level-12-month-ftc-at-informa-4339482495|9009e4ac4ad456c6
-https://uk.linkedin.com/jobs/view/qa-engineer-servicenow-at-harvey-nash-4365318311|5821a96ba826e46d
+https://uk.linkedin.com/jobs/view/qa-engineer-servicenow-at-harvey-nash-4365318311|73b1fa4ade2f71eb
 https://uk.linkedin.com/jobs/view/qa-engineer-web-app-d65-integration-sc-cleared-at-pioneer-search-4354715256|b6d3d619c735a2d6
 https://uk.linkedin.com/jobs/view/qa-test-analyst-at-haystack-4364903516|b0d936613d89fb08
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-dine-4358754863?position=34&pageNum=0&refId=82jCfizjECYS02Im/WtfeQ==&trackingId=g2GFRa6Ry42KihTL0xDURQ==|39491eda9bc42633
@@ -247,6 +247,7 @@ https://uk.linkedin.com/jobs/view/software-test-engineer-at-ic-resources-4359453
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-the-one-group-ltd-4352574775|5b75e7c529e8dc81
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-tst-group-4339364094|77e2528712aef090
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-vanrath-4343264665|3f309a83f0eccb19
+https://uk.linkedin.com/jobs/view/software-test-engineer-digital-pathology-image-management-system-development-at-epredia-4355243787|f31050a7d080f1dc
 https://uk.linkedin.com/jobs/view/software-test-engineers-at-hackajob-4329857405|eacb900a5b67cb11
 https://uk.linkedin.com/jobs/view/software-tester-at-culverdocs-4342181779|b35890caa39d6ecc
 https://uk.linkedin.com/jobs/view/software-tester-at-fdm-group-4348622615|63521ed80df38291
@@ -306,11 +307,11 @@ https://uk.linkedin.com/jobs/view/tester-remote-at-talent-orbit-4342316289|e228e
 https://uk.linkedin.com/jobs/view/testing-analyst-remote-at-taskify-ai-4339868277|d8a7537dd47dacbb
 https://uk.linkedin.com/jobs/view/testing-consultant-remote-at-talent-pulse-4342526153|5260f2d7cdd031de
 https://uk.linkedin.com/jobs/view/testing-specialist-remote-at-hire-wave-4342690970|f531e5354d615a47
-https://uk.linkedin.com/jobs/view/this-is-a-test-at-cellpoint-digital-4355283492|27ac79afbbe178d4
+https://uk.linkedin.com/jobs/view/this-is-a-test-at-cellpoint-digital-4355283492|7d3add4929d097cf
 https://uk.linkedin.com/jobs/view/tooling-automation-engineer-at-apple-4360065154|8e76b6a9f04f9003
 https://uk.linkedin.com/jobs/view/trainee-software-tester-at-taxpad-ltd-4346412018|1aacc02d1e77fa82
 https://uk.linkedin.com/jobs/view/validation-engineer-at-ic-resources-4345646712|16505730f1ae5d37
-https://uk.linkedin.com/jobs/view/vehicle-test-engineer-adas-systems-at-jlr-4362128333|74d7c96efebee0b3
+https://uk.linkedin.com/jobs/view/vehicle-test-engineer-adas-systems-at-jlr-4362128333|3ef2709b27b2042f
 https://uk.linkedin.com/jobs/view/vehicle-test-engineer-at-quintessential-design-services-limited-4364037357|aaeb3843eba85fed
 https://uk.linkedin.com/jobs/view/verification-qa-engineer-at-socode-recruitment-4328879923|15b875cccb579ed9
 https://uk.linkedin.com/jobs/view/verification-validation-engineer-click-recruitment-at-jobster-4360271182|68ddd4df8c69e911
