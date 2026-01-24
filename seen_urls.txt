@@ -266,7 +266,7 @@ https://uk.linkedin.com/jobs/view/software-tester-at-fdm-group-4348622615|63521e
 https://uk.linkedin.com/jobs/view/software-tester-innova-recruitment-at-jobster-4359228466|4e4fd2f1c2f17ee5
 https://uk.linkedin.com/jobs/view/software-tester-qa-at-robertson-sumner-4348480072|99f79aa851119221
 https://uk.linkedin.com/jobs/view/software-tester-qa-at-robertson-sumner-4351213562|5989d0e52918d75f
-https://uk.linkedin.com/jobs/view/software-testing-intern-at-london-success-academy-4365663071|a921da74d367b3ce
+https://uk.linkedin.com/jobs/view/software-testing-intern-at-london-success-academy-4365663071|ab150cc9bc6fbe6a
 https://uk.linkedin.com/jobs/view/sr-software-test-engineer-at-entrust-4358775231|d7480921afa00733
 https://uk.linkedin.com/jobs/view/staff-release-automation-engineer-linux-at-arm-4329584799|96be39aa84e3611d
 https://uk.linkedin.com/jobs/view/system-integration-test-engineer-senior-system-integration-test-engineers-multiple-roles-at-general-dynamics-uk-limited-4345965970|445ee9b3d7cec482
@@ -275,6 +275,7 @@ https://uk.linkedin.com/jobs/view/system-test-engineer-premier-group-at-jobster-
 https://uk.linkedin.com/jobs/view/systems-test-engineer-at-sava-4344281499|d0a9e8df05b68da5
 https://uk.linkedin.com/jobs/view/test-and-authentication-engineer-at-navantia-uk-4328911069|7f975253b620c28c
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4328330834|042d44c33833c196
+https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4363379599|56000a73b85fa0cb
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-health-project-4340703016|bfd4d5ddc8cd9317
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pelion-4344514030|09a1ce95d7968027
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pentenamio-4337852477|0bc864521d202384
@@ -337,6 +338,7 @@ https://uk.talent.com/en/view?id=f36b243e2c39&trigger_from=related_jobs|4926ae26
 https://uk.talent.com/view?id=018d5bf0a687|4bce2344565e5ac2
 https://uk.talent.com/view?id=02f3070b5dc9|eb92445f1b6fc11c
 https://uk.talent.com/view?id=03532e4af2fc|9db9e1ad3b26c439
+https://uk.talent.com/view?id=05b414332f69|c3af039f59897147
 https://uk.talent.com/view?id=066af145d43d|5135bb5bb00efd74
 https://uk.talent.com/view?id=069a6c9aaf71|cd919acee1dc847c
 https://uk.talent.com/view?id=079fdf07d8f2|154ab0c4866430a3
@@ -453,7 +455,7 @@ https://uk.talent.com/view?id=c64e4c1e9345|829dadec9b1aaaf2
 https://uk.talent.com/view?id=c71c0e012dad|35b456bca0406a89
 https://uk.talent.com/view?id=c875d4831ea2|0b0fb40a041e33fc
 https://uk.talent.com/view?id=cae32fba98c4|5059d46681c543da
-https://uk.talent.com/view?id=cfb1b8ccc3e5|0db1e8047d1849af
+https://uk.talent.com/view?id=cfb1b8ccc3e5|b2104004e024b427
 https://uk.talent.com/view?id=d0b2aba03c3e|da773a09c969a7d4
 https://uk.talent.com/view?id=d2fe9a128686|d43b50246fa7e8c2
 https://uk.talent.com/view?id=d33631af3982|d458962a3fe57049
