@@ -69,7 +69,7 @@ https://uk.linkedin.com/jobs/view/ai-artificial-intelligence-test-automation-eng
 https://uk.linkedin.com/jobs/view/ai-assistant-user-tester-at-taskify-ai-4339868441|88204efb30fd0b5c
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-hackajob-4324082996|80da2bbf8cace59e
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-kennedypearce-consulting-4345851075|76be3af28a108a33
-https://uk.linkedin.com/jobs/view/ai-automation-engineer-besque-at-jobster-4321426547|d4e3c79cd4389844
+https://uk.linkedin.com/jobs/view/ai-automation-engineer-besque-at-jobster-4321426547|e5fe1ca88aa6e0d1
 https://uk.linkedin.com/jobs/view/ai-test-automation-engineer-at-sthree-4350705806|649ad18633d5ec5b
 https://uk.linkedin.com/jobs/view/app-tester-uk-residents-at-testvox-4330053414|2f9ff29ee5acf29c
 https://uk.linkedin.com/jobs/view/application-security-test-engineer-at-oxford-nanopore-technologies-4332253976|2b7ef111629ddcd0
@@ -88,7 +88,7 @@ https://uk.linkedin.com/jobs/view/automation-engineer-fea-at-capgemini-engineeri
 https://uk.linkedin.com/jobs/view/automation-engineer-rme-at-amazon-4361665708|30015ebb4763a27b
 https://uk.linkedin.com/jobs/view/automation-intern-at-10x-media-4354450549|4298841c0f9e9f67
 https://uk.linkedin.com/jobs/view/automation-qa-engineer-oracle-at-coinmarketcap-4345425426|116430409b16195c
-https://uk.linkedin.com/jobs/view/automation-test-analyst-at-paritas-recruitment-4355906380|bae9156051db822a
+https://uk.linkedin.com/jobs/view/automation-test-analyst-at-paritas-recruitment-4355906380|670353772e62d2d9
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-natobotics-4325826061|71c11201427e433c
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-test-yantra-4346084735|47fff4f0e57ef1b0
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-txp-4341770738|67276035208b1db5
@@ -294,7 +294,7 @@ https://uk.linkedin.com/jobs/view/test-automation-engineer-at-health-project-434
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pelion-4344514030|09a1ce95d7968027
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pentenamio-4337852477|0bc864521d202384
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-shawbrook-4359646770|a3f308934b6f493b
-https://uk.linkedin.com/jobs/view/test-automation-engineer-leidos-at-jobster-4321435601|b7ccea8e55f89b6f
+https://uk.linkedin.com/jobs/view/test-automation-engineer-leidos-at-jobster-4321435601|11e4dc4c109917f3
 https://uk.linkedin.com/jobs/view/test-automation-engineer-mobile-at-person-centred-software-ltd-4360773585|9ecd34628fb0c535
 https://uk.linkedin.com/jobs/view/test-automation-lead-at-natobotics-4346044508|1202ef8b183040bc
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-ceox-services-ltd-4345182421|0cbc1dbc9a3a05d3
