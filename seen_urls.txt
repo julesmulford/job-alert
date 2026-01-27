@@ -69,7 +69,7 @@ https://uk.linkedin.com/jobs/view/ai-artificial-intelligence-test-automation-eng
 https://uk.linkedin.com/jobs/view/ai-assistant-user-tester-at-taskify-ai-4339868441|88204efb30fd0b5c
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-hackajob-4324082996|80da2bbf8cace59e
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-kennedypearce-consulting-4345851075|76be3af28a108a33
-https://uk.linkedin.com/jobs/view/ai-automation-engineer-besque-at-jobster-4321426547|1b14747d728cb37b
+https://uk.linkedin.com/jobs/view/ai-automation-engineer-besque-at-jobster-4321426547|99bf017c30ecc32a
 https://uk.linkedin.com/jobs/view/ai-test-automation-engineer-at-sthree-4350705806|649ad18633d5ec5b
 https://uk.linkedin.com/jobs/view/app-tester-uk-residents-at-testvox-4330053414|2f9ff29ee5acf29c
 https://uk.linkedin.com/jobs/view/application-security-test-engineer-at-oxford-nanopore-technologies-4332253976|2b7ef111629ddcd0
@@ -88,7 +88,7 @@ https://uk.linkedin.com/jobs/view/automation-engineer-fea-at-capgemini-engineeri
 https://uk.linkedin.com/jobs/view/automation-engineer-rme-at-amazon-4361665708|30015ebb4763a27b
 https://uk.linkedin.com/jobs/view/automation-intern-at-10x-media-4354450549|4298841c0f9e9f67
 https://uk.linkedin.com/jobs/view/automation-qa-engineer-oracle-at-coinmarketcap-4345425426|116430409b16195c
-https://uk.linkedin.com/jobs/view/automation-test-analyst-at-paritas-recruitment-4355906380|b889b0e285750bf1
+https://uk.linkedin.com/jobs/view/automation-test-analyst-at-paritas-recruitment-4355906380|956329f4344f7d5f
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-natobotics-4325826061|71c11201427e433c
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-test-yantra-4346084735|47fff4f0e57ef1b0
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-txp-4341770738|67276035208b1db5
@@ -257,9 +257,10 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-mygwork-lgbtq+-busines
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-ncr-atleos-4328117500|ec03eab6907ecb97
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-platform-recruitment-4353124635|d6451abbc33d4f61
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-sepura-4342671512|802c4a8e196a88f1
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-trs-staffing-solutions-4321497038|33346d149d9a56df
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-trs-staffing-solutions-4321497038|378c6d5653aa093d
 https://uk.linkedin.com/jobs/view/senior-test-engineer-aws-microservices-transformation-public-sector-12-months-at-bangura-solutions-4353933351|afe05559cf0fc4a9
 https://uk.linkedin.com/jobs/view/senior-test-engineer-mastek-at-jobster-4351888412|3efc0d7a88b7c4d5
+https://uk.linkedin.com/jobs/view/senior-test-engineer-oho-group-ltd-at-jobster-4321515263|d5b2833715eb9bd7
 https://uk.linkedin.com/jobs/view/senior-test-engineer-williams-racing-at-jobster-4354707490|f7e06dc26c107b79
 https://uk.linkedin.com/jobs/view/service-desk-automation-engineer-at-klipboard-4328657575|ae4412447abd9f4d
 https://uk.linkedin.com/jobs/view/software-automation-engineer-at-owen-daniels-4348882795|4484d7689910b096
@@ -295,7 +296,7 @@ https://uk.linkedin.com/jobs/view/test-automation-engineer-at-health-project-434
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pelion-4344514030|09a1ce95d7968027
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pentenamio-4337852477|0bc864521d202384
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-shawbrook-4359646770|a3f308934b6f493b
-https://uk.linkedin.com/jobs/view/test-automation-engineer-leidos-at-jobster-4321435601|46c68ece41f06b6a
+https://uk.linkedin.com/jobs/view/test-automation-engineer-leidos-at-jobster-4321435601|7ad1e7f4b66767f6
 https://uk.linkedin.com/jobs/view/test-automation-engineer-mobile-at-person-centred-software-ltd-4360773585|9ecd34628fb0c535
 https://uk.linkedin.com/jobs/view/test-automation-lead-at-natobotics-4346044508|1202ef8b183040bc
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-ceox-services-ltd-4345182421|0cbc1dbc9a3a05d3
