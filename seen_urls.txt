@@ -221,7 +221,7 @@ https://uk.linkedin.com/jobs/view/senior-manufacturing-test-engineer-at-siemens-
 https://uk.linkedin.com/jobs/view/senior-mobile-automation-tester-at-w3global-4342763594|8e182b4bd9741edf
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-fuuse-4365286628|36b3cbbd5e66eccc
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-jobs-via-efinancialcareers-4346694704|e5197ed78aeface3
-https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-nice-4356230212|039e602af87777c4
+https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-nice-4356230212|27ddf270898891b5
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-tp-icap-4347492608|d8dcfb2c130aae89
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-investengine-4360014970|50d00a166927b182
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-tp-icap-4347391110|a5dbd38f52188bb6
@@ -253,7 +253,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-diversejobsmatter-4343
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-eclectic-recruitment-ltd-4350658842|7e34576cdebd2678
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-free-work-uk-4342510829|620dfa58431adae2
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-free-work-uk-4365119530|386d7fb03bb13ad5
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-ic-resources-4366382846|df3bcf39b9c83fd1
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-ic-resources-4366382846|a103624c885ecfcf
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-lrqa-4342733252|7de82e1f7d276383
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-mygwork-lgbtq+-business-community-4352790694|f4e5cfb4135aebec
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-ncr-atleos-4328117500|ec03eab6907ecb97
@@ -424,7 +424,7 @@ https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
 https://uk.talent.com/view?id=6581187a15eb|f2a191d8937e441f
 https://uk.talent.com/view?id=689d2942a739|f7bc613f9e3716fa
-https://uk.talent.com/view?id=69ae6d5253b5|857f6cccd1c0ebff
+https://uk.talent.com/view?id=69ae6d5253b5|5a04d435a2665f84
 https://uk.talent.com/view?id=6ad821575f56|55041c4be9822cdc
 https://uk.talent.com/view?id=6c90ee7608fc|e8d485771142094b
 https://uk.talent.com/view?id=6dc125ae4d8c|77504b9c4fe31f5b
@@ -589,4 +589,4 @@ https://www.securityclearedjobs.com/job/802067479/manufacturing-test-engineer/|a
 https://www.thechemicalengineer.com/news/uk-commits-75m-to-phasing-out-animal-testing/|f90c12a96dee0861
 https://www.tiptopjob.com/search/jobs/132575587_-qa-engineer-city-of-westminster-london-city-and-west-end-london-uk-united-kingdom-_job.asp|b649dc8eb44c120b
 https://www.tiptopjob.com/search/jobs/132627846_-switchgear-test-engineer-aberdeen-pitmedden-ind-est-inverness-shire-scotland-uk-united-kingdom-_job.asp|d298da27f4909edf
-https://www.tiptopjob.com/search/jobs/132659503_-steering-system-hil-test-engineer-warwick-warwickshire-west-midlands-uk-united-kingdom-_job.asp|cb52186ddcd0e66b
+https://www.tiptopjob.com/search/jobs/132659503_-steering-system-hil-test-engineer-warwick-warwickshire-west-midlands-uk-united-kingdom-_job.asp|2067b985a1e395d7
