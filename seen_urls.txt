@@ -575,6 +575,7 @@ https://www.jobsinwales.com/jobs-in-bassaleg/test-engineer_1430130?region=south|
 https://www.jobsinwales.com/jobs-in-pontyclun/test-engineer_1429672?region=south|8114375f873427c5
 https://www.jobsinwales.com/jobs-in-st-asaph/test-engineer_1425893?region=south|3d77650c53142102
 https://www.microtech-global.com/en/job_detail.asp?jobid=19003UMQ|045f1298b72e0376
+https://www.nhsjobs.com/job/UK/Cardiff/Cardiff/Public_Health_Wales_NHS_Trust/QA_Tester/QA_Tester-v7765316|1e5dd3ddccaaccd6
 https://www.prs.uk.com/job/production-test-engineer-essex-bh-68485|9bf9421c3b4f4ddf
 https://www.qualifiedfinder.com/jobs/environmental-test-engineer-3058483800|e7fffbd7e631d68c
 https://www.qualifiedfinder.com/jobs/software-development-engineer-in-test-sdet-3057112854|aca4769bacb918ce
