@@ -436,7 +436,7 @@ https://uk.talent.com/view?id=70974f3b55e8|f2822a4ebce1ef6c
 https://uk.talent.com/view?id=7299fd70d07d|db93b240916e25ed
 https://uk.talent.com/view?id=73711ddd59fc|7dcc1a6a69b01829
 https://uk.talent.com/view?id=7391972d8a7a|e88026bf1157792c
-https://uk.talent.com/view?id=745dd421c2d0|9d4f625505a0c7e2
+https://uk.talent.com/view?id=745dd421c2d0|e7c4ce5a31edcc21
 https://uk.talent.com/view?id=7490a578d108|8f265b3fa12874dd
 https://uk.talent.com/view?id=76540368a550|8e755d9035ad51ee
 https://uk.talent.com/view?id=76e830be8f5e|514818a52aec3edd
@@ -465,7 +465,7 @@ https://uk.talent.com/view?id=9911313ed2e4|71ae7173c31a2c19
 https://uk.talent.com/view?id=9a709a06af26|3d5e03b457ce6ed9
 https://uk.talent.com/view?id=9ae5fce31741|c9d3465c7627a1d5
 https://uk.talent.com/view?id=9b547faf25b0|05c83a1a6091fd4f
-https://uk.talent.com/view?id=9c75e73adb7c|cd96d12173edbbc8
+https://uk.talent.com/view?id=9c75e73adb7c|380fc2d59c6f573e
 https://uk.talent.com/view?id=9f09b9d5caed|77fdc640c7f2dd16
 https://uk.talent.com/view?id=9fc3b0d6fd0d|48c6faedc0337033
 https://uk.talent.com/view?id=a063c31a24ee|c1e480ec6e3ace84
@@ -478,7 +478,7 @@ https://uk.talent.com/view?id=aa23a3bf5af7|55ad010765b104cc
 https://uk.talent.com/view?id=ab11c067d008|e4183f4f62d3ce17
 https://uk.talent.com/view?id=ad60964087ad|9aaca0d68089bc8b
 https://uk.talent.com/view?id=af882ccdddac|0eb350d483a33ee4
-https://uk.talent.com/view?id=b057a3c16c36|3be0a772266ecab8
+https://uk.talent.com/view?id=b057a3c16c36|319ff9fb08d10dc8
 https://uk.talent.com/view?id=b06d48da8f49|a4da087ce5c203e5
 https://uk.talent.com/view?id=b17ea69589b5|b21639ac374fac48
 https://uk.talent.com/view?id=b6af00e0bc65|41f4cb395e52d181
@@ -595,7 +595,7 @@ https://www.s1jobs.com/job/senior-ai-automation-engineer-test-lead-126146833|1d5
 https://www.s1jobs.com/job/senior-medical-device-qa-engineer-regulatory-quality-126196837|0a33fa6055c0c165
 https://www.s1jobs.com/job/senior-test-automation-engineer-healthcare-platform-126121086|15bce13f0f4c4c2e
 https://www.securityclearedjobs.com/job/802067479/manufacturing-test-engineer/|a4648775d19b6a5e
-https://www.thechemicalengineer.com/news/from-lab-to-market-the-scaleup-hurdles-facing-the-apprentice-s-browtasia/|c77b163c9a24b3cf
+https://www.thechemicalengineer.com/news/from-lab-to-market-the-scaleup-hurdles-facing-the-apprentice-s-browtasia/|af3653797b6bfebb
 https://www.thechemicalengineer.com/news/uk-commits-75m-to-phasing-out-animal-testing/|f90c12a96dee0861
 https://www.tiptopjob.com/search/jobs/132575587_-qa-engineer-city-of-westminster-london-city-and-west-end-london-uk-united-kingdom-_job.asp|b649dc8eb44c120b
 https://www.tiptopjob.com/search/jobs/132627846_-switchgear-test-engineer-aberdeen-pitmedden-ind-est-inverness-shire-scotland-uk-united-kingdom-_job.asp|d298da27f4909edf
