@@ -436,7 +436,7 @@ https://uk.talent.com/view?id=70974f3b55e8|f2822a4ebce1ef6c
 https://uk.talent.com/view?id=7299fd70d07d|db93b240916e25ed
 https://uk.talent.com/view?id=73711ddd59fc|7dcc1a6a69b01829
 https://uk.talent.com/view?id=7391972d8a7a|e88026bf1157792c
-https://uk.talent.com/view?id=745dd421c2d0|4f294568c1490bfd
+https://uk.talent.com/view?id=745dd421c2d0|fec6e537fd2207ce
 https://uk.talent.com/view?id=7490a578d108|8f265b3fa12874dd
 https://uk.talent.com/view?id=76540368a550|8e755d9035ad51ee
 https://uk.talent.com/view?id=76e830be8f5e|514818a52aec3edd
@@ -593,7 +593,7 @@ https://www.s1jobs.com/job/senior-ai-automation-engineer-test-lead-126146833|1d5
 https://www.s1jobs.com/job/senior-medical-device-qa-engineer-regulatory-quality-126196837|0a33fa6055c0c165
 https://www.s1jobs.com/job/senior-test-automation-engineer-healthcare-platform-126121086|15bce13f0f4c4c2e
 https://www.securityclearedjobs.com/job/802067479/manufacturing-test-engineer/|a4648775d19b6a5e
-https://www.thechemicalengineer.com/news/from-lab-to-market-the-scaleup-hurdles-facing-the-apprentice-s-browtasia/|b5624dbe19d85132
+https://www.thechemicalengineer.com/news/from-lab-to-market-the-scaleup-hurdles-facing-the-apprentice-s-browtasia/|f963df8355911810
 https://www.thechemicalengineer.com/news/uk-commits-75m-to-phasing-out-animal-testing/|f90c12a96dee0861
 https://www.tiptopjob.com/search/jobs/132575587_-qa-engineer-city-of-westminster-london-city-and-west-end-london-uk-united-kingdom-_job.asp|b649dc8eb44c120b
 https://www.tiptopjob.com/search/jobs/132627846_-switchgear-test-engineer-aberdeen-pitmedden-ind-est-inverness-shire-scotland-uk-united-kingdom-_job.asp|d298da27f4909edf
