@@ -9,8 +9,8 @@ https://gb.bebee.com/job/eef67ab7c098e677a138f416f7c1bacd|d31d93925373d447
 https://jobs.jobg8.com/jobs/junior-test-engineer-remote-playwright-jest-gds-in-united-kingdom/5673-3057150701ED|89a9d4ced5176dfa
 https://jobs.theguardian.com/job/9974624/automation-engineer-eica-buk-service-dept/|077135f818a9f9f9
 https://jobs.theguardian.com/job/9996002/automation-engineer-eica-buk-service-dept/|b988361b43f008de
-https://jobtoday.com/gb/jobs-qa-tester/pontefract|35bd9e447a9a0e61
-https://jobtoday.com/gb/jobs-software-tester/worksop|34e1961bc9dad3ca
+https://jobtoday.com/gb/jobs-qa-tester/pontefract|40898d0332c57ee9
+https://jobtoday.com/gb/jobs-software-tester/worksop|70717cd4b76d8c01
 https://uk.jobrapido.com/jobpreview/1403946067279478784|bf07d07da5bf477a
 https://uk.jobrapido.com/jobpreview/163139747860971520|07dfaa3180ad35a7
 https://uk.jobrapido.com/jobpreview/2706984993938210816|19572d4fd2b3e919
@@ -91,7 +91,7 @@ https://uk.linkedin.com/jobs/view/automation-engineer-rme-at-amazon-4361665708|3
 https://uk.linkedin.com/jobs/view/automation-intern-at-10x-media-4354450549|4298841c0f9e9f67
 https://uk.linkedin.com/jobs/view/automation-qa-engineer-oracle-at-coinmarketcap-4345425426|116430409b16195c
 https://uk.linkedin.com/jobs/view/automation-test-analyst-at-paritas-recruitment-4355906380|0feb98c60da0f27c
-https://uk.linkedin.com/jobs/view/automation-test-analyst-studentjob-co-uk-at-jobster-4367740133|fa963b4930e07480
+https://uk.linkedin.com/jobs/view/automation-test-analyst-studentjob-co-uk-at-jobster-4367740133|a8d2ece74451b5f8
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-natobotics-4325826061|71c11201427e433c
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-test-yantra-4346084735|47fff4f0e57ef1b0
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-txp-4341770738|67276035208b1db5
@@ -158,7 +158,7 @@ https://uk.linkedin.com/jobs/view/powertrain-test-support-engineer-at-ashby-fina
 https://uk.linkedin.com/jobs/view/principal-system-test-engineer-at-graphcore-4330087351|91356169a3d2fffb
 https://uk.linkedin.com/jobs/view/principal-test-engineer-at-hackajob-4329216868|b442b734201dc71b
 https://uk.linkedin.com/jobs/view/product-test-engineer-luxury-audio-at-harman-international-4351011419|2d0a56c30be833f4
-https://uk.linkedin.com/jobs/view/qa-analyst-studentjob-co-uk-at-jobster-4367723252|899197451db46850
+https://uk.linkedin.com/jobs/view/qa-analyst-studentjob-co-uk-at-jobster-4367723252|7d4d1b3bc8f647fd
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-sage-4337158436|091c0ef1c56bf02c
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-softcat-4330273757|947e2786e6a7b929
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-tek-tron-it-4341240584|8c85bdd9a6cf1ef6
@@ -178,7 +178,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-rm-plc-4328787520|92
 https://uk.linkedin.com/jobs/view/qa-engineer-contractor-at-pulse-innovations-gmbh-4360642801|e9bdcc2f1c86907a
 https://uk.linkedin.com/jobs/view/qa-engineer-manual-mid-level-12-month-ftc-at-informa-4339482495|9009e4ac4ad456c6
 https://uk.linkedin.com/jobs/view/qa-engineer-servicenow-at-harvey-nash-4365318311|9da4a167cd1be7ed
-https://uk.linkedin.com/jobs/view/qa-engineer-studentjob-co-uk-at-jobster-4367717596|3acd69adf2198ee6
+https://uk.linkedin.com/jobs/view/qa-engineer-studentjob-co-uk-at-jobster-4367717596|db80f44f42d83b3a
 https://uk.linkedin.com/jobs/view/qa-engineer-web-app-d65-integration-sc-cleared-at-pioneer-search-4354715256|b6d3d619c735a2d6
 https://uk.linkedin.com/jobs/view/qa-test-analyst-at-haystack-4364903516|b0d936613d89fb08
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-dine-4358754863?position=34&pageNum=0&refId=82jCfizjECYS02Im/WtfeQ==&trackingId=g2GFRa6Ry42KihTL0xDURQ==|39491eda9bc42633
@@ -370,7 +370,7 @@ https://uk.talent.com/view?id=02f3070b5dc9|eb92445f1b6fc11c
 https://uk.talent.com/view?id=03532e4af2fc|9db9e1ad3b26c439
 https://uk.talent.com/view?id=05b414332f69|367ff7a0f4b28e7b
 https://uk.talent.com/view?id=066af145d43d|5135bb5bb00efd74
-https://uk.talent.com/view?id=068b1394e18a|b412e9eeb7a019bf
+https://uk.talent.com/view?id=068b1394e18a|643dbc388a3bfcac
 https://uk.talent.com/view?id=069a6c9aaf71|cd919acee1dc847c
 https://uk.talent.com/view?id=06e3634e1033|91216d7c334c2d53
 https://uk.talent.com/view?id=079fdf07d8f2|154ab0c4866430a3
@@ -390,7 +390,8 @@ https://uk.talent.com/view?id=197346e14e15|059d612c7f2de7ad
 https://uk.talent.com/view?id=1b2a132044cf|d6b0f6a354b9fcab
 https://uk.talent.com/view?id=1ca9ff95addf|4487984516c86917
 https://uk.talent.com/view?id=1d7fff0b0efe|71a52a1765a4474b
-https://uk.talent.com/view?id=1ef728a99549|fe189acd16d4f53a
+https://uk.talent.com/view?id=1e4fc9af99a9|1564a0a67c6d3a88
+https://uk.talent.com/view?id=1ef728a99549|880d2b03b169930d
 https://uk.talent.com/view?id=21c42a5e4e3e|423b8a7e347e3c12
 https://uk.talent.com/view?id=22524b91b322|cd7d4bea4cc60d40
 https://uk.talent.com/view?id=248002460680|b424b4c1c86ccf82
@@ -400,7 +401,7 @@ https://uk.talent.com/view?id=2a6ceb9645f6|c71d2870da395be7
 https://uk.talent.com/view?id=2ac4933d8ba4|507d3b69fbb4f036
 https://uk.talent.com/view?id=2b1959f9e921|6538f9c07bb30e23
 https://uk.talent.com/view?id=2c40fcd91589|57e4ffd7ddb8b665
-https://uk.talent.com/view?id=2cf5561366bd|a4a26294b5db2549
+https://uk.talent.com/view?id=2cf5561366bd|d89571c31cb8572c
 https://uk.talent.com/view?id=2d09ca5d86bb|1f91a1fbe9f1f7cc
 https://uk.talent.com/view?id=2e2f3bf4ac96|52e8f61c616ff463
 https://uk.talent.com/view?id=2f5d2d52c60e|011a69cdb142bf76
@@ -415,7 +416,7 @@ https://uk.talent.com/view?id=36180c643fbd|1e1b4932316dd37e
 https://uk.talent.com/view?id=3960bc18ebcd|d3031fcf9f911245
 https://uk.talent.com/view?id=3b7fb5839f55|0cef0b34082bdf7e
 https://uk.talent.com/view?id=3b9609aff6f8|d12607294230b8de
-https://uk.talent.com/view?id=3c742b284e15|62623545a512b44a
+https://uk.talent.com/view?id=3c742b284e15|2efda5c7d74facf2
 https://uk.talent.com/view?id=3df1217e59d6|61db31cdf0f0565c
 https://uk.talent.com/view?id=3f6fbee33b26|5b4a5db273a3d67e
 https://uk.talent.com/view?id=40c6026b452d|37113c27ede6beb5
@@ -430,13 +431,13 @@ https://uk.talent.com/view?id=4dd61d827662|ff9e8ecbffe6faf9
 https://uk.talent.com/view?id=50165283f930|6f953d701e8b1fe7
 https://uk.talent.com/view?id=529e0f49fdc0|0cdb74392b4be565
 https://uk.talent.com/view?id=53d51fc22999|1d2775062d9c9e37
-https://uk.talent.com/view?id=545db132f5fb|a27bcf902abc429d
+https://uk.talent.com/view?id=545db132f5fb|46c6375872c8e8e6
 https://uk.talent.com/view?id=546f1ee3a765|223bfad73e6c5909
 https://uk.talent.com/view?id=56d166262aa3|a0c7c3176b83f697
 https://uk.talent.com/view?id=56d4e39e4a1b|152b2a171128a865
 https://uk.talent.com/view?id=5820c9771091|311d0ebb44741ca4
 https://uk.talent.com/view?id=595c3434a998|3f692464382d53aa
-https://uk.talent.com/view?id=5b54df8306c9|19cf3b514c2b287c
+https://uk.talent.com/view?id=5b54df8306c9|52bb5444d153be02
 https://uk.talent.com/view?id=5b87c668ed76|5cf104056f3c5d91
 https://uk.talent.com/view?id=5d5f71d41c35|f3c7f346cb4794bf
 https://uk.talent.com/view?id=5ed64925b112|96e79a4beb459d5b
@@ -466,7 +467,7 @@ https://uk.talent.com/view?id=7b0e0bb2fae6|f1eb10c501aa71de
 https://uk.talent.com/view?id=7c3d322ef722|49a7049d0926c825
 https://uk.talent.com/view?id=7dcbd36e848e|b56637d3564eff51
 https://uk.talent.com/view?id=7e46fa1f85b1|f616b3ce229c017e
-https://uk.talent.com/view?id=8140cc13b4f7|bd2ccc3b0ece2fa6
+https://uk.talent.com/view?id=8140cc13b4f7|0efac1df12632a29
 https://uk.talent.com/view?id=82868499554a|c44b7efc75ea8491
 https://uk.talent.com/view?id=8a19f5518e0d|34eb3e91be8a1de7
 https://uk.talent.com/view?id=8abd0fa4da3b|0f2ad67a3821357c
@@ -489,10 +490,10 @@ https://uk.talent.com/view?id=9c75e73adb7c|9756dd00621ced89
 https://uk.talent.com/view?id=9f09b9d5caed|77fdc640c7f2dd16
 https://uk.talent.com/view?id=9fc3b0d6fd0d|48c6faedc0337033
 https://uk.talent.com/view?id=a063c31a24ee|c1e480ec6e3ace84
-https://uk.talent.com/view?id=a0d7cb4cf611|c3b2367136a491b7
+https://uk.talent.com/view?id=a0d7cb4cf611|40e8bdeadab54ee6
 https://uk.talent.com/view?id=a42aa9ba323d|a74ede9057ad2779
 https://uk.talent.com/view?id=a614d8ea6d1a|87894652e1988f31
-https://uk.talent.com/view?id=a74452552c0e|f724cd601823823d
+https://uk.talent.com/view?id=a74452552c0e|5b97fb22ecbdadcd
 https://uk.talent.com/view?id=a7d6f5938ba5|d56259ab200bb01e
 https://uk.talent.com/view?id=a84a6e9ad811|9b8f1d1167a7085d
 https://uk.talent.com/view?id=a87073ffa577|da767d3351ba155d
@@ -534,14 +535,14 @@ https://uk.talent.com/view?id=d9a9f1bc4d06|6b21797efbb81ab9
 https://uk.talent.com/view?id=d9e5a261879d|39eb83e8e6757b28
 https://uk.talent.com/view?id=da02ff2ce024|a6051613e018663f
 https://uk.talent.com/view?id=da9f014915ce|ba915d7492f9ea70
-https://uk.talent.com/view?id=db76c1ecf5e2|65afd6931e13adab
+https://uk.talent.com/view?id=db76c1ecf5e2|e8b12b52f638a42b
 https://uk.talent.com/view?id=dbec7ee993fc|f6b1c47ff5bfa2e6
 https://uk.talent.com/view?id=dc009f876967|94c0e57599d0585c
 https://uk.talent.com/view?id=dc42f83fbc84|2c44a66880fd0b1f
 https://uk.talent.com/view?id=dc9545ad5078|99fb15a8e2904a83
 https://uk.talent.com/view?id=deee8e534888|90d6b6cf812f11a6
 https://uk.talent.com/view?id=e12b84463c0c|90c0961871dbfbb5
-https://uk.talent.com/view?id=e1542d207725|a97688d308c29a41
+https://uk.talent.com/view?id=e1542d207725|9534749ab3fafb04
 https://uk.talent.com/view?id=e1961f384c08|62f3859cf15a09d5
 https://uk.talent.com/view?id=e1de9ba2c900|ef878862a266abac
 https://uk.talent.com/view?id=e272721dd005|6b206f4a0ca0ab3d
@@ -607,6 +608,7 @@ https://www.nhsjobs.com/job/UK/Cardiff/Cardiff/Public_Health_Wales_NHS_Trust/QA_
 https://www.prs.uk.com/job/production-test-engineer-essex-bh-68485|9bf9421c3b4f4ddf
 https://www.qualifiedfinder.com/jobs/environmental-test-engineer-3058483800|e7fffbd7e631d68c
 https://www.qualifiedfinder.com/jobs/software-development-engineer-in-test-sdet-3057112854|aca4769bacb918ce
+https://www.qualifiedfinder.com/jobs/software-test-engineer--perm--coventry-3065356618|401c6ea1c1d920d6
 https://www.qualifiedfinder.com/jobs/software-tester-3055124012|59643bafcdf9e2d3
 https://www.railwaypeople.com/Rail-Jobs/General-Rail-Jobs/IVVQ-Engineer-System-Test-Engineer/Details/646741|8b8ba09c82a61b9b
 https://www.railwaypeople.com/Rail-Jobs/Quantity-Surveyor-Jobs/Senior-Quantity-Surveyor/Details/646770|44e7f334386fe79e
