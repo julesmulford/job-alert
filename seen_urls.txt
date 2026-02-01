@@ -9,6 +9,7 @@ https://gb.bebee.com/job/eef67ab7c098e677a138f416f7c1bacd|d31d93925373d447
 https://jobs.jobg8.com/jobs/junior-test-engineer-remote-playwright-jest-gds-in-united-kingdom/5673-3057150701ED|89a9d4ced5176dfa
 https://jobs.theguardian.com/job/9974624/automation-engineer-eica-buk-service-dept/|077135f818a9f9f9
 https://jobs.theguardian.com/job/9996002/automation-engineer-eica-buk-service-dept/|b988361b43f008de
+https://jobtoday.com/gb/jobs-software-tester/worksop|623fb11fbff0e7d1
 https://uk.jobrapido.com/jobpreview/1403946067279478784|bf07d07da5bf477a
 https://uk.jobrapido.com/jobpreview/163139747860971520|07dfaa3180ad35a7
 https://uk.jobrapido.com/jobpreview/2706984993938210816|19572d4fd2b3e919
@@ -89,7 +90,7 @@ https://uk.linkedin.com/jobs/view/automation-engineer-rme-at-amazon-4361665708|3
 https://uk.linkedin.com/jobs/view/automation-intern-at-10x-media-4354450549|4298841c0f9e9f67
 https://uk.linkedin.com/jobs/view/automation-qa-engineer-oracle-at-coinmarketcap-4345425426|116430409b16195c
 https://uk.linkedin.com/jobs/view/automation-test-analyst-at-paritas-recruitment-4355906380|0feb98c60da0f27c
-https://uk.linkedin.com/jobs/view/automation-test-analyst-studentjob-co-uk-at-jobster-4367740133|b6aa7e6ed5515f7d
+https://uk.linkedin.com/jobs/view/automation-test-analyst-studentjob-co-uk-at-jobster-4367740133|33a07d6eacf8f94b
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-natobotics-4325826061|71c11201427e433c
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-test-yantra-4346084735|47fff4f0e57ef1b0
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-txp-4341770738|67276035208b1db5
@@ -156,7 +157,7 @@ https://uk.linkedin.com/jobs/view/powertrain-test-support-engineer-at-ashby-fina
 https://uk.linkedin.com/jobs/view/principal-system-test-engineer-at-graphcore-4330087351|91356169a3d2fffb
 https://uk.linkedin.com/jobs/view/principal-test-engineer-at-hackajob-4329216868|b442b734201dc71b
 https://uk.linkedin.com/jobs/view/product-test-engineer-luxury-audio-at-harman-international-4351011419|2d0a56c30be833f4
-https://uk.linkedin.com/jobs/view/qa-analyst-studentjob-co-uk-at-jobster-4367723252|367099468c33c0e6
+https://uk.linkedin.com/jobs/view/qa-analyst-studentjob-co-uk-at-jobster-4367723252|46e4145ebe906d72
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-sage-4337158436|091c0ef1c56bf02c
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-softcat-4330273757|947e2786e6a7b929
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-tek-tron-it-4341240584|8c85bdd9a6cf1ef6
@@ -176,7 +177,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-rm-plc-4328787520|92
 https://uk.linkedin.com/jobs/view/qa-engineer-contractor-at-pulse-innovations-gmbh-4360642801|e9bdcc2f1c86907a
 https://uk.linkedin.com/jobs/view/qa-engineer-manual-mid-level-12-month-ftc-at-informa-4339482495|9009e4ac4ad456c6
 https://uk.linkedin.com/jobs/view/qa-engineer-servicenow-at-harvey-nash-4365318311|9da4a167cd1be7ed
-https://uk.linkedin.com/jobs/view/qa-engineer-studentjob-co-uk-at-jobster-4367717596|e473676dfc40edb1
+https://uk.linkedin.com/jobs/view/qa-engineer-studentjob-co-uk-at-jobster-4367717596|def987798526a08e
 https://uk.linkedin.com/jobs/view/qa-engineer-web-app-d65-integration-sc-cleared-at-pioneer-search-4354715256|b6d3d619c735a2d6
 https://uk.linkedin.com/jobs/view/qa-test-analyst-at-haystack-4364903516|b0d936613d89fb08
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-dine-4358754863?position=34&pageNum=0&refId=82jCfizjECYS02Im/WtfeQ==&trackingId=g2GFRa6Ry42KihTL0xDURQ==|39491eda9bc42633
@@ -394,7 +395,7 @@ https://uk.talent.com/view?id=26a0e15269ed|fd7a297042284017
 https://uk.talent.com/view?id=2a6ceb9645f6|c71d2870da395be7
 https://uk.talent.com/view?id=2b1959f9e921|6538f9c07bb30e23
 https://uk.talent.com/view?id=2c40fcd91589|57e4ffd7ddb8b665
-https://uk.talent.com/view?id=2cf5561366bd|5b8f8d646299f5ea
+https://uk.talent.com/view?id=2cf5561366bd|40cba8666ac83cb4
 https://uk.talent.com/view?id=2d09ca5d86bb|1f91a1fbe9f1f7cc
 https://uk.talent.com/view?id=2e2f3bf4ac96|52e8f61c616ff463
 https://uk.talent.com/view?id=2f5d2d52c60e|011a69cdb142bf76
@@ -456,6 +457,7 @@ https://uk.talent.com/view?id=7b0e0bb2fae6|f1eb10c501aa71de
 https://uk.talent.com/view?id=7c3d322ef722|49a7049d0926c825
 https://uk.talent.com/view?id=7dcbd36e848e|b56637d3564eff51
 https://uk.talent.com/view?id=7e46fa1f85b1|f616b3ce229c017e
+https://uk.talent.com/view?id=8140cc13b4f7|a85b86b55a6201e6
 https://uk.talent.com/view?id=82868499554a|c44b7efc75ea8491
 https://uk.talent.com/view?id=8a19f5518e0d|34eb3e91be8a1de7
 https://uk.talent.com/view?id=8abd0fa4da3b|0f2ad67a3821357c
