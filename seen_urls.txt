@@ -78,7 +78,7 @@ https://uk.linkedin.com/jobs/view/app-tester-uk-residents-at-testvox-4330053414|
 https://uk.linkedin.com/jobs/view/application-security-test-engineer-at-oxford-nanopore-technologies-4332253976|2b7ef111629ddcd0
 https://uk.linkedin.com/jobs/view/apprenticeship-test-engineer-at-hitachi-energy-4330273429|37ef82a6d852bea4
 https://uk.linkedin.com/jobs/view/automation-engineer-at-aberdeen-4346252000|399e4354887b23ce
-https://uk.linkedin.com/jobs/view/automation-engineer-at-catalent-4369628219|b0843c0db51cf5a8
+https://uk.linkedin.com/jobs/view/automation-engineer-at-catalent-4369628219|977d6d87b0dbff3b
 https://uk.linkedin.com/jobs/view/automation-engineer-at-census-ex-forces-recruitment-ltd-4348864043|bac3d74efe35182f
 https://uk.linkedin.com/jobs/view/automation-engineer-at-clear-4361961076|223bf6604eb8e3ab
 https://uk.linkedin.com/jobs/view/automation-engineer-at-darktrace-4343433811|a6b597fa89c4339f
@@ -133,7 +133,7 @@ https://uk.linkedin.com/jobs/view/ftc-test-automation-engineer-at-pentenamio-434
 https://uk.linkedin.com/jobs/view/global-talent-visa-platform-qa-tester-volunteer-at-emigr8-tech-visa-4355510656|5ed9a3006971ab96
 https://uk.linkedin.com/jobs/view/graduate-automation-engineer-at-hitachi-energy-4327207297|92ee46761ae15f6b
 https://uk.linkedin.com/jobs/view/graduate-qa-engineer-at-ovarro-4329290939|e241c2590d20c3a1
-https://uk.linkedin.com/jobs/view/graduate-test-engineer-at-grayce-4369746600|4b5c0d36957d33a9
+https://uk.linkedin.com/jobs/view/graduate-test-engineer-at-grayce-4369746600|f8d1a500530efa16
 https://uk.linkedin.com/jobs/view/hardware-test-compliance-engineer-at-fuse-energy-4361666692|6def7703801c2e84
 https://uk.linkedin.com/jobs/view/infrastructure-test-analysts-at-xpertise-recruitment-4363827060|4d0f293f8b73f6b7
 https://uk.linkedin.com/jobs/view/integration-test-engineer-at-hme-4364014827|2d4657fb83b4c3dd
@@ -340,13 +340,13 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-connexai-4329565504|c438c4d4a
 https://uk.linkedin.com/jobs/view/test-engineer-at-cure-talent-4342032416|8883a3cc8ee084e8
 https://uk.linkedin.com/jobs/view/test-engineer-at-dynamic-tech-startup-at-jack-jill-4350796849|7b583101d799e453
 https://uk.linkedin.com/jobs/view/test-engineer-at-forrit-4345411356|2888884afa1ba690
-https://uk.linkedin.com/jobs/view/test-engineer-at-hackajob-4369146846|9301808a1173f554
+https://uk.linkedin.com/jobs/view/test-engineer-at-hackajob-4369146846|51eaec067e131d86
 https://uk.linkedin.com/jobs/view/test-engineer-at-harman-international-4360535023|576c90f0f7405e1f
 https://uk.linkedin.com/jobs/view/test-engineer-at-hays-4368740586|97198acd71f9a518
 https://uk.linkedin.com/jobs/view/test-engineer-at-high-growth-uk-tech-startup-at-jack-jill-4351945842|051b60bfbf939369
 https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4358501849|146688b34782410b
 https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4365521038|608a737cb180a284
-https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4369625774|82b0a873d3fa1b57
+https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4369625774|47469e6880641fe8
 https://uk.linkedin.com/jobs/view/test-engineer-at-isr-recruitment-4344881979|4bd14c58dfb08bfa
 https://uk.linkedin.com/jobs/view/test-engineer-at-ixceed-solutions-4339126718|98069541245c25bb
 https://uk.linkedin.com/jobs/view/test-engineer-at-la-fosse-4329705420|2bafa911600c8827
@@ -544,7 +544,7 @@ https://uk.talent.com/view?id=b8e69fd182d5|232718118d990eb5
 https://uk.talent.com/view?id=b9710f358097|8ab82c7522478dc1
 https://uk.talent.com/view?id=bae0bd05f87e|de77f1be2a2286a9
 https://uk.talent.com/view?id=bee623b4515b|94d282e8590bc9e7
-https://uk.talent.com/view?id=c1760750ca33|cf40ef442bc4594c
+https://uk.talent.com/view?id=c1760750ca33|53bf6a400dbf0fb5
 https://uk.talent.com/view?id=c222219c0910|1806717a5b2a2ff3
 https://uk.talent.com/view?id=c2b03b8d7a57|954e5952ef5dd90a
 https://uk.talent.com/view?id=c329b402b4c4|fd29d9554cdb8414
