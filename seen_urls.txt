@@ -133,7 +133,7 @@ https://uk.linkedin.com/jobs/view/ftc-test-automation-engineer-at-pentenamio-434
 https://uk.linkedin.com/jobs/view/global-talent-visa-platform-qa-tester-volunteer-at-emigr8-tech-visa-4355510656|5ed9a3006971ab96
 https://uk.linkedin.com/jobs/view/graduate-automation-engineer-at-hitachi-energy-4327207297|92ee46761ae15f6b
 https://uk.linkedin.com/jobs/view/graduate-qa-engineer-at-ovarro-4329290939|e241c2590d20c3a1
-https://uk.linkedin.com/jobs/view/graduate-test-engineer-at-grayce-4369746600|62d0f65e9b1ed0ff
+https://uk.linkedin.com/jobs/view/graduate-test-engineer-at-grayce-4369746600|e6862030db636c7e
 https://uk.linkedin.com/jobs/view/hardware-test-compliance-engineer-at-fuse-energy-4361666692|6def7703801c2e84
 https://uk.linkedin.com/jobs/view/infrastructure-test-analysts-at-xpertise-recruitment-4363827060|4d0f293f8b73f6b7
 https://uk.linkedin.com/jobs/view/integration-test-engineer-at-hme-4364014827|2d4657fb83b4c3dd
@@ -199,9 +199,9 @@ https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-spect
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-id44635-at-humand-talent-4354243772|94260ce3429e6686
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-green-cad-it-consulting-pvt-ltd-4330121951|a23e177208458e59
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-hitachi-energy-4328330307|08573c3341c8409b
-https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-matchtech-4361081793|7cd3e754fec7893f
+https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-matchtech-4361081793|7ce4c38aa9e3e2c3
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-recenso-services-4343518438|b52ad03fe9ca74d3
-https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tgs-international-group-4361421723|589eb2916f07408b
+https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tgs-international-group-4361421723|bcd93a03f5dc1286
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tria-4350252385|7524309888b21991
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-workmaze-4350562868|0d5e8cefa61fc974
 https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-skillspree-4349846037|6059d533c654b364
@@ -220,7 +220,7 @@ https://uk.linkedin.com/jobs/view/sdet-engineer-at-clearroute-4369294926|c0cc81c
 https://uk.linkedin.com/jobs/view/senior-ai-automation-engineer-at-binnies-4359407906|ead0980efac05468
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-kainos-4345647757|d20f9b074a651b7c
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-n-able-4347590980|be238205d7350d0c
-https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-severn-trent-4369765823|527755bf9e9c90ac
+https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-severn-trent-4369765823|66eb109da7417d1f
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-game-engine-at-games-factory-talents-connecting-passion-talent-4352326737|9d405b627825e91b
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-london-global-prime-brokerage-financing-platform-at-jobs-via-efinancialcareers-4354670360|3075a98a7f834576
 https://uk.linkedin.com/jobs/view/senior-automation-qa-remote-at-tiptopjob-4346999306|d9970c705c6a87d5
@@ -245,7 +245,7 @@ https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-tp-icap-4347391110|a5dbd
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-net-automation-at-wheelright-4344959473|010aac78c78e52a5
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-sportsbook-at-sportserve-4369230284|b275f81d8c191d62
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-kinetic-games-4358954740|36b781f80b4025c8
-https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-eflow-4361065610|33b2099c24b0ef7d
+https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-eflow-4361065610|1d01246e5777d0f5
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-specialist-at-mk-construction-4351150776|e57bb5a7570ed48f
 https://uk.linkedin.com/jobs/view/senior-quality-qa-engineer-at-technip-energies-4326188896|7ad09a3bef124353
 https://uk.linkedin.com/jobs/view/senior-quality-test-engineer-at-yolk-recruitment-ltd-4342297879|32db6d1707978b69
@@ -441,7 +441,7 @@ https://uk.talent.com/view?id=31448654d9d1|8c1c99be41362481
 https://uk.talent.com/view?id=31d66c17314c|6fad6ddead6e04c8
 https://uk.talent.com/view?id=340f1249c28e|49e0eb99d9b10821
 https://uk.talent.com/view?id=34818b0f7261|d058ae7b48b49c9f
-https://uk.talent.com/view?id=3500f6add443|94ee3f9dbc3a85ff
+https://uk.talent.com/view?id=3500f6add443|048539ad60b529db
 https://uk.talent.com/view?id=3563bdbef6a6|b1c91361d186a128
 https://uk.talent.com/view?id=359c0770034b|b9624aceabc5414b
 https://uk.talent.com/view?id=36180c643fbd|1e1b4932316dd37e
@@ -646,7 +646,7 @@ https://www.google.com/url?rct=j&sa=t&url=https://www.waconsultants.com/jobs/emb
 https://www.jobserve.com/gb/en/JobListing.aspx?shid=F2BF1CC59F2D179A8DA4|241902bbeb2f5a67
 https://www.jobserve.com/gb/en/mob/job/2EDCDAB8B0A6B1E0D9?shid=539624818B2FA6C8CB14&page=1|c56c8251964bc2f0
 https://www.jobsgopublic.com/job/lead-test-engineer-automation-40578|f106d4abcd8cf4bd
-https://www.jobsgopublic.com/job/senior-test-engineer-40761|62c2d0ce504f2c1e
+https://www.jobsgopublic.com/job/senior-test-engineer-40761|b1de0a6e4871cd91
 https://www.jobsinwales.com/jobs-in-bassaleg/test-engineer_1430130?region=south|37705c64e5734de4
 https://www.jobsinwales.com/jobs-in-pontyclun/test-engineer_1429672?region=south|8114375f873427c5
 https://www.jobsinwales.com/jobs-in-st-asaph/test-engineer_1425893?region=south|3d77650c53142102
