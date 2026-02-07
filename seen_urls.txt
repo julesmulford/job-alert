@@ -201,7 +201,7 @@ https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-green-cad-it-con
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-hitachi-energy-4328330307|08573c3341c8409b
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-matchtech-4361081793|7ce4c38aa9e3e2c3
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-recenso-services-4343518438|b52ad03fe9ca74d3
-https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tgs-international-group-4361421723|bcd93a03f5dc1286
+https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tgs-international-group-4361421723|3621d3da4c4d0491
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tria-4350252385|7524309888b21991
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-workmaze-4350562868|0d5e8cefa61fc974
 https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-skillspree-4349846037|6059d533c654b364
@@ -220,7 +220,7 @@ https://uk.linkedin.com/jobs/view/sdet-engineer-at-clearroute-4369294926|c0cc81c
 https://uk.linkedin.com/jobs/view/senior-ai-automation-engineer-at-binnies-4359407906|ead0980efac05468
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-kainos-4345647757|d20f9b074a651b7c
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-n-able-4347590980|be238205d7350d0c
-https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-severn-trent-4369765823|66eb109da7417d1f
+https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-severn-trent-4369765823|7709f25cec901de8
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-game-engine-at-games-factory-talents-connecting-passion-talent-4352326737|9d405b627825e91b
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-london-global-prime-brokerage-financing-platform-at-jobs-via-efinancialcareers-4354670360|3075a98a7f834576
 https://uk.linkedin.com/jobs/view/senior-automation-qa-remote-at-tiptopjob-4346999306|d9970c705c6a87d5
@@ -245,7 +245,7 @@ https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-tp-icap-4347391110|a5dbd
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-net-automation-at-wheelright-4344959473|010aac78c78e52a5
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-sportsbook-at-sportserve-4369230284|b275f81d8c191d62
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-kinetic-games-4358954740|36b781f80b4025c8
-https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-eflow-4361065610|1d01246e5777d0f5
+https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-eflow-4361065610|2028a0d53840fe11
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-specialist-at-mk-construction-4351150776|e57bb5a7570ed48f
 https://uk.linkedin.com/jobs/view/senior-quality-qa-engineer-at-technip-energies-4326188896|7ad09a3bef124353
 https://uk.linkedin.com/jobs/view/senior-quality-test-engineer-at-yolk-recruitment-ltd-4342297879|32db6d1707978b69
@@ -364,6 +364,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-sunamp-4344711208|ff79e30e456
 https://uk.linkedin.com/jobs/view/test-engineer-at-symmetric-recruitment-ltd-4328901592|b9f9869ca4e8a98b
 https://uk.linkedin.com/jobs/view/test-engineer-at-system-c-4325418648|38415537ff2c427d
 https://uk.linkedin.com/jobs/view/test-engineer-at-tact-4340346408|198d7eec60f85fa0
+https://uk.linkedin.com/jobs/view/test-engineer-at-vitec-4369922259|dc65b322ca450762
 https://uk.linkedin.com/jobs/view/test-engineer-construction-at-lucideon-4328789447|e3bd07b985aac63b
 https://uk.linkedin.com/jobs/view/test-engineer-dfe-seo-at-manchester-digital-4329654428|171db8e357731827
 https://uk.linkedin.com/jobs/view/test-engineer-electronics-at-duxvalves-4369704484|a9b89c8ea1985795
@@ -376,6 +377,7 @@ https://uk.linkedin.com/jobs/view/test-lead-operational-technology-poweron-adms-
 https://uk.linkedin.com/jobs/view/test-lead-studentjob-co-uk-at-jobster-4330124478|76bd8d41538ebdf2
 https://uk.linkedin.com/jobs/view/test-rig-engineer-at-trescal-4362404132|0e8ef14e05b26c6b
 https://uk.linkedin.com/jobs/view/test-software-engineer-at-bullhorn-middleware-test-company-4365329510|8ea9184d8f5fc36e
+https://uk.linkedin.com/jobs/view/test-test-at-serco-4369827103|0b2bccbfb781a26e
 https://uk.linkedin.com/jobs/view/tester-enhanced-dv-at-learning-for-now-4346384598|cf086484e63a161a
 https://uk.linkedin.com/jobs/view/tester-remote-at-talent-orbit-4342316289|e228e772e7403b73
 https://uk.linkedin.com/jobs/view/testing-analyst-remote-at-taskify-ai-4339868277|d8a7537dd47dacbb
@@ -441,10 +443,11 @@ https://uk.talent.com/view?id=31448654d9d1|8c1c99be41362481
 https://uk.talent.com/view?id=31d66c17314c|6fad6ddead6e04c8
 https://uk.talent.com/view?id=340f1249c28e|49e0eb99d9b10821
 https://uk.talent.com/view?id=34818b0f7261|d058ae7b48b49c9f
-https://uk.talent.com/view?id=3500f6add443|048539ad60b529db
+https://uk.talent.com/view?id=3500f6add443|94ee3f9dbc3a85ff
 https://uk.talent.com/view?id=3563bdbef6a6|b1c91361d186a128
 https://uk.talent.com/view?id=359c0770034b|b9624aceabc5414b
 https://uk.talent.com/view?id=36180c643fbd|1e1b4932316dd37e
+https://uk.talent.com/view?id=362c221e0640|489b9e4e3d9729be
 https://uk.talent.com/view?id=3960bc18ebcd|d3031fcf9f911245
 https://uk.talent.com/view?id=3b7fb5839f55|0cef0b34082bdf7e
 https://uk.talent.com/view?id=3b9609aff6f8|d12607294230b8de
@@ -460,6 +463,7 @@ https://uk.talent.com/view?id=47f2da218a2a|e6ce23fd82653541
 https://uk.talent.com/view?id=482604477516|39bc27086269c7d4
 https://uk.talent.com/view?id=48845a6dd6fb|fc750ff8f59b8fc1
 https://uk.talent.com/view?id=4a3bfdfa2ade|58d28fc5aaa226bb
+https://uk.talent.com/view?id=4d4fc63fb211|4113b93563b18928
 https://uk.talent.com/view?id=4dd61d827662|ff9e8ecbffe6faf9
 https://uk.talent.com/view?id=50165283f930|6f953d701e8b1fe7
 https://uk.talent.com/view?id=529e0f49fdc0|0cdb74392b4be565
@@ -490,17 +494,20 @@ https://uk.talent.com/view?id=73711ddd59fc|7dcc1a6a69b01829
 https://uk.talent.com/view?id=7391972d8a7a|e88026bf1157792c
 https://uk.talent.com/view?id=745dd421c2d0|e7c4ce5a31edcc21
 https://uk.talent.com/view?id=7490a578d108|8f265b3fa12874dd
+https://uk.talent.com/view?id=7533b15551bb|5e43c863e57f328d
 https://uk.talent.com/view?id=76540368a550|8e755d9035ad51ee
 https://uk.talent.com/view?id=76e830be8f5e|514818a52aec3edd
 https://uk.talent.com/view?id=772772a2a1d3|c7411db948232b87
 https://uk.talent.com/view?id=7771855301b3|1271e33931ef5381
 https://uk.talent.com/view?id=777c7bb73752|966ef38f24c4fc21
 https://uk.talent.com/view?id=77df8c1cacb8|1814655bb6263f18
+https://uk.talent.com/view?id=798fee9bcd1f|be030c721acdf4d8
 https://uk.talent.com/view?id=79aef70f5b80|219c5dac95b8e29d
 https://uk.talent.com/view?id=7b0e0bb2fae6|f1eb10c501aa71de
 https://uk.talent.com/view?id=7c3d322ef722|49a7049d0926c825
 https://uk.talent.com/view?id=7dcbd36e848e|b56637d3564eff51
 https://uk.talent.com/view?id=7e46fa1f85b1|f616b3ce229c017e
+https://uk.talent.com/view?id=7fe44d80eff4|a11788773e6aaf9e
 https://uk.talent.com/view?id=8140cc13b4f7|9e2105dd90a183f7
 https://uk.talent.com/view?id=82868499554a|c44b7efc75ea8491
 https://uk.talent.com/view?id=8a19f5518e0d|34eb3e91be8a1de7
@@ -512,6 +519,7 @@ https://uk.talent.com/view?id=9320437e4e55|dbe3e446803e9eb6
 https://uk.talent.com/view?id=9512aa99d0e2|0e39b4841b7a32ea
 https://uk.talent.com/view?id=955a3671cc5d|285d46c160f998e0
 https://uk.talent.com/view?id=96eaf7f0616b|25651977e31608ab
+https://uk.talent.com/view?id=977595a649e8|d48ac7db8368dfe2
 https://uk.talent.com/view?id=97a87f276102|bad5d030566469cd
 https://uk.talent.com/view?id=97b43ba11378|f6e3c7c659018f7b
 https://uk.talent.com/view?id=97ffb42a8221|3cf6e35c3ecf5de1
@@ -565,6 +573,7 @@ https://uk.talent.com/view?id=c875d4831ea2|0b0fb40a041e33fc
 https://uk.talent.com/view?id=cae32fba98c4|5059d46681c543da
 https://uk.talent.com/view?id=cfb1b8ccc3e5|b2104004e024b427
 https://uk.talent.com/view?id=d0b2aba03c3e|da773a09c969a7d4
+https://uk.talent.com/view?id=d1cb6d1cea75|7d72575905b41e9b
 https://uk.talent.com/view?id=d2fe9a128686|d43b50246fa7e8c2
 https://uk.talent.com/view?id=d33631af3982|d458962a3fe57049
 https://uk.talent.com/view?id=d36c4263f4df|f1fd8955d42fecd5
@@ -646,7 +655,7 @@ https://www.google.com/url?rct=j&sa=t&url=https://www.waconsultants.com/jobs/emb
 https://www.jobserve.com/gb/en/JobListing.aspx?shid=F2BF1CC59F2D179A8DA4|241902bbeb2f5a67
 https://www.jobserve.com/gb/en/mob/job/2EDCDAB8B0A6B1E0D9?shid=539624818B2FA6C8CB14&page=1|c56c8251964bc2f0
 https://www.jobsgopublic.com/job/lead-test-engineer-automation-40578|f106d4abcd8cf4bd
-https://www.jobsgopublic.com/job/senior-test-engineer-40761|b1de0a6e4871cd91
+https://www.jobsgopublic.com/job/senior-test-engineer-40761|3e01bb5a92377f8e
 https://www.jobsinwales.com/jobs-in-bassaleg/test-engineer_1430130?region=south|37705c64e5734de4
 https://www.jobsinwales.com/jobs-in-pontyclun/test-engineer_1429672?region=south|8114375f873427c5
 https://www.jobsinwales.com/jobs-in-st-asaph/test-engineer_1425893?region=south|3d77650c53142102
