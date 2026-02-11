@@ -28,6 +28,7 @@ https://uk.jobrapido.com/jobpreview/3462189297120051200|9326c2700a1745c9
 https://uk.jobrapido.com/jobpreview/3537245259366924288|adf45c409dd12358
 https://uk.jobrapido.com/jobpreview/3569419993252626432|040aedc2a50de823
 https://uk.jobrapido.com/jobpreview/3797409158110642176|f0cb35e69812acf9
+https://uk.jobrapido.com/jobpreview/3800011444435550208|64c83eedf1175860
 https://uk.jobrapido.com/jobpreview/3833319345312759808|9442d5f525a37fc0
 https://uk.jobrapido.com/jobpreview/4035414324141883392|dd87e234bcac2140
 https://uk.jobrapido.com/jobpreview/4362273885261922304|687aafee78926534
@@ -57,6 +58,7 @@ https://uk.jobrapido.com/jobpreview/8167477496334254080|00a4076d6a85e124
 https://uk.jobrapido.com/jobpreview/8402608057934151680|5826d30723b1e031
 https://uk.jobrapido.com/jobpreview/8419337376458866688|2d9c402e048dcef8
 https://uk.jobrapido.com/jobpreview/8638691896115331072|d3a70761f4e7a09d
+https://uk.jobrapido.com/jobpreview/8695404448177979392|9ff7247992735676
 https://uk.jobrapido.com/jobpreview/8795376718299791360|0e10883f7198bcd9
 https://uk.jobrapido.com/jobpreview/8890482824834973696|c274da91258622cf
 https://uk.jobrapido.com/jobpreview/9114528110203633664|048267a1fa94deda
@@ -85,7 +87,7 @@ https://uk.linkedin.com/jobs/view/actemium-automation-nottingham-senior-control-
 https://uk.linkedin.com/jobs/view/actemium-ics-test-engineer-at-actemium-uk-4330073147|1d0016fe50de061f
 https://uk.linkedin.com/jobs/view/aem-qa-automation-engineer-at-red-global-4348843342|25c2ad62c4905622
 https://uk.linkedin.com/jobs/view/affiliate-software-engineer-in-test-at-and-digital-4342781054|52249c509c6b31e4
-https://uk.linkedin.com/jobs/view/ai-and-automation-engineer-agentops-at-bet365-4370956672|4d36ddb27871612a
+https://uk.linkedin.com/jobs/view/ai-and-automation-engineer-agentops-at-bet365-4370956672|39cc24f9404c515d
 https://uk.linkedin.com/jobs/view/ai-artificial-intelligence-test-automation-engineer-at-de-mare-consulting-4360757332|5e1f8d0e647d8a8d
 https://uk.linkedin.com/jobs/view/ai-assistant-user-tester-at-taskify-ai-4339868441|88204efb30fd0b5c
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-hackajob-4324082996|80da2bbf8cace59e
@@ -110,7 +112,7 @@ https://uk.linkedin.com/jobs/view/automation-engineer-fea-at-capgemini-engineeri
 https://uk.linkedin.com/jobs/view/automation-engineer-rme-at-amazon-4361665708|30015ebb4763a27b
 https://uk.linkedin.com/jobs/view/automation-intern-at-10x-media-4354450549|4298841c0f9e9f67
 https://uk.linkedin.com/jobs/view/automation-qa-engineer-oracle-at-coinmarketcap-4345425426|116430409b16195c
-https://uk.linkedin.com/jobs/view/automation-test-analyst-at-eden-scott-4361848575|13a8ce9150bd9b9b
+https://uk.linkedin.com/jobs/view/automation-test-analyst-at-eden-scott-4361848575|c8e82d6b55b784e9
 https://uk.linkedin.com/jobs/view/automation-test-analyst-at-paritas-recruitment-4355906380|0feb98c60da0f27c
 https://uk.linkedin.com/jobs/view/automation-test-analyst-studentjob-co-uk-at-jobster-4367740133|f8757f24b5c8f272
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-amber-labs-4369132371|dcf50af6ecd575b4
@@ -454,7 +456,7 @@ https://uk.talent.com/view?id=18b2fe5e41b9|8ce33b867aaafe17
 https://uk.talent.com/view?id=197346e14e15|059d612c7f2de7ad
 https://uk.talent.com/view?id=1b0e7bdceffa|031b991b3a8634c6
 https://uk.talent.com/view?id=1b2a132044cf|d6b0f6a354b9fcab
-https://uk.talent.com/view?id=1b89f8344840|366278ab8a197d69
+https://uk.talent.com/view?id=1b89f8344840|c9f65568860f10a3
 https://uk.talent.com/view?id=1ca9ff95addf|4487984516c86917
 https://uk.talent.com/view?id=1d7fff0b0efe|71a52a1765a4474b
 https://uk.talent.com/view?id=1e4fc9af99a9|d39b4e9ad547b206
@@ -595,8 +597,10 @@ https://uk.talent.com/view?id=9cd0f0fc7816|4797f7d2bd1e7b55
 https://uk.talent.com/view?id=9f09b9d5caed|77fdc640c7f2dd16
 https://uk.talent.com/view?id=9f232553e086|4de468238f601579
 https://uk.talent.com/view?id=9fc3b0d6fd0d|48c6faedc0337033
+https://uk.talent.com/view?id=a05254cb3bd0|0b0329f1c2d9c2bb
 https://uk.talent.com/view?id=a063c31a24ee|c1e480ec6e3ace84
 https://uk.talent.com/view?id=a0d7cb4cf611|b5601ad87bc3ff94
+https://uk.talent.com/view?id=a1e13c7da87b|5bb6f4a12d0b1039
 https://uk.talent.com/view?id=a38bf9c5dc6d|4089390416a60464
 https://uk.talent.com/view?id=a42aa9ba323d|a74ede9057ad2779
 https://uk.talent.com/view?id=a614d8ea6d1a|87894652e1988f31
