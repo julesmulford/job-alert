@@ -51,7 +51,7 @@ https://uk.jobrapido.com/jobpreview/6128130885645500416|6fdf4a40b7742657
 https://uk.jobrapido.com/jobpreview/6366640899312582656|8f2df5cd09b2e6cb
 https://uk.jobrapido.com/jobpreview/6608405716505985024|eebb854a03856518
 https://uk.jobrapido.com/jobpreview/6617923406983593984|de72dd496ca84547
-https://uk.jobrapido.com/jobpreview/6815194484704280576|b5de9cd7392499a7
+https://uk.jobrapido.com/jobpreview/6815194484704280576|47c6011060d77f47
 https://uk.jobrapido.com/jobpreview/6923649718962618368|da84d4a0bee82ebd
 https://uk.jobrapido.com/jobpreview/7025570366638522368|a25a2fd66d67ebf1
 https://uk.jobrapido.com/jobpreview/704774869513928704|89a1cb4583590be7
@@ -327,7 +327,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-lrqa-4342733252|7de82e
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-mygwork-lgbtq+-business-community-4352790694|f4e5cfb4135aebec
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-ncr-atleos-4328117500|ec03eab6907ecb97
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-platform-recruitment-4353124635|d6451abbc33d4f61
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-randstad-digital-4363069521|f8e5626616555b3f
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-randstad-digital-4363069521|f996b28bb4abe0fb
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-sepura-4342671512|802c4a8e196a88f1
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-trs-staffing-solutions-4321497038|53495690671905ee
 https://uk.linkedin.com/jobs/view/senior-test-engineer-aws-microservices-transformation-public-sector-12-months-at-bangura-solutions-4353933351|afe05559cf0fc4a9
