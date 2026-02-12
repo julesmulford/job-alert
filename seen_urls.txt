@@ -106,6 +106,7 @@ https://uk.linkedin.com/jobs/view/automation-assurance-engineer-at-stealth-it-co
 https://uk.linkedin.com/jobs/view/automation-developer-at-ninetech-4370966107|aea4c49e837f9759
 https://uk.linkedin.com/jobs/view/automation-engineer-at-aberdeen-4346252000|399e4354887b23ce
 https://uk.linkedin.com/jobs/view/automation-engineer-at-catalent-4369628219|7d0f1fb70112c95e
+https://uk.linkedin.com/jobs/view/automation-engineer-at-cbsbutler-4371842378|7603f2fd6a843f85
 https://uk.linkedin.com/jobs/view/automation-engineer-at-census-ex-forces-recruitment-ltd-4348864043|bac3d74efe35182f
 https://uk.linkedin.com/jobs/view/automation-engineer-at-clear-4361961076|223bf6604eb8e3ab
 https://uk.linkedin.com/jobs/view/automation-engineer-at-darktrace-4343433811|a6b597fa89c4339f
@@ -270,7 +271,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-tester-at-netcompany-4344991
 https://uk.linkedin.com/jobs/view/senior-development-engineer-in-test-sdet-at-valstro-4345975778|e30d68f51d0fe9a2
 https://uk.linkedin.com/jobs/view/senior-dft-engineer-at-arm-4329674368|dff917696abd35e2
 https://uk.linkedin.com/jobs/view/senior-electronics-test-engineer-at-microchip-technology-inc-4371297311|494621fd5325f43d
-https://uk.linkedin.com/jobs/view/senior-engineer-automation-at-scopely-4371616133|322aed3cc2229543
+https://uk.linkedin.com/jobs/view/senior-engineer-automation-at-scopely-4371616133|b702a2680add5b01
 https://uk.linkedin.com/jobs/view/senior-engineer-in-test-at-halos-body-cameras-4370828845|27e9b96107eafb76
 https://uk.linkedin.com/jobs/view/senior-etl-test-engineer-at-w-talent-4354659160|d97b0fe2aab744cc
 https://uk.linkedin.com/jobs/view/senior-field-test-engineer-at-pc-help-a-s-4354678812|9caa60a57be5af7b
@@ -728,6 +729,7 @@ https://uk.talent.com/view?id=f9c9133c40b4|cb118812c4a765b9
 https://uk.talent.com/view?id=f9df72d23b60|b7f46b60286462ad
 https://uk.talent.com/view?id=fbbba1849b0f|8ae6033e45298a45
 https://uk.talent.com/view?id=fc7bd0ed947a|4d30ada41a0be679
+https://uk.talent.com/view?id=fccb7fcbf759|2a328bc704ac46b9
 https://uk.talent.com/view?id=fd2b08c989d7|a948f4e1dbb223a5
 https://uk.talent.com/view?id=fdec976de6bf|52023d94811169b3
 https://uk.talent.com/view?id=fec907b32877|afe81807b8d68934
