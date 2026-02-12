@@ -8,7 +8,7 @@ https://gb.bebee.com/job/ebb07f7589e02268879299b8016bac79|b21f99dba29cb333
 https://gb.bebee.com/job/eef67ab7c098e677a138f416f7c1bacd|d31d93925373d447
 https://jobs.jobg8.com/jobs/junior-test-engineer-remote-playwright-jest-gds-in-united-kingdom/5673-3057150701ED|89a9d4ced5176dfa
 https://jobs.theguardian.com/job/10027869/automation-engineer-eica-buk-service-dept/|e1d14c69614b87e9
-https://jobs.theguardian.com/job/10030318/control-panel-equipment-test-engineer/|6c1d21456fa2d9e2
+https://jobs.theguardian.com/job/10030318/control-panel-equipment-test-engineer/|401f08dbb7eae74d
 https://jobs.theguardian.com/job/9974624/automation-engineer-eica-buk-service-dept/|077135f818a9f9f9
 https://jobs.theguardian.com/job/9996002/automation-engineer-eica-buk-service-dept/|b988361b43f008de
 https://jobtoday.com/gb/jobs-qa-tester/pontefract|5b5187d52c163eef
@@ -106,7 +106,7 @@ https://uk.linkedin.com/jobs/view/automation-assurance-engineer-at-stealth-it-co
 https://uk.linkedin.com/jobs/view/automation-developer-at-ninetech-4370966107|aea4c49e837f9759
 https://uk.linkedin.com/jobs/view/automation-engineer-at-aberdeen-4346252000|399e4354887b23ce
 https://uk.linkedin.com/jobs/view/automation-engineer-at-catalent-4369628219|7d0f1fb70112c95e
-https://uk.linkedin.com/jobs/view/automation-engineer-at-cbsbutler-4371842378|7603f2fd6a843f85
+https://uk.linkedin.com/jobs/view/automation-engineer-at-cbsbutler-4371842378|f4b6140789de525d
 https://uk.linkedin.com/jobs/view/automation-engineer-at-census-ex-forces-recruitment-ltd-4348864043|bac3d74efe35182f
 https://uk.linkedin.com/jobs/view/automation-engineer-at-clear-4361961076|223bf6604eb8e3ab
 https://uk.linkedin.com/jobs/view/automation-engineer-at-darktrace-4343433811|a6b597fa89c4339f
@@ -271,7 +271,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-tester-at-netcompany-4344991
 https://uk.linkedin.com/jobs/view/senior-development-engineer-in-test-sdet-at-valstro-4345975778|e30d68f51d0fe9a2
 https://uk.linkedin.com/jobs/view/senior-dft-engineer-at-arm-4329674368|dff917696abd35e2
 https://uk.linkedin.com/jobs/view/senior-electronics-test-engineer-at-microchip-technology-inc-4371297311|494621fd5325f43d
-https://uk.linkedin.com/jobs/view/senior-engineer-automation-at-scopely-4371616133|b702a2680add5b01
+https://uk.linkedin.com/jobs/view/senior-engineer-automation-at-scopely-4371616133|6df8ce3d255c1316
 https://uk.linkedin.com/jobs/view/senior-engineer-in-test-at-halos-body-cameras-4370828845|27e9b96107eafb76
 https://uk.linkedin.com/jobs/view/senior-etl-test-engineer-at-w-talent-4354659160|d97b0fe2aab744cc
 https://uk.linkedin.com/jobs/view/senior-field-test-engineer-at-pc-help-a-s-4354678812|9caa60a57be5af7b
