@@ -107,7 +107,7 @@ https://uk.linkedin.com/jobs/view/automation-assurance-engineer-at-stealth-it-co
 https://uk.linkedin.com/jobs/view/automation-developer-at-ninetech-4370966107|aea4c49e837f9759
 https://uk.linkedin.com/jobs/view/automation-engineer-at-aberdeen-4346252000|399e4354887b23ce
 https://uk.linkedin.com/jobs/view/automation-engineer-at-catalent-4369628219|7d0f1fb70112c95e
-https://uk.linkedin.com/jobs/view/automation-engineer-at-cbsbutler-4371842378|1be652bd71b39fa9
+https://uk.linkedin.com/jobs/view/automation-engineer-at-cbsbutler-4371842378|da30539f229266ee
 https://uk.linkedin.com/jobs/view/automation-engineer-at-census-ex-forces-recruitment-ltd-4348864043|bac3d74efe35182f
 https://uk.linkedin.com/jobs/view/automation-engineer-at-clear-4361961076|223bf6604eb8e3ab
 https://uk.linkedin.com/jobs/view/automation-engineer-at-darktrace-4343433811|a6b597fa89c4339f
@@ -222,7 +222,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-rm-plc-4328787520|92
 https://uk.linkedin.com/jobs/view/qa-engineer-contractor-at-pulse-innovations-gmbh-4360642801|e9bdcc2f1c86907a
 https://uk.linkedin.com/jobs/view/qa-engineer-fullstack-at-st-global-tech-llc-4368961645|9b5a87c5cb86b5b9
 https://uk.linkedin.com/jobs/view/qa-engineer-manual-mid-level-12-month-ftc-at-informa-4339482495|9009e4ac4ad456c6
-https://uk.linkedin.com/jobs/view/qa-engineer-sdet-at-mygwork-lgbtq+-business-community-4363944684|83b18db2bdf932f0
+https://uk.linkedin.com/jobs/view/qa-engineer-sdet-at-mygwork-lgbtq+-business-community-4363944684|07c9fdd0bb566487
 https://uk.linkedin.com/jobs/view/qa-engineer-servicenow-at-harvey-nash-4365318311|9da4a167cd1be7ed
 https://uk.linkedin.com/jobs/view/qa-engineer-studentjob-co-uk-at-jobster-4367717596|2ddafaf87d29fbd5
 https://uk.linkedin.com/jobs/view/qa-engineer-web-app-d65-integration-sc-cleared-at-pioneer-search-4354715256|b6d3d619c735a2d6
@@ -273,7 +273,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-tester-at-netcompany-4344991
 https://uk.linkedin.com/jobs/view/senior-development-engineer-in-test-sdet-at-valstro-4345975778|e30d68f51d0fe9a2
 https://uk.linkedin.com/jobs/view/senior-dft-engineer-at-arm-4329674368|dff917696abd35e2
 https://uk.linkedin.com/jobs/view/senior-electronics-test-engineer-at-microchip-technology-inc-4371297311|494621fd5325f43d
-https://uk.linkedin.com/jobs/view/senior-engineer-automation-at-scopely-4371616133|63f0a501e2d3244f
+https://uk.linkedin.com/jobs/view/senior-engineer-automation-at-scopely-4371616133|6039efb685e51aa5
 https://uk.linkedin.com/jobs/view/senior-engineer-in-test-at-halos-body-cameras-4370828845|27e9b96107eafb76
 https://uk.linkedin.com/jobs/view/senior-etl-test-engineer-at-w-talent-4354659160|d97b0fe2aab744cc
 https://uk.linkedin.com/jobs/view/senior-field-test-engineer-at-pc-help-a-s-4354678812|9caa60a57be5af7b
@@ -303,7 +303,7 @@ https://uk.linkedin.com/jobs/view/senior-software-development-test-engineer-at-p
 https://uk.linkedin.com/jobs/view/senior-software-qa-test-development-engineer-at-nvidia-4359313436|c4a842303bc50c05
 https://uk.linkedin.com/jobs/view/senior-software-quality-assurance-engineer-at-eden-scott-4353716476|1dc2bbd9dde11aed
 https://uk.linkedin.com/jobs/view/senior-software-test-automation-engineer-at-scg-midlands-4327114543|077577d78963813c
-https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-cubiq-recruitment-4363266393|f3b5275b0b9758cf
+https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-cubiq-recruitment-4363266393|59c17378ed046e8b
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-dotmatics-4327865434|6e78732589f49267
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-hackajob-4329322584|3b7732b91824ca0f
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-synergize-consulting-4348876811|e4f77cf02e1ac09e
@@ -330,12 +330,12 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-government-digital-ser
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-ic-resources-4366382846|a103624c885ecfcf
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-it-world-limited-4356701720|798f6e79427b7782
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-lrqa-4342733252|7de82e1f7d276383
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-lrqa-4371827606|4e4f1656a7ae0d00
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-lrqa-4371827606|558dc08dc28a419f
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-mygwork-lgbtq+-business-community-4352790694|f4e5cfb4135aebec
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-ncr-atleos-4328117500|ec03eab6907ecb97
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-platform-recruitment-4353124635|d6451abbc33d4f61
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-randstad-digital-4363069521|8b4188bf5d8e63a8
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-redtech-recruitment-4363953251|ac895433ef906596
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-redtech-recruitment-4363953251|4fc318021a15f295
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-sepura-4342671512|802c4a8e196a88f1
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-trs-staffing-solutions-4321497038|53495690671905ee
 https://uk.linkedin.com/jobs/view/senior-test-engineer-aws-microservices-transformation-public-sector-12-months-at-bangura-solutions-4353933351|afe05559cf0fc4a9
@@ -374,7 +374,7 @@ https://uk.linkedin.com/jobs/view/system-test-engineer-at-intellian-technologies
 https://uk.linkedin.com/jobs/view/system-test-engineer-premier-group-at-jobster-4360962695|4f18cba5b0d42b7f
 https://uk.linkedin.com/jobs/view/systems-integration-automation-engineer-outside-ir35-contract-at-cloud-people-4361050312|7bcd3979ac1fe036
 https://uk.linkedin.com/jobs/view/systems-test-engineer-at-sava-4344281499|d0a9e8df05b68da5
-https://uk.linkedin.com/jobs/view/test-1-at-princes-group-4371874538|401a49eeb2c4d869
+https://uk.linkedin.com/jobs/view/test-1-at-princes-group-4371874538|0bf50de805868fc0
 https://uk.linkedin.com/jobs/view/test-and-authentication-engineer-at-navantia-uk-4328911069|7f975253b620c28c
 https://uk.linkedin.com/jobs/view/test-area-team-lead-at-tld-4355770978|dc4b8c264c8e2874
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4328330834|042d44c33833c196
@@ -390,9 +390,9 @@ https://uk.linkedin.com/jobs/view/test-automation-specialist-at-83zero-436186123
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-ceox-services-ltd-4345182421|0cbc1dbc9a3a05d3
 https://uk.linkedin.com/jobs/view/test-data-specialist-remote-at-taskify-ai-4338525459|c0d854d4514e033f
 https://uk.linkedin.com/jobs/view/test-early-careers-at-marks-and-spencer-4363869850|a15805b0fe529652
-https://uk.linkedin.com/jobs/view/test-engineer-at-accelero-4371830484|d079894a99a7a8af
+https://uk.linkedin.com/jobs/view/test-engineer-at-accelero-4371830484|1ea51053857cf88d
 https://uk.linkedin.com/jobs/view/test-engineer-at-actuation-lab-4344746482|1723be821d3dbb37
-https://uk.linkedin.com/jobs/view/test-engineer-at-aga-rangemaster-ltd-4371639411|c4953b4ab1b754a9
+https://uk.linkedin.com/jobs/view/test-engineer-at-aga-rangemaster-ltd-4371639411|66584d8ae5d44de4
 https://uk.linkedin.com/jobs/view/test-engineer-at-anson-mccade-4325377562|2b7a96d89b872bbb
 https://uk.linkedin.com/jobs/view/test-engineer-at-bmr-solutions-ltd-4352255198|787fc4ed0b6ddeb7
 https://uk.linkedin.com/jobs/view/test-engineer-at-bms-performance-4370250406|9a28041166b88800
@@ -447,7 +447,7 @@ https://uk.linkedin.com/jobs/view/tester-enhanced-dv-at-learning-for-now-4346384
 https://uk.linkedin.com/jobs/view/tester-remote-at-talent-orbit-4342316289|e228e772e7403b73
 https://uk.linkedin.com/jobs/view/testing-analyst-remote-at-taskify-ai-4339868277|d8a7537dd47dacbb
 https://uk.linkedin.com/jobs/view/testing-consultant-remote-at-talent-pulse-4342526153|5260f2d7cdd031de
-https://uk.linkedin.com/jobs/view/testing-job-at-tae-power-solutions-4363197342|c045ce320a3f3c37
+https://uk.linkedin.com/jobs/view/testing-job-at-tae-power-solutions-4363197342|d8b8577ec70d740a
 https://uk.linkedin.com/jobs/view/testing-specialist-remote-at-hire-wave-4342690970|f531e5354d615a47
 https://uk.linkedin.com/jobs/view/this-is-a-test-at-cellpoint-digital-4355283492|a29d3aeca020fe93
 https://uk.linkedin.com/jobs/view/tooling-automation-engineer-at-apple-4360065154|8e76b6a9f04f9003
@@ -550,7 +550,7 @@ https://uk.talent.com/view?id=4d4fc63fb211|815c780e3a0f1974
 https://uk.talent.com/view?id=4dd61d827662|ff9e8ecbffe6faf9
 https://uk.talent.com/view?id=50165283f930|6f953d701e8b1fe7
 https://uk.talent.com/view?id=529e0f49fdc0|0cdb74392b4be565
-https://uk.talent.com/view?id=52beca3edd69|8fc19630da049aa6
+https://uk.talent.com/view?id=52beca3edd69|3a88875b1a1c4c34
 https://uk.talent.com/view?id=53d51fc22999|1d2775062d9c9e37
 https://uk.talent.com/view?id=545db132f5fb|95b47627007d3d0f
 https://uk.talent.com/view?id=546f1ee3a765|223bfad73e6c5909
@@ -686,7 +686,7 @@ https://uk.talent.com/view?id=cd4a832e9c4b|d8208e1072ffeb08
 https://uk.talent.com/view?id=cfb1b8ccc3e5|b2104004e024b427
 https://uk.talent.com/view?id=d05cdf35ea20|6834d9b08cf9c938
 https://uk.talent.com/view?id=d0b2aba03c3e|da773a09c969a7d4
-https://uk.talent.com/view?id=d1211cdfa1a7|8ec83f81785a5954
+https://uk.talent.com/view?id=d1211cdfa1a7|f063ff6717aea104
 https://uk.talent.com/view?id=d1cb6d1cea75|a1fdcfee97d6a224
 https://uk.talent.com/view?id=d2fe9a128686|d43b50246fa7e8c2
 https://uk.talent.com/view?id=d33631af3982|d458962a3fe57049
@@ -723,7 +723,7 @@ https://uk.talent.com/view?id=e8b3a7f7e94e|26982ba44ccd21c8
 https://uk.talent.com/view?id=e924903e307e|9cebda6e6ace4566
 https://uk.talent.com/view?id=ea1624ecb79d|87ae94e1d767b443
 https://uk.talent.com/view?id=ea7d56dc86cc|3505af9e989a56d5
-https://uk.talent.com/view?id=ec7e6d405a21|9ecb7fae28cde0c5
+https://uk.talent.com/view?id=ec7e6d405a21|5034694d5dee04f6
 https://uk.talent.com/view?id=ec8836b0251c|8fa4ddb6a6c5f2a9
 https://uk.talent.com/view?id=ed1efa800e3d|90a1b6e3d8137866
 https://uk.talent.com/view?id=ed44bb23d487|c21980f71a9ee307
@@ -742,7 +742,7 @@ https://uk.talent.com/view?id=f9c9133c40b4|cb118812c4a765b9
 https://uk.talent.com/view?id=f9df72d23b60|b7f46b60286462ad
 https://uk.talent.com/view?id=fbbba1849b0f|8ae6033e45298a45
 https://uk.talent.com/view?id=fc7bd0ed947a|4d30ada41a0be679
-https://uk.talent.com/view?id=fccb7fcbf759|2a328bc704ac46b9
+https://uk.talent.com/view?id=fccb7fcbf759|631e5d85829abadb
 https://uk.talent.com/view?id=fd2b08c989d7|a948f4e1dbb223a5
 https://uk.talent.com/view?id=fdec976de6bf|52023d94811169b3
 https://uk.talent.com/view?id=fec907b32877|afe81807b8d68934
@@ -778,7 +778,7 @@ https://www.jobserve.com/gb/en/mob/job/2EDCDAB8B0A6B1E0D9?shid=539624818B2FA6C8C
 https://www.jobsgopublic.com/job/lead-test-engineer-automation-40578|f106d4abcd8cf4bd
 https://www.jobsgopublic.com/job/senior-test-engineer-40761|e8c468bee652d3fb
 https://www.jobsinwales.com/jobs-in-bassaleg/test-engineer_1430130?region=south|37705c64e5734de4
-https://www.jobsinwales.com/jobs-in-newport/test-engineer_1436124?region=south|0198232ebf1ebdac
+https://www.jobsinwales.com/jobs-in-newport/test-engineer_1436124?region=south|87bc691339b70c1a
 https://www.jobsinwales.com/jobs-in-pontyclun/test-engineer_1429672?region=south|8114375f873427c5
 https://www.jobsinwales.com/jobs-in-st-asaph/test-engineer_1425893?region=south|3d77650c53142102
 https://www.microtech-global.com/en/job_detail.asp?jobid=19003UMQ|045f1298b72e0376
