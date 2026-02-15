@@ -46,12 +46,14 @@ https://uk.jobrapido.com/jobpreview/5181785806053834752|481699b72e032900
 https://uk.jobrapido.com/jobpreview/5212141492440662016|d51037a7890cb496
 https://uk.jobrapido.com/jobpreview/5494903627900256256|48e116a537c517f7
 https://uk.jobrapido.com/jobpreview/5571628648798093312|e40de68890517d2f
+https://uk.jobrapido.com/jobpreview/5614675534047870976|9d7ca07f5f6bc6b4
 https://uk.jobrapido.com/jobpreview/5636512848587784192|8c791474cada7d50
 https://uk.jobrapido.com/jobpreview/564807056477913088|c81bcdd8841905e0
-https://uk.jobrapido.com/jobpreview/5655419036926738432|eea83d7869b2ce61
+https://uk.jobrapido.com/jobpreview/5655419036926738432|aca247f9a5070fa7
+https://uk.jobrapido.com/jobpreview/5853751143368228864|b81ce3ed252a17d7
 https://uk.jobrapido.com/jobpreview/6128130885645500416|6fdf4a40b7742657
 https://uk.jobrapido.com/jobpreview/6366640899312582656|8f2df5cd09b2e6cb
-https://uk.jobrapido.com/jobpreview/6583334283002249216|6e2cff48f1ecdcf8
+https://uk.jobrapido.com/jobpreview/6583334283002249216|09616ad6a6766d6e
 https://uk.jobrapido.com/jobpreview/6608405716505985024|eebb854a03856518
 https://uk.jobrapido.com/jobpreview/6617923406983593984|de72dd496ca84547
 https://uk.jobrapido.com/jobpreview/6815194484704280576|6d37cb92acb02667
@@ -68,7 +70,7 @@ https://uk.jobrapido.com/jobpreview/8419337376458866688|2d9c402e048dcef8
 https://uk.jobrapido.com/jobpreview/8506547383188848640|39937aec9a3394ee
 https://uk.jobrapido.com/jobpreview/8638691896115331072|d3a70761f4e7a09d
 https://uk.jobrapido.com/jobpreview/8695404448177979392|8c48f4e9ff7192f1
-https://uk.jobrapido.com/jobpreview/8736397952513212416|f4f1a16729d753e3
+https://uk.jobrapido.com/jobpreview/8736397952513212416|8214e185f08d02b0
 https://uk.jobrapido.com/jobpreview/8795376718299791360|0e10883f7198bcd9
 https://uk.jobrapido.com/jobpreview/8890482824834973696|c274da91258622cf
 https://uk.jobrapido.com/jobpreview/9114528110203633664|048267a1fa94deda
@@ -199,6 +201,7 @@ https://uk.linkedin.com/jobs/view/multiple-automation-developers-at-mrj-recruitm
 https://uk.linkedin.com/jobs/view/new-job-georgia-test-at-bath-north-east-somerset-council-4339834532|63bf12faadc62aaf
 https://uk.linkedin.com/jobs/view/offensive-security-tester-at-hackajob-4321452018|42eb01360b963bb5
 https://uk.linkedin.com/jobs/view/pat-tester-at-ecs-ltd-4329895656|4681d398c2c71711
+https://uk.linkedin.com/jobs/view/pat-tester-portable-appliance-tester-at-norwood-electrical-uk-ltd-4373217113|4b0f177bba4d3c69
 https://uk.linkedin.com/jobs/view/performance-test-engineer-at-coforge-4327626051|646ad838432143d4
 https://uk.linkedin.com/jobs/view/plc-and-automation-engineer-at-tiptopjob-4370905294|2ce31d5b53816ba7
 https://uk.linkedin.com/jobs/view/plc-automation-engineer-at-the-seaking-group-4370696401|57a644496275172a
@@ -305,7 +308,7 @@ https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-spacelabs
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-specialist-at-mk-construction-4351150776|e57bb5a7570ed48f
 https://uk.linkedin.com/jobs/view/senior-quality-qa-engineer-at-technip-energies-4326188896|7ad09a3bef124353
 https://uk.linkedin.com/jobs/view/senior-quality-test-engineer-at-yolk-recruitment-ltd-4342297879|32db6d1707978b69
-https://uk.linkedin.com/jobs/view/senior-rf-test-engineer-at-ic-resources-4372011405|286b468992c57de9
+https://uk.linkedin.com/jobs/view/senior-rf-test-engineer-at-ic-resources-4372011405|22ac5b736a3ca483
 https://uk.linkedin.com/jobs/view/senior-sdet-at-harmonic-security-4363652290|70f45dc3adb62e27
 https://uk.linkedin.com/jobs/view/senior-sdet-at-visa-4325523240|19fa7180632f86c5
 https://uk.linkedin.com/jobs/view/senior-software-automation-engineer-at-scx-4365837501|1dd639aed37e9380
@@ -589,7 +592,7 @@ https://uk.talent.com/view?id=6983b21bb658|2ac0f51fd125b618
 https://uk.talent.com/view?id=69ae6d5253b5|5a04d435a2665f84
 https://uk.talent.com/view?id=6ad821575f56|55041c4be9822cdc
 https://uk.talent.com/view?id=6bd5fb75ac06|a2ba58a7784913a9
-https://uk.talent.com/view?id=6c1a07b4edc6|45a556dfca6b300c
+https://uk.talent.com/view?id=6c1a07b4edc6|e8381ca71732cc92
 https://uk.talent.com/view?id=6c1e0e295765|758e5b2c3b1e7f6b
 https://uk.talent.com/view?id=6c90ee7608fc|e8d485771142094b
 https://uk.talent.com/view?id=6dc125ae4d8c|77504b9c4fe31f5b
@@ -612,7 +615,7 @@ https://uk.talent.com/view?id=77df8c1cacb8|1814655bb6263f18
 https://uk.talent.com/view?id=798fee9bcd1f|c8cc7ecd691aff04
 https://uk.talent.com/view?id=79aef70f5b80|219c5dac95b8e29d
 https://uk.talent.com/view?id=7b0e0bb2fae6|f1eb10c501aa71de
-https://uk.talent.com/view?id=7bde1ec779d6|948b2c614197aeec
+https://uk.talent.com/view?id=7bde1ec779d6|c08929474ec7e2b3
 https://uk.talent.com/view?id=7c3d322ef722|49a7049d0926c825
 https://uk.talent.com/view?id=7c8433d18744|7a5eb249e3a7d7f8
 https://uk.talent.com/view?id=7dcbd36e848e|b56637d3564eff51
@@ -652,6 +655,7 @@ https://uk.talent.com/view?id=a05254cb3bd0|4dd8a9c9edbca1c2
 https://uk.talent.com/view?id=a063c31a24ee|c1e480ec6e3ace84
 https://uk.talent.com/view?id=a0d7cb4cf611|b5601ad87bc3ff94
 https://uk.talent.com/view?id=a1e13c7da87b|f62f7eec873adb92
+https://uk.talent.com/view?id=a2c61329e033|881c6849011c1b86
 https://uk.talent.com/view?id=a38bf9c5dc6d|4089390416a60464
 https://uk.talent.com/view?id=a42aa9ba323d|a74ede9057ad2779
 https://uk.talent.com/view?id=a614d8ea6d1a|87894652e1988f31
