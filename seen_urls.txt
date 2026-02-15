@@ -48,10 +48,10 @@ https://uk.jobrapido.com/jobpreview/5494903627900256256|48e116a537c517f7
 https://uk.jobrapido.com/jobpreview/5571628648798093312|e40de68890517d2f
 https://uk.jobrapido.com/jobpreview/5636512848587784192|8c791474cada7d50
 https://uk.jobrapido.com/jobpreview/564807056477913088|c81bcdd8841905e0
-https://uk.jobrapido.com/jobpreview/5655419036926738432|e0587be05f7391e9
+https://uk.jobrapido.com/jobpreview/5655419036926738432|eea83d7869b2ce61
 https://uk.jobrapido.com/jobpreview/6128130885645500416|6fdf4a40b7742657
 https://uk.jobrapido.com/jobpreview/6366640899312582656|8f2df5cd09b2e6cb
-https://uk.jobrapido.com/jobpreview/6583334283002249216|8c0bc8329e43490a
+https://uk.jobrapido.com/jobpreview/6583334283002249216|6e2cff48f1ecdcf8
 https://uk.jobrapido.com/jobpreview/6608405716505985024|eebb854a03856518
 https://uk.jobrapido.com/jobpreview/6617923406983593984|de72dd496ca84547
 https://uk.jobrapido.com/jobpreview/6815194484704280576|6d37cb92acb02667
@@ -68,6 +68,7 @@ https://uk.jobrapido.com/jobpreview/8419337376458866688|2d9c402e048dcef8
 https://uk.jobrapido.com/jobpreview/8506547383188848640|39937aec9a3394ee
 https://uk.jobrapido.com/jobpreview/8638691896115331072|d3a70761f4e7a09d
 https://uk.jobrapido.com/jobpreview/8695404448177979392|8c48f4e9ff7192f1
+https://uk.jobrapido.com/jobpreview/8736397952513212416|f4f1a16729d753e3
 https://uk.jobrapido.com/jobpreview/8795376718299791360|0e10883f7198bcd9
 https://uk.jobrapido.com/jobpreview/8890482824834973696|c274da91258622cf
 https://uk.jobrapido.com/jobpreview/9114528110203633664|048267a1fa94deda
@@ -304,7 +305,7 @@ https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-spacelabs
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-specialist-at-mk-construction-4351150776|e57bb5a7570ed48f
 https://uk.linkedin.com/jobs/view/senior-quality-qa-engineer-at-technip-energies-4326188896|7ad09a3bef124353
 https://uk.linkedin.com/jobs/view/senior-quality-test-engineer-at-yolk-recruitment-ltd-4342297879|32db6d1707978b69
-https://uk.linkedin.com/jobs/view/senior-rf-test-engineer-at-ic-resources-4372011405|ea833178adc95baa
+https://uk.linkedin.com/jobs/view/senior-rf-test-engineer-at-ic-resources-4372011405|286b468992c57de9
 https://uk.linkedin.com/jobs/view/senior-sdet-at-harmonic-security-4363652290|70f45dc3adb62e27
 https://uk.linkedin.com/jobs/view/senior-sdet-at-visa-4325523240|19fa7180632f86c5
 https://uk.linkedin.com/jobs/view/senior-software-automation-engineer-at-scx-4365837501|1dd639aed37e9380
@@ -611,6 +612,7 @@ https://uk.talent.com/view?id=77df8c1cacb8|1814655bb6263f18
 https://uk.talent.com/view?id=798fee9bcd1f|c8cc7ecd691aff04
 https://uk.talent.com/view?id=79aef70f5b80|219c5dac95b8e29d
 https://uk.talent.com/view?id=7b0e0bb2fae6|f1eb10c501aa71de
+https://uk.talent.com/view?id=7bde1ec779d6|948b2c614197aeec
 https://uk.talent.com/view?id=7c3d322ef722|49a7049d0926c825
 https://uk.talent.com/view?id=7c8433d18744|7a5eb249e3a7d7f8
 https://uk.talent.com/view?id=7dcbd36e848e|b56637d3564eff51
