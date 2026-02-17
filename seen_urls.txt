@@ -65,6 +65,7 @@ https://uk.jobrapido.com/jobpreview/6923649718962618368|da84d4a0bee82ebd
 https://uk.jobrapido.com/jobpreview/7010613297649025024|4002436b8aca4e62
 https://uk.jobrapido.com/jobpreview/7025570366638522368|a25a2fd66d67ebf1
 https://uk.jobrapido.com/jobpreview/704774869513928704|89a1cb4583590be7
+https://uk.jobrapido.com/jobpreview/7310275571072630784|f8bec242bbee1ad3
 https://uk.jobrapido.com/jobpreview/7502031068971663360|92725a7a7e1e788a
 https://uk.jobrapido.com/jobpreview/7540432612083367936|6c82509342352ecc
 https://uk.jobrapido.com/jobpreview/7882424176210870272|161075d1dc72c1c0
@@ -75,7 +76,9 @@ https://uk.jobrapido.com/jobpreview/8419337376458866688|2d9c402e048dcef8
 https://uk.jobrapido.com/jobpreview/8506547383188848640|39937aec9a3394ee
 https://uk.jobrapido.com/jobpreview/8638691896115331072|d3a70761f4e7a09d
 https://uk.jobrapido.com/jobpreview/8695404448177979392|8c48f4e9ff7192f1
+https://uk.jobrapido.com/jobpreview/8724001233787944960|b0b3ef12dd3f106f
 https://uk.jobrapido.com/jobpreview/8736397952513212416|7a7a1321cb618990
+https://uk.jobrapido.com/jobpreview/879504739094495232|9dda4d7b0d7b1365
 https://uk.jobrapido.com/jobpreview/8795376718299791360|0e10883f7198bcd9
 https://uk.jobrapido.com/jobpreview/8879475201612447744|6599c52429aa03ad
 https://uk.jobrapido.com/jobpreview/8890482824834973696|c274da91258622cf
