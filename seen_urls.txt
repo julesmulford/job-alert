@@ -15,7 +15,7 @@ https://jobs.theguardian.com/job/9996002/automation-engineer-eica-buk-service-de
 https://jobtoday.com/gb/jobs-qa-tester/pontefract|5b5187d52c163eef
 https://jobtoday.com/gb/jobs-software-tester/worksop|5d780b5162d0597e
 https://syncni.com/article/14760/backing-the-next-generation-of-entrepreneurs-in-northern-ireland|739e3baadcd1402a
-https://thecareerwallet.com/job/qa-automation-test-engineer-20286590142025496|699d0d882fea9b33
+https://thecareerwallet.com/job/qa-automation-test-engineer-20286590142025496|e939491c651b181d
 https://uk.jobrapido.com/jobpreview/1256481921404239872|08eae31d1062728a
 https://uk.jobrapido.com/jobpreview/1373931753483272192|fd613aa06a89f096
 https://uk.jobrapido.com/jobpreview/1403946067279478784|bf07d07da5bf477a
@@ -76,7 +76,7 @@ https://uk.jobrapido.com/jobpreview/7310275571072630784|ff99219e65ce263e
 https://uk.jobrapido.com/jobpreview/7502031068971663360|92725a7a7e1e788a
 https://uk.jobrapido.com/jobpreview/7540432612083367936|6c82509342352ecc
 https://uk.jobrapido.com/jobpreview/7882424176210870272|161075d1dc72c1c0
-https://uk.jobrapido.com/jobpreview/790530265310035968|de2e1f9613bc24fb
+https://uk.jobrapido.com/jobpreview/790530265310035968|fb231d2a82ed275b
 https://uk.jobrapido.com/jobpreview/7946062397398056960|7ccdbc5812821388
 https://uk.jobrapido.com/jobpreview/8115555688232517632|7d25a9b0256eece4
 https://uk.jobrapido.com/jobpreview/8167477496334254080|00a4076d6a85e124
@@ -318,6 +318,7 @@ https://uk.linkedin.com/jobs/view/senior-etl-test-engineer-at-w-talent-435465916
 https://uk.linkedin.com/jobs/view/senior-field-test-engineer-at-pc-help-a-s-4354678812|9caa60a57be5af7b
 https://uk.linkedin.com/jobs/view/senior-field-test-engineer-at-pc-help-a-s-4374190086|e943f32f1cbfca84
 https://uk.linkedin.com/jobs/view/senior-intelligent-automation-engineer-at-ciklum-4349455288|b9e216a3e121562a
+https://uk.linkedin.com/jobs/view/senior-intelligent-automation-qa-engineer-uipath-outside-ir35-fully-remote-gambling-client-at-urban-connect-4373144061|5eef7e6c7be0f667
 https://uk.linkedin.com/jobs/view/senior-manufacturing-test-engineer-at-siemens-4329866510|1c4ef1fe4696bb05
 https://uk.linkedin.com/jobs/view/senior-mobile-automation-tester-at-w3global-4342763594|8e182b4bd9741edf
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-fuuse-4365286628|36b3cbbd5e66eccc
