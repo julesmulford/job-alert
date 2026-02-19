@@ -31,6 +31,7 @@ https://uk.jobrapido.com/jobpreview/3080041841769316352|248313265f503d1b
 https://uk.jobrapido.com/jobpreview/3164817254877495296|0ed8f2bd9e460064
 https://uk.jobrapido.com/jobpreview/3426631314416074752|2ac0cd370e0ca790
 https://uk.jobrapido.com/jobpreview/3462189297120051200|9326c2700a1745c9
+https://uk.jobrapido.com/jobpreview/3509568644730322944|b013e4fbfa9ccb55
 https://uk.jobrapido.com/jobpreview/3537245259366924288|adf45c409dd12358
 https://uk.jobrapido.com/jobpreview/3569419993252626432|040aedc2a50de823
 https://uk.jobrapido.com/jobpreview/3797409158110642176|f0cb35e69812acf9
@@ -41,6 +42,7 @@ https://uk.jobrapido.com/jobpreview/4163225352505655296|941069eabffe393a
 https://uk.jobrapido.com/jobpreview/4362273885261922304|687aafee78926534
 https://uk.jobrapido.com/jobpreview/4404405066304323584|06c26b96bee07ead
 https://uk.jobrapido.com/jobpreview/4499764060513894400|39737ee0dcb375f7
+https://uk.jobrapido.com/jobpreview/4601893864507179008|b9e5b74a0114e153
 https://uk.jobrapido.com/jobpreview/4734674651068760064|7f845cf509691553
 https://uk.jobrapido.com/jobpreview/4867344747733188608|4267a89aee3a8526
 https://uk.jobrapido.com/jobpreview/4910374478883586048|8306c986c4f0f933
@@ -386,7 +388,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-aws-microservices-transfo
 https://uk.linkedin.com/jobs/view/senior-test-engineer-mastek-at-jobster-4351888412|3efc0d7a88b7c4d5
 https://uk.linkedin.com/jobs/view/senior-test-engineer-oho-group-ltd-at-jobster-4321515263|ce1e057d1d8ae19d
 https://uk.linkedin.com/jobs/view/senior-test-engineer-williams-racing-at-jobster-4354707490|f7e06dc26c107b79
-https://uk.linkedin.com/jobs/view/senior-test-lead-at-the-adecco-group-4373351588|9f54d82d6ec31c81
+https://uk.linkedin.com/jobs/view/senior-test-lead-at-the-adecco-group-4373351588|29acf31808cab98d
 https://uk.linkedin.com/jobs/view/service-desk-automation-engineer-at-klipboard-4328657575|ae4412447abd9f4d
 https://uk.linkedin.com/jobs/view/software-automation-engineer-at-owen-daniels-4348882795|4484d7689910b096
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-data-tester-automation-engineer-asset-management-outside-ir35-at-bangura-solutions-4371954322|b677280231bcea1f
