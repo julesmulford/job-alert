@@ -15,7 +15,7 @@ https://jobs.theguardian.com/job/9996002/automation-engineer-eica-buk-service-de
 https://jobtoday.com/gb/jobs-qa-tester/pontefract|5b5187d52c163eef
 https://jobtoday.com/gb/jobs-software-tester/worksop|5d780b5162d0597e
 https://syncni.com/article/14760/backing-the-next-generation-of-entrepreneurs-in-northern-ireland|739e3baadcd1402a
-https://thecareerwallet.com/job/qa-automation-test-engineer-20286590142025496|f55c7b66075a89c6
+https://thecareerwallet.com/job/qa-automation-test-engineer-20286590142025496|fe80e80316490e2b
 https://uk.jobrapido.com/jobpreview/1256481921404239872|08eae31d1062728a
 https://uk.jobrapido.com/jobpreview/1373931753483272192|fd613aa06a89f096
 https://uk.jobrapido.com/jobpreview/1403946067279478784|bf07d07da5bf477a
@@ -63,6 +63,7 @@ https://uk.jobrapido.com/jobpreview/5809896022582755328|9a36724afa375f09
 https://uk.jobrapido.com/jobpreview/5853751143368228864|fa7d0a062ac46088
 https://uk.jobrapido.com/jobpreview/6128130885645500416|6fdf4a40b7742657
 https://uk.jobrapido.com/jobpreview/6366640899312582656|8f2df5cd09b2e6cb
+https://uk.jobrapido.com/jobpreview/6369601798226837504|41e24c2ff50d395a
 https://uk.jobrapido.com/jobpreview/6583334283002249216|122599447a6286a9
 https://uk.jobrapido.com/jobpreview/6608405716505985024|eebb854a03856518
 https://uk.jobrapido.com/jobpreview/6617923406983593984|de72dd496ca84547
@@ -76,7 +77,7 @@ https://uk.jobrapido.com/jobpreview/7310275571072630784|ff99219e65ce263e
 https://uk.jobrapido.com/jobpreview/7502031068971663360|92725a7a7e1e788a
 https://uk.jobrapido.com/jobpreview/7540432612083367936|6c82509342352ecc
 https://uk.jobrapido.com/jobpreview/7882424176210870272|161075d1dc72c1c0
-https://uk.jobrapido.com/jobpreview/790530265310035968|a6a4cff3c3214693
+https://uk.jobrapido.com/jobpreview/790530265310035968|e916a3f7ef8afc12
 https://uk.jobrapido.com/jobpreview/7946062397398056960|7ccdbc5812821388
 https://uk.jobrapido.com/jobpreview/8115555688232517632|7d25a9b0256eece4
 https://uk.jobrapido.com/jobpreview/8167477496334254080|00a4076d6a85e124
@@ -129,7 +130,7 @@ https://uk.linkedin.com/jobs/view/application-security-test-engineer-at-oxford-n
 https://uk.linkedin.com/jobs/view/apprenticeship-test-engineer-at-hitachi-energy-4330273429|37ef82a6d852bea4
 https://uk.linkedin.com/jobs/view/automation-assurance-engineer-at-stealth-it-consulting-4362293929|11b1021a6fb23b28
 https://uk.linkedin.com/jobs/view/automation-developer-at-ninetech-4370966107|aea4c49e837f9759
-https://uk.linkedin.com/jobs/view/automation-developer-at-np-group-4373126448|6071f892a2e6b157
+https://uk.linkedin.com/jobs/view/automation-developer-at-np-group-4373126448|f72ba03749dc5bd8
 https://uk.linkedin.com/jobs/view/automation-engineer-at-aberdeen-4346252000|399e4354887b23ce
 https://uk.linkedin.com/jobs/view/automation-engineer-at-catalent-4369628219|7d0f1fb70112c95e
 https://uk.linkedin.com/jobs/view/automation-engineer-at-cbsbutler-4371842378|da30539f229266ee
@@ -319,7 +320,7 @@ https://uk.linkedin.com/jobs/view/senior-etl-test-engineer-at-w-talent-435465916
 https://uk.linkedin.com/jobs/view/senior-field-test-engineer-at-pc-help-a-s-4354678812|9caa60a57be5af7b
 https://uk.linkedin.com/jobs/view/senior-field-test-engineer-at-pc-help-a-s-4374190086|e943f32f1cbfca84
 https://uk.linkedin.com/jobs/view/senior-intelligent-automation-engineer-at-ciklum-4349455288|b9e216a3e121562a
-https://uk.linkedin.com/jobs/view/senior-intelligent-automation-qa-engineer-uipath-outside-ir35-fully-remote-gambling-client-at-urban-connect-4373144061|6dc28471fff4f022
+https://uk.linkedin.com/jobs/view/senior-intelligent-automation-qa-engineer-uipath-outside-ir35-fully-remote-gambling-client-at-urban-connect-4373144061|795d0b1c3dd24791
 https://uk.linkedin.com/jobs/view/senior-manufacturing-test-engineer-at-siemens-4329866510|1c4ef1fe4696bb05
 https://uk.linkedin.com/jobs/view/senior-mobile-automation-tester-at-w3global-4342763594|8e182b4bd9741edf
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-fuuse-4365286628|36b3cbbd5e66eccc
@@ -396,6 +397,7 @@ https://uk.linkedin.com/jobs/view/senior-test-lead-at-the-adecco-group-437335158
 https://uk.linkedin.com/jobs/view/service-desk-automation-engineer-at-klipboard-4328657575|ae4412447abd9f4d
 https://uk.linkedin.com/jobs/view/software-automation-engineer-at-owen-daniels-4348882795|4484d7689910b096
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-data-tester-automation-engineer-asset-management-outside-ir35-at-bangura-solutions-4371954322|b677280231bcea1f
+https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-defence-at-ibm-4372625294|ae318d95792e29a2
 https://uk.linkedin.com/jobs/view/software-engineer-iii-sdet-at-hackajob-4329392484|cb7f223f5b6091c4
 https://uk.linkedin.com/jobs/view/software-engineer-iii-test-automation-at-hackajob-4329747933|fd7364b5d1fa634d
 https://uk.linkedin.com/jobs/view/software-engineer-iii-test-automation-at-hackajob-4370457711|d91aa751d419bf31
@@ -885,3 +887,4 @@ https://www.tiptopjob.com/search/jobs/132575587_-qa-engineer-city-of-westminster
 https://www.tiptopjob.com/search/jobs/132627846_-switchgear-test-engineer-aberdeen-pitmedden-ind-est-inverness-shire-scotland-uk-united-kingdom-_job.asp|d298da27f4909edf
 https://www.tiptopjob.com/search/jobs/132659503_-steering-system-hil-test-engineer-warwick-warwickshire-west-midlands-uk-united-kingdom-_job.asp|2067b985a1e395d7
 https://www.tiptopjob.com/search/jobs/132689205_-controls-automation-engineer-bedford-bedfordshire-south-east-uk-united-kingdom-_job.asp|7f82ea974d3d747d
+https://www.waconsultants.com/jobs/junior-electronics-test-engineer-3777/|79346edce48c811d
