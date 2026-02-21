@@ -25,7 +25,7 @@ https://uk.jobrapido.com/jobpreview/1636588812022841344|9713de3b85255fd7
 https://uk.jobrapido.com/jobpreview/186231459139289088|01385b8b1a60dc52
 https://uk.jobrapido.com/jobpreview/1992342860116000768|9a8b0f7ed36d95ca
 https://uk.jobrapido.com/jobpreview/2269660858239942656|3795b969ae569902
-https://uk.jobrapido.com/jobpreview/2369601036366118912|e23bdc436548179e
+https://uk.jobrapido.com/jobpreview/2369601036366118912|3a732a0b5774da2f
 https://uk.jobrapido.com/jobpreview/2642825088843382784|1773c0180304ca9a
 https://uk.jobrapido.com/jobpreview/2706984993938210816|19572d4fd2b3e919
 https://uk.jobrapido.com/jobpreview/2743865431432364032|e287101fbbe9f097
@@ -47,7 +47,7 @@ https://uk.jobrapido.com/jobpreview/4499764060513894400|39737ee0dcb375f7
 https://uk.jobrapido.com/jobpreview/4601893864507179008|adb9995e03762107
 https://uk.jobrapido.com/jobpreview/4734674651068760064|7f845cf509691553
 https://uk.jobrapido.com/jobpreview/4867344747733188608|4267a89aee3a8526
-https://uk.jobrapido.com/jobpreview/4883977420903809024|cc2dc7d5baa0974c
+https://uk.jobrapido.com/jobpreview/4883977420903809024|ad401057d9565f73
 https://uk.jobrapido.com/jobpreview/4910374478883586048|8306c986c4f0f933
 https://uk.jobrapido.com/jobpreview/5083498580451262464|c4b4fa9889d8ff4d
 https://uk.jobrapido.com/jobpreview/5090107427018244096|39343a7c1ff9b926
@@ -56,8 +56,8 @@ https://uk.jobrapido.com/jobpreview/5181785806053834752|481699b72e032900
 https://uk.jobrapido.com/jobpreview/5212141492440662016|d51037a7890cb496
 https://uk.jobrapido.com/jobpreview/5461956942362574848|e01bc8371b0e26aa
 https://uk.jobrapido.com/jobpreview/5494903627900256256|48e116a537c517f7
-https://uk.jobrapido.com/jobpreview/5505043160922849280|c9b554073063aa6b
-https://uk.jobrapido.com/jobpreview/55644455973158912|4376e8bd97377e91
+https://uk.jobrapido.com/jobpreview/5505043160922849280|1369b741d2c62446
+https://uk.jobrapido.com/jobpreview/55644455973158912|bdcf8f8fda10f6a0
 https://uk.jobrapido.com/jobpreview/5571628648798093312|e40de68890517d2f
 https://uk.jobrapido.com/jobpreview/5614675534047870976|668f6ca87c0cc9da
 https://uk.jobrapido.com/jobpreview/5636512848587784192|8c791474cada7d50
@@ -86,7 +86,7 @@ https://uk.jobrapido.com/jobpreview/7946062397398056960|7ccdbc5812821388
 https://uk.jobrapido.com/jobpreview/8115555688232517632|7d25a9b0256eece4
 https://uk.jobrapido.com/jobpreview/8167477496334254080|00a4076d6a85e124
 https://uk.jobrapido.com/jobpreview/8402608057934151680|5826d30723b1e031
-https://uk.jobrapido.com/jobpreview/8406188153693536256|aecfa2b6be7464cc
+https://uk.jobrapido.com/jobpreview/8406188153693536256|2e49e0f80c7cba90
 https://uk.jobrapido.com/jobpreview/8419337376458866688|2d9c402e048dcef8
 https://uk.jobrapido.com/jobpreview/8506547383188848640|39937aec9a3394ee
 https://uk.jobrapido.com/jobpreview/8638691896115331072|d3a70761f4e7a09d
@@ -133,6 +133,7 @@ https://uk.linkedin.com/jobs/view/ai-test-automation-engineer-at-sthree-43507058
 https://uk.linkedin.com/jobs/view/app-tester-uk-residents-at-testvox-4330053414|2f9ff29ee5acf29c
 https://uk.linkedin.com/jobs/view/application-security-test-engineer-at-oxford-nanopore-technologies-4332253976|2b7ef111629ddcd0
 https://uk.linkedin.com/jobs/view/apprenticeship-test-engineer-at-hitachi-energy-4330273429|37ef82a6d852bea4
+https://uk.linkedin.com/jobs/view/automation-architect-at-bdo-uk-4375119945|41cf50a148eb513c
 https://uk.linkedin.com/jobs/view/automation-assurance-engineer-at-stealth-it-consulting-4362293929|11b1021a6fb23b28
 https://uk.linkedin.com/jobs/view/automation-developer-at-ninetech-4370966107|aea4c49e837f9759
 https://uk.linkedin.com/jobs/view/automation-developer-at-np-group-4373126448|abc5d5b999d9f2f3
@@ -141,7 +142,7 @@ https://uk.linkedin.com/jobs/view/automation-engineer-at-catalent-4369628219|7d0
 https://uk.linkedin.com/jobs/view/automation-engineer-at-cbsbutler-4371842378|da30539f229266ee
 https://uk.linkedin.com/jobs/view/automation-engineer-at-census-ex-forces-recruitment-ltd-4348864043|bac3d74efe35182f
 https://uk.linkedin.com/jobs/view/automation-engineer-at-clear-4361961076|223bf6604eb8e3ab
-https://uk.linkedin.com/jobs/view/automation-engineer-at-dabster-4374930118|cbf5d9d52b8f4030
+https://uk.linkedin.com/jobs/view/automation-engineer-at-dabster-4374930118|bc2dc5469b50ecd4
 https://uk.linkedin.com/jobs/view/automation-engineer-at-darktrace-4343433811|a6b597fa89c4339f
 https://uk.linkedin.com/jobs/view/automation-engineer-at-gxo-logistics-inc-4344864037|fc330bda3d1d5438
 https://uk.linkedin.com/jobs/view/automation-engineer-at-innovo-global-talent-4361203447|813c67acb7512619
@@ -189,7 +190,7 @@ https://uk.linkedin.com/jobs/view/electrical-tester-at-the-construction-index-lt
 https://uk.linkedin.com/jobs/view/electrical-tester-recruitment-helpline-at-guardian-jobs-4372803966|a31fe9cc4e55efec
 https://uk.linkedin.com/jobs/view/electrified-powertrain-development-and-test-engineer-changan-uk-r-d-centre-limited-at-jobster-4360086757|dc77844515303384
 https://uk.linkedin.com/jobs/view/electronic-test-engineer-at-hawk-3-talent-solutions-4351792831|8698d078493a5daf
-https://uk.linkedin.com/jobs/view/electronics-test-automation-engineer-at-oho-group-ltd-4374660232|70b173614e8eac44
+https://uk.linkedin.com/jobs/view/electronics-test-automation-engineer-at-oho-group-ltd-4374660232|3442b1010b9956d3
 https://uk.linkedin.com/jobs/view/electronics-test-engineer-at-pickering-interfaces-4328181603|f1f1ea9f71b4ea74
 https://uk.linkedin.com/jobs/view/electronics-test-engineer-at-tiptopjob-4346129381|34f12403d760c4b7
 https://uk.linkedin.com/jobs/view/embedded-software-test-engineer-at-alten-4345849973|134922170443d6c1
@@ -274,7 +275,7 @@ https://uk.linkedin.com/jobs/view/qa-test-analyst-at-haystack-4364903516|b0d9366
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-dine-4358754863?position=34&pageNum=0&refId=82jCfizjECYS02Im/WtfeQ==&trackingId=g2GFRa6Ry42KihTL0xDURQ==|39491eda9bc42633
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-techshack-4349323829|2b3f492655cf3cbd
 https://uk.linkedin.com/jobs/view/qa-tester-at-tekton-billing-4346850509|91f6269b04830d2f
-https://uk.linkedin.com/jobs/view/qa-tester-at-voldex-4376147091|f4ae86aca6af1e2a
+https://uk.linkedin.com/jobs/view/qa-tester-at-voldex-4376147091|908a2939c8b3c5f7
 https://uk.linkedin.com/jobs/view/qa-tester-at-zap-4326172679|35823f445514ecca
 https://uk.linkedin.com/jobs/view/qa-tester-ftc-till-june-at-supermassive-games-ltd-4371016967|e68c48932b4a6544
 https://uk.linkedin.com/jobs/view/qa-tester-mobile-app-and-firmware-manual-testing-role-at-botz-innovation-4351274551|bf6eee9db1f6b4f4
@@ -317,6 +318,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-qa-remote-at-tiptopjob-43469
 https://uk.linkedin.com/jobs/view/senior-automation-service-engineer-at-spx-flow-inc-4349524418|20157b13a0845e6c
 https://uk.linkedin.com/jobs/view/senior-automation-software-development-test-engineer-at-spacelabs-healthcare-4346530829|06f52bbe3feadac8
 https://uk.linkedin.com/jobs/view/senior-automation-test-anaylst-at-7im-4329956923|7b4f09ddb0b5074d
+https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-version-1-4373468517|4f09705e325ddf9c
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-python-at-machnet-medical-robotics-4365314733|db42809e96ef4c85
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-netcompany-4344991895|3d4dbf0417845212
 https://uk.linkedin.com/jobs/view/senior-development-engineer-in-test-sdet-at-valstro-4345975778|e30d68f51d0fe9a2
@@ -375,6 +377,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-aims-team-at-cox-automoti
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-1spatial-4340312479|1c3ed75608427f8e
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-a1-personnel-4366898644|4e74806530407ad0
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-aj-bell-4371961204|3edb3991619c6fb3
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-axelera-ai-4375815227|40a841f2429cf209
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-caraffi-4348271560|b77ba115d934c1e6
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-ceres-4368740918|291e9cc8b1befeb0
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-companies-house-4350711948|ef73e247cd8510d5
@@ -444,7 +447,7 @@ https://uk.linkedin.com/jobs/view/test-and-authentication-engineer-at-navantia-u
 https://uk.linkedin.com/jobs/view/test-area-team-lead-at-tld-4355770978|dc4b8c264c8e2874
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4328330834|042d44c33833c196
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4363379599|630767aab9e2e2d5
-https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4374924178|5edb07c683cd584c
+https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4374924178|94092bc50c63ed91
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-health-project-4340703016|bfd4d5ddc8cd9317
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pelion-4344514030|09a1ce95d7968027
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pentenamio-4337852477|0bc864521d202384
@@ -598,6 +601,7 @@ https://uk.talent.com/view?id=3563bdbef6a6|b1c91361d186a128
 https://uk.talent.com/view?id=359c0770034b|b9624aceabc5414b
 https://uk.talent.com/view?id=36180c643fbd|1e1b4932316dd37e
 https://uk.talent.com/view?id=362c221e0640|489b9e4e3d9729be
+https://uk.talent.com/view?id=37c20ba1049f|5650b96da2acfd81
 https://uk.talent.com/view?id=388d32886aa1|af2fa3a69cf53a23
 https://uk.talent.com/view?id=3960bc18ebcd|d3031fcf9f911245
 https://uk.talent.com/view?id=3b7fb5839f55|0cef0b34082bdf7e
@@ -629,6 +633,7 @@ https://uk.talent.com/view?id=5637aa0fb6f3|e029b605cfa2412d
 https://uk.talent.com/view?id=56d166262aa3|a0c7c3176b83f697
 https://uk.talent.com/view?id=56d4e39e4a1b|152b2a171128a865
 https://uk.talent.com/view?id=5820c9771091|311d0ebb44741ca4
+https://uk.talent.com/view?id=582379931604234130|1c1ebe2c40960a6c
 https://uk.talent.com/view?id=595c3434a998|3f692464382d53aa
 https://uk.talent.com/view?id=5b54df8306c9|52bb5444d153be02
 https://uk.talent.com/view?id=5b87c668ed76|5cf104056f3c5d91
@@ -639,10 +644,10 @@ https://uk.talent.com/view?id=603322181752461728|753b2e26c859ba01
 https://uk.talent.com/view?id=603451325821951929|e70efbcc30971df5
 https://uk.talent.com/view?id=603602985996588301|4123df87c39ff6ac
 https://uk.talent.com/view?id=603826057349436685|966b947f7bd71973
-https://uk.talent.com/view?id=607158471139731719|bc3e91c058032de0
-https://uk.talent.com/view?id=607335054757276791|e65066d661b0e7ce
-https://uk.talent.com/view?id=607335055719738487|7a2166fdcd8e58ff
-https://uk.talent.com/view?id=607336291243462802|deebb6d8e9a6d680
+https://uk.talent.com/view?id=607158471139731719|fa54c8c03592e414
+https://uk.talent.com/view?id=607335054757276791|caaab412ca3209f2
+https://uk.talent.com/view?id=607335055719738487|de7abe6cae5f3a8a
+https://uk.talent.com/view?id=607336291243462802|9caa510e2b3dd704
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
@@ -689,7 +694,7 @@ https://uk.talent.com/view?id=7fe44d80eff4|c7c7e4530d7a8a71
 https://uk.talent.com/view?id=8140cc13b4f7|9e2105dd90a183f7
 https://uk.talent.com/view?id=82868499554a|c44b7efc75ea8491
 https://uk.talent.com/view?id=82c50b5ac06b|d3b52a213ad2fe35
-https://uk.talent.com/view?id=84ce090dd9f5|15b9da0469929b8c
+https://uk.talent.com/view?id=84ce090dd9f5|d1dd8b89e2df0df3
 https://uk.talent.com/view?id=86e763eb1817|b655ea577c2cfd7c
 https://uk.talent.com/view?id=88557b068207|8f62ca506ec42289
 https://uk.talent.com/view?id=8a19f5518e0d|34eb3e91be8a1de7
