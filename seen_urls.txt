@@ -41,7 +41,7 @@ https://uk.jobrapido.com/jobpreview/3797409158110642176|f0cb35e69812acf9
 https://uk.jobrapido.com/jobpreview/3800011444435550208|486bf1e4c5161dd2
 https://uk.jobrapido.com/jobpreview/3833319345312759808|9442d5f525a37fc0
 https://uk.jobrapido.com/jobpreview/4035414324141883392|dd87e234bcac2140
-https://uk.jobrapido.com/jobpreview/4127332826209058816|2fa2ab424adc36fd
+https://uk.jobrapido.com/jobpreview/4127332826209058816|395e8c39c415fb7d
 https://uk.jobrapido.com/jobpreview/4163225352505655296|941069eabffe393a
 https://uk.jobrapido.com/jobpreview/4362273885261922304|687aafee78926534
 https://uk.jobrapido.com/jobpreview/4404405066304323584|06c26b96bee07ead
@@ -102,7 +102,7 @@ https://uk.jobrapido.com/jobpreview/879504739094495232|206e07c16822276d
 https://uk.jobrapido.com/jobpreview/8795376718299791360|0e10883f7198bcd9
 https://uk.jobrapido.com/jobpreview/8879475201612447744|6599c52429aa03ad
 https://uk.jobrapido.com/jobpreview/8890482824834973696|c274da91258622cf
-https://uk.jobrapido.com/jobpreview/9094772428873138176|83818d40e6668a05
+https://uk.jobrapido.com/jobpreview/9094772428873138176|167698c861ab0f34
 https://uk.jobrapido.com/jobpreview/9114528110203633664|048267a1fa94deda
 https://uk.jobrapido.com/jobpreview/9193484821878276096|e820d75a22f26709
 https://uk.jobtome.com/job/automation-engineer/5e3f4fcfb8bbc63ee2a60c7e9196d9bc|b2c6653613eddc8d
@@ -530,7 +530,7 @@ https://uk.linkedin.com/jobs/view/testing-analyst-remote-at-taskify-ai-433986827
 https://uk.linkedin.com/jobs/view/testing-consultant-remote-at-talent-pulse-4342526153|5260f2d7cdd031de
 https://uk.linkedin.com/jobs/view/testing-job-at-tae-power-solutions-4363197342|d8b8577ec70d740a
 https://uk.linkedin.com/jobs/view/testing-specialist-remote-at-hire-wave-4342690970|f531e5354d615a47
-https://uk.linkedin.com/jobs/view/the-a-to-z-of-automated-software-testing-senior-qa-at-mongoose-gray-4376359886|a34908b4c00169f7
+https://uk.linkedin.com/jobs/view/the-a-to-z-of-automated-software-testing-senior-qa-at-mongoose-gray-4376359886|1a0e5bad6165dc4e
 https://uk.linkedin.com/jobs/view/this-is-a-test-at-cellpoint-digital-4355283492|a29d3aeca020fe93
 https://uk.linkedin.com/jobs/view/tooling-automation-engineer-at-apple-4360065154|8e76b6a9f04f9003
 https://uk.linkedin.com/jobs/view/trainee-software-tester-at-taxpad-ltd-4346412018|1aacc02d1e77fa82
