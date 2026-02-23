@@ -41,7 +41,7 @@ https://uk.jobrapido.com/jobpreview/3797409158110642176|f0cb35e69812acf9
 https://uk.jobrapido.com/jobpreview/3800011444435550208|486bf1e4c5161dd2
 https://uk.jobrapido.com/jobpreview/3833319345312759808|9442d5f525a37fc0
 https://uk.jobrapido.com/jobpreview/4035414324141883392|dd87e234bcac2140
-https://uk.jobrapido.com/jobpreview/4127332826209058816|8db1e087f028fd80
+https://uk.jobrapido.com/jobpreview/4127332826209058816|4ebb1a2e536274db
 https://uk.jobrapido.com/jobpreview/4163225352505655296|941069eabffe393a
 https://uk.jobrapido.com/jobpreview/4362273885261922304|687aafee78926534
 https://uk.jobrapido.com/jobpreview/4404405066304323584|06c26b96bee07ead
@@ -102,7 +102,7 @@ https://uk.jobrapido.com/jobpreview/879504739094495232|206e07c16822276d
 https://uk.jobrapido.com/jobpreview/8795376718299791360|0e10883f7198bcd9
 https://uk.jobrapido.com/jobpreview/8879475201612447744|6599c52429aa03ad
 https://uk.jobrapido.com/jobpreview/8890482824834973696|c274da91258622cf
-https://uk.jobrapido.com/jobpreview/9094772428873138176|4e8974b6e6460a47
+https://uk.jobrapido.com/jobpreview/9094772428873138176|816b1dbef532b7e5
 https://uk.jobrapido.com/jobpreview/9114528110203633664|048267a1fa94deda
 https://uk.jobrapido.com/jobpreview/9193484821878276096|e820d75a22f26709
 https://uk.jobtome.com/job/automation-engineer/5e3f4fcfb8bbc63ee2a60c7e9196d9bc|b2c6653613eddc8d
@@ -530,7 +530,7 @@ https://uk.linkedin.com/jobs/view/testing-analyst-remote-at-taskify-ai-433986827
 https://uk.linkedin.com/jobs/view/testing-consultant-remote-at-talent-pulse-4342526153|5260f2d7cdd031de
 https://uk.linkedin.com/jobs/view/testing-job-at-tae-power-solutions-4363197342|d8b8577ec70d740a
 https://uk.linkedin.com/jobs/view/testing-specialist-remote-at-hire-wave-4342690970|f531e5354d615a47
-https://uk.linkedin.com/jobs/view/the-a-to-z-of-automated-software-testing-senior-qa-at-mongoose-gray-4376359886|bebd99f1e54f080d
+https://uk.linkedin.com/jobs/view/the-a-to-z-of-automated-software-testing-senior-qa-at-mongoose-gray-4376359886|7e9a3e4462888ed2
 https://uk.linkedin.com/jobs/view/this-is-a-test-at-cellpoint-digital-4355283492|a29d3aeca020fe93
 https://uk.linkedin.com/jobs/view/tooling-automation-engineer-at-apple-4360065154|8e76b6a9f04f9003
 https://uk.linkedin.com/jobs/view/trainee-software-tester-at-taxpad-ltd-4346412018|1aacc02d1e77fa82
@@ -661,7 +661,7 @@ https://uk.talent.com/view?id=607335054757276791|e65066d661b0e7ce
 https://uk.talent.com/view?id=607335055719738487|f3dd0b3ccb04cc86
 https://uk.talent.com/view?id=607336291243462802|fc48c05d7d506c4c
 https://uk.talent.com/view?id=607350683634898385|3787f51ed808dc5f
-https://uk.talent.com/view?id=607544005327924343|8fcb75f82a333ce0
+https://uk.talent.com/view?id=607544005327924343|234ab73fed3d4618
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
@@ -893,6 +893,7 @@ https://www.jobsgopublic.com/job/senior-test-engineer-40761|e8c468bee652d3fb
 https://www.jobsgopublic.com/job/systems-test-engineer-42031|e7fa5e24d0f6f187
 https://www.jobsgopublic.com/job/test-engineer-42038|c25171f4def6acd0
 https://www.jobsinwales.com/jobs-in-bassaleg/test-engineer_1430130?region=south|37705c64e5734de4
+https://www.jobsinwales.com/jobs-in-lampeter/automation-engineer_1438071?region=south|0d436ccd9097ce1f
 https://www.jobsinwales.com/jobs-in-newport/test-engineer_1436124?region=south|87bc691339b70c1a
 https://www.jobsinwales.com/jobs-in-pontyclun/test-engineer_1429672?region=south|8114375f873427c5
 https://www.jobsinwales.com/jobs-in-st-asaph/test-engineer_1425893?region=south|3d77650c53142102
