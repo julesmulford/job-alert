@@ -273,12 +273,13 @@ https://uk.linkedin.com/jobs/view/qa-engineer-at-bilfinger-uk-4354231217|b642d1c
 https://uk.linkedin.com/jobs/view/qa-engineer-at-hid-4373953970|63a9432141f21c9b
 https://uk.linkedin.com/jobs/view/qa-engineer-at-io-associates-4368786425|b92e6b104a8b4e2f
 https://uk.linkedin.com/jobs/view/qa-engineer-at-ldms-4373929610|eedaccf95ecbfe1f
-https://uk.linkedin.com/jobs/view/qa-engineer-at-person-centred-software-ltd-4376751447|87f027587ee8e579
-https://uk.linkedin.com/jobs/view/qa-engineer-at-radius-4377861129|882abb8ce55149ee
+https://uk.linkedin.com/jobs/view/qa-engineer-at-person-centred-software-ltd-4376751447|a628414fd7d91412
+https://uk.linkedin.com/jobs/view/qa-engineer-at-radius-4377861129|de38580c4bc238a2
 https://uk.linkedin.com/jobs/view/qa-engineer-at-robert-walters-4365270219|5f0c9ba0b2881b71
 https://uk.linkedin.com/jobs/view/qa-engineer-at-softcat-4362643513|3c7c5b4082189194
 https://uk.linkedin.com/jobs/view/qa-engineer-at-track24-4329964964|e6c5aaea37e21a83
 https://uk.linkedin.com/jobs/view/qa-engineer-at-xpertise-recruitment-4352390269|bfdbf73c88f4aaa3
+https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-esure-group-4374899573|4a88f024c80d5791
 https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-nudge-global-limited-4362062643|46cb215e9192f7b6
 https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-rm-plc-4328787520|9247e76f76e6e89f
 https://uk.linkedin.com/jobs/view/qa-engineer-contractor-at-pulse-innovations-gmbh-4360642801|e9bdcc2f1c86907a
@@ -360,6 +361,7 @@ https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-fuuse-4365286
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-jobs-via-efinancialcareers-4346694704|e5197ed78aeface3
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-nice-4356230212|27ddf270898891b5
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-tp-icap-4347492608|d8dcfb2c130aae89
+https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-huel-4376899550?refId=HlxZ/eBPXA3moBCIfkVYFw==&trackingId=ge57O+XUiJeZwI4WjLNV6w==&position=10&pageNum=0|a2623aa829c8c1a0
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-investengine-4360014970|50d00a166927b182
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-tp-icap-4347391110|a5dbd38f52188bb6
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-net-automation-at-wheelright-4344959473|010aac78c78e52a5
@@ -695,8 +697,8 @@ https://uk.talent.com/view?id=607545821082554514|52c3637ad3483213
 https://uk.talent.com/view?id=607571577875797457|bfbe99a383028194
 https://uk.talent.com/view?id=607674033831088274|23a1f1c655cd4b56
 https://uk.talent.com/view?id=607674037273563282|951eecaa6751add7
-https://uk.talent.com/view?id=607936954072239378|c457b47a970bb6ca
-https://uk.talent.com/view?id=608048312639825045|7fda83dfb2fc0232
+https://uk.talent.com/view?id=607936954072239378|28a0b6266f6c5b3f
+https://uk.talent.com/view?id=608048312639825045|b427c38dc024a282
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
