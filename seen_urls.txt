@@ -273,6 +273,8 @@ https://uk.linkedin.com/jobs/view/qa-engineer-at-bilfinger-uk-4354231217|b642d1c
 https://uk.linkedin.com/jobs/view/qa-engineer-at-hid-4373953970|63a9432141f21c9b
 https://uk.linkedin.com/jobs/view/qa-engineer-at-io-associates-4368786425|b92e6b104a8b4e2f
 https://uk.linkedin.com/jobs/view/qa-engineer-at-ldms-4373929610|eedaccf95ecbfe1f
+https://uk.linkedin.com/jobs/view/qa-engineer-at-person-centred-software-ltd-4376751447|1960da39b411da29
+https://uk.linkedin.com/jobs/view/qa-engineer-at-radius-4377861129|4b765acd30165b09
 https://uk.linkedin.com/jobs/view/qa-engineer-at-robert-walters-4365270219|5f0c9ba0b2881b71
 https://uk.linkedin.com/jobs/view/qa-engineer-at-softcat-4362643513|3c7c5b4082189194
 https://uk.linkedin.com/jobs/view/qa-engineer-at-track24-4329964964|e6c5aaea37e21a83
@@ -693,8 +695,8 @@ https://uk.talent.com/view?id=607545821082554514|52c3637ad3483213
 https://uk.talent.com/view?id=607571577875797457|bfbe99a383028194
 https://uk.talent.com/view?id=607674033831088274|23a1f1c655cd4b56
 https://uk.talent.com/view?id=607674037273563282|951eecaa6751add7
-https://uk.talent.com/view?id=607936954072239378|a6c578d295193362
-https://uk.talent.com/view?id=608048312639825045|a3ac8d7d6b5a0b87
+https://uk.talent.com/view?id=607936954072239378|b2fcb1e7bb2b42c3
+https://uk.talent.com/view?id=608048312639825045|184a1b4f6abc4924
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
