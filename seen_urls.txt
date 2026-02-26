@@ -70,7 +70,7 @@ https://uk.jobrapido.com/jobpreview/5614675534047870976|668f6ca87c0cc9da
 https://uk.jobrapido.com/jobpreview/5636512848587784192|8c791474cada7d50
 https://uk.jobrapido.com/jobpreview/564807056477913088|c81bcdd8841905e0
 https://uk.jobrapido.com/jobpreview/5655419036926738432|8c7280acdfb29b10
-https://uk.jobrapido.com/jobpreview/5750244286960500736|742f03f015d6426a
+https://uk.jobrapido.com/jobpreview/5750244286960500736|49c85b27f8764582
 https://uk.jobrapido.com/jobpreview/5809896022582755328|9a36724afa375f09
 https://uk.jobrapido.com/jobpreview/5853751143368228864|fa7d0a062ac46088
 https://uk.jobrapido.com/jobpreview/6128130885645500416|6fdf4a40b7742657
@@ -188,7 +188,7 @@ https://uk.linkedin.com/jobs/view/automation-test-lead-at-experis-uk-4365644466|
 https://uk.linkedin.com/jobs/view/automation-test-lead-at-q1-technologies-inc-4350463464|6008cc1120ebe1cd
 https://uk.linkedin.com/jobs/view/automation-test-lead-it-contractor-at-free-work-uk-4342670153|b730e36d46d03f30
 https://uk.linkedin.com/jobs/view/automation-tester-at-associated-terminals-4343659682|36cd814d9d3880d7
-https://uk.linkedin.com/jobs/view/automation-tester-at-cognizant-4377465539|839b279ed0900853
+https://uk.linkedin.com/jobs/view/automation-tester-at-cognizant-4377465539|f6bd548cc7cf8813
 https://uk.linkedin.com/jobs/view/automation-tester-at-hackajob-4328947455|d3e2794071644f04
 https://uk.linkedin.com/jobs/view/automation-tester-government-at-stealth-it-consulting-4328978615|e187652c0ee5c47a
 https://uk.linkedin.com/jobs/view/back-end-automation-engineer-at-kham-lab-4363877284|ba9c5fb4530e905e
@@ -235,7 +235,7 @@ https://uk.linkedin.com/jobs/view/junior-qa-engineer-at-welland-medical-ltd-4345
 https://uk.linkedin.com/jobs/view/junior-test-automation-engineer-at-socode-recruitment-4328600467|0523e60a5fd7357d
 https://uk.linkedin.com/jobs/view/lead-ai-automation-architect-at-partnerize-4343710286|36f138131f220ad0
 https://uk.linkedin.com/jobs/view/lead-automation-test-architect-at-cipher-talent-4328871747|508abfdf82e8d5df
-https://uk.linkedin.com/jobs/view/lead-qa-engineer-automation-at-nudge-4360957717|165932d71ad4c3a5
+https://uk.linkedin.com/jobs/view/lead-qa-engineer-automation-at-nudge-4360957717|f8316dbaeea366bc
 https://uk.linkedin.com/jobs/view/lead-salesforce-test-engineer-at-axa-health-4346833034|a121a621cdfe48bb
 https://uk.linkedin.com/jobs/view/lead-test-engineer-at-dwp-digital-4343452622|51516104c77510d8
 https://uk.linkedin.com/jobs/view/lead-test-engineer-at-public-sector-resourcing-4351224757|b708631322123882
@@ -277,13 +277,13 @@ https://uk.linkedin.com/jobs/view/qa-engineer-at-bilfinger-uk-4354231217|b642d1c
 https://uk.linkedin.com/jobs/view/qa-engineer-at-hid-4373953970|63a9432141f21c9b
 https://uk.linkedin.com/jobs/view/qa-engineer-at-io-associates-4368786425|b92e6b104a8b4e2f
 https://uk.linkedin.com/jobs/view/qa-engineer-at-ldms-4373929610|eedaccf95ecbfe1f
-https://uk.linkedin.com/jobs/view/qa-engineer-at-person-centred-software-ltd-4376751447|0ab2046d546d142c
-https://uk.linkedin.com/jobs/view/qa-engineer-at-radius-4377861129|bade33bfb0dfc2ff
+https://uk.linkedin.com/jobs/view/qa-engineer-at-person-centred-software-ltd-4376751447|fa47b61dd7a40fdd
+https://uk.linkedin.com/jobs/view/qa-engineer-at-radius-4377861129|0d43b7e9eec32d47
 https://uk.linkedin.com/jobs/view/qa-engineer-at-robert-walters-4365270219|5f0c9ba0b2881b71
 https://uk.linkedin.com/jobs/view/qa-engineer-at-softcat-4362643513|3c7c5b4082189194
 https://uk.linkedin.com/jobs/view/qa-engineer-at-track24-4329964964|e6c5aaea37e21a83
 https://uk.linkedin.com/jobs/view/qa-engineer-at-xpertise-recruitment-4352390269|bfdbf73c88f4aaa3
-https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-esure-group-4374899573|a29af3e347127ff0
+https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-esure-group-4374899573|81c2b3ebd5e2a44e
 https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-nudge-global-limited-4362062643|46cb215e9192f7b6
 https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-rm-plc-4328787520|9247e76f76e6e89f
 https://uk.linkedin.com/jobs/view/qa-engineer-contractor-at-pulse-innovations-gmbh-4360642801|e9bdcc2f1c86907a
@@ -344,7 +344,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-qa-remote-at-tiptopjob-43469
 https://uk.linkedin.com/jobs/view/senior-automation-service-engineer-at-spx-flow-inc-4349524418|20157b13a0845e6c
 https://uk.linkedin.com/jobs/view/senior-automation-software-development-test-engineer-at-spacelabs-healthcare-4346530829|06f52bbe3feadac8
 https://uk.linkedin.com/jobs/view/senior-automation-test-anaylst-at-7im-4329956923|7b4f09ddb0b5074d
-https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-datacareers-4375234557|3d1f9c496c1be02c
+https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-datacareers-4375234557|7ff8910ab7a7b515
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-version-1-4373468517|5e8c2759bd581fc4
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-python-at-machnet-medical-robotics-4365314733|db42809e96ef4c85
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-cognizant-4376827127|f91843537c44ca04
@@ -366,7 +366,7 @@ https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-fuuse-4365286
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-jobs-via-efinancialcareers-4346694704|e5197ed78aeface3
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-nice-4356230212|27ddf270898891b5
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-tp-icap-4347492608|d8dcfb2c130aae89
-https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-huel-4376899550?refId=HlxZ/eBPXA3moBCIfkVYFw==&trackingId=ge57O+XUiJeZwI4WjLNV6w==&position=10&pageNum=0|1ff52102b1d0adca
+https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-huel-4376899550?refId=HlxZ/eBPXA3moBCIfkVYFw==&trackingId=ge57O+XUiJeZwI4WjLNV6w==&position=10&pageNum=0|70171ae2315f67b0
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-investengine-4360014970|50d00a166927b182
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-tp-icap-4347391110|a5dbd38f52188bb6
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-net-automation-at-wheelright-4344959473|010aac78c78e52a5
@@ -390,7 +390,7 @@ https://uk.linkedin.com/jobs/view/senior-software-development-engineer-in-test-s
 https://uk.linkedin.com/jobs/view/senior-software-development-engineer-in-test-sdet-at-transreport-4364704223|d62494bc12e478aa
 https://uk.linkedin.com/jobs/view/senior-software-development-test-engineer-at-paysafe-4328929077|760efaaefc55491b
 https://uk.linkedin.com/jobs/view/senior-software-qa-test-development-engineer-at-nvidia-4359313436|c4a842303bc50c05
-https://uk.linkedin.com/jobs/view/senior-software-qa-test-development-engineer-senior-software-qa-test-development-engineer-at-nvidia-4377419275|f4765372fa732187
+https://uk.linkedin.com/jobs/view/senior-software-qa-test-development-engineer-senior-software-qa-test-development-engineer-at-nvidia-4377419275|d370723cfd7e3467
 https://uk.linkedin.com/jobs/view/senior-software-quality-assurance-engineer-at-eden-scott-4353716476|1dc2bbd9dde11aed
 https://uk.linkedin.com/jobs/view/senior-software-test-automation-engineer-at-scg-midlands-4327114543|077577d78963813c
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-cubiq-recruitment-4363266393|59c17378ed046e8b
@@ -438,7 +438,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-mastek-at-jobster-4351888
 https://uk.linkedin.com/jobs/view/senior-test-engineer-oho-group-ltd-at-jobster-4321515263|ce1e057d1d8ae19d
 https://uk.linkedin.com/jobs/view/senior-test-engineer-williams-racing-at-jobster-4354707490|f7e06dc26c107b79
 https://uk.linkedin.com/jobs/view/senior-test-lead-at-the-adecco-group-4373351588|765117b8cafd8b6b
-https://uk.linkedin.com/jobs/view/server-automation-tester-at-standard-chartered-4376086992|7290c7ab6984639d
+https://uk.linkedin.com/jobs/view/server-automation-tester-at-standard-chartered-4376086992|1b52172a9406542e
 https://uk.linkedin.com/jobs/view/service-desk-automation-engineer-at-klipboard-4328657575|ae4412447abd9f4d
 https://uk.linkedin.com/jobs/view/software-automation-engineer-at-owen-daniels-4348882795|4484d7689910b096
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-at-royal-london-4375868118|c772565f1d25218b
@@ -543,7 +543,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-dfe-seo-at-manchester-digital-43
 https://uk.linkedin.com/jobs/view/test-engineer-electronics-at-duxvalves-4369704484|c88acee4db9e5eb4
 https://uk.linkedin.com/jobs/view/test-engineer-in-circuit-bmr-solutions-ltd-at-jobster-4359208383|7c7bff9b7b68f7dc
 https://uk.linkedin.com/jobs/view/test-engineer-iot-audio-video-networks-at-mayflower-recruitment-ltd-4349703749|3c702b2fbfb7c4e6
-https://uk.linkedin.com/jobs/view/test-engineer-mi5-the-security-service-heo-at-free-work-uk-4377193089|b57e2cb603f1c0a2
+https://uk.linkedin.com/jobs/view/test-engineer-mi5-the-security-service-heo-at-free-work-uk-4377193089|97f56351fdb80e51
 https://uk.linkedin.com/jobs/view/test-engineer-sc-cleared-it-contractor-at-free-work-uk-4370371459|9bc43bdd44e2cb5a
 https://uk.linkedin.com/jobs/view/test-engineer-senior-test-engineer-cloud-at-io-associates-4369370225|bbe6e464b155e6f0
 https://uk.linkedin.com/jobs/view/test-equipment-sustainment-team-leader-at-ge-aerospace-4371035730|c286bf016bf8c033
@@ -705,7 +705,7 @@ https://uk.talent.com/view?id=607545821082554514|52c3637ad3483213
 https://uk.talent.com/view?id=607571577875797457|bfbe99a383028194
 https://uk.talent.com/view?id=607674033831088274|23a1f1c655cd4b56
 https://uk.talent.com/view?id=607674037273563282|951eecaa6751add7
-https://uk.talent.com/view?id=607936954072239378|a1504c27905f73cf
+https://uk.talent.com/view?id=607936954072239378|9260919ed38854ec
 https://uk.talent.com/view?id=608048312639825045|7fda83dfb2fc0232
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
