@@ -16,7 +16,7 @@ https://jobtoday.com/gb/jobs-qa-tester/pontefract|5b5187d52c163eef
 https://jobtoday.com/gb/jobs-software-tester/worksop|5d780b5162d0597e
 https://syncni.com/article/14760/backing-the-next-generation-of-entrepreneurs-in-northern-ireland|739e3baadcd1402a
 https://thecareerwallet.com/job/qa-automation-test-engineer-20286590142025496|9f2618254ba5e3db
-https://thecareerwallet.com/jobs/ai-automation-engineer-build-scalable-ai-agents-81887932119407321|a5f8d14b625c54b2
+https://thecareerwallet.com/jobs/ai-automation-engineer-build-scalable-ai-agents-81887932119407321|4437416eeae368cb
 https://uk.jobrapido.com/jobpreview/1221754052799365120|e94027c909286a4e
 https://uk.jobrapido.com/jobpreview/1256481921404239872|08eae31d1062728a
 https://uk.jobrapido.com/jobpreview/1373931753483272192|fd613aa06a89f096
@@ -70,7 +70,7 @@ https://uk.jobrapido.com/jobpreview/5614675534047870976|668f6ca87c0cc9da
 https://uk.jobrapido.com/jobpreview/5636512848587784192|8c791474cada7d50
 https://uk.jobrapido.com/jobpreview/564807056477913088|c81bcdd8841905e0
 https://uk.jobrapido.com/jobpreview/5655419036926738432|8c7280acdfb29b10
-https://uk.jobrapido.com/jobpreview/5750244286960500736|4fad12bd05321053
+https://uk.jobrapido.com/jobpreview/5750244286960500736|742f03f015d6426a
 https://uk.jobrapido.com/jobpreview/5809896022582755328|9a36724afa375f09
 https://uk.jobrapido.com/jobpreview/5853751143368228864|fa7d0a062ac46088
 https://uk.jobrapido.com/jobpreview/6128130885645500416|6fdf4a40b7742657
@@ -277,13 +277,13 @@ https://uk.linkedin.com/jobs/view/qa-engineer-at-bilfinger-uk-4354231217|b642d1c
 https://uk.linkedin.com/jobs/view/qa-engineer-at-hid-4373953970|63a9432141f21c9b
 https://uk.linkedin.com/jobs/view/qa-engineer-at-io-associates-4368786425|b92e6b104a8b4e2f
 https://uk.linkedin.com/jobs/view/qa-engineer-at-ldms-4373929610|eedaccf95ecbfe1f
-https://uk.linkedin.com/jobs/view/qa-engineer-at-person-centred-software-ltd-4376751447|9e1f8817ab1fe3e8
-https://uk.linkedin.com/jobs/view/qa-engineer-at-radius-4377861129|eb32757415ffbeac
+https://uk.linkedin.com/jobs/view/qa-engineer-at-person-centred-software-ltd-4376751447|0ab2046d546d142c
+https://uk.linkedin.com/jobs/view/qa-engineer-at-radius-4377861129|bade33bfb0dfc2ff
 https://uk.linkedin.com/jobs/view/qa-engineer-at-robert-walters-4365270219|5f0c9ba0b2881b71
 https://uk.linkedin.com/jobs/view/qa-engineer-at-softcat-4362643513|3c7c5b4082189194
 https://uk.linkedin.com/jobs/view/qa-engineer-at-track24-4329964964|e6c5aaea37e21a83
 https://uk.linkedin.com/jobs/view/qa-engineer-at-xpertise-recruitment-4352390269|bfdbf73c88f4aaa3
-https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-esure-group-4374899573|38c7a57a3581abb7
+https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-esure-group-4374899573|a29af3e347127ff0
 https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-nudge-global-limited-4362062643|46cb215e9192f7b6
 https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-rm-plc-4328787520|9247e76f76e6e89f
 https://uk.linkedin.com/jobs/view/qa-engineer-contractor-at-pulse-innovations-gmbh-4360642801|e9bdcc2f1c86907a
@@ -344,7 +344,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-qa-remote-at-tiptopjob-43469
 https://uk.linkedin.com/jobs/view/senior-automation-service-engineer-at-spx-flow-inc-4349524418|20157b13a0845e6c
 https://uk.linkedin.com/jobs/view/senior-automation-software-development-test-engineer-at-spacelabs-healthcare-4346530829|06f52bbe3feadac8
 https://uk.linkedin.com/jobs/view/senior-automation-test-anaylst-at-7im-4329956923|7b4f09ddb0b5074d
-https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-datacareers-4375234557|29c98f9868b68268
+https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-datacareers-4375234557|3d1f9c496c1be02c
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-version-1-4373468517|5e8c2759bd581fc4
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-python-at-machnet-medical-robotics-4365314733|db42809e96ef4c85
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-cognizant-4376827127|f91843537c44ca04
@@ -366,7 +366,7 @@ https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-fuuse-4365286
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-jobs-via-efinancialcareers-4346694704|e5197ed78aeface3
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-nice-4356230212|27ddf270898891b5
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-tp-icap-4347492608|d8dcfb2c130aae89
-https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-huel-4376899550?refId=HlxZ/eBPXA3moBCIfkVYFw==&trackingId=ge57O+XUiJeZwI4WjLNV6w==&position=10&pageNum=0|6155a21fb9e0d17b
+https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-huel-4376899550?refId=HlxZ/eBPXA3moBCIfkVYFw==&trackingId=ge57O+XUiJeZwI4WjLNV6w==&position=10&pageNum=0|1ff52102b1d0adca
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-investengine-4360014970|50d00a166927b182
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-tp-icap-4347391110|a5dbd38f52188bb6
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-net-automation-at-wheelright-4344959473|010aac78c78e52a5
@@ -706,7 +706,7 @@ https://uk.talent.com/view?id=607571577875797457|bfbe99a383028194
 https://uk.talent.com/view?id=607674033831088274|23a1f1c655cd4b56
 https://uk.talent.com/view?id=607674037273563282|951eecaa6751add7
 https://uk.talent.com/view?id=607936954072239378|a1504c27905f73cf
-https://uk.talent.com/view?id=608048312639825045|b427c38dc024a282
+https://uk.talent.com/view?id=608048312639825045|7fda83dfb2fc0232
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
