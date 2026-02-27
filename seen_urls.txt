@@ -360,7 +360,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-etrm-trading-p
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-python-at-machnet-medical-robotics-4365314733|db42809e96ef4c85
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-cognizant-4376827127|f91843537c44ca04
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-netcompany-4344991895|3d4dbf0417845212
-https://uk.linkedin.com/jobs/view/senior-automation-tester-flutter-agentic-ai-api-systems-at-deliveryapp-4378790054|815335162b5f51d3
+https://uk.linkedin.com/jobs/view/senior-automation-tester-flutter-agentic-ai-api-systems-at-deliveryapp-4378790054|d720c69d8eaae8a1
 https://uk.linkedin.com/jobs/view/senior-consultant-qa-engineer-tc-uki-belfast-at-hackajob-4374608078|f97d9ac1da34261f
 https://uk.linkedin.com/jobs/view/senior-development-engineer-in-test-sdet-at-valstro-4345975778|e30d68f51d0fe9a2
 https://uk.linkedin.com/jobs/view/senior-dft-engineer-at-arm-4329674368|dff917696abd35e2
@@ -427,6 +427,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-caraffi-4348271560|b77
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-ceres-4368740918|291e9cc8b1befeb0
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-companies-house-4350711948|ef73e247cd8510d5
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-diversejobsmatter-4343531379|1c7f217dd918b093
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-dwp-digital-4378785384|89e5a5b58834fc50
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-eclectic-recruitment-ltd-4350658842|7e34576cdebd2678
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-free-work-uk-4342510829|620dfa58431adae2
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-free-work-uk-4365119530|386d7fb03bb13ad5
@@ -725,7 +726,7 @@ https://uk.talent.com/view?id=608048269988930709|e945389047d2c08a
 https://uk.talent.com/view?id=608048293202891773|a33ed6a6ee4d1af2
 https://uk.talent.com/view?id=608048312639825045|7fda83dfb2fc0232
 https://uk.talent.com/view?id=608074421806049619|5eb0f9ed9da5025e
-https://uk.talent.com/view?id=608284745226194713|3d45e8eec92c05ba
+https://uk.talent.com/view?id=608284745226194713|8689234979eed431
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
