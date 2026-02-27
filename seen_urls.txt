@@ -170,7 +170,7 @@ https://uk.linkedin.com/jobs/view/automation-engineer-at-gxo-logistics-inc-43448
 https://uk.linkedin.com/jobs/view/automation-engineer-at-innovo-global-talent-4361203447|813c67acb7512619
 https://uk.linkedin.com/jobs/view/automation-engineer-at-john-goddard-associates-4343609737|dee4dc848ee7e1e9
 https://uk.linkedin.com/jobs/view/automation-engineer-at-logistex-4344865655|014497cf8106484b
-https://uk.linkedin.com/jobs/view/automation-engineer-at-perimeter-automation-4378386838|d6de3d85053ad8c7
+https://uk.linkedin.com/jobs/view/automation-engineer-at-perimeter-automation-4378386838|dec9b2b915c0deb2
 https://uk.linkedin.com/jobs/view/automation-engineer-at-self-employed-4343378556|4e47adf5a3a804db
 https://uk.linkedin.com/jobs/view/automation-engineer-at-the-craneware-group-4354226833|a25d55e039f7afb9
 https://uk.linkedin.com/jobs/view/automation-engineer-at-wipro-4371960811|2da1f86f41404c7b
@@ -558,6 +558,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-mi5-the-security-service-heo-at-
 https://uk.linkedin.com/jobs/view/test-engineer-sc-cleared-it-contractor-at-free-work-uk-4370371459|9bc43bdd44e2cb5a
 https://uk.linkedin.com/jobs/view/test-engineer-senior-test-engineer-cloud-at-io-associates-4369370225|bbe6e464b155e6f0
 https://uk.linkedin.com/jobs/view/test-equipment-sustainment-team-leader-at-ge-aerospace-4371035730|c286bf016bf8c033
+https://uk.linkedin.com/jobs/view/test-job-at-jefferies-4375542636|fb4e7c461aa915e9
 https://uk.linkedin.com/jobs/view/test-lead-at-hcltech-4350695341|658e32187b176a1b
 https://uk.linkedin.com/jobs/view/test-lead-at-primus-global-solutions-primus-uk-europe-4354515937|92d559d65d9d33dc
 https://uk.linkedin.com/jobs/view/test-lead-operational-technology-poweron-adms-at-sword-group-4349397283|f2adf25a8a917e5e
