@@ -77,6 +77,7 @@ https://uk.jobrapido.com/jobpreview/5750244286960500736|20e6cb1100caeec2
 https://uk.jobrapido.com/jobpreview/5809896022582755328|9a36724afa375f09
 https://uk.jobrapido.com/jobpreview/5853751143368228864|fa7d0a062ac46088
 https://uk.jobrapido.com/jobpreview/6128130885645500416|6fdf4a40b7742657
+https://uk.jobrapido.com/jobpreview/6173355877660098560|234470e392b53fff
 https://uk.jobrapido.com/jobpreview/6195731901358014464|5332a1e01df1ef52
 https://uk.jobrapido.com/jobpreview/62722012321153024|293e21eed6615fb5
 https://uk.jobrapido.com/jobpreview/6366640899312582656|8f2df5cd09b2e6cb
@@ -170,7 +171,7 @@ https://uk.linkedin.com/jobs/view/automation-engineer-at-gxo-logistics-inc-43448
 https://uk.linkedin.com/jobs/view/automation-engineer-at-innovo-global-talent-4361203447|813c67acb7512619
 https://uk.linkedin.com/jobs/view/automation-engineer-at-john-goddard-associates-4343609737|dee4dc848ee7e1e9
 https://uk.linkedin.com/jobs/view/automation-engineer-at-logistex-4344865655|014497cf8106484b
-https://uk.linkedin.com/jobs/view/automation-engineer-at-perimeter-automation-4378386838|ecdde1e033cb782f
+https://uk.linkedin.com/jobs/view/automation-engineer-at-perimeter-automation-4378386838|bb61af0c02dd29ee
 https://uk.linkedin.com/jobs/view/automation-engineer-at-self-employed-4343378556|4e47adf5a3a804db
 https://uk.linkedin.com/jobs/view/automation-engineer-at-the-craneware-group-4354226833|a25d55e039f7afb9
 https://uk.linkedin.com/jobs/view/automation-engineer-at-wipro-4371960811|2da1f86f41404c7b
@@ -558,7 +559,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-mi5-the-security-service-heo-at-
 https://uk.linkedin.com/jobs/view/test-engineer-sc-cleared-it-contractor-at-free-work-uk-4370371459|9bc43bdd44e2cb5a
 https://uk.linkedin.com/jobs/view/test-engineer-senior-test-engineer-cloud-at-io-associates-4369370225|bbe6e464b155e6f0
 https://uk.linkedin.com/jobs/view/test-equipment-sustainment-team-leader-at-ge-aerospace-4371035730|c286bf016bf8c033
-https://uk.linkedin.com/jobs/view/test-job-at-jefferies-4375542636|c5475b8566d86aba
+https://uk.linkedin.com/jobs/view/test-job-at-jefferies-4375542636|eed285d3a9f62778
 https://uk.linkedin.com/jobs/view/test-lead-at-hcltech-4350695341|658e32187b176a1b
 https://uk.linkedin.com/jobs/view/test-lead-at-primus-global-solutions-primus-uk-europe-4354515937|92d559d65d9d33dc
 https://uk.linkedin.com/jobs/view/test-lead-operational-technology-poweron-adms-at-sword-group-4349397283|f2adf25a8a917e5e
@@ -719,6 +720,7 @@ https://uk.talent.com/view?id=607571577875797457|bfbe99a383028194
 https://uk.talent.com/view?id=607674033831088274|23a1f1c655cd4b56
 https://uk.talent.com/view?id=607674037273563282|951eecaa6751add7
 https://uk.talent.com/view?id=607936954072239378|9260919ed38854ec
+https://uk.talent.com/view?id=608048269988930709|22b55525b8a3193f
 https://uk.talent.com/view?id=608048293202891773|a33ed6a6ee4d1af2
 https://uk.talent.com/view?id=608048312639825045|7fda83dfb2fc0232
 https://uk.talent.com/view?id=608074421806049619|5eb0f9ed9da5025e
