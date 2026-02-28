@@ -5,6 +5,7 @@ https://gb.bebee.com/job/8281f5875ad02f4d2723588bb570cee2|cb38e20712b34601
 https://gb.bebee.com/job/baaf711b78e03b0a591b6d21a33a1d49|4bac776491b65b93
 https://gb.bebee.com/job/c784c7b38485209a759b217b94f5247f|e586a1d22199146a
 https://gb.bebee.com/job/d98a15a8aa30ee251350899c5c138684|9136b73e45608470
+https://gb.bebee.com/job/da698c6ce7dcb67f506cb4e2bfdaec03|af0872f3c18639e9
 https://gb.bebee.com/job/ebb07f7589e02268879299b8016bac79|b21f99dba29cb333
 https://gb.bebee.com/job/eef67ab7c098e677a138f416f7c1bacd|d31d93925373d447
 https://jobs.jobg8.com/jobs/junior-test-engineer-remote-playwright-jest-gds-in-united-kingdom/5673-3057150701ED|89a9d4ced5176dfa
@@ -556,7 +557,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-tact-4340346408|198d7eec60f85
 https://uk.linkedin.com/jobs/view/test-engineer-at-vitec-4369922259|1d31c925c5da8210
 https://uk.linkedin.com/jobs/view/test-engineer-construction-at-lucideon-4328789447|e3bd07b985aac63b
 https://uk.linkedin.com/jobs/view/test-engineer-dfe-seo-at-manchester-digital-4329654428|171db8e357731827
-https://uk.linkedin.com/jobs/view/test-engineer-dv-at-npaworldwide-4378253199|d62230218407d6d6
+https://uk.linkedin.com/jobs/view/test-engineer-dv-at-npaworldwide-4378253199|716d8bf8ab2bdc53
 https://uk.linkedin.com/jobs/view/test-engineer-electronics-at-duxvalves-4369704484|c88acee4db9e5eb4
 https://uk.linkedin.com/jobs/view/test-engineer-in-circuit-bmr-solutions-ltd-at-jobster-4359208383|7c7bff9b7b68f7dc
 https://uk.linkedin.com/jobs/view/test-engineer-iot-audio-video-networks-at-mayflower-recruitment-ltd-4349703749|3c702b2fbfb7c4e6
@@ -732,7 +733,7 @@ https://uk.talent.com/view?id=608048312639825045|7fda83dfb2fc0232
 https://uk.talent.com/view?id=608074421806049619|5eb0f9ed9da5025e
 https://uk.talent.com/view?id=608252501812842182|93244fea8e62ccb2
 https://uk.talent.com/view?id=608284745226194713|8689234979eed431
-https://uk.talent.com/view?id=608381191192183880|cf589dfec19a9309
+https://uk.talent.com/view?id=608381191192183880|46950fcad3ed9a2a
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
@@ -965,7 +966,7 @@ https://www.jobsgopublic.com/job/lead-test-engineer-automation-40578|f106d4abcd8
 https://www.jobsgopublic.com/job/senior-test-engineer-40761|e8c468bee652d3fb
 https://www.jobsgopublic.com/job/systems-test-engineer-42031|e7fa5e24d0f6f187
 https://www.jobsgopublic.com/job/test-engineer-42038|c25171f4def6acd0
-https://www.jobsgopublic.com/job/test-engineer-44451|cfb30da99c1c2213
+https://www.jobsgopublic.com/job/test-engineer-44451|8b2e792eaacb9f55
 https://www.jobsinwales.com/jobs-in-bassaleg/test-engineer_1430130?region=south|37705c64e5734de4
 https://www.jobsinwales.com/jobs-in-lampeter/automation-engineer_1438071?region=south|7cf624a34af9c7b4
 https://www.jobsinwales.com/jobs-in-newport/test-engineer_1436124?region=south|87bc691339b70c1a
