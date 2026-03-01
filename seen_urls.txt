@@ -5,7 +5,7 @@ https://gb.bebee.com/job/8281f5875ad02f4d2723588bb570cee2|cb38e20712b34601
 https://gb.bebee.com/job/baaf711b78e03b0a591b6d21a33a1d49|4bac776491b65b93
 https://gb.bebee.com/job/c784c7b38485209a759b217b94f5247f|e586a1d22199146a
 https://gb.bebee.com/job/d98a15a8aa30ee251350899c5c138684|9136b73e45608470
-https://gb.bebee.com/job/da698c6ce7dcb67f506cb4e2bfdaec03|02bf65dfe97680e5
+https://gb.bebee.com/job/da698c6ce7dcb67f506cb4e2bfdaec03|ab0698e83efc7840
 https://gb.bebee.com/job/ebb07f7589e02268879299b8016bac79|b21f99dba29cb333
 https://gb.bebee.com/job/eef67ab7c098e677a138f416f7c1bacd|d31d93925373d447
 https://jobs.jobg8.com/jobs/junior-test-engineer-remote-playwright-jest-gds-in-united-kingdom/5673-3057150701ED|89a9d4ced5176dfa
@@ -13,7 +13,7 @@ https://jobs.theguardian.com/job/10027869/automation-engineer-eica-buk-service-d
 https://jobs.theguardian.com/job/10030318/control-panel-equipment-test-engineer/|06b07244cad14a78
 https://jobs.theguardian.com/job/9974624/automation-engineer-eica-buk-service-dept/|077135f818a9f9f9
 https://jobs.theguardian.com/job/9996002/automation-engineer-eica-buk-service-dept/|b988361b43f008de
-https://jobtoday.com/gb/jobs-network-automation-engineer/stafford|62358a828d29ee7a
+https://jobtoday.com/gb/jobs-network-automation-engineer/stafford|56ab1bcb1abbb670
 https://jobtoday.com/gb/jobs-qa-tester/pontefract|5b5187d52c163eef
 https://jobtoday.com/gb/jobs-software-tester/worksop|5d780b5162d0597e
 https://syncni.com/article/14760/backing-the-next-generation-of-entrepreneurs-in-northern-ireland|739e3baadcd1402a
@@ -198,7 +198,7 @@ https://uk.linkedin.com/jobs/view/automation-test-lead-at-experis-uk-4365644466|
 https://uk.linkedin.com/jobs/view/automation-test-lead-at-q1-technologies-inc-4350463464|6008cc1120ebe1cd
 https://uk.linkedin.com/jobs/view/automation-test-lead-it-contractor-at-free-work-uk-4342670153|b730e36d46d03f30
 https://uk.linkedin.com/jobs/view/automation-tester-at-associated-terminals-4343659682|36cd814d9d3880d7
-https://uk.linkedin.com/jobs/view/automation-tester-at-code-first-girls-4379530705|8b725d9591fbebad
+https://uk.linkedin.com/jobs/view/automation-tester-at-code-first-girls-4379530705|2850aa38bc251363
 https://uk.linkedin.com/jobs/view/automation-tester-at-cognizant-4377465539|1ad095d808ddcf15
 https://uk.linkedin.com/jobs/view/automation-tester-at-hackajob-4328947455|d3e2794071644f04
 https://uk.linkedin.com/jobs/view/automation-tester-government-at-stealth-it-consulting-4328978615|e187652c0ee5c47a
@@ -247,7 +247,7 @@ https://uk.linkedin.com/jobs/view/junior-qa-engineer-at-welland-medical-ltd-4345
 https://uk.linkedin.com/jobs/view/junior-test-automation-engineer-at-socode-recruitment-4328600467|0523e60a5fd7357d
 https://uk.linkedin.com/jobs/view/lead-ai-automation-architect-at-partnerize-4343710286|36f138131f220ad0
 https://uk.linkedin.com/jobs/view/lead-automation-test-architect-at-cipher-talent-4328871747|508abfdf82e8d5df
-https://uk.linkedin.com/jobs/view/lead-automation-test-engineer-playwright-at-cyberim-4379237217|e54d687cb857a769
+https://uk.linkedin.com/jobs/view/lead-automation-test-engineer-playwright-at-cyberim-4379237217|4ecc211d92d5e929
 https://uk.linkedin.com/jobs/view/lead-qa-engineer-automation-at-nudge-4360957717|209b254038dbd7de
 https://uk.linkedin.com/jobs/view/lead-salesforce-test-engineer-at-axa-health-4346833034|a121a621cdfe48bb
 https://uk.linkedin.com/jobs/view/lead-test-engineer-at-dwp-digital-4343452622|51516104c77510d8
@@ -343,7 +343,7 @@ https://uk.linkedin.com/jobs/view/rf-systems-and-product-test-engineer-at-tiptop
 https://uk.linkedin.com/jobs/view/rf-test-engineer-at-socode-recruitment-4328480492|4b811867b8ac1c7e
 https://uk.linkedin.com/jobs/view/robotics-manufacturing-and-test-engineer-at-paladin-space-4370624099|7146ec43c02074ad
 https://uk.linkedin.com/jobs/view/sac-tester-at-natobotics-4330021219|fde5f8853c9d3afa
-https://uk.linkedin.com/jobs/view/sailpoint-automation-tester-iam-specialist-at-hexaware-technologies-4377930784|3c983415b9f545eb
+https://uk.linkedin.com/jobs/view/sailpoint-automation-tester-iam-specialist-at-hexaware-technologies-4377930784|c4148113c7d392d3
 https://uk.linkedin.com/jobs/view/sailpoint-tester-at-codeconvergence-limited-ccl-4372540494|39ac7016ab7cf57d
 https://uk.linkedin.com/jobs/view/salesforce-test-engineer-hybrid-working-at-oliver-james-4368752579|9ed36c8d7d9f3cdc
 https://uk.linkedin.com/jobs/view/sap-test-lead-at-testq-technologies-4345646156|f874080424847060
@@ -397,7 +397,7 @@ https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-albert-bo
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-eflow-4361065610|b54953650ef3033c
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-spacelabs-healthcare-4370274131|2cff467bf705948c
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-specialist-at-mk-construction-4351150776|e57bb5a7570ed48f
-https://uk.linkedin.com/jobs/view/senior-quality-assurance-tester-at-activ8-tech-recruitment-4379270830|7e4a87ce7ca28a35
+https://uk.linkedin.com/jobs/view/senior-quality-assurance-tester-at-activ8-tech-recruitment-4379270830|4f333feeee39f47e
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-tester-at-g-t-girls-and-tech!-4371284618?refId=OHrhTCLTPZXSdF+9PweHdA==&trackingId=7R2w/cvvELx+yJyS/7sO7g==&position=15&pageNum=0|548c29d535b33f89
 https://uk.linkedin.com/jobs/view/senior-quality-qa-engineer-at-technip-energies-4326188896|7ad09a3bef124353
 https://uk.linkedin.com/jobs/view/senior-quality-test-engineer-at-yolk-recruitment-ltd-4342297879|32db6d1707978b69
@@ -596,7 +596,7 @@ https://uk.linkedin.com/jobs/view/vehicle-test-engineer-at-quintessential-design
 https://uk.linkedin.com/jobs/view/verification-qa-engineer-at-socode-recruitment-4328879923|15b875cccb579ed9
 https://uk.linkedin.com/jobs/view/verification-validation-engineer-click-recruitment-at-jobster-4360271182|68ddd4df8c69e911
 https://uk.linkedin.com/jobs/website-testing-jobs-london-area-united-kingdom|824a2e964dc7af73
-https://uk.news.yahoo.com/meet-hello-fresh-apprentices-spondon-060000144.html|0fc6a3183a6be688
+https://uk.news.yahoo.com/meet-hello-fresh-apprentices-spondon-060000144.html|96b952386ac40cdd
 https://uk.talent.com/en/view?id=88b9d54bbc0b&trigger_from=related_jobs|7f10f1dc94d08f23
 https://uk.talent.com/en/view?id=a74f8d69f483&trigger_from=related_jobs|be826279d9aa6710
 https://uk.talent.com/en/view?id=f36b243e2c39&trigger_from=related_jobs|4926ae26a28e4346
@@ -736,15 +736,16 @@ https://uk.talent.com/view?id=607936954072239378|9260919ed38854ec
 https://uk.talent.com/view?id=608048269988930709|e945389047d2c08a
 https://uk.talent.com/view?id=608048293202891773|a33ed6a6ee4d1af2
 https://uk.talent.com/view?id=608048312639825045|7fda83dfb2fc0232
-https://uk.talent.com/view?id=608074271068071061|b744c000b18acd74
+https://uk.talent.com/view?id=608074271068071061|81c002c4cabaa706
 https://uk.talent.com/view?id=608074421806049619|5eb0f9ed9da5025e
 https://uk.talent.com/view?id=608252353585160494|3fed5449729e924c
-https://uk.talent.com/view?id=608252363942142254|caf48298338412ab
+https://uk.talent.com/view?id=608252363942142254|dff750e05de68d99
 https://uk.talent.com/view?id=608252501812842182|93244fea8e62ccb2
 https://uk.talent.com/view?id=608284745226194713|8689234979eed431
-https://uk.talent.com/view?id=608380069391969979|a556c900fbc59348
-https://uk.talent.com/view?id=608380586053087161|0d287d5aadd3fddd
-https://uk.talent.com/view?id=608380870902621527|546fc244c49563cb
+https://uk.talent.com/view?id=608380069391969979|bbbaa9b212cc4ca7
+https://uk.talent.com/view?id=608380091437231803|19468de5ece0391e
+https://uk.talent.com/view?id=608380586053087161|a8e72eaa4711fd39
+https://uk.talent.com/view?id=608380870902621527|4f078fdb51e19969
 https://uk.talent.com/view?id=608381191192183880|46950fcad3ed9a2a
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
