@@ -5,7 +5,7 @@ https://gb.bebee.com/job/8281f5875ad02f4d2723588bb570cee2|cb38e20712b34601
 https://gb.bebee.com/job/baaf711b78e03b0a591b6d21a33a1d49|4bac776491b65b93
 https://gb.bebee.com/job/c784c7b38485209a759b217b94f5247f|e586a1d22199146a
 https://gb.bebee.com/job/d98a15a8aa30ee251350899c5c138684|9136b73e45608470
-https://gb.bebee.com/job/da698c6ce7dcb67f506cb4e2bfdaec03|5018c36b2bcf66cc
+https://gb.bebee.com/job/da698c6ce7dcb67f506cb4e2bfdaec03|626f80d513035af3
 https://gb.bebee.com/job/ebb07f7589e02268879299b8016bac79|b21f99dba29cb333
 https://gb.bebee.com/job/eef67ab7c098e677a138f416f7c1bacd|d31d93925373d447
 https://jobs.jobg8.com/jobs/junior-test-engineer-remote-playwright-jest-gds-in-united-kingdom/5673-3057150701ED|89a9d4ced5176dfa
@@ -13,7 +13,7 @@ https://jobs.theguardian.com/job/10027869/automation-engineer-eica-buk-service-d
 https://jobs.theguardian.com/job/10030318/control-panel-equipment-test-engineer/|06b07244cad14a78
 https://jobs.theguardian.com/job/9974624/automation-engineer-eica-buk-service-dept/|077135f818a9f9f9
 https://jobs.theguardian.com/job/9996002/automation-engineer-eica-buk-service-dept/|b988361b43f008de
-https://jobtoday.com/gb/jobs-network-automation-engineer/stafford|ebe53c2371efab25
+https://jobtoday.com/gb/jobs-network-automation-engineer/stafford|d7d790f832d16650
 https://jobtoday.com/gb/jobs-qa-tester/pontefract|5b5187d52c163eef
 https://jobtoday.com/gb/jobs-software-tester/worksop|5d780b5162d0597e
 https://syncni.com/article/14760/backing-the-next-generation-of-entrepreneurs-in-northern-ireland|739e3baadcd1402a
@@ -198,7 +198,7 @@ https://uk.linkedin.com/jobs/view/automation-test-lead-at-experis-uk-4365644466|
 https://uk.linkedin.com/jobs/view/automation-test-lead-at-q1-technologies-inc-4350463464|6008cc1120ebe1cd
 https://uk.linkedin.com/jobs/view/automation-test-lead-it-contractor-at-free-work-uk-4342670153|b730e36d46d03f30
 https://uk.linkedin.com/jobs/view/automation-tester-at-associated-terminals-4343659682|36cd814d9d3880d7
-https://uk.linkedin.com/jobs/view/automation-tester-at-code-first-girls-4379530705|314353a9049e3de3
+https://uk.linkedin.com/jobs/view/automation-tester-at-code-first-girls-4379530705|c61f74f3b0999674
 https://uk.linkedin.com/jobs/view/automation-tester-at-cognizant-4377465539|1ad095d808ddcf15
 https://uk.linkedin.com/jobs/view/automation-tester-at-hackajob-4328947455|d3e2794071644f04
 https://uk.linkedin.com/jobs/view/automation-tester-government-at-stealth-it-consulting-4328978615|e187652c0ee5c47a
@@ -247,7 +247,7 @@ https://uk.linkedin.com/jobs/view/junior-qa-engineer-at-welland-medical-ltd-4345
 https://uk.linkedin.com/jobs/view/junior-test-automation-engineer-at-socode-recruitment-4328600467|0523e60a5fd7357d
 https://uk.linkedin.com/jobs/view/lead-ai-automation-architect-at-partnerize-4343710286|36f138131f220ad0
 https://uk.linkedin.com/jobs/view/lead-automation-test-architect-at-cipher-talent-4328871747|508abfdf82e8d5df
-https://uk.linkedin.com/jobs/view/lead-automation-test-engineer-playwright-at-cyberim-4379237217|71f26965d3eacec3
+https://uk.linkedin.com/jobs/view/lead-automation-test-engineer-playwright-at-cyberim-4379237217|75b699453a89b186
 https://uk.linkedin.com/jobs/view/lead-qa-engineer-automation-at-nudge-4360957717|209b254038dbd7de
 https://uk.linkedin.com/jobs/view/lead-salesforce-test-engineer-at-axa-health-4346833034|a121a621cdfe48bb
 https://uk.linkedin.com/jobs/view/lead-test-engineer-at-dwp-digital-4343452622|51516104c77510d8
@@ -343,7 +343,7 @@ https://uk.linkedin.com/jobs/view/rf-systems-and-product-test-engineer-at-tiptop
 https://uk.linkedin.com/jobs/view/rf-test-engineer-at-socode-recruitment-4328480492|4b811867b8ac1c7e
 https://uk.linkedin.com/jobs/view/robotics-manufacturing-and-test-engineer-at-paladin-space-4370624099|7146ec43c02074ad
 https://uk.linkedin.com/jobs/view/sac-tester-at-natobotics-4330021219|fde5f8853c9d3afa
-https://uk.linkedin.com/jobs/view/sailpoint-automation-tester-iam-specialist-at-hexaware-technologies-4377930784|d67d7e0e03d2758f
+https://uk.linkedin.com/jobs/view/sailpoint-automation-tester-iam-specialist-at-hexaware-technologies-4377930784|6b9e7f3f93da862c
 https://uk.linkedin.com/jobs/view/sailpoint-tester-at-codeconvergence-limited-ccl-4372540494|39ac7016ab7cf57d
 https://uk.linkedin.com/jobs/view/salesforce-test-engineer-hybrid-working-at-oliver-james-4368752579|9ed36c8d7d9f3cdc
 https://uk.linkedin.com/jobs/view/sap-test-lead-at-testq-technologies-4345646156|f874080424847060
@@ -561,7 +561,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-tact-4340346408|198d7eec60f85
 https://uk.linkedin.com/jobs/view/test-engineer-at-vitec-4369922259|1d31c925c5da8210
 https://uk.linkedin.com/jobs/view/test-engineer-construction-at-lucideon-4328789447|e3bd07b985aac63b
 https://uk.linkedin.com/jobs/view/test-engineer-dfe-seo-at-manchester-digital-4329654428|171db8e357731827
-https://uk.linkedin.com/jobs/view/test-engineer-dv-at-npaworldwide-4378253199|319a8fd6d2929a1c
+https://uk.linkedin.com/jobs/view/test-engineer-dv-at-npaworldwide-4378253199|1cc3f61936d7994c
 https://uk.linkedin.com/jobs/view/test-engineer-electronics-at-duxvalves-4369704484|c88acee4db9e5eb4
 https://uk.linkedin.com/jobs/view/test-engineer-in-circuit-bmr-solutions-ltd-at-jobster-4359208383|7c7bff9b7b68f7dc
 https://uk.linkedin.com/jobs/view/test-engineer-iot-audio-video-networks-at-mayflower-recruitment-ltd-4349703749|3c702b2fbfb7c4e6
@@ -737,12 +737,12 @@ https://uk.talent.com/view?id=608048312639825045|7fda83dfb2fc0232
 https://uk.talent.com/view?id=608074271068071061|81c002c4cabaa706
 https://uk.talent.com/view?id=608074421806049619|5eb0f9ed9da5025e
 https://uk.talent.com/view?id=608252353585160494|3fed5449729e924c
-https://uk.talent.com/view?id=608252363942142254|caf48298338412ab
+https://uk.talent.com/view?id=608252363942142254|6e2e11309249d11b
 https://uk.talent.com/view?id=608252501812842182|93244fea8e62ccb2
 https://uk.talent.com/view?id=608284745226194713|8689234979eed431
-https://uk.talent.com/view?id=608380069391969979|bbbaa9b212cc4ca7
+https://uk.talent.com/view?id=608380069391969979|a556c900fbc59348
 https://uk.talent.com/view?id=608380586053087161|0d287d5aadd3fddd
-https://uk.talent.com/view?id=608381191192183880|cf589dfec19a9309
+https://uk.talent.com/view?id=608381191192183880|46950fcad3ed9a2a
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
