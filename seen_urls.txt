@@ -5,7 +5,7 @@ https://gb.bebee.com/job/8281f5875ad02f4d2723588bb570cee2|cb38e20712b34601
 https://gb.bebee.com/job/baaf711b78e03b0a591b6d21a33a1d49|4bac776491b65b93
 https://gb.bebee.com/job/c784c7b38485209a759b217b94f5247f|e586a1d22199146a
 https://gb.bebee.com/job/d98a15a8aa30ee251350899c5c138684|9136b73e45608470
-https://gb.bebee.com/job/da698c6ce7dcb67f506cb4e2bfdaec03|e1e1bacee47de7f9
+https://gb.bebee.com/job/da698c6ce7dcb67f506cb4e2bfdaec03|f038a9df66602752
 https://gb.bebee.com/job/ebb07f7589e02268879299b8016bac79|b21f99dba29cb333
 https://gb.bebee.com/job/eef67ab7c098e677a138f416f7c1bacd|d31d93925373d447
 https://jobs.jobg8.com/jobs/junior-test-engineer-remote-playwright-jest-gds-in-united-kingdom/5673-3057150701ED|89a9d4ced5176dfa
@@ -13,7 +13,7 @@ https://jobs.theguardian.com/job/10027869/automation-engineer-eica-buk-service-d
 https://jobs.theguardian.com/job/10030318/control-panel-equipment-test-engineer/|06b07244cad14a78
 https://jobs.theguardian.com/job/9974624/automation-engineer-eica-buk-service-dept/|077135f818a9f9f9
 https://jobs.theguardian.com/job/9996002/automation-engineer-eica-buk-service-dept/|b988361b43f008de
-https://jobtoday.com/gb/jobs-network-automation-engineer/stafford|1d215b8ec7a46abe
+https://jobtoday.com/gb/jobs-network-automation-engineer/stafford|c09de83f0533daf9
 https://jobtoday.com/gb/jobs-qa-tester/pontefract|5b5187d52c163eef
 https://jobtoday.com/gb/jobs-software-tester/worksop|5d780b5162d0597e
 https://syncni.com/article/14760/backing-the-next-generation-of-entrepreneurs-in-northern-ireland|739e3baadcd1402a
@@ -246,7 +246,7 @@ https://uk.linkedin.com/jobs/view/junior-qa-engineer-at-welland-medical-ltd-4345
 https://uk.linkedin.com/jobs/view/junior-test-automation-engineer-at-socode-recruitment-4328600467|0523e60a5fd7357d
 https://uk.linkedin.com/jobs/view/lead-ai-automation-architect-at-partnerize-4343710286|36f138131f220ad0
 https://uk.linkedin.com/jobs/view/lead-automation-test-architect-at-cipher-talent-4328871747|508abfdf82e8d5df
-https://uk.linkedin.com/jobs/view/lead-automation-test-engineer-playwright-at-cyberim-4379237217|a14cbd0bc5346abc
+https://uk.linkedin.com/jobs/view/lead-automation-test-engineer-playwright-at-cyberim-4379237217|9022bcbe7a156e27
 https://uk.linkedin.com/jobs/view/lead-qa-engineer-automation-at-nudge-4360957717|209b254038dbd7de
 https://uk.linkedin.com/jobs/view/lead-salesforce-test-engineer-at-axa-health-4346833034|a121a621cdfe48bb
 https://uk.linkedin.com/jobs/view/lead-test-engineer-at-dwp-digital-4343452622|51516104c77510d8
@@ -559,7 +559,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-tact-4340346408|198d7eec60f85
 https://uk.linkedin.com/jobs/view/test-engineer-at-vitec-4369922259|1d31c925c5da8210
 https://uk.linkedin.com/jobs/view/test-engineer-construction-at-lucideon-4328789447|e3bd07b985aac63b
 https://uk.linkedin.com/jobs/view/test-engineer-dfe-seo-at-manchester-digital-4329654428|171db8e357731827
-https://uk.linkedin.com/jobs/view/test-engineer-dv-at-npaworldwide-4378253199|79f8f4215109244c
+https://uk.linkedin.com/jobs/view/test-engineer-dv-at-npaworldwide-4378253199|5ce1f0ba51e9595f
 https://uk.linkedin.com/jobs/view/test-engineer-electronics-at-duxvalves-4369704484|c88acee4db9e5eb4
 https://uk.linkedin.com/jobs/view/test-engineer-in-circuit-bmr-solutions-ltd-at-jobster-4359208383|7c7bff9b7b68f7dc
 https://uk.linkedin.com/jobs/view/test-engineer-iot-audio-video-networks-at-mayflower-recruitment-ltd-4349703749|3c702b2fbfb7c4e6
@@ -732,7 +732,7 @@ https://uk.talent.com/view?id=607936954072239378|9260919ed38854ec
 https://uk.talent.com/view?id=608048269988930709|e945389047d2c08a
 https://uk.talent.com/view?id=608048293202891773|a33ed6a6ee4d1af2
 https://uk.talent.com/view?id=608048312639825045|7fda83dfb2fc0232
-https://uk.talent.com/view?id=608074271068071061|81c002c4cabaa706
+https://uk.talent.com/view?id=608074271068071061|b744c000b18acd74
 https://uk.talent.com/view?id=608074421806049619|5eb0f9ed9da5025e
 https://uk.talent.com/view?id=608252363942142254|caf48298338412ab
 https://uk.talent.com/view?id=608252501812842182|93244fea8e62ccb2
@@ -971,7 +971,7 @@ https://www.jobsgopublic.com/job/lead-test-engineer-automation-40578|f106d4abcd8
 https://www.jobsgopublic.com/job/senior-test-engineer-40761|e8c468bee652d3fb
 https://www.jobsgopublic.com/job/systems-test-engineer-42031|e7fa5e24d0f6f187
 https://www.jobsgopublic.com/job/test-engineer-42038|c25171f4def6acd0
-https://www.jobsgopublic.com/job/test-engineer-44451|16e35dd0401838e1
+https://www.jobsgopublic.com/job/test-engineer-44451|c711b8352b522ead
 https://www.jobsinwales.com/jobs-in-bassaleg/test-engineer_1430130?region=south|37705c64e5734de4
 https://www.jobsinwales.com/jobs-in-lampeter/automation-engineer_1438071?region=south|7cf624a34af9c7b4
 https://www.jobsinwales.com/jobs-in-newport/test-engineer_1436124?region=south|87bc691339b70c1a
