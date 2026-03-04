@@ -521,7 +521,7 @@ https://uk.linkedin.com/jobs/view/test-area-team-lead-at-tld-4355770978|dc4b8c26
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4328330834|042d44c33833c196
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4363379599|630767aab9e2e2d5
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4374924178|8f3af75f8b05d9db
-https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4379453515|a38a486f9adf2578
+https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4379453515|36ab4844f0b49dd0
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-health-project-4340703016|bfd4d5ddc8cd9317
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pelion-4344514030|09a1ce95d7968027
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pentenamio-4337852477|0bc864521d202384
@@ -767,13 +767,13 @@ https://uk.talent.com/view?id=608380091437231803|70c4f0e36dfcbc07
 https://uk.talent.com/view?id=608380586053087161|a8e72eaa4711fd39
 https://uk.talent.com/view?id=608380870902621527|4f078fdb51e19969
 https://uk.talent.com/view?id=608381135480751176|7260b72f6ec9e6c6
-https://uk.talent.com/view?id=608381148526806088|dfde3123e2610d11
+https://uk.talent.com/view?id=608381148526806088|5738ef5e6303d81c
 https://uk.talent.com/view?id=608381191192183880|46950fcad3ed9a2a
 https://uk.talent.com/view?id=608475893342285499|89ee250d422835cd
 https://uk.talent.com/view?id=608550573952872377|aba00a95a33bf0da
 https://uk.talent.com/view?id=608550616475316153|ac9a6cbfcb1bb39a
 https://uk.talent.com/view?id=608743866435634248|7da418b8fbffca3f
-https://uk.talent.com/view?id=608743883931780168|25dde0a8a642fd88
+https://uk.talent.com/view?id=608743883931780168|9050c5d08406cc8e
 https://uk.talent.com/view?id=608743890293359688|7f9dc1e0400758be
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
