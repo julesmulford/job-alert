@@ -26,6 +26,7 @@ https://uk.jobrapido.com/jobpreview/1403946067279478784|bf07d07da5bf477a
 https://uk.jobrapido.com/jobpreview/1431312379118878720|f15367b0dfef4d5c
 https://uk.jobrapido.com/jobpreview/163139747860971520|07dfaa3180ad35a7
 https://uk.jobrapido.com/jobpreview/1636588812022841344|9713de3b85255fd7
+https://uk.jobrapido.com/jobpreview/1757864343271112704|066d9807a35b5023
 https://uk.jobrapido.com/jobpreview/1772485683257016320|f7a486373a9729ae
 https://uk.jobrapido.com/jobpreview/186231459139289088|01385b8b1a60dc52
 https://uk.jobrapido.com/jobpreview/1992342860116000768|9a8b0f7ed36d95ca
@@ -66,6 +67,7 @@ https://uk.jobrapido.com/jobpreview/5090107427018244096|39343a7c1ff9b926
 https://uk.jobrapido.com/jobpreview/510172186254770176|5e55749b79af772f
 https://uk.jobrapido.com/jobpreview/5181785806053834752|481699b72e032900
 https://uk.jobrapido.com/jobpreview/5212141492440662016|d51037a7890cb496
+https://uk.jobrapido.com/jobpreview/5298671116221415424|ccccad7fea64c16f
 https://uk.jobrapido.com/jobpreview/5362172345131728896|82c6b65669f9df57
 https://uk.jobrapido.com/jobpreview/5395950441848635392|69f206df36d7b324
 https://uk.jobrapido.com/jobpreview/5461956942362574848|e01bc8371b0e26aa
@@ -106,6 +108,7 @@ https://uk.jobrapido.com/jobpreview/7882424176210870272|161075d1dc72c1c0
 https://uk.jobrapido.com/jobpreview/790530265310035968|65349a972c545533
 https://uk.jobrapido.com/jobpreview/7946062397398056960|7ccdbc5812821388
 https://uk.jobrapido.com/jobpreview/8115555688232517632|7d25a9b0256eece4
+https://uk.jobrapido.com/jobpreview/8125678238954422272|5ca2330136b749d7
 https://uk.jobrapido.com/jobpreview/8167477496334254080|00a4076d6a85e124
 https://uk.jobrapido.com/jobpreview/8347090778090110976|8a4d5765089cc2d2
 https://uk.jobrapido.com/jobpreview/8402608057934151680|5826d30723b1e031
@@ -126,7 +129,7 @@ https://uk.jobrapido.com/jobpreview/8890482824834973696|c274da91258622cf
 https://uk.jobrapido.com/jobpreview/9034710506694246400|18de50f3d5e2ad76
 https://uk.jobrapido.com/jobpreview/9094772428873138176|3dde5765aea2b34c
 https://uk.jobrapido.com/jobpreview/9114528110203633664|048267a1fa94deda
-https://uk.jobrapido.com/jobpreview/9182285823502974976|e5e2ae071c6d11fd
+https://uk.jobrapido.com/jobpreview/9182285823502974976|3ee4c61d276c4688
 https://uk.jobrapido.com/jobpreview/9193484821878276096|e820d75a22f26709
 https://uk.jobtome.com/job/automation-engineer/5e3f4fcfb8bbc63ee2a60c7e9196d9bc|b2c6653613eddc8d
 https://uk.jobtome.com/job/automation-infrastructure-engineer-corsham/02e5c3b98943edac9898bb381ba79b61|61ac1930405723cc
@@ -211,6 +214,7 @@ https://uk.linkedin.com/jobs/view/building-automation-apprentice-at-cundall-4355
 https://uk.linkedin.com/jobs/view/c-and-i-engineer-automation-engineer-at-tiptopjob-4365612405|75fcd18d59d4cc16
 https://uk.linkedin.com/jobs/view/content-tester-shipit-at-shipit-4346291657|266049a624aab948
 https://uk.linkedin.com/jobs/view/contract-automation-tester-at-inspired-thinking-group-itg-4372255067|980033d40ba3a74b
+https://uk.linkedin.com/jobs/view/controls-and-automation-engineer-at-yeo-valley-organic-4380018521|bb2817f0bfcd0a60
 https://uk.linkedin.com/jobs/view/controls-automation-engineer-connected-consulting-limited-at-jobster-4360038306|fcf0d6a3dbbce355
 https://uk.linkedin.com/jobs/view/datawarehouse-qa-engineer-at-randstad-enterprise-4361767060|128b8b7ba2700041
 https://uk.linkedin.com/jobs/view/diagnostic-engineer-at-ashby-finance-4363419702|6010922a3f8f8b1f
@@ -351,6 +355,7 @@ https://uk.linkedin.com/jobs/view/quality-automation-specialist-at-natwest-group
 https://uk.linkedin.com/jobs/view/quality-engineer-at-best-job-tool-4345600421|e5fd1146a0594a23
 https://uk.linkedin.com/jobs/view/quality-engineer-remote-at-taskify-ai-4339838044|68c9e9b88a7f9aa6
 https://uk.linkedin.com/jobs/view/rf-systems-and-product-test-engineer-at-tiptopjob-4345504827|0d1dbb4645522fee
+https://uk.linkedin.com/jobs/view/rf-test-engineer-at-ic-resources-4379470816|d53fe4c742a388b1
 https://uk.linkedin.com/jobs/view/rf-test-engineer-at-socode-recruitment-4328480492|4b811867b8ac1c7e
 https://uk.linkedin.com/jobs/view/robotics-manufacturing-and-test-engineer-at-paladin-space-4370624099|7146ec43c02074ad
 https://uk.linkedin.com/jobs/view/sac-tester-at-natobotics-4330021219|fde5f8853c9d3afa
@@ -468,6 +473,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-randstad-digital-43630
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-redtech-recruitment-4363953251|4fc318021a15f295
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-sepura-4342671512|802c4a8e196a88f1
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-teledyne-technologies-incorporated-4364733758|2e64368daa66e61d
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-the-one-group-ltd-4379832081|4439b2c530e6d726
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-trs-staffing-solutions-4321497038|53495690671905ee
 https://uk.linkedin.com/jobs/view/senior-test-engineer-aws-microservices-transformation-public-sector-12-months-at-bangura-solutions-4353933351|afe05559cf0fc4a9
 https://uk.linkedin.com/jobs/view/senior-test-engineer-department-for-work-and-pensions-g7-at-manchester-digital-4379187505|4bd35cc3b6041f82
