@@ -237,7 +237,7 @@ https://uk.linkedin.com/jobs/view/embedded-software-test-engineer-at-alten-43458
 https://uk.linkedin.com/jobs/view/embedded-software-verification-and-validation-engineer-at-the-one-group-ltd-4349616712|7b1e5b398f85b5b6
 https://uk.linkedin.com/jobs/view/emc-test-engineer-at-paxton-access-ltd-4330200213|9eaf8db877133bed
 https://uk.linkedin.com/jobs/view/engineer-test-and-inspection-whitemoor-at-gov-facility-services-ltd-gfsl-4375268025|5e26fb2e0be5838b
-https://uk.linkedin.com/jobs/view/environmental-test-engineer-aerospace-at-alten-4380280393|8bc11518f560ee03
+https://uk.linkedin.com/jobs/view/environmental-test-engineer-aerospace-at-alten-4380280393|f8e7a04e306411c4
 https://uk.linkedin.com/jobs/view/ers-test-engineer-shifts-at-red-bull-racing-red-bull-technology-4350994981|17e367b82a7962d8
 https://uk.linkedin.com/jobs/view/f5-automation-engineer-at-auxo-talent-4370298846|0bb1914baaa80abd
 https://uk.linkedin.com/jobs/view/flexcube-qa-testing-analyst-at-zenith-bank-uk-limited-4345657112|c75a91273ecc0692
@@ -485,7 +485,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-department-for-work-and-p
 https://uk.linkedin.com/jobs/view/senior-test-engineer-mastek-at-jobster-4351888412|3efc0d7a88b7c4d5
 https://uk.linkedin.com/jobs/view/senior-test-engineer-oho-group-ltd-at-jobster-4321515263|ce1e057d1d8ae19d
 https://uk.linkedin.com/jobs/view/senior-test-engineer-williams-racing-at-jobster-4354707490|f7e06dc26c107b79
-https://uk.linkedin.com/jobs/view/senior-test-lead-at-platform-recruitment-4380252934|1a1388de2721d3e8
+https://uk.linkedin.com/jobs/view/senior-test-lead-at-platform-recruitment-4380252934|d43c9cd44c3766a2
 https://uk.linkedin.com/jobs/view/senior-test-lead-at-the-adecco-group-4373351588|765117b8cafd8b6b
 https://uk.linkedin.com/jobs/view/server-automation-tester-at-standard-chartered-4376086992|1b52172a9406542e
 https://uk.linkedin.com/jobs/view/service-desk-automation-engineer-at-klipboard-4328657575|ae4412447abd9f4d
