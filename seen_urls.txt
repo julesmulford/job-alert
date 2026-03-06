@@ -24,6 +24,7 @@ https://uk.jobrapido.com/jobpreview/1256481921404239872|08eae31d1062728a
 https://uk.jobrapido.com/jobpreview/1373931753483272192|fd613aa06a89f096
 https://uk.jobrapido.com/jobpreview/1403946067279478784|bf07d07da5bf477a
 https://uk.jobrapido.com/jobpreview/1431312379118878720|f15367b0dfef4d5c
+https://uk.jobrapido.com/jobpreview/1530424865507508224|1328ab684c2d5d7c
 https://uk.jobrapido.com/jobpreview/163139747860971520|07dfaa3180ad35a7
 https://uk.jobrapido.com/jobpreview/1636588812022841344|9713de3b85255fd7
 https://uk.jobrapido.com/jobpreview/1757864343271112704|066d9807a35b5023
@@ -328,7 +329,7 @@ https://uk.linkedin.com/jobs/view/qa-test-engineer-at-pogust-goodhead-4376058492
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-techshack-4349323829|2b3f492655cf3cbd
 https://uk.linkedin.com/jobs/view/qa-test-engineer-manual-automation-at-project-people-4375505250|210eda17560cc2c5
 https://uk.linkedin.com/jobs/view/qa-tester-at-dwp-digital-4379913421|f44629cbea3e1de3
-https://uk.linkedin.com/jobs/view/qa-tester-at-io-associates-4380475808|585bf5ccb56ef446
+https://uk.linkedin.com/jobs/view/qa-tester-at-io-associates-4380475808|0afae55024fb3f21
 https://uk.linkedin.com/jobs/view/qa-tester-at-light-wonder-4377181769|97d3465735bb399b
 https://uk.linkedin.com/jobs/view/qa-tester-at-tekton-billing-4346850509|91f6269b04830d2f
 https://uk.linkedin.com/jobs/view/qa-tester-at-voldex-4376147091|7f232ebf2aeb4dc2
@@ -348,7 +349,7 @@ https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-recenso-services
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tgs-international-group-4361421723|a09cad407db3bf01
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tria-4350252385|7524309888b21991
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-workmaze-4350562868|0d5e8cefa61fc974
-https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-anglia-uk-4381633439|a6ac561b4a225aa3
+https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-anglia-uk-4381633439|10d702cce8b27d92
 https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-gama-aviation-4371756518|4c51afcb092f5cf3
 https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-pocket-sized-hands-4373947227|37c285d6c03d7f06
 https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-skillspree-4349846037|6059d533c654b364
@@ -513,7 +514,7 @@ https://uk.linkedin.com/jobs/view/software-test-engineers-at-hackajob-4366436413
 https://uk.linkedin.com/jobs/view/software-tester-at-culverdocs-4342181779|b35890caa39d6ecc
 https://uk.linkedin.com/jobs/view/software-tester-at-fdm-group-4348622615|63521ed80df38291
 https://uk.linkedin.com/jobs/view/software-tester-at-iken-4373871842|996095a353f91053
-https://uk.linkedin.com/jobs/view/software-tester-at-squarcle-4379885720|9adf8ab67aa50099
+https://uk.linkedin.com/jobs/view/software-tester-at-squarcle-4379885720|fb3fae7b2a54e7b7
 https://uk.linkedin.com/jobs/view/software-tester-at-stratospherec-limited-4374263563|5aa9ebbec25dee17
 https://uk.linkedin.com/jobs/view/software-tester-innova-recruitment-at-jobster-4359228466|4e4fd2f1c2f17ee5
 https://uk.linkedin.com/jobs/view/software-tester-qa-at-robertson-sumner-4348480072|99f79aa851119221
@@ -788,6 +789,7 @@ https://uk.talent.com/view?id=608550616475316153|ac9a6cbfcb1bb39a
 https://uk.talent.com/view?id=608743866435634248|7da418b8fbffca3f
 https://uk.talent.com/view?id=608743883931780168|984f02e8126e8c95
 https://uk.talent.com/view?id=608743890293359688|7f9dc1e0400758be
+https://uk.talent.com/view?id=609216808076642027|ac2069c53351d650
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
