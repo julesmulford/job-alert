@@ -80,7 +80,7 @@ https://uk.jobrapido.com/jobpreview/5571628648798093312|e40de68890517d2f
 https://uk.jobrapido.com/jobpreview/5614675534047870976|668f6ca87c0cc9da
 https://uk.jobrapido.com/jobpreview/5636512848587784192|8c791474cada7d50
 https://uk.jobrapido.com/jobpreview/564807056477913088|c81bcdd8841905e0
-https://uk.jobrapido.com/jobpreview/5648606634679730176|08af257b0ef72c57
+https://uk.jobrapido.com/jobpreview/5648606634679730176|825405c717da9eb7
 https://uk.jobrapido.com/jobpreview/5655419036926738432|8c7280acdfb29b10
 https://uk.jobrapido.com/jobpreview/5750244286960500736|20e6cb1100caeec2
 https://uk.jobrapido.com/jobpreview/5809896022582755328|9a36724afa375f09
@@ -101,7 +101,7 @@ https://uk.jobrapido.com/jobpreview/6923649718962618368|da84d4a0bee82ebd
 https://uk.jobrapido.com/jobpreview/7010613297649025024|4002436b8aca4e62
 https://uk.jobrapido.com/jobpreview/7025570366638522368|a25a2fd66d67ebf1
 https://uk.jobrapido.com/jobpreview/704774869513928704|89a1cb4583590be7
-https://uk.jobrapido.com/jobpreview/719857746685460480|53f5e9a5b64ce8d3
+https://uk.jobrapido.com/jobpreview/719857746685460480|64d69d7a6496bc30
 https://uk.jobrapido.com/jobpreview/7200217824386613248|8ed2e50d948e9425
 https://uk.jobrapido.com/jobpreview/7254862933811789824|3edd1a93f25ed989
 https://uk.jobrapido.com/jobpreview/7280000449682341888|7defc45187488bf7
@@ -452,7 +452,7 @@ https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-hackajob-43
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-xperi-inc-4326506723|2745901db43560f3
 https://uk.linkedin.com/jobs/view/senior-test-capability-engineer-platform-recruitment-at-jobster-4368601051|d4497f76b06d7945
 https://uk.linkedin.com/jobs/view/senior-test-development-engineer-at-cubiq-recruitment-4355330754|07764af454021c0f
-https://uk.linkedin.com/jobs/view/senior-test-development-engineer-at-kaminsky-consulting-4382317048|7233b1ad269c9c49
+https://uk.linkedin.com/jobs/view/senior-test-development-engineer-at-kaminsky-consulting-4382317048|c9d5ab18d6496f36
 https://uk.linkedin.com/jobs/view/senior-test-engineer-aims-team-at-cox-automotive-europe-4361768359|d020a1d0249dde09
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-1spatial-4340312479|1c3ed75608427f8e
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-a1-personnel-4366898644|4e74806530407ad0
@@ -795,8 +795,8 @@ https://uk.talent.com/view?id=608743866435634248|7da418b8fbffca3f
 https://uk.talent.com/view?id=608743883931780168|984f02e8126e8c95
 https://uk.talent.com/view?id=608743890293359688|7f9dc1e0400758be
 https://uk.talent.com/view?id=609216808076642027|6ec9fa9b2dba2fa9
-https://uk.talent.com/view?id=609233421227526737|2d39c65619ebfa9c
-https://uk.talent.com/view?id=609255770650315345|49048cb0b193333e
+https://uk.talent.com/view?id=609233421227526737|7bcc9c60cf86a586
+https://uk.talent.com/view?id=609255770650315345|972098faa204ded4
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
