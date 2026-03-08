@@ -43,7 +43,7 @@ https://uk.jobrapido.com/jobpreview/2642825088843382784|1773c0180304ca9a
 https://uk.jobrapido.com/jobpreview/2681833888791134208|81d384daa8ed2ec2
 https://uk.jobrapido.com/jobpreview/2706984993938210816|19572d4fd2b3e919
 https://uk.jobrapido.com/jobpreview/2743865431432364032|e287101fbbe9f097
-https://uk.jobrapido.com/jobpreview/2879434235884601344|ae644e83d7c19c61
+https://uk.jobrapido.com/jobpreview/2879434235884601344|fc1b4136e110e677
 https://uk.jobrapido.com/jobpreview/2973001438457757696|db31df661a42f043
 https://uk.jobrapido.com/jobpreview/3080041841769316352|248313265f503d1b
 https://uk.jobrapido.com/jobpreview/3164817254877495296|0ed8f2bd9e460064
@@ -80,7 +80,7 @@ https://uk.jobrapido.com/jobpreview/5395950441848635392|69f206df36d7b324
 https://uk.jobrapido.com/jobpreview/5461956942362574848|e01bc8371b0e26aa
 https://uk.jobrapido.com/jobpreview/5494903627900256256|48e116a537c517f7
 https://uk.jobrapido.com/jobpreview/5505043160922849280|0ffd8847851f3d5c
-https://uk.jobrapido.com/jobpreview/5536839491009904640|fba708f6252b2e30
+https://uk.jobrapido.com/jobpreview/5536839491009904640|3b36aafe501b2720
 https://uk.jobrapido.com/jobpreview/55644455973158912|dd3670a245e498e6
 https://uk.jobrapido.com/jobpreview/5571628648798093312|e40de68890517d2f
 https://uk.jobrapido.com/jobpreview/5614675534047870976|668f6ca87c0cc9da
@@ -105,9 +105,10 @@ https://uk.jobrapido.com/jobpreview/67916517567627264|901d4d4e950dfc72
 https://uk.jobrapido.com/jobpreview/6815194484704280576|6d37cb92acb02667
 https://uk.jobrapido.com/jobpreview/6923649718962618368|da84d4a0bee82ebd
 https://uk.jobrapido.com/jobpreview/7010613297649025024|4002436b8aca4e62
-https://uk.jobrapido.com/jobpreview/7012894268880584704|36091e59108432d6
+https://uk.jobrapido.com/jobpreview/7012894268880584704|cb314a594575c4ce
 https://uk.jobrapido.com/jobpreview/7025570366638522368|a25a2fd66d67ebf1
 https://uk.jobrapido.com/jobpreview/704774869513928704|89a1cb4583590be7
+https://uk.jobrapido.com/jobpreview/7059413815577804800|b2189125e92bcdce
 https://uk.jobrapido.com/jobpreview/719857746685460480|953c31d84febdc52
 https://uk.jobrapido.com/jobpreview/7200217824386613248|8ed2e50d948e9425
 https://uk.jobrapido.com/jobpreview/7254862933811789824|3edd1a93f25ed989
@@ -118,7 +119,7 @@ https://uk.jobrapido.com/jobpreview/7540432612083367936|6c82509342352ecc
 https://uk.jobrapido.com/jobpreview/768035047679721472|2b56f6c9b23a4869
 https://uk.jobrapido.com/jobpreview/7882424176210870272|161075d1dc72c1c0
 https://uk.jobrapido.com/jobpreview/790530265310035968|65349a972c545533
-https://uk.jobrapido.com/jobpreview/7912868313154191360|25055cb6d8895f36
+https://uk.jobrapido.com/jobpreview/7912868313154191360|ede41b6b6a08b2b0
 https://uk.jobrapido.com/jobpreview/7946062397398056960|7ccdbc5812821388
 https://uk.jobrapido.com/jobpreview/8043136251789836288|23fdbc346eec522c
 https://uk.jobrapido.com/jobpreview/8115555688232517632|7d25a9b0256eece4
@@ -453,7 +454,7 @@ https://uk.linkedin.com/jobs/view/senior-software-development-test-engineer-at-p
 https://uk.linkedin.com/jobs/view/senior-software-qa-test-development-engineer-at-nvidia-4359313436|c4a842303bc50c05
 https://uk.linkedin.com/jobs/view/senior-software-qa-test-development-engineer-senior-software-qa-test-development-engineer-at-nvidia-4377419275|851f63840f51a922
 https://uk.linkedin.com/jobs/view/senior-software-quality-assurance-engineer-at-eden-scott-4353716476|1dc2bbd9dde11aed
-https://uk.linkedin.com/jobs/view/senior-software-system-test-engineer-validation-verification-at-jlr-4375718319|3f61405ac73911aa
+https://uk.linkedin.com/jobs/view/senior-software-system-test-engineer-validation-verification-at-jlr-4375718319|94f17df7ff143794
 https://uk.linkedin.com/jobs/view/senior-software-test-automation-engineer-at-scg-midlands-4327114543|077577d78963813c
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-cubiq-recruitment-4363266393|59c17378ed046e8b
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-dotmatics-4327865434|6e78732589f49267
@@ -507,7 +508,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-oho-group-ltd-at-jobster-
 https://uk.linkedin.com/jobs/view/senior-test-engineer-williams-racing-at-jobster-4354707490|f7e06dc26c107b79
 https://uk.linkedin.com/jobs/view/senior-test-lead-at-platform-recruitment-4380252934|d43c9cd44c3766a2
 https://uk.linkedin.com/jobs/view/senior-test-lead-at-the-adecco-group-4373351588|765117b8cafd8b6b
-https://uk.linkedin.com/jobs/view/senior-testing-engineer-complex-at-energy-job-search-4381521551|d24fe9cd0ae28d34
+https://uk.linkedin.com/jobs/view/senior-testing-engineer-complex-at-energy-job-search-4381521551|6c67e96e552ba7b1
 https://uk.linkedin.com/jobs/view/server-automation-tester-at-standard-chartered-4376086992|1b52172a9406542e
 https://uk.linkedin.com/jobs/view/service-desk-automation-engineer-at-klipboard-4328657575|ae4412447abd9f4d
 https://uk.linkedin.com/jobs/view/software-automation-engineer-at-owen-daniels-4348882795|4484d7689910b096
@@ -631,7 +632,7 @@ https://uk.linkedin.com/jobs/view/test-lead-operational-technology-poweron-adms-
 https://uk.linkedin.com/jobs/view/test-lead-studentjob-co-uk-at-jobster-4330124478|76bd8d41538ebdf2
 https://uk.linkedin.com/jobs/view/test-means-engineer-at-scalian-4379912037|bb106f967f196aaa
 https://uk.linkedin.com/jobs/view/test-rig-engineer-at-trescal-4362404132|0e8ef14e05b26c6b
-https://uk.linkedin.com/jobs/view/test-run-technician-pat-tester-at-first-response-site-services-ltd-4381256041|57eeab1b743c7243
+https://uk.linkedin.com/jobs/view/test-run-technician-pat-tester-at-first-response-site-services-ltd-4381256041|b42f4da6b246be1f
 https://uk.linkedin.com/jobs/view/test-software-engineer-at-bullhorn-middleware-test-company-4365329510|8ea9184d8f5fc36e
 https://uk.linkedin.com/jobs/view/test-test-at-serco-4369827103|91149c3e42273731
 https://uk.linkedin.com/jobs/view/tester-at-experis-uk-4371251789|5e621cf9ccefbd0c
@@ -765,6 +766,7 @@ https://uk.talent.com/view?id=5ed64925b112|96e79a4beb459d5b
 https://uk.talent.com/view?id=603293914375462841|a56217482a74064c
 https://uk.talent.com/view?id=603322181752461728|753b2e26c859ba01
 https://uk.talent.com/view?id=603451325821951929|e70efbcc30971df5
+https://uk.talent.com/view?id=603602977709561101|f89db1d34f50ae62
 https://uk.talent.com/view?id=603602985996588301|4123df87c39ff6ac
 https://uk.talent.com/view?id=603826057349436685|966b947f7bd71973
 https://uk.talent.com/view?id=605432227963481452|d03540a98f35693d
@@ -822,14 +824,15 @@ https://uk.talent.com/view?id=609233421227526737|e69894389c25568a
 https://uk.talent.com/view?id=609254753098271522|dcf04341176f3991
 https://uk.talent.com/view?id=609255761720969809|b7f8593264d6ab7d
 https://uk.talent.com/view?id=609255770650315345|4fe011a6badc6834
-https://uk.talent.com/view?id=609308046155520544|3881060cf6bb276e
-https://uk.talent.com/view?id=609308277033274146|5853316c14b5d809
+https://uk.talent.com/view?id=609307885316213329|ce73df61e1707427
+https://uk.talent.com/view?id=609308046155520544|83c55316785233e3
+https://uk.talent.com/view?id=609308277033274146|ee61a3cf0d92482f
 https://uk.talent.com/view?id=609308315909032738|b881f4090ec236cc
 https://uk.talent.com/view?id=609308512146431605|8b8431e6cff22218
-https://uk.talent.com/view?id=609417831070239522|2d371356904c1354
-https://uk.talent.com/view?id=609417831492225826|836764f49a69c564
+https://uk.talent.com/view?id=609417831070239522|97468b65debd072f
+https://uk.talent.com/view?id=609417831492225826|3a063860232394a1
 https://uk.talent.com/view?id=609420455083055648|6ce958965333634b
-https://uk.talent.com/view?id=609420472104786464|438ff0b8675ab7f0
+https://uk.talent.com/view?id=609420472104786464|a729893c5fd8948c
 https://uk.talent.com/view?id=609420491727247904|be15699b10ee7b9a
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
