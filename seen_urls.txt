@@ -76,7 +76,7 @@ https://uk.jobrapido.com/jobpreview/5090107427018244096|39343a7c1ff9b926
 https://uk.jobrapido.com/jobpreview/510172186254770176|5e55749b79af772f
 https://uk.jobrapido.com/jobpreview/5181785806053834752|481699b72e032900
 https://uk.jobrapido.com/jobpreview/5212141492440662016|d51037a7890cb496
-https://uk.jobrapido.com/jobpreview/5253096221811146752|c9855b6e1d8175c0
+https://uk.jobrapido.com/jobpreview/5253096221811146752|34170ffd50e1adb6
 https://uk.jobrapido.com/jobpreview/5298671116221415424|ccccad7fea64c16f
 https://uk.jobrapido.com/jobpreview/5362172345131728896|82c6b65669f9df57
 https://uk.jobrapido.com/jobpreview/5395950441848635392|69f206df36d7b324
@@ -344,7 +344,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-sdet-at-mygwork-lgbtq+-business-co
 https://uk.linkedin.com/jobs/view/qa-engineer-servicenow-at-harvey-nash-4365318311|9da4a167cd1be7ed
 https://uk.linkedin.com/jobs/view/qa-engineer-studentjob-co-uk-at-jobster-4367717596|2ddafaf87d29fbd5
 https://uk.linkedin.com/jobs/view/qa-engineer-web-app-d65-integration-sc-cleared-at-pioneer-search-4354715256|b6d3d619c735a2d6
-https://uk.linkedin.com/jobs/view/qa-manual-tester-at-mcs-rental-software-4382920727|73aecaa06caf9c54
+https://uk.linkedin.com/jobs/view/qa-manual-tester-at-mcs-rental-software-4382920727|d713d0ab9a3d63e8
 https://uk.linkedin.com/jobs/view/qa-payments-at-insight-global-4378815393|7baa848ca1fab557
 https://uk.linkedin.com/jobs/view/qa-software-tester-at-bytron-aviation-systems-4372228942|a0fc5379c6c142ba
 https://uk.linkedin.com/jobs/view/qa-test-analyst-at-haystack-4364903516|b0d936613d89fb08
@@ -444,7 +444,7 @@ https://uk.linkedin.com/jobs/view/senior-qa-tester-at-department-for-work-and-pe
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-kinetic-games-4358954740|36b781f80b4025c8
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-albert-bow-4363978540|8df2713dc2dfb908
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-eflow-4361065610|b54953650ef3033c
-https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-gravitas-recruitment-group-global-ltd-4381709384|acbbef6545e85961
+https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-gravitas-recruitment-group-global-ltd-4381709384|1c87717a8eb0c52f
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-mhr-4379900477|ad9a2b02e1b5eaf6
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-spacelabs-healthcare-4370274131|2cff467bf705948c
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-specialist-at-mk-construction-4351150776|e57bb5a7570ed48f
@@ -855,6 +855,7 @@ https://uk.talent.com/view?id=609420472104786464|79ed317af323a11c
 https://uk.talent.com/view?id=609420491727247904|dbd42dee4ef24865
 https://uk.talent.com/view?id=609518120817270389|e1bbff097041d25c
 https://uk.talent.com/view?id=609543431133864290|bd38433d782cf3e9
+https://uk.talent.com/view?id=609662985489353297|f826e58d19e51d66
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
