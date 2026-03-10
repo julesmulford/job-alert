@@ -316,7 +316,7 @@ https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-softcat-4330273757|9
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-tek-tron-it-4341240584|8c85bdd9a6cf1ef6
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-track24-4324689558|78a811ee20fccd92
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-london-stock-exchange-group-at-jobs-via-efinancialcareers-4346657191|f70db5ed825add1e
-https://uk.linkedin.com/jobs/view/qa-automation-engineer-officer-at-state-street-4383367245|aafe47f7ca18cf9a
+https://uk.linkedin.com/jobs/view/qa-automation-engineer-officer-at-state-street-4383367245|369d9d58903db01c
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-on-site-at-insight-international-uk-ltd-4325026085|b354a5572290a238
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-python-pytest-cosmos-db-banking-client-exp-required-vallum-associates-at-jobster-4354477343|9f07fc8ceeadf8ac
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-redrock-resourcing-at-jobster-4359228463|2e3cd3c3a96e239a
@@ -855,7 +855,7 @@ https://uk.talent.com/view?id=609420455083055648|a90516947f647f7a
 https://uk.talent.com/view?id=609420472104786464|79ed317af323a11c
 https://uk.talent.com/view?id=609420491727247904|dbd42dee4ef24865
 https://uk.talent.com/view?id=609518120817270389|e1bbff097041d25c
-https://uk.talent.com/view?id=609518159973195381|07ee540734c7d2a5
+https://uk.talent.com/view?id=609518159973195381|e656a3067c2f973f
 https://uk.talent.com/view?id=609543431133864290|bd38433d782cf3e9
 https://uk.talent.com/view?id=609662985489353297|f826e58d19e51d66
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
@@ -1064,7 +1064,7 @@ https://uk.talent.com/view?id=ffb1c9fa61c8|7bee750ca43f0535
 https://uk.whatjobs.com/jobs/java-sdet?id=364605333|6f4e6b8b9206c7b4
 https://uk.whatjobs.com/jobs/qa-engineer?id=364443368|4b240744e8ae7964
 https://uk.whatjobs.com/jobs/test-engineer?id=364423812|afcee8982a1e55da
-https://www.cybersecurityjobsite.com/job/5510530/automation-test-engineer/|3f70373538772123
+https://www.cybersecurityjobsite.com/job/5510530/automation-test-engineer/|7b6ef0ca2f23b673
 https://www.google.com/url?rct=j&sa=t&url=https://uk.indeed.com/q-software-tester-l-stoke-on-trent-jobs.html%3Fstart%3D10&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw19O_Nm2xkl35IJNoahYIzB|cccc9d5b4f048905
 https://www.google.com/url?rct=j&sa=t&url=https://uk.jooble.org/jdp/-5177900960689959283&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw2NYgRQ2ZsVYKQMEvbl7czI|b364d5754ff2f009
 https://www.google.com/url?rct=j&sa=t&url=https://uk.jooble.org/jdp/195197851374480301&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw3dyHICZoruTy21La4b2Umg|8fd04a30a8505006
