@@ -227,6 +227,7 @@ https://uk.linkedin.com/jobs/view/automation-test-lead-at-experis-uk-4365644466|
 https://uk.linkedin.com/jobs/view/automation-test-lead-at-q1-technologies-inc-4350463464|6008cc1120ebe1cd
 https://uk.linkedin.com/jobs/view/automation-test-lead-it-contractor-at-free-work-uk-4342670153|b730e36d46d03f30
 https://uk.linkedin.com/jobs/view/automation-tester-at-associated-terminals-4343659682|36cd814d9d3880d7
+https://uk.linkedin.com/jobs/view/automation-tester-at-bull-it-solutions-ltd-4383201001|8f341339347f43be
 https://uk.linkedin.com/jobs/view/automation-tester-at-code-first-girls-4379530705|9f909d8f909682a1
 https://uk.linkedin.com/jobs/view/automation-tester-at-cognizant-4377465539|1ad095d808ddcf15
 https://uk.linkedin.com/jobs/view/automation-tester-at-hackajob-4328947455|d3e2794071644f04
@@ -444,6 +445,7 @@ https://uk.linkedin.com/jobs/view/senior-qa-engineer-net-automation-at-wheelrigh
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-python-test-automation-at-client-server-4375833698|86f99cf387dca8cd
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-sports-tech-at-client-server-4373959823|116690d5469e89a1
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-sportsbook-at-sportserve-4369230284|b275f81d8c191d62
+https://uk.linkedin.com/jobs/view/senior-qa-tester-at-clover-4383203683|2ec63e44caf6ced3
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-department-for-work-and-pensions-dwp-4377369600|5075ddaf7fb53d3e
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-kinetic-games-4358954740|36b781f80b4025c8
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-albert-bow-4363978540|8df2713dc2dfb908
@@ -832,7 +834,7 @@ https://uk.talent.com/view?id=608550616475316153|ac9a6cbfcb1bb39a
 https://uk.talent.com/view?id=608743866435634248|7da418b8fbffca3f
 https://uk.talent.com/view?id=608743883931780168|984f02e8126e8c95
 https://uk.talent.com/view?id=608743890293359688|7f9dc1e0400758be
-https://uk.talent.com/view?id=608961332189465370|9f80b96ea636195f
+https://uk.talent.com/view?id=608961332189465370|b71d716cc34f6c62
 https://uk.talent.com/view?id=608989842719516075|32246e3374b8495f
 https://uk.talent.com/view?id=609216791073131170|c9ba8d2db23ef809
 https://uk.talent.com/view?id=609216808076642027|6ec9fa9b2dba2fa9
