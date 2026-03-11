@@ -1,5 +1,5 @@
 https://diversityjobsgroup.com/job/automation-engineer-london-n1c-4ag/|3ea1997904bc9c08
-https://engineering-jobs.theiet.org/job/65627/cni-infrastructure-automation-engineer/|93019dc7ea4a5bdc
+https://engineering-jobs.theiet.org/job/65627/cni-infrastructure-automation-engineer/|f8b661f1528d2418
 https://franklandautomation.com/jobs/5105-systems-integration-senior-automation-engineer-2-birmingham-uk|5f436a706217e6fc
 https://gb.bebee.com/job/313993202f8a76c12224505ea0f4bee2|3373eedd80b25e80
 https://gb.bebee.com/job/8281f5875ad02f4d2723588bb570cee2|cb38e20712b34601
@@ -364,7 +364,7 @@ https://uk.linkedin.com/jobs/view/qa-tester-ftc-till-june-at-supermassive-games-
 https://uk.linkedin.com/jobs/view/qa-tester-mobile-app-and-firmware-manual-testing-role-at-botz-innovation-4351274551|bf6eee9db1f6b4f4
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4338654888|39955294fa06f4f9
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4339450297|0f2676ee91a465a0
-https://uk.linkedin.com/jobs/view/qa-testing-engineer-fintech-saas-game-changer-hybrid-remote-at-debt-register-4383755794|a7122b923297c6c4
+https://uk.linkedin.com/jobs/view/qa-testing-engineer-fintech-saas-game-changer-hybrid-remote-at-debt-register-4383755794|b44a505fee330a44
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-ixceed-solutions-4380935594|334482ced3da8b6f
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-spectrum-it-recruitment-4354880550|024ee70e586a60d6
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-id44635-at-humand-talent-4354243772|94260ce3429e6686
@@ -423,6 +423,7 @@ https://uk.linkedin.com/jobs/view/senior-dft-engineer-at-arm-4329674368|dff91769
 https://uk.linkedin.com/jobs/view/senior-electronics-test-engineer-at-microchip-technology-inc-4371297311|494621fd5325f43d
 https://uk.linkedin.com/jobs/view/senior-engineer-automation-at-scopely-4371616133|6039efb685e51aa5
 https://uk.linkedin.com/jobs/view/senior-engineer-in-test-at-halos-body-cameras-4370828845|27e9b96107eafb76
+https://uk.linkedin.com/jobs/view/senior-engineer-test-release-at-hackajob-4382425239|ecb02a09aa9bae68
 https://uk.linkedin.com/jobs/view/senior-etl-test-engineer-at-w-talent-4354659160|d97b0fe2aab744cc
 https://uk.linkedin.com/jobs/view/senior-field-test-engineer-at-pc-help-a-s-4354678812|9caa60a57be5af7b
 https://uk.linkedin.com/jobs/view/senior-field-test-engineer-at-pc-help-a-s-4374190086|e943f32f1cbfca84
