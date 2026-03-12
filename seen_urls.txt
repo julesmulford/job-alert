@@ -39,6 +39,7 @@ https://uk.jobrapido.com/jobpreview/2369601036366118912|b617dfe4971fc81a
 https://uk.jobrapido.com/jobpreview/2409551928800313344|e29be7c67f290efd
 https://uk.jobrapido.com/jobpreview/2453792703289229312|97bb4cde131bd9cf
 https://uk.jobrapido.com/jobpreview/2476180787255312384|60e17fcebd5320c7
+https://uk.jobrapido.com/jobpreview/2561643764498038784|428df22d365da24b
 https://uk.jobrapido.com/jobpreview/2572252264999682048|7b672033bf11dc9a
 https://uk.jobrapido.com/jobpreview/2642825088843382784|1773c0180304ca9a
 https://uk.jobrapido.com/jobpreview/2681833888791134208|81d384daa8ed2ec2
@@ -329,7 +330,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-at-hid-4373953970|63a9432141f21c9b
 https://uk.linkedin.com/jobs/view/qa-engineer-at-hirenza-4381940293|0727e077eea4d7be
 https://uk.linkedin.com/jobs/view/qa-engineer-at-io-associates-4368786425|b92e6b104a8b4e2f
 https://uk.linkedin.com/jobs/view/qa-engineer-at-ldms-4373929610|eedaccf95ecbfe1f
-https://uk.linkedin.com/jobs/view/qa-engineer-at-lyon-s-a-bit-creative-4384522554|0b4529a9a5fce595
+https://uk.linkedin.com/jobs/view/qa-engineer-at-lyon-s-a-bit-creative-4384522554|df29a0aa3319fbe5
 https://uk.linkedin.com/jobs/view/qa-engineer-at-person-centred-software-ltd-4376751447|6bc0c8359f292f52
 https://uk.linkedin.com/jobs/view/qa-engineer-at-radius-4377861129|575daf99b84b2976
 https://uk.linkedin.com/jobs/view/qa-engineer-at-robert-walters-4365270219|5f0c9ba0b2881b71
@@ -479,7 +480,7 @@ https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-hackajob-4329
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-synergize-consulting-4348876811|e4f77cf02e1ac09e
 https://uk.linkedin.com/jobs/view/senior-software-tester-at-srt-marine-systems-plc-4382125455|7eada4966dd022db
 https://uk.linkedin.com/jobs/view/senior-software-tester-g-digital-at-jobster-4360104519|e95b51736df7aa61
-https://uk.linkedin.com/jobs/view/senior-software-tester-m-f-d-at-tgw-northern-europe-4382708711|6cb8c0e6ce5b0f78
+https://uk.linkedin.com/jobs/view/senior-software-tester-m-f-d-at-tgw-northern-europe-4382708711|e9473e42cbead067
 https://uk.linkedin.com/jobs/view/senior-systems-test-engineer-at-hitachi-energy-4362069282|cfd7ed76f68ab9d8
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-head-resourcing-4362221512|c367cc5a22465d8f
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-premier-group-4342574183|9fc6f65253428ec6
@@ -866,6 +867,8 @@ https://uk.talent.com/view?id=609518120817270389|e1bbff097041d25c
 https://uk.talent.com/view?id=609518159973195381|e656a3067c2f973f
 https://uk.talent.com/view?id=609543431133864290|bd38433d782cf3e9
 https://uk.talent.com/view?id=609662985489353297|f826e58d19e51d66
+https://uk.talent.com/view?id=609663004616367733|8de2b34bbcea8cf2
+https://uk.talent.com/view?id=609663007170955857|22f238fe408103e6
 https://uk.talent.com/view?id=609959858174035987|a1b97da96e1bb143
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
