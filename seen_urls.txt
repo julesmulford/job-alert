@@ -51,7 +51,7 @@ https://uk.jobrapido.com/jobpreview/2879434235884601344|7cb24f8e14d52db4
 https://uk.jobrapido.com/jobpreview/2973001438457757696|db31df661a42f043
 https://uk.jobrapido.com/jobpreview/3080041841769316352|248313265f503d1b
 https://uk.jobrapido.com/jobpreview/3164817254877495296|0ed8f2bd9e460064
-https://uk.jobrapido.com/jobpreview/3290058673027547136|867761c260aa0fb3
+https://uk.jobrapido.com/jobpreview/3290058673027547136|12a0b360a23995e6
 https://uk.jobrapido.com/jobpreview/3426631314416074752|2ac0cd370e0ca790
 https://uk.jobrapido.com/jobpreview/3462189297120051200|9326c2700a1745c9
 https://uk.jobrapido.com/jobpreview/3509568644730322944|60e7ddaf5f5145f4
@@ -210,7 +210,7 @@ https://uk.linkedin.com/jobs/view/automation-engineer-at-self-employed-434337855
 https://uk.linkedin.com/jobs/view/automation-engineer-at-the-craneware-group-4354226833|a25d55e039f7afb9
 https://uk.linkedin.com/jobs/view/automation-engineer-at-wipro-4371960811|2da1f86f41404c7b
 https://uk.linkedin.com/jobs/view/automation-engineer-fea-at-capgemini-engineering-4327805525|81515acb516bc0e2
-https://uk.linkedin.com/jobs/view/automation-engineer-infrastructure-at-wiraa-4384801433|5c44c750796d8280
+https://uk.linkedin.com/jobs/view/automation-engineer-infrastructure-at-wiraa-4384801433|dc0533a252653343
 https://uk.linkedin.com/jobs/view/automation-engineer-microsoft-powerapps-microsoft-power-automate-azure-financial-services-investment-management-at-psd-group-4372245084|f1554874bd757eec
 https://uk.linkedin.com/jobs/view/automation-engineer-rme-at-amazon-4361665708|30015ebb4763a27b
 https://uk.linkedin.com/jobs/view/automation-intern-at-10x-media-4354450549|4298841c0f9e9f67
@@ -218,7 +218,7 @@ https://uk.linkedin.com/jobs/view/automation-qa-engineer-oracle-at-coinmarketcap
 https://uk.linkedin.com/jobs/view/automation-test-analyst-at-eden-scott-4361848575|61998bda0aba44b1
 https://uk.linkedin.com/jobs/view/automation-test-analyst-at-paritas-recruitment-4355906380|0feb98c60da0f27c
 https://uk.linkedin.com/jobs/view/automation-test-analyst-studentjob-co-uk-at-jobster-4367740133|f8757f24b5c8f272
-https://uk.linkedin.com/jobs/view/automation-test-architect-at-dxc-technology-4383975166|e9b8378b260931c3
+https://uk.linkedin.com/jobs/view/automation-test-architect-at-dxc-technology-4383975166|8b6f7fdeb6e2562b
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-amber-labs-4369132371|dcf50af6ecd575b4
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-cgi-4378007828|e856eaa8afe68fda
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-datacareers-4375233527|034a4c90424033e5
@@ -550,6 +550,7 @@ https://uk.linkedin.com/jobs/view/software-test-engineer-at-explore-group-435014
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-ic-resources-4359453757|17b23602836072a5
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-motorola-solutions-4378021573|6ff98973b9e84f3b
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-pearson-carter-4369497007|a3658eb849249364
+https://uk.linkedin.com/jobs/view/software-test-engineer-at-succession-wealth-4385182089|60ab63343623457d
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-the-one-group-ltd-4352574775|5b75e7c529e8dc81
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-tiger-resourcing-group-4374287691|f415df85fcbf230d
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-tst-group-4339364094|77e2528712aef090
@@ -599,6 +600,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-accelero-4371830484|1ea510538
 https://uk.linkedin.com/jobs/view/test-engineer-at-actuation-lab-4344746482|1723be821d3dbb37
 https://uk.linkedin.com/jobs/view/test-engineer-at-aga-rangemaster-ltd-4371639411|66584d8ae5d44de4
 https://uk.linkedin.com/jobs/view/test-engineer-at-anson-mccade-4325377562|2b7a96d89b872bbb
+https://uk.linkedin.com/jobs/view/test-engineer-at-arrive-4383955561|eabf81a5e3a0d442
 https://uk.linkedin.com/jobs/view/test-engineer-at-avance-consulting-4372842326|cab0f3b924095ec5
 https://uk.linkedin.com/jobs/view/test-engineer-at-bmr-solutions-ltd-4352255198|787fc4ed0b6ddeb7
 https://uk.linkedin.com/jobs/view/test-engineer-at-bms-performance-4370250406|9a28041166b88800
@@ -874,6 +876,7 @@ https://uk.talent.com/view?id=609662985489353297|f826e58d19e51d66
 https://uk.talent.com/view?id=609663004616367733|8de2b34bbcea8cf2
 https://uk.talent.com/view?id=609663007170955857|22f238fe408103e6
 https://uk.talent.com/view?id=609959858174035987|a1b97da96e1bb143
+https://uk.talent.com/view?id=610108342647783692|55ec6b013c9af2b6
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
