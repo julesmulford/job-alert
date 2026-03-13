@@ -195,7 +195,7 @@ https://uk.linkedin.com/jobs/view/automation-assurance-engineer-at-stealth-it-co
 https://uk.linkedin.com/jobs/view/automation-developer-at-ninetech-4370966107|aea4c49e837f9759
 https://uk.linkedin.com/jobs/view/automation-developer-at-np-group-4373126448|abc5d5b999d9f2f3
 https://uk.linkedin.com/jobs/view/automation-engineer-at-aberdeen-4346252000|399e4354887b23ce
-https://uk.linkedin.com/jobs/view/automation-engineer-at-amazon-4385172061|3cc0808f87e48ba6
+https://uk.linkedin.com/jobs/view/automation-engineer-at-amazon-4385172061|6039ecf9a0a7d174
 https://uk.linkedin.com/jobs/view/automation-engineer-at-catalent-4369628219|7d0f1fb70112c95e
 https://uk.linkedin.com/jobs/view/automation-engineer-at-cbsbutler-4371842378|da30539f229266ee
 https://uk.linkedin.com/jobs/view/automation-engineer-at-census-ex-forces-recruitment-ltd-4348864043|bac3d74efe35182f
@@ -318,6 +318,7 @@ https://uk.linkedin.com/jobs/view/principal-test-engineer-at-hackajob-4329216868
 https://uk.linkedin.com/jobs/view/product-test-engineer-luxury-audio-at-harman-international-4351011419|2d0a56c30be833f4
 https://uk.linkedin.com/jobs/view/qa-analyst-at-hackajob-4378266775|db75b839a6723228
 https://uk.linkedin.com/jobs/view/qa-analyst-studentjob-co-uk-at-jobster-4367723252|05255b7de71d0a41
+https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-harnham-4384247834|9d3494192c54fa12
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-redrock-resourcing-4381042072|332c757d98dff09c
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-sage-4337158436|091c0ef1c56bf02c
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-softcat-4330273757|947e2786e6a7b929
@@ -373,8 +374,8 @@ https://uk.linkedin.com/jobs/view/qa-tester-mobile-app-and-firmware-manual-testi
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4338654888|39955294fa06f4f9
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4339450297|0f2676ee91a465a0
 https://uk.linkedin.com/jobs/view/qa-testing-engineer-fintech-saas-game-changer-hybrid-remote-at-debt-register-4383755794|b44a505fee330a44
-https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-ampstek-4384246751|d490d7f7cd661441
-https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-develop-4383098142|e717fe71767b8646
+https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-ampstek-4384246751|bc33f9e9516b242c
+https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-develop-4383098142|e217092a148c1aa0
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-ixceed-solutions-4380935594|334482ced3da8b6f
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-spectrum-it-recruitment-4354880550|024ee70e586a60d6
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-id44635-at-humand-talent-4354243772|94260ce3429e6686
@@ -409,7 +410,7 @@ https://uk.linkedin.com/jobs/view/sap-test-lead-at-testq-technologies-4345646156
 https://uk.linkedin.com/jobs/view/sdet-at-techshack-4359410354|cfde93afeb07d39f
 https://uk.linkedin.com/jobs/view/sdet-at-xcede-4325820951|5d46d56bc466b04d
 https://uk.linkedin.com/jobs/view/sdet-engineer-at-clearroute-4369294926|c0cc81cf38c49f9f
-https://uk.linkedin.com/jobs/view/sdet-wallet-platform-at-jobgether-4385351605|83460d78aa94e079
+https://uk.linkedin.com/jobs/view/sdet-wallet-platform-at-jobgether-4385351605|ca6ac1402bf4dccb
 https://uk.linkedin.com/jobs/view/senior-ai-automation-engineer-at-binnies-4359407906|ead0980efac05468
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-kainos-4345647757|d20f9b074a651b7c
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-n-able-4347590980|be238205d7350d0c
@@ -552,7 +553,7 @@ https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-michael
 https://uk.linkedin.com/jobs/view/software-quality-assurance-tester-at-davanti-recruitment-ltd-4368640262|de7c19afff1d2d35
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-explore-group-4350146205|90039330509a4368
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-ic-resources-4359453757|17b23602836072a5
-https://uk.linkedin.com/jobs/view/software-test-engineer-at-mac-recruit-group-ltd-4385508006|14b5810422a7f1ad
+https://uk.linkedin.com/jobs/view/software-test-engineer-at-mac-recruit-group-ltd-4385508006|8470294925dc5422
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-motorola-solutions-4378021573|6ff98973b9e84f3b
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-pearson-carter-4369497007|a3658eb849249364
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-succession-wealth-4385182089|895f5b97a729b6a5
@@ -780,7 +781,7 @@ https://uk.talent.com/view?id=4dd61d827662|ff9e8ecbffe6faf9
 https://uk.talent.com/view?id=50165283f930|6f953d701e8b1fe7
 https://uk.talent.com/view?id=529e0f49fdc0|0cdb74392b4be565
 https://uk.talent.com/view?id=52beca3edd69|3a88875b1a1c4c34
-https://uk.talent.com/view?id=534433852433827814|a245981b1c1cb169
+https://uk.talent.com/view?id=534433852433827814|37f721f1f27939fd
 https://uk.talent.com/view?id=53d51fc22999|1d2775062d9c9e37
 https://uk.talent.com/view?id=545db132f5fb|95b47627007d3d0f
 https://uk.talent.com/view?id=546f1ee3a765|223bfad73e6c5909
