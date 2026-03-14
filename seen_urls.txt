@@ -318,7 +318,7 @@ https://uk.linkedin.com/jobs/view/principal-test-engineer-at-hackajob-4329216868
 https://uk.linkedin.com/jobs/view/product-test-engineer-luxury-audio-at-harman-international-4351011419|2d0a56c30be833f4
 https://uk.linkedin.com/jobs/view/qa-analyst-at-hackajob-4378266775|db75b839a6723228
 https://uk.linkedin.com/jobs/view/qa-analyst-studentjob-co-uk-at-jobster-4367723252|05255b7de71d0a41
-https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-harnham-4384247834|356386eb71ffccf9
+https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-harnham-4384247834|9cd4d2b685993d55
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-redrock-resourcing-4381042072|332c757d98dff09c
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-sage-4337158436|091c0ef1c56bf02c
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-softcat-4330273757|947e2786e6a7b929
@@ -374,7 +374,7 @@ https://uk.linkedin.com/jobs/view/qa-tester-mobile-app-and-firmware-manual-testi
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4338654888|39955294fa06f4f9
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4339450297|0f2676ee91a465a0
 https://uk.linkedin.com/jobs/view/qa-testing-engineer-fintech-saas-game-changer-hybrid-remote-at-debt-register-4383755794|b44a505fee330a44
-https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-ampstek-4384246751|a980a5e24b80a0b8
+https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-ampstek-4384246751|1022bad25b4285a0
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-develop-4383098142|e217092a148c1aa0
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-ixceed-solutions-4380935594|334482ced3da8b6f
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-spectrum-it-recruitment-4354880550|024ee70e586a60d6
@@ -553,10 +553,10 @@ https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-michael
 https://uk.linkedin.com/jobs/view/software-quality-assurance-tester-at-davanti-recruitment-ltd-4368640262|de7c19afff1d2d35
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-explore-group-4350146205|90039330509a4368
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-ic-resources-4359453757|17b23602836072a5
-https://uk.linkedin.com/jobs/view/software-test-engineer-at-mac-recruit-group-ltd-4385508006|b50c8f10cfef96c6
+https://uk.linkedin.com/jobs/view/software-test-engineer-at-mac-recruit-group-ltd-4385508006|21f15aca31582afd
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-motorola-solutions-4378021573|6ff98973b9e84f3b
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-pearson-carter-4369497007|a3658eb849249364
-https://uk.linkedin.com/jobs/view/software-test-engineer-at-sii-group-uk-4384237536|0999041a0fa575f5
+https://uk.linkedin.com/jobs/view/software-test-engineer-at-sii-group-uk-4384237536|1a6acf9bb5c47bcf
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-succession-wealth-4385182089|895f5b97a729b6a5
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-the-one-group-ltd-4352574775|5b75e7c529e8dc81
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-tiger-resourcing-group-4374287691|f415df85fcbf230d
@@ -782,7 +782,7 @@ https://uk.talent.com/view?id=4dd61d827662|ff9e8ecbffe6faf9
 https://uk.talent.com/view?id=50165283f930|6f953d701e8b1fe7
 https://uk.talent.com/view?id=529e0f49fdc0|0cdb74392b4be565
 https://uk.talent.com/view?id=52beca3edd69|3a88875b1a1c4c34
-https://uk.talent.com/view?id=534433852433827814|0f092c9f7ee1011d
+https://uk.talent.com/view?id=534433852433827814|37f721f1f27939fd
 https://uk.talent.com/view?id=53d51fc22999|1d2775062d9c9e37
 https://uk.talent.com/view?id=545db132f5fb|95b47627007d3d0f
 https://uk.talent.com/view?id=546f1ee3a765|223bfad73e6c5909
@@ -881,7 +881,7 @@ https://uk.talent.com/view?id=609518120817270389|e1bbff097041d25c
 https://uk.talent.com/view?id=609518159973195381|e656a3067c2f973f
 https://uk.talent.com/view?id=609543431133864290|bd38433d782cf3e9
 https://uk.talent.com/view?id=609656454031280930|96dffe7d0c03d739
-https://uk.talent.com/view?id=609662977389829749|1af251a11efb02bb
+https://uk.talent.com/view?id=609662977389829749|28319325bdf086f5
 https://uk.talent.com/view?id=609662985489353297|f826e58d19e51d66
 https://uk.talent.com/view?id=609663004616367733|8de2b34bbcea8cf2
 https://uk.talent.com/view?id=609663007170955857|22f238fe408103e6
