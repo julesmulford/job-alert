@@ -1,4 +1,4 @@
-https://careers.kainos.com/gb/en/job/JR_17467/Senior-Test-Engineer|97268a74bf7c014f
+https://careers.kainos.com/gb/en/job/JR_17467/Senior-Test-Engineer|27d0791d204b83d6
 https://diversityjobsgroup.com/job/automation-engineer-london-n1c-4ag/|3ea1997904bc9c08
 https://engineering-jobs.theiet.org/job/65627/cni-infrastructure-automation-engineer/|f8b661f1528d2418
 https://franklandautomation.com/jobs/5105-systems-integration-senior-automation-engineer-2-birmingham-uk|5f436a706217e6fc
@@ -182,7 +182,7 @@ https://uk.linkedin.com/jobs/view/affiliate-software-engineer-in-test-at-and-dig
 https://uk.linkedin.com/jobs/view/ai-and-automation-engineer-agentops-at-bet365-4370956672|2e99240f47e9d9a6
 https://uk.linkedin.com/jobs/view/ai-artificial-intelligence-test-automation-engineer-at-de-mare-consulting-4360757332|5e1f8d0e647d8a8d
 https://uk.linkedin.com/jobs/view/ai-assistant-user-tester-at-taskify-ai-4339868441|88204efb30fd0b5c
-https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-fatsoma-4384667689|bfc785e08f2b34ee
+https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-fatsoma-4384667689|908309b37c400bfe
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-hackajob-4324082996|80da2bbf8cace59e
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-kennedypearce-consulting-4345851075|76be3af28a108a33
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-besque-at-jobster-4321426547|9fc06ef842bced82
