@@ -34,7 +34,7 @@ https://uk.jobrapido.com/jobpreview/1636588812022841344|9713de3b85255fd7
 https://uk.jobrapido.com/jobpreview/1757864343271112704|066d9807a35b5023
 https://uk.jobrapido.com/jobpreview/1772485683257016320|f7a486373a9729ae
 https://uk.jobrapido.com/jobpreview/186231459139289088|01385b8b1a60dc52
-https://uk.jobrapido.com/jobpreview/1946620047032057856|f90c40274bf4b785
+https://uk.jobrapido.com/jobpreview/1946620047032057856|55b75216e1e97f5b
 https://uk.jobrapido.com/jobpreview/1992342860116000768|9a8b0f7ed36d95ca
 https://uk.jobrapido.com/jobpreview/2037248495542337536|f770c9ba6bd33b19
 https://uk.jobrapido.com/jobpreview/2269660858239942656|3795b969ae569902
@@ -107,7 +107,7 @@ https://uk.jobrapido.com/jobpreview/6195731901358014464|5332a1e01df1ef52
 https://uk.jobrapido.com/jobpreview/62722012321153024|293e21eed6615fb5
 https://uk.jobrapido.com/jobpreview/6366640899312582656|8f2df5cd09b2e6cb
 https://uk.jobrapido.com/jobpreview/6369601798226837504|f0167a7c4bab1809
-https://uk.jobrapido.com/jobpreview/6495685029966905344|2004f1b5f64f0289
+https://uk.jobrapido.com/jobpreview/6495685029966905344|d83e29c899309338
 https://uk.jobrapido.com/jobpreview/6583334283002249216|122599447a6286a9
 https://uk.jobrapido.com/jobpreview/6608405716505985024|eebb854a03856518
 https://uk.jobrapido.com/jobpreview/6617923406983593984|de72dd496ca84547
@@ -189,7 +189,7 @@ https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-hackajob-4324082996|
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-kennedypearce-consulting-4345851075|76be3af28a108a33
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-besque-at-jobster-4321426547|9fc06ef842bced82
 https://uk.linkedin.com/jobs/view/ai-automation-specialist-contract-at-aurea-ai-solutions-4381272478|24dcf5e639d64384
-https://uk.linkedin.com/jobs/view/ai-red-team-tester-at-alignerr-4386060740|71cc393098305eee
+https://uk.linkedin.com/jobs/view/ai-red-team-tester-at-alignerr-4386060740|2552cf19ee05a95c
 https://uk.linkedin.com/jobs/view/ai-test-automation-engineer-at-sthree-4350705806|649ad18633d5ec5b
 https://uk.linkedin.com/jobs/view/app-tester-uk-residents-at-testvox-4330053414|2f9ff29ee5acf29c
 https://uk.linkedin.com/jobs/view/application-security-test-engineer-at-oxford-nanopore-technologies-4332253976|2b7ef111629ddcd0
