@@ -572,6 +572,7 @@ https://uk.linkedin.com/jobs/view/software-engineer-in-test-balance-talent-at-jo
 https://uk.linkedin.com/jobs/view/software-qa-engineer-at-spectrum-it-recruitment-4372841788|711f16ed55cb0718
 https://uk.linkedin.com/jobs/view/software-qa-fruition-group-at-jobster-4360161348|01781b0cf46ef3b9
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-michael-james-associates-4329040513|3934a53764eda1b8
+https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-nuclera-4386735718|a7ef651c447512b4
 https://uk.linkedin.com/jobs/view/software-quality-assurance-tester-at-davanti-recruitment-ltd-4368640262|de7c19afff1d2d35
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-explore-group-4350146205|90039330509a4368
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-ic-resources-4359453757|17b23602836072a5
@@ -1147,7 +1148,7 @@ https://www.jobsgopublic.com/job/systems-test-engineer-42031|e7fa5e24d0f6f187
 https://www.jobsgopublic.com/job/test-engineer-42038|c25171f4def6acd0
 https://www.jobsgopublic.com/job/test-engineer-44451|c711b8352b522ead
 https://www.jobsinwales.com/jobs-in-bassaleg/test-engineer_1430130?region=south|37705c64e5734de4
-https://www.jobsinwales.com/jobs-in-gorseinon/automation-engineer_1442968?region=south|179ad2298ed64a88
+https://www.jobsinwales.com/jobs-in-gorseinon/automation-engineer_1442968?region=south|a3ba40c94be1e6de
 https://www.jobsinwales.com/jobs-in-lampeter/automation-engineer_1438071?region=south|7cf624a34af9c7b4
 https://www.jobsinwales.com/jobs-in-newport/test-engineer_1436124?region=south|87bc691339b70c1a
 https://www.jobsinwales.com/jobs-in-pontyclun/test-engineer_1429672?region=south|8114375f873427c5
