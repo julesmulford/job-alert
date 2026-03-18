@@ -304,7 +304,7 @@ https://uk.linkedin.com/jobs/view/lead-automation-test-architect-at-cipher-talen
 https://uk.linkedin.com/jobs/view/lead-automation-test-engineer-playwright-at-cyberim-4379237217|da370802fbf7716e
 https://uk.linkedin.com/jobs/view/lead-qa-engineer-automation-at-nudge-4360957717|209b254038dbd7de
 https://uk.linkedin.com/jobs/view/lead-salesforce-test-engineer-at-axa-health-4346833034|a121a621cdfe48bb
-https://uk.linkedin.com/jobs/view/lead-software-test-engineer-at-edwards-vacuum-4386265396|ce1b432940d1f9d7
+https://uk.linkedin.com/jobs/view/lead-software-test-engineer-at-edwards-vacuum-4386265396|afa3f088a8a6e338
 https://uk.linkedin.com/jobs/view/lead-test-engineer-at-dwp-digital-4343452622|51516104c77510d8
 https://uk.linkedin.com/jobs/view/lead-test-engineer-at-public-sector-resourcing-4351224757|b708631322123882
 https://uk.linkedin.com/jobs/view/lead-test-engineer-cure-talent-at-jobster-4360241165|ab48bc6f5cb02c8a
@@ -533,7 +533,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-companies-house-435071
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-diversejobsmatter-4343531379|1c7f217dd918b093
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-dwp-digital-4378785384|89e5a5b58834fc50
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-eclectic-recruitment-ltd-4350658842|7e34576cdebd2678
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-edwards-vacuum-4386254586|0a2f25e5c94bc12a
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-edwards-vacuum-4386254586|5ea422e4ff5dd7c7
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-free-work-uk-4342510829|620dfa58431adae2
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-free-work-uk-4365119530|386d7fb03bb13ad5
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-fsp-4373559448|0054670c5b200c76
