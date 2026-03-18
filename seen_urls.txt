@@ -119,6 +119,7 @@ https://uk.jobrapido.com/jobpreview/6731193514329112576|337eba8a544a2f5b
 https://uk.jobrapido.com/jobpreview/6789185915106361344|396d60936ad920da
 https://uk.jobrapido.com/jobpreview/67916517567627264|901d4d4e950dfc72
 https://uk.jobrapido.com/jobpreview/6815194484704280576|6d37cb92acb02667
+https://uk.jobrapido.com/jobpreview/6836221648153083904|fa9f2c6d0094e617
 https://uk.jobrapido.com/jobpreview/6923649718962618368|da84d4a0bee82ebd
 https://uk.jobrapido.com/jobpreview/7010613297649025024|4002436b8aca4e62
 https://uk.jobrapido.com/jobpreview/7012894268880584704|f3eeab175d1f4eed
@@ -663,7 +664,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-la-fosse-4362021163|2aa01c2d0
 https://uk.linkedin.com/jobs/view/test-engineer-at-la-fosse-4376062563|5df60c5c1087f70a
 https://uk.linkedin.com/jobs/view/test-engineer-at-luxoft-4370535017|1e356c7503cdea8b
 https://uk.linkedin.com/jobs/view/test-engineer-at-nhs-4344984973|43bdc87c9ebc6e28
-https://uk.linkedin.com/jobs/view/test-engineer-at-north-scout-4386854950|f394b649dcb32013
+https://uk.linkedin.com/jobs/view/test-engineer-at-north-scout-4386854950|1baafd8d61c19255
 https://uk.linkedin.com/jobs/view/test-engineer-at-oho-group-ltd-4325583001|fc6f061b72f0f66f
 https://uk.linkedin.com/jobs/view/test-engineer-at-oxford-instruments-plc-4354369275|29bac4a361d6d5a2
 https://uk.linkedin.com/jobs/view/test-engineer-at-progressive-4377772765|10524d8d610eeb04
