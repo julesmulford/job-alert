@@ -105,6 +105,7 @@ https://uk.jobrapido.com/jobpreview/5655419036926738432|8c7280acdfb29b10
 https://uk.jobrapido.com/jobpreview/5750244286960500736|20e6cb1100caeec2
 https://uk.jobrapido.com/jobpreview/5809896022582755328|9a36724afa375f09
 https://uk.jobrapido.com/jobpreview/5853751143368228864|fa7d0a062ac46088
+https://uk.jobrapido.com/jobpreview/5958411146955325440|ee72c52df8ce7672
 https://uk.jobrapido.com/jobpreview/6128130885645500416|6fdf4a40b7742657
 https://uk.jobrapido.com/jobpreview/6173355877660098560|47996ea65031e2c6
 https://uk.jobrapido.com/jobpreview/6195731901358014464|5332a1e01df1ef52
@@ -119,7 +120,7 @@ https://uk.jobrapido.com/jobpreview/6731193514329112576|337eba8a544a2f5b
 https://uk.jobrapido.com/jobpreview/6789185915106361344|396d60936ad920da
 https://uk.jobrapido.com/jobpreview/67916517567627264|901d4d4e950dfc72
 https://uk.jobrapido.com/jobpreview/6815194484704280576|6d37cb92acb02667
-https://uk.jobrapido.com/jobpreview/6836221648153083904|48a81b25b5f21312
+https://uk.jobrapido.com/jobpreview/6836221648153083904|62b76f7db860c80c
 https://uk.jobrapido.com/jobpreview/6923649718962618368|da84d4a0bee82ebd
 https://uk.jobrapido.com/jobpreview/7010613297649025024|4002436b8aca4e62
 https://uk.jobrapido.com/jobpreview/7012894268880584704|f3eeab175d1f4eed
@@ -380,6 +381,7 @@ https://uk.linkedin.com/jobs/view/qa-software-tester-at-bytron-aviation-systems-
 https://uk.linkedin.com/jobs/view/qa-test-analyst-at-haystack-4364903516|b0d936613d89fb08
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-dine-4358754863?position=34&pageNum=0&refId=82jCfizjECYS02Im/WtfeQ==&trackingId=g2GFRa6Ry42KihTL0xDURQ==|39491eda9bc42633
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-elsevier-4384057753|24b5d47158d2881a
+https://uk.linkedin.com/jobs/view/qa-test-engineer-at-io-associates-4386884897|ec162521c5855b84
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-pogust-goodhead-4376058492|b3d4dc132b87ee14
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-techshack-4349323829|2b3f492655cf3cbd
 https://uk.linkedin.com/jobs/view/qa-test-engineer-manual-automation-at-project-people-4375505250|210eda17560cc2c5
@@ -460,7 +462,7 @@ https://uk.linkedin.com/jobs/view/senior-engineer-test-release-at-hackajob-43824
 https://uk.linkedin.com/jobs/view/senior-etl-test-engineer-at-w-talent-4354659160|d97b0fe2aab744cc
 https://uk.linkedin.com/jobs/view/senior-field-test-engineer-at-pc-help-a-s-4354678812|9caa60a57be5af7b
 https://uk.linkedin.com/jobs/view/senior-field-test-engineer-at-pc-help-a-s-4374190086|e943f32f1cbfca84
-https://uk.linkedin.com/jobs/view/senior-functional-test-engineer-at-oho-group-4386888271|8399e92b646aafb1
+https://uk.linkedin.com/jobs/view/senior-functional-test-engineer-at-oho-group-4386888271|e5a734b23a6ed187
 https://uk.linkedin.com/jobs/view/senior-intelligent-automation-engineer-at-ciklum-4349455288|b9e216a3e121562a
 https://uk.linkedin.com/jobs/view/senior-intelligent-automation-qa-engineer-uipath-outside-ir35-fully-remote-gambling-client-at-urban-connect-4373144061|fd7bbbf1456b114b
 https://uk.linkedin.com/jobs/view/senior-manufacturing-test-engineer-at-siemens-4329866510|1c4ef1fe4696bb05
@@ -665,7 +667,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-la-fosse-4362021163|2aa01c2d0
 https://uk.linkedin.com/jobs/view/test-engineer-at-la-fosse-4376062563|5df60c5c1087f70a
 https://uk.linkedin.com/jobs/view/test-engineer-at-luxoft-4370535017|1e356c7503cdea8b
 https://uk.linkedin.com/jobs/view/test-engineer-at-nhs-4344984973|43bdc87c9ebc6e28
-https://uk.linkedin.com/jobs/view/test-engineer-at-north-scout-4386854950|6f62891c3a1ceec9
+https://uk.linkedin.com/jobs/view/test-engineer-at-north-scout-4386854950|523769681554708c
 https://uk.linkedin.com/jobs/view/test-engineer-at-oho-group-ltd-4325583001|fc6f061b72f0f66f
 https://uk.linkedin.com/jobs/view/test-engineer-at-oxford-instruments-plc-4354369275|29bac4a361d6d5a2
 https://uk.linkedin.com/jobs/view/test-engineer-at-progressive-4377772765|10524d8d610eeb04
