@@ -389,6 +389,7 @@ https://uk.linkedin.com/jobs/view/qa-test-engineer-at-pogust-goodhead-4376058492
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-techshack-4349323829|2b3f492655cf3cbd
 https://uk.linkedin.com/jobs/view/qa-test-engineer-manual-automation-at-project-people-4375505250|210eda17560cc2c5
 https://uk.linkedin.com/jobs/view/qa-tester-at-dwp-digital-4379913421|f44629cbea3e1de3
+https://uk.linkedin.com/jobs/view/qa-tester-at-hyra-4388581776|9acd6c4d40b18ce5
 https://uk.linkedin.com/jobs/view/qa-tester-at-io-associates-4380475808|8fc9914ac5d1615e
 https://uk.linkedin.com/jobs/view/qa-tester-at-light-wonder-4377181769|97d3465735bb399b
 https://uk.linkedin.com/jobs/view/qa-tester-at-tekton-billing-4346850509|91f6269b04830d2f
@@ -431,6 +432,7 @@ https://uk.linkedin.com/jobs/view/robotics-manufacturing-and-test-engineer-at-pa
 https://uk.linkedin.com/jobs/view/sac-tester-at-natobotics-4330021219|fde5f8853c9d3afa
 https://uk.linkedin.com/jobs/view/sailpoint-automation-tester-iam-specialist-at-hexaware-technologies-4377930784|a147fed974a0e770
 https://uk.linkedin.com/jobs/view/sailpoint-tester-at-codeconvergence-limited-ccl-4372540494|39ac7016ab7cf57d
+https://uk.linkedin.com/jobs/view/salesforce-qa-tester-at-systep-4387970666|5b6fc8c6769a682d
 https://uk.linkedin.com/jobs/view/salesforce-test-engineer-hybrid-working-at-oliver-james-4368752579|9ed36c8d7d9f3cdc
 https://uk.linkedin.com/jobs/view/sap-test-lead-at-testq-technologies-4345646156|f874080424847060
 https://uk.linkedin.com/jobs/view/sdet-at-techshack-4359410354|cfde93afeb07d39f
@@ -606,7 +608,7 @@ https://uk.linkedin.com/jobs/view/software-test-engineers-at-hackajob-4366436413
 https://uk.linkedin.com/jobs/view/software-tester-at-culverdocs-4342181779|b35890caa39d6ecc
 https://uk.linkedin.com/jobs/view/software-tester-at-fdm-group-4348622615|63521ed80df38291
 https://uk.linkedin.com/jobs/view/software-tester-at-iken-4373871842|996095a353f91053
-https://uk.linkedin.com/jobs/view/software-tester-at-seebyte-4388392006|c82b7ccf6250f141
+https://uk.linkedin.com/jobs/view/software-tester-at-seebyte-4388392006|8df639d7ef785a08
 https://uk.linkedin.com/jobs/view/software-tester-at-squarcle-4379885720|4e8faed697e6c205
 https://uk.linkedin.com/jobs/view/software-tester-at-stratospherec-limited-4374263563|5aa9ebbec25dee17
 https://uk.linkedin.com/jobs/view/software-tester-innova-recruitment-at-jobster-4359228466|4e4fd2f1c2f17ee5
@@ -931,9 +933,10 @@ https://uk.talent.com/view?id=609959858174035987|a1b97da96e1bb143
 https://uk.talent.com/view?id=610108324676507315|3d8e639fed51383b
 https://uk.talent.com/view?id=610108342647783692|14833dfdd80e60b2
 https://uk.talent.com/view?id=610310106535821830|56e0a030c3a79020
-https://uk.talent.com/view?id=610447601728691988|0f09ed9d4e228b9f
+https://uk.talent.com/view?id=610447601728691988|210bc54e39d74b70
 https://uk.talent.com/view?id=610994379510384050|4667070e3dc659ca
-https://uk.talent.com/view?id=611122242901446314|1fb12db39ae81758
+https://uk.talent.com/view?id=611122242901446314|f79e8b8d5e9f72a3
+https://uk.talent.com/view?id=611358209632371668|e1a48680025eedcd
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
