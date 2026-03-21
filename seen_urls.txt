@@ -153,7 +153,7 @@ https://uk.jobrapido.com/jobpreview/8445888494915551232|8010837a6d91799e
 https://uk.jobrapido.com/jobpreview/8506547383188848640|39937aec9a3394ee
 https://uk.jobrapido.com/jobpreview/8631401395288801280|3976b984706a884a
 https://uk.jobrapido.com/jobpreview/8638691896115331072|d3a70761f4e7a09d
-https://uk.jobrapido.com/jobpreview/8682179487959351296|87098b7cf65b0167
+https://uk.jobrapido.com/jobpreview/8682179487959351296|ef0197ac3fb8e4fd
 https://uk.jobrapido.com/jobpreview/8695404448177979392|8c48f4e9ff7192f1
 https://uk.jobrapido.com/jobpreview/8724001233787944960|e0addd80ad15fff4
 https://uk.jobrapido.com/jobpreview/8736397952513212416|7a7a1321cb618990
@@ -495,6 +495,7 @@ https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-spacelabs
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-specialist-at-mk-construction-4351150776|e57bb5a7570ed48f
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-tester-at-activ8-tech-recruitment-4379270830|52f4426a02eabec0
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-tester-at-g-t-girls-and-tech!-4371284618?refId=OHrhTCLTPZXSdF+9PweHdA==&trackingId=7R2w/cvvELx+yJyS/7sO7g==&position=15&pageNum=0|548c29d535b33f89
+https://uk.linkedin.com/jobs/view/senior-quality-assurance-tester-at-g-t-girls-and-tech!-4388338644|7167e1bcc7647b57
 https://uk.linkedin.com/jobs/view/senior-quality-qa-engineer-at-technip-energies-4326188896|7ad09a3bef124353
 https://uk.linkedin.com/jobs/view/senior-quality-test-engineer-at-yolk-recruitment-ltd-4342297879|32db6d1707978b69
 https://uk.linkedin.com/jobs/view/senior-rf-test-engineer-at-ic-resources-4372011405|53baac7e648cb266
@@ -532,8 +533,8 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-aims-team-at-cox-automoti
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-1spatial-4340312479|1c3ed75608427f8e
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-a1-personnel-4366898644|4e74806530407ad0
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-aj-bell-4371961204|3edb3991619c6fb3
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-aj-bell-4385718700|b66f5e5224064863
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-aj-bell-4385721525|ff470cf7a4433db3
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-aj-bell-4385718700|3a6e50ddfd26a472
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-aj-bell-4385721525|bc85c924133fa141
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-axelera-ai-4375815227|d2031cfbbafdacdf
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-boss-energy-consulting-4378863013|2a55bbf8ec281fcb
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-caraffi-4348271560|b77ba115d934c1e6
@@ -605,7 +606,7 @@ https://uk.linkedin.com/jobs/view/software-test-engineers-at-hackajob-4366436413
 https://uk.linkedin.com/jobs/view/software-tester-at-culverdocs-4342181779|b35890caa39d6ecc
 https://uk.linkedin.com/jobs/view/software-tester-at-fdm-group-4348622615|63521ed80df38291
 https://uk.linkedin.com/jobs/view/software-tester-at-iken-4373871842|996095a353f91053
-https://uk.linkedin.com/jobs/view/software-tester-at-seebyte-4388392006|36bc2b5af4998c92
+https://uk.linkedin.com/jobs/view/software-tester-at-seebyte-4388392006|e66d9e4fffca765c
 https://uk.linkedin.com/jobs/view/software-tester-at-squarcle-4379885720|4e8faed697e6c205
 https://uk.linkedin.com/jobs/view/software-tester-at-stratospherec-limited-4374263563|5aa9ebbec25dee17
 https://uk.linkedin.com/jobs/view/software-tester-innova-recruitment-at-jobster-4359228466|4e4fd2f1c2f17ee5
