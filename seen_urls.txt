@@ -606,7 +606,7 @@ https://uk.linkedin.com/jobs/view/software-test-engineers-at-hackajob-4366436413
 https://uk.linkedin.com/jobs/view/software-tester-at-culverdocs-4342181779|b35890caa39d6ecc
 https://uk.linkedin.com/jobs/view/software-tester-at-fdm-group-4348622615|63521ed80df38291
 https://uk.linkedin.com/jobs/view/software-tester-at-iken-4373871842|996095a353f91053
-https://uk.linkedin.com/jobs/view/software-tester-at-seebyte-4388392006|a73c948b45021545
+https://uk.linkedin.com/jobs/view/software-tester-at-seebyte-4388392006|ef4baeb8a347c447
 https://uk.linkedin.com/jobs/view/software-tester-at-squarcle-4379885720|4e8faed697e6c205
 https://uk.linkedin.com/jobs/view/software-tester-at-stratospherec-limited-4374263563|5aa9ebbec25dee17
 https://uk.linkedin.com/jobs/view/software-tester-innova-recruitment-at-jobster-4359228466|4e4fd2f1c2f17ee5
@@ -930,9 +930,9 @@ https://uk.talent.com/view?id=609663007170955857|22f238fe408103e6
 https://uk.talent.com/view?id=609959858174035987|a1b97da96e1bb143
 https://uk.talent.com/view?id=610108342647783692|14833dfdd80e60b2
 https://uk.talent.com/view?id=610310106535821830|56e0a030c3a79020
-https://uk.talent.com/view?id=610447601728691988|be6c3dfff3807287
-https://uk.talent.com/view?id=610994379510384050|4667070e3dc659ca
-https://uk.talent.com/view?id=611122242901446314|17a150fd12752d8c
+https://uk.talent.com/view?id=610447601728691988|714f918aa56eb329
+https://uk.talent.com/view?id=610994379510384050|d036f3366cdf30fe
+https://uk.talent.com/view?id=611122242901446314|be4ff130cb86beec
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
