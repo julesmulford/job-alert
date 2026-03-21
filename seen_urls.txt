@@ -153,7 +153,7 @@ https://uk.jobrapido.com/jobpreview/8445888494915551232|8010837a6d91799e
 https://uk.jobrapido.com/jobpreview/8506547383188848640|39937aec9a3394ee
 https://uk.jobrapido.com/jobpreview/8631401395288801280|3976b984706a884a
 https://uk.jobrapido.com/jobpreview/8638691896115331072|d3a70761f4e7a09d
-https://uk.jobrapido.com/jobpreview/8682179487959351296|2df71893532c8bf8
+https://uk.jobrapido.com/jobpreview/8682179487959351296|cadc78d768d7308f
 https://uk.jobrapido.com/jobpreview/8695404448177979392|8c48f4e9ff7192f1
 https://uk.jobrapido.com/jobpreview/8724001233787944960|e0addd80ad15fff4
 https://uk.jobrapido.com/jobpreview/8736397952513212416|7a7a1321cb618990
@@ -532,8 +532,8 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-aims-team-at-cox-automoti
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-1spatial-4340312479|1c3ed75608427f8e
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-a1-personnel-4366898644|4e74806530407ad0
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-aj-bell-4371961204|3edb3991619c6fb3
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-aj-bell-4385718700|8ee0fad8dd72b208
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-aj-bell-4385721525|460e2090537cce14
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-aj-bell-4385718700|5557d984bea9bf75
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-aj-bell-4385721525|3e323c5ed253bd06
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-axelera-ai-4375815227|d2031cfbbafdacdf
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-boss-energy-consulting-4378863013|2a55bbf8ec281fcb
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-caraffi-4348271560|b77ba115d934c1e6
@@ -605,7 +605,7 @@ https://uk.linkedin.com/jobs/view/software-test-engineers-at-hackajob-4366436413
 https://uk.linkedin.com/jobs/view/software-tester-at-culverdocs-4342181779|b35890caa39d6ecc
 https://uk.linkedin.com/jobs/view/software-tester-at-fdm-group-4348622615|63521ed80df38291
 https://uk.linkedin.com/jobs/view/software-tester-at-iken-4373871842|996095a353f91053
-https://uk.linkedin.com/jobs/view/software-tester-at-seebyte-4388392006|10b7d611d61ad852
+https://uk.linkedin.com/jobs/view/software-tester-at-seebyte-4388392006|a2ac6ff45a37dd78
 https://uk.linkedin.com/jobs/view/software-tester-at-squarcle-4379885720|4e8faed697e6c205
 https://uk.linkedin.com/jobs/view/software-tester-at-stratospherec-limited-4374263563|5aa9ebbec25dee17
 https://uk.linkedin.com/jobs/view/software-tester-innova-recruitment-at-jobster-4359228466|4e4fd2f1c2f17ee5
