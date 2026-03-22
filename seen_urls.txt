@@ -293,7 +293,7 @@ https://uk.linkedin.com/jobs/view/flexcube-qa-testing-analyst-at-zenith-bank-uk-
 https://uk.linkedin.com/jobs/view/front-end-automation-tester-studentjob-co-uk-at-jobster-4367728191|dd3e6527005a6ddc
 https://uk.linkedin.com/jobs/view/frontend-quality-assurance-engineer-remote-at-taskify-ai-4338503541|a7a0e2af78dfdc6a
 https://uk.linkedin.com/jobs/view/ftc-test-automation-engineer-at-pentenamio-4344686960|4d762840a0fae8dc
-https://uk.linkedin.com/jobs/view/global-marketing-automation-architect-at-perkinelmer-4386174412|94f756e9e13404a4
+https://uk.linkedin.com/jobs/view/global-marketing-automation-architect-at-perkinelmer-4386174412|a43c8af8617206fd
 https://uk.linkedin.com/jobs/view/global-talent-visa-platform-qa-tester-volunteer-at-emigr8-tech-visa-4355510656|5ed9a3006971ab96
 https://uk.linkedin.com/jobs/view/graduate-automation-engineer-at-hitachi-energy-4327207297|92ee46761ae15f6b
 https://uk.linkedin.com/jobs/view/graduate-qa-engineer-at-ovarro-4329290939|e241c2590d20c3a1
@@ -306,7 +306,7 @@ https://uk.linkedin.com/jobs/view/java-sdet-at-cognizant-4346115894|831da1900154
 https://uk.linkedin.com/jobs/view/jcf-test-at-johnston-carmichael-chartered-accountants-and-business-advisers-4328142874|ef4d79395c541bb8
 https://uk.linkedin.com/jobs/view/junior-qa-engineer-at-welland-medical-ltd-4345437790|04701112bba25875
 https://uk.linkedin.com/jobs/view/junior-test-automation-engineer-at-socode-recruitment-4328600467|0523e60a5fd7357d
-https://uk.linkedin.com/jobs/view/kernel-build-automation-engineer-ubuntu-linux-at-canonical-4388760797|568a0a7524c42b2f
+https://uk.linkedin.com/jobs/view/kernel-build-automation-engineer-ubuntu-linux-at-canonical-4388760797|19f272a7f5a7b1cf
 https://uk.linkedin.com/jobs/view/lead-ai-automation-architect-at-partnerize-4343710286|36f138131f220ad0
 https://uk.linkedin.com/jobs/view/lead-automation-test-architect-at-cipher-talent-4328871747|508abfdf82e8d5df
 https://uk.linkedin.com/jobs/view/lead-automation-test-engineer-playwright-at-cyberim-4379237217|da370802fbf7716e
@@ -624,7 +624,7 @@ https://uk.linkedin.com/jobs/view/sqa-engineer-i-at-brightstar-lottery-438560208
 https://uk.linkedin.com/jobs/view/sr-qa-automation-engineer-pro-at-ink-fndn-4374723905|1436442bf1f2d65e
 https://uk.linkedin.com/jobs/view/sr-software-test-engineer-at-entrust-4358775231|d7480921afa00733
 https://uk.linkedin.com/jobs/view/staff-release-automation-engineer-linux-at-arm-4329584799|96be39aa84e3611d
-https://uk.linkedin.com/jobs/view/stem-textbook-qa-specialist-at-mercor-4388580897|5dcf9c1abf54cbec
+https://uk.linkedin.com/jobs/view/stem-textbook-qa-specialist-at-mercor-4388580897|02a4abb2922507a0
 https://uk.linkedin.com/jobs/view/system-integration-test-engineer-senior-system-integration-test-engineers-multiple-roles-at-general-dynamics-uk-limited-4345965970|445ee9b3d7cec482
 https://uk.linkedin.com/jobs/view/system-test-engineer-at-intellian-technologies-4365363875|beb09c23d3448ecd
 https://uk.linkedin.com/jobs/view/system-test-engineer-premier-group-at-jobster-4360962695|4f18cba5b0d42b7f
@@ -942,13 +942,13 @@ https://uk.talent.com/view?id=610108324676507315|3d8e639fed51383b
 https://uk.talent.com/view?id=610108342647783692|14833dfdd80e60b2
 https://uk.talent.com/view?id=610310106535821830|56e0a030c3a79020
 https://uk.talent.com/view?id=610447601728691988|714f918aa56eb329
-https://uk.talent.com/view?id=610841553003945823|59a973a74ea37005
+https://uk.talent.com/view?id=610841553003945823|1641f574971df18b
 https://uk.talent.com/view?id=610994379510384050|d036f3366cdf30fe
 https://uk.talent.com/view?id=611122242901446314|1fb12db39ae81758
 https://uk.talent.com/view?id=611358209632371668|a746b3c5e2e9b898
-https://uk.talent.com/view?id=611358330183492001|253a6321e425ab94
+https://uk.talent.com/view?id=611358330183492001|0f175442bc033c70
 https://uk.talent.com/view?id=611455726928135124|62a0092107737084
-https://uk.talent.com/view?id=611457127038788001|308ca89a22a3e74e
+https://uk.talent.com/view?id=611457127038788001|9b7cf4953598836c
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
