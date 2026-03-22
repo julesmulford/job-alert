@@ -199,6 +199,7 @@ https://uk.linkedin.com/jobs/view/ai-automation-engineer-ai-workflows-business-s
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-fatsoma-4384667689|b54f804da34df281
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-hackajob-4324082996|80da2bbf8cace59e
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-kennedypearce-consulting-4345851075|76be3af28a108a33
+https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-recepio-lab-4386627361|84ef4cc5a59cd21a
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-besque-at-jobster-4321426547|9fc06ef842bced82
 https://uk.linkedin.com/jobs/view/ai-automation-specialist-contract-at-aurea-ai-solutions-4381272478|24dcf5e639d64384
 https://uk.linkedin.com/jobs/view/ai-red-team-tester-at-alignerr-4386060740|6c811812c23133ce
@@ -293,7 +294,7 @@ https://uk.linkedin.com/jobs/view/flexcube-qa-testing-analyst-at-zenith-bank-uk-
 https://uk.linkedin.com/jobs/view/front-end-automation-tester-studentjob-co-uk-at-jobster-4367728191|dd3e6527005a6ddc
 https://uk.linkedin.com/jobs/view/frontend-quality-assurance-engineer-remote-at-taskify-ai-4338503541|a7a0e2af78dfdc6a
 https://uk.linkedin.com/jobs/view/ftc-test-automation-engineer-at-pentenamio-4344686960|4d762840a0fae8dc
-https://uk.linkedin.com/jobs/view/global-marketing-automation-architect-at-perkinelmer-4386174412|7c46d87b039c88be
+https://uk.linkedin.com/jobs/view/global-marketing-automation-architect-at-perkinelmer-4386174412|fdd2638e3c2cff55
 https://uk.linkedin.com/jobs/view/global-talent-visa-platform-qa-tester-volunteer-at-emigr8-tech-visa-4355510656|5ed9a3006971ab96
 https://uk.linkedin.com/jobs/view/graduate-automation-engineer-at-hitachi-energy-4327207297|92ee46761ae15f6b
 https://uk.linkedin.com/jobs/view/graduate-qa-engineer-at-ovarro-4329290939|e241c2590d20c3a1
@@ -306,7 +307,7 @@ https://uk.linkedin.com/jobs/view/java-sdet-at-cognizant-4346115894|831da1900154
 https://uk.linkedin.com/jobs/view/jcf-test-at-johnston-carmichael-chartered-accountants-and-business-advisers-4328142874|ef4d79395c541bb8
 https://uk.linkedin.com/jobs/view/junior-qa-engineer-at-welland-medical-ltd-4345437790|04701112bba25875
 https://uk.linkedin.com/jobs/view/junior-test-automation-engineer-at-socode-recruitment-4328600467|0523e60a5fd7357d
-https://uk.linkedin.com/jobs/view/kernel-build-automation-engineer-ubuntu-linux-at-canonical-4388760797|ba8fa302a5da69ae
+https://uk.linkedin.com/jobs/view/kernel-build-automation-engineer-ubuntu-linux-at-canonical-4388760797|fbe202f255d6c329
 https://uk.linkedin.com/jobs/view/lead-ai-automation-architect-at-partnerize-4343710286|36f138131f220ad0
 https://uk.linkedin.com/jobs/view/lead-automation-test-architect-at-cipher-talent-4328871747|508abfdf82e8d5df
 https://uk.linkedin.com/jobs/view/lead-automation-test-engineer-playwright-at-cyberim-4379237217|da370802fbf7716e
@@ -631,7 +632,7 @@ https://uk.linkedin.com/jobs/view/system-test-engineer-premier-group-at-jobster-
 https://uk.linkedin.com/jobs/view/systems-integration-automation-engineer-outside-ir35-contract-at-cloud-people-4361050312|7bcd3979ac1fe036
 https://uk.linkedin.com/jobs/view/systems-test-engineer-at-sava-4344281499|d0a9e8df05b68da5
 https://uk.linkedin.com/jobs/view/test-1-at-princes-group-4371874538|0bf50de805868fc0
-https://uk.linkedin.com/jobs/view/test-analyst-at-mygwork-lgbtq+-business-community-4386603221|8a9482112ef220cf
+https://uk.linkedin.com/jobs/view/test-analyst-at-mygwork-lgbtq+-business-community-4386603221|d71576800f6c583b
 https://uk.linkedin.com/jobs/view/test-analyst-at-weatherbys-ltd-4381020452|fb41c72c39a758af
 https://uk.linkedin.com/jobs/view/test-and-authentication-engineer-at-navantia-uk-4328911069|7f975253b620c28c
 https://uk.linkedin.com/jobs/view/test-area-team-lead-at-tld-4355770978|dc4b8c264c8e2874
