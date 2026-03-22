@@ -191,7 +191,7 @@ https://uk.linkedin.com/jobs/view/actemium-automation-nottingham-senior-control-
 https://uk.linkedin.com/jobs/view/actemium-ics-test-engineer-at-actemium-uk-4330073147|1d0016fe50de061f
 https://uk.linkedin.com/jobs/view/aem-qa-automation-engineer-at-red-global-4348843342|25c2ad62c4905622
 https://uk.linkedin.com/jobs/view/affiliate-software-engineer-in-test-at-and-digital-4342781054|52249c509c6b31e4
-https://uk.linkedin.com/jobs/view/ai-and-automation-apprenticeship-at-digital-native-4385792389|2db4df7691916cf4
+https://uk.linkedin.com/jobs/view/ai-and-automation-apprenticeship-at-digital-native-4385792389|a49c93429f8a8bba
 https://uk.linkedin.com/jobs/view/ai-and-automation-engineer-agentops-at-bet365-4370956672|2e99240f47e9d9a6
 https://uk.linkedin.com/jobs/view/ai-artificial-intelligence-test-automation-engineer-at-de-mare-consulting-4360757332|5e1f8d0e647d8a8d
 https://uk.linkedin.com/jobs/view/ai-assistant-user-tester-at-taskify-ai-4339868441|88204efb30fd0b5c
@@ -390,7 +390,7 @@ https://uk.linkedin.com/jobs/view/qa-test-engineer-at-pogust-goodhead-4376058492
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-techshack-4349323829|2b3f492655cf3cbd
 https://uk.linkedin.com/jobs/view/qa-test-engineer-manual-automation-at-project-people-4375505250|210eda17560cc2c5
 https://uk.linkedin.com/jobs/view/qa-tester-at-dwp-digital-4379913421|f44629cbea3e1de3
-https://uk.linkedin.com/jobs/view/qa-tester-at-hyra-4388581776|40ffadffe5f4f33b
+https://uk.linkedin.com/jobs/view/qa-tester-at-hyra-4388581776|26634eb8b9290d65
 https://uk.linkedin.com/jobs/view/qa-tester-at-io-associates-4380475808|8fc9914ac5d1615e
 https://uk.linkedin.com/jobs/view/qa-tester-at-light-wonder-4377181769|97d3465735bb399b
 https://uk.linkedin.com/jobs/view/qa-tester-at-tekton-billing-4346850509|91f6269b04830d2f
@@ -430,7 +430,7 @@ https://uk.linkedin.com/jobs/view/rf-test-engineer-at-ic-resources-4379470816|d5
 https://uk.linkedin.com/jobs/view/rf-test-engineer-at-socode-recruitment-4328480492|4b811867b8ac1c7e
 https://uk.linkedin.com/jobs/view/rf-test-engineer-at-socode-recruitment-4381509917|4b5754d71562127e
 https://uk.linkedin.com/jobs/view/robotics-manufacturing-and-test-engineer-at-paladin-space-4370624099|7146ec43c02074ad
-https://uk.linkedin.com/jobs/view/runtimes-automation-engineer-at-arm-4385765948|e9e872b9ad1eaf67
+https://uk.linkedin.com/jobs/view/runtimes-automation-engineer-at-arm-4385765948|3075feafd7453c7a
 https://uk.linkedin.com/jobs/view/sac-tester-at-natobotics-4330021219|fde5f8853c9d3afa
 https://uk.linkedin.com/jobs/view/sailpoint-automation-tester-iam-specialist-at-hexaware-technologies-4377930784|a147fed974a0e770
 https://uk.linkedin.com/jobs/view/sailpoint-tester-at-codeconvergence-limited-ccl-4372540494|39ac7016ab7cf57d
@@ -724,7 +724,7 @@ https://uk.linkedin.com/jobs/view/testing-specialist-remote-at-hire-wave-4342690
 https://uk.linkedin.com/jobs/view/the-a-to-z-of-automated-software-testing-senior-qa-at-mongoose-gray-4376359886|4b052889b3cb594c
 https://uk.linkedin.com/jobs/view/this-is-a-test-at-cellpoint-digital-4355283492|a29d3aeca020fe93
 https://uk.linkedin.com/jobs/view/tooling-automation-engineer-at-apple-4360065154|8e76b6a9f04f9003
-https://uk.linkedin.com/jobs/view/tp-united-kingdom-testing-at-concentrix-4386138464|dce608c32efed0ba
+https://uk.linkedin.com/jobs/view/tp-united-kingdom-testing-at-concentrix-4386138464|11aaa6f1ec2cba19
 https://uk.linkedin.com/jobs/view/trainee-software-tester-at-taxpad-ltd-4346412018|1aacc02d1e77fa82
 https://uk.linkedin.com/jobs/view/validation-engineer-at-ic-resources-4345646712|16505730f1ae5d37
 https://uk.linkedin.com/jobs/view/vehicle-test-engineer-adas-systems-at-jlr-4362128333|09423538761595d1
@@ -937,11 +937,11 @@ https://uk.talent.com/view?id=610108324676507315|3d8e639fed51383b
 https://uk.talent.com/view?id=610108342647783692|14833dfdd80e60b2
 https://uk.talent.com/view?id=610310106535821830|56e0a030c3a79020
 https://uk.talent.com/view?id=610447601728691988|714f918aa56eb329
-https://uk.talent.com/view?id=610841553003945823|5847a554913407b1
+https://uk.talent.com/view?id=610841553003945823|1641f574971df18b
 https://uk.talent.com/view?id=610994379510384050|d036f3366cdf30fe
 https://uk.talent.com/view?id=611122242901446314|1fb12db39ae81758
 https://uk.talent.com/view?id=611358209632371668|a746b3c5e2e9b898
-https://uk.talent.com/view?id=611457127038788001|e032e4a1ad237806
+https://uk.talent.com/view?id=611457127038788001|b1e4bb87e8c6bf39
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
