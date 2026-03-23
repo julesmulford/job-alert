@@ -78,7 +78,7 @@ https://uk.jobrapido.com/jobpreview/4404405066304323584|06c26b96bee07ead
 https://uk.jobrapido.com/jobpreview/4499764060513894400|39737ee0dcb375f7
 https://uk.jobrapido.com/jobpreview/4601893864507179008|adb9995e03762107
 https://uk.jobrapido.com/jobpreview/4734674651068760064|7f845cf509691553
-https://uk.jobrapido.com/jobpreview/4769026675675496448|cf56d15b2e03948f
+https://uk.jobrapido.com/jobpreview/4769026675675496448|28b33659838936c6
 https://uk.jobrapido.com/jobpreview/4851615220285571072|f5a87046b2004491
 https://uk.jobrapido.com/jobpreview/4867344747733188608|4267a89aee3a8526
 https://uk.jobrapido.com/jobpreview/4883977420903809024|9efb86dcfedddc13
@@ -316,7 +316,7 @@ https://uk.linkedin.com/jobs/view/kernel-build-automation-engineer-ubuntu-linux-
 https://uk.linkedin.com/jobs/view/lead-ai-automation-architect-at-partnerize-4343710286|36f138131f220ad0
 https://uk.linkedin.com/jobs/view/lead-automation-test-architect-at-cipher-talent-4328871747|508abfdf82e8d5df
 https://uk.linkedin.com/jobs/view/lead-automation-test-engineer-playwright-at-cyberim-4379237217|da370802fbf7716e
-https://uk.linkedin.com/jobs/view/lead-automation-tester-at-infoplus-technologies-uk-limited-4389211384|19a3ac30cb65017c
+https://uk.linkedin.com/jobs/view/lead-automation-tester-at-infoplus-technologies-uk-limited-4389211384|25f95f2e8f53dc86
 https://uk.linkedin.com/jobs/view/lead-qa-engineer-automation-at-nudge-4360957717|209b254038dbd7de
 https://uk.linkedin.com/jobs/view/lead-salesforce-test-engineer-at-axa-health-4346833034|a121a621cdfe48bb
 https://uk.linkedin.com/jobs/view/lead-software-test-engineer-at-edwards-vacuum-4386265396|e52047e750094536
