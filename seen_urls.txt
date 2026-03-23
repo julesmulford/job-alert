@@ -65,7 +65,7 @@ https://uk.jobrapido.com/jobpreview/3537245259366924288|adf45c409dd12358
 https://uk.jobrapido.com/jobpreview/3555100623827369984|fc543aa1b44658a1
 https://uk.jobrapido.com/jobpreview/3569419993252626432|040aedc2a50de823
 https://uk.jobrapido.com/jobpreview/3698180381187506176|6b4e2df8d6471961
-https://uk.jobrapido.com/jobpreview/3747544364465782784|cb06ee0210deac96
+https://uk.jobrapido.com/jobpreview/3747544364465782784|9d47b8068770b1df
 https://uk.jobrapido.com/jobpreview/3797409158110642176|f0cb35e69812acf9
 https://uk.jobrapido.com/jobpreview/3800011444435550208|486bf1e4c5161dd2
 https://uk.jobrapido.com/jobpreview/3833319345312759808|9442d5f525a37fc0
@@ -113,7 +113,7 @@ https://uk.jobrapido.com/jobpreview/6195731901358014464|5332a1e01df1ef52
 https://uk.jobrapido.com/jobpreview/62722012321153024|293e21eed6615fb5
 https://uk.jobrapido.com/jobpreview/6366640899312582656|8f2df5cd09b2e6cb
 https://uk.jobrapido.com/jobpreview/6369601798226837504|f0167a7c4bab1809
-https://uk.jobrapido.com/jobpreview/647348184649039872|b4f242b5af07ee57
+https://uk.jobrapido.com/jobpreview/647348184649039872|98535fd558eb5ebd
 https://uk.jobrapido.com/jobpreview/6495685029966905344|b17ce0305a81e644
 https://uk.jobrapido.com/jobpreview/6583334283002249216|122599447a6286a9
 https://uk.jobrapido.com/jobpreview/6608405716505985024|eebb854a03856518
@@ -156,7 +156,7 @@ https://uk.jobrapido.com/jobpreview/8506547383188848640|39937aec9a3394ee
 https://uk.jobrapido.com/jobpreview/8631401395288801280|3976b984706a884a
 https://uk.jobrapido.com/jobpreview/8638691896115331072|d3a70761f4e7a09d
 https://uk.jobrapido.com/jobpreview/8682179487959351296|ef0197ac3fb8e4fd
-https://uk.jobrapido.com/jobpreview/8693341180248719360|d6862a3c46cc3822
+https://uk.jobrapido.com/jobpreview/8693341180248719360|76e6ba113c58be47
 https://uk.jobrapido.com/jobpreview/8695404448177979392|8c48f4e9ff7192f1
 https://uk.jobrapido.com/jobpreview/8724001233787944960|e0addd80ad15fff4
 https://uk.jobrapido.com/jobpreview/8736397952513212416|7a7a1321cb618990
@@ -202,7 +202,7 @@ https://uk.linkedin.com/jobs/view/ai-automation-engineer-ai-workflows-business-s
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-fatsoma-4384667689|b54f804da34df281
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-hackajob-4324082996|80da2bbf8cace59e
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-kennedypearce-consulting-4345851075|76be3af28a108a33
-https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-recepio-lab-4386627361|c2f52af2aceb37ca
+https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-recepio-lab-4386627361|78ffc53c16d60587
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-besque-at-jobster-4321426547|9fc06ef842bced82
 https://uk.linkedin.com/jobs/view/ai-automation-specialist-contract-at-aurea-ai-solutions-4381272478|24dcf5e639d64384
 https://uk.linkedin.com/jobs/view/ai-red-team-tester-at-alignerr-4386060740|6c811812c23133ce
@@ -297,7 +297,7 @@ https://uk.linkedin.com/jobs/view/flexcube-qa-testing-analyst-at-zenith-bank-uk-
 https://uk.linkedin.com/jobs/view/front-end-automation-tester-studentjob-co-uk-at-jobster-4367728191|dd3e6527005a6ddc
 https://uk.linkedin.com/jobs/view/frontend-quality-assurance-engineer-remote-at-taskify-ai-4338503541|a7a0e2af78dfdc6a
 https://uk.linkedin.com/jobs/view/ftc-test-automation-engineer-at-pentenamio-4344686960|4d762840a0fae8dc
-https://uk.linkedin.com/jobs/view/global-marketing-automation-architect-at-perkinelmer-4386174412|339f633c2c87d5bc
+https://uk.linkedin.com/jobs/view/global-marketing-automation-architect-at-perkinelmer-4386174412|fe51e00e3c8f4c2d
 https://uk.linkedin.com/jobs/view/global-talent-visa-platform-qa-tester-volunteer-at-emigr8-tech-visa-4355510656|5ed9a3006971ab96
 https://uk.linkedin.com/jobs/view/graduate-automation-engineer-at-hitachi-energy-4327207297|92ee46761ae15f6b
 https://uk.linkedin.com/jobs/view/graduate-qa-engineer-at-ovarro-4329290939|e241c2590d20c3a1
@@ -310,7 +310,7 @@ https://uk.linkedin.com/jobs/view/java-sdet-at-cognizant-4346115894|831da1900154
 https://uk.linkedin.com/jobs/view/jcf-test-at-johnston-carmichael-chartered-accountants-and-business-advisers-4328142874|ef4d79395c541bb8
 https://uk.linkedin.com/jobs/view/junior-qa-engineer-at-welland-medical-ltd-4345437790|04701112bba25875
 https://uk.linkedin.com/jobs/view/junior-test-automation-engineer-at-socode-recruitment-4328600467|0523e60a5fd7357d
-https://uk.linkedin.com/jobs/view/kernel-build-automation-engineer-ubuntu-linux-at-canonical-4388760797|71dcc452a1cdd168
+https://uk.linkedin.com/jobs/view/kernel-build-automation-engineer-ubuntu-linux-at-canonical-4388760797|e93f783a21f18128
 https://uk.linkedin.com/jobs/view/lead-ai-automation-architect-at-partnerize-4343710286|36f138131f220ad0
 https://uk.linkedin.com/jobs/view/lead-automation-test-architect-at-cipher-talent-4328871747|508abfdf82e8d5df
 https://uk.linkedin.com/jobs/view/lead-automation-test-engineer-playwright-at-cyberim-4379237217|da370802fbf7716e
@@ -635,7 +635,7 @@ https://uk.linkedin.com/jobs/view/system-test-engineer-premier-group-at-jobster-
 https://uk.linkedin.com/jobs/view/systems-integration-automation-engineer-outside-ir35-contract-at-cloud-people-4361050312|7bcd3979ac1fe036
 https://uk.linkedin.com/jobs/view/systems-test-engineer-at-sava-4344281499|d0a9e8df05b68da5
 https://uk.linkedin.com/jobs/view/test-1-at-princes-group-4371874538|0bf50de805868fc0
-https://uk.linkedin.com/jobs/view/test-analyst-at-mygwork-lgbtq+-business-community-4386603221|1d4fcb7de4f499a6
+https://uk.linkedin.com/jobs/view/test-analyst-at-mygwork-lgbtq+-business-community-4386603221|ddeef3f55a446f9e
 https://uk.linkedin.com/jobs/view/test-analyst-at-weatherbys-ltd-4381020452|fb41c72c39a758af
 https://uk.linkedin.com/jobs/view/test-and-authentication-engineer-at-navantia-uk-4328911069|7f975253b620c28c
 https://uk.linkedin.com/jobs/view/test-area-team-lead-at-tld-4355770978|dc4b8c264c8e2874
