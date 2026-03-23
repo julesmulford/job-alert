@@ -68,7 +68,7 @@ https://uk.jobrapido.com/jobpreview/3698180381187506176|6b4e2df8d6471961
 https://uk.jobrapido.com/jobpreview/3747544364465782784|fe3482b172587b42
 https://uk.jobrapido.com/jobpreview/3797409158110642176|f0cb35e69812acf9
 https://uk.jobrapido.com/jobpreview/3800011444435550208|486bf1e4c5161dd2
-https://uk.jobrapido.com/jobpreview/3831600654019723264|571be4df862bad2a
+https://uk.jobrapido.com/jobpreview/3831600654019723264|c9fc9bdb3806681b
 https://uk.jobrapido.com/jobpreview/3833319345312759808|9442d5f525a37fc0
 https://uk.jobrapido.com/jobpreview/4035414324141883392|dd87e234bcac2140
 https://uk.jobrapido.com/jobpreview/4127332826209058816|4d66f1e5e26e90bb
@@ -79,7 +79,7 @@ https://uk.jobrapido.com/jobpreview/4404405066304323584|06c26b96bee07ead
 https://uk.jobrapido.com/jobpreview/4499764060513894400|39737ee0dcb375f7
 https://uk.jobrapido.com/jobpreview/4601893864507179008|adb9995e03762107
 https://uk.jobrapido.com/jobpreview/4734674651068760064|7f845cf509691553
-https://uk.jobrapido.com/jobpreview/4769026675675496448|b5e9ddc0e3b4a823
+https://uk.jobrapido.com/jobpreview/4769026675675496448|edea2449c1b3c1aa
 https://uk.jobrapido.com/jobpreview/4851615220285571072|f5a87046b2004491
 https://uk.jobrapido.com/jobpreview/4867344747733188608|4267a89aee3a8526
 https://uk.jobrapido.com/jobpreview/4883977420903809024|9efb86dcfedddc13
@@ -317,7 +317,7 @@ https://uk.linkedin.com/jobs/view/kernel-build-automation-engineer-ubuntu-linux-
 https://uk.linkedin.com/jobs/view/lead-ai-automation-architect-at-partnerize-4343710286|36f138131f220ad0
 https://uk.linkedin.com/jobs/view/lead-automation-test-architect-at-cipher-talent-4328871747|508abfdf82e8d5df
 https://uk.linkedin.com/jobs/view/lead-automation-test-engineer-playwright-at-cyberim-4379237217|da370802fbf7716e
-https://uk.linkedin.com/jobs/view/lead-automation-tester-at-infoplus-technologies-uk-limited-4389211384|2c04766b538f9e5e
+https://uk.linkedin.com/jobs/view/lead-automation-tester-at-infoplus-technologies-uk-limited-4389211384|fbe2b524e88ffe55
 https://uk.linkedin.com/jobs/view/lead-qa-engineer-automation-at-nudge-4360957717|209b254038dbd7de
 https://uk.linkedin.com/jobs/view/lead-salesforce-test-engineer-at-axa-health-4346833034|a121a621cdfe48bb
 https://uk.linkedin.com/jobs/view/lead-software-test-engineer-at-edwards-vacuum-4386265396|e52047e750094536
@@ -635,7 +635,7 @@ https://uk.linkedin.com/jobs/view/staff-release-automation-engineer-linux-at-arm
 https://uk.linkedin.com/jobs/view/stem-textbook-qa-specialist-at-mercor-4388580897|17f0034b38acdff1
 https://uk.linkedin.com/jobs/view/system-integration-test-engineer-senior-system-integration-test-engineers-multiple-roles-at-general-dynamics-uk-limited-4345965970|445ee9b3d7cec482
 https://uk.linkedin.com/jobs/view/system-test-engineer-at-intellian-technologies-4365363875|beb09c23d3448ecd
-https://uk.linkedin.com/jobs/view/system-test-engineer-at-peregrine-4389223784|fabab0d372a1a823
+https://uk.linkedin.com/jobs/view/system-test-engineer-at-peregrine-4389223784|9b485c2366bf6773
 https://uk.linkedin.com/jobs/view/system-test-engineer-premier-group-at-jobster-4360962695|4f18cba5b0d42b7f
 https://uk.linkedin.com/jobs/view/systems-integration-automation-engineer-outside-ir35-contract-at-cloud-people-4361050312|7bcd3979ac1fe036
 https://uk.linkedin.com/jobs/view/systems-test-engineer-at-sava-4344281499|d0a9e8df05b68da5
@@ -747,6 +747,7 @@ https://uk.linkedin.com/jobs/view/vehicle-test-engineer-adas-systems-at-jlr-4362
 https://uk.linkedin.com/jobs/view/vehicle-test-engineer-at-quintessential-design-services-limited-4364037357|aaeb3843eba85fed
 https://uk.linkedin.com/jobs/view/verification-qa-engineer-at-socode-recruitment-4328879923|15b875cccb579ed9
 https://uk.linkedin.com/jobs/view/verification-validation-engineer-click-recruitment-at-jobster-4360271182|68ddd4df8c69e911
+https://uk.linkedin.com/jobs/view/workday-lead-software-testing-at-insight-international-uk-ltd-4388972598|290ab62f7393722a
 https://uk.linkedin.com/jobs/website-testing-jobs-london-area-united-kingdom|824a2e964dc7af73
 https://uk.news.yahoo.com/meet-hello-fresh-apprentices-spondon-060000144.html|7ca95acd22dc232a
 https://uk.talent.com/en/view?id=88b9d54bbc0b&trigger_from=related_jobs|7f10f1dc94d08f23
