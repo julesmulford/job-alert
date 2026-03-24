@@ -626,6 +626,7 @@ https://uk.linkedin.com/jobs/view/software-tester-at-iken-4373871842|996095a353f
 https://uk.linkedin.com/jobs/view/software-tester-at-seebyte-4388392006|ae256385936cad4f
 https://uk.linkedin.com/jobs/view/software-tester-at-squarcle-4379885720|4e8faed697e6c205
 https://uk.linkedin.com/jobs/view/software-tester-at-stratospherec-limited-4374263563|5aa9ebbec25dee17
+https://uk.linkedin.com/jobs/view/software-tester-at-ubique-systems-4387599526|d3f41197b0ff1231
 https://uk.linkedin.com/jobs/view/software-tester-innova-recruitment-at-jobster-4359228466|4e4fd2f1c2f17ee5
 https://uk.linkedin.com/jobs/view/software-tester-qa-at-robertson-sumner-4348480072|99f79aa851119221
 https://uk.linkedin.com/jobs/view/software-tester-qa-at-robertson-sumner-4351213562|5989d0e52918d75f
@@ -1197,6 +1198,7 @@ https://www.jobsgopublic.com/job/senior-test-engineer-40761|e8c468bee652d3fb
 https://www.jobsgopublic.com/job/systems-test-engineer-42031|e7fa5e24d0f6f187
 https://www.jobsgopublic.com/job/test-engineer-42038|c25171f4def6acd0
 https://www.jobsgopublic.com/job/test-engineer-44451|c711b8352b522ead
+https://www.jobsgopublic.com/job/test-engineer-48097|3e5ce1aa89085ec8
 https://www.jobsinwales.com/jobs-in-bassaleg/test-engineer_1430130?region=south|37705c64e5734de4
 https://www.jobsinwales.com/jobs-in-gorseinon/automation-engineer_1442968?region=south|a3ba40c94be1e6de
 https://www.jobsinwales.com/jobs-in-lampeter/automation-engineer_1438071?region=south|7cf624a34af9c7b4
