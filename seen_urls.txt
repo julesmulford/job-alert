@@ -252,7 +252,7 @@ https://uk.linkedin.com/jobs/view/automation-test-engineer-at-cgi-4378007828|e85
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-datacareers-4375233527|034a4c90424033e5
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-natobotics-4325826061|71c11201427e433c
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-test-yantra-4346084735|47fff4f0e57ef1b0
-https://uk.linkedin.com/jobs/view/automation-test-engineer-at-the-future-project-ltd-4389563664|f47e7b4ecda3b60a
+https://uk.linkedin.com/jobs/view/automation-test-engineer-at-the-future-project-ltd-4389563664|cc3691bc95ea25e2
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-txp-4341770738|67276035208b1db5
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-txp-4364296178|9b9f07e66b30f6fd
 https://uk.linkedin.com/jobs/view/automation-test-engineer-dv-at-npaworldwide-4325008520|ec485d93d5dd6a02
@@ -309,7 +309,7 @@ https://uk.linkedin.com/jobs/view/graduate-qa-engineer-at-ovarro-4329290939|e241
 https://uk.linkedin.com/jobs/view/graduate-test-engineer-at-grayce-4369746600|e6862030db636c7e
 https://uk.linkedin.com/jobs/view/hardware-test-compliance-engineer-at-fuse-energy-4361666692|6def7703801c2e84
 https://uk.linkedin.com/jobs/view/hardware-test-engineer-at-vector-recruitment-ltd-4362265252|cc1f7710c58bba24
-https://uk.linkedin.com/jobs/view/hil-test-automation-engineer-at-axiscades-4387589068|951a19cb0cf3dba8
+https://uk.linkedin.com/jobs/view/hil-test-automation-engineer-at-axiscades-4387589068|0aa611ce8ab3274b
 https://uk.linkedin.com/jobs/view/infrastructure-test-analysts-at-xpertise-recruitment-4363827060|4d0f293f8b73f6b7
 https://uk.linkedin.com/jobs/view/integration-test-engineer-at-hme-4364014827|2d4657fb83b4c3dd
 https://uk.linkedin.com/jobs/view/java-sdet-at-cognizant-4346115894|831da1900154ff7d
@@ -368,6 +368,7 @@ https://uk.linkedin.com/jobs/view/qa-automation-engineer-redrock-resourcing-at-j
 https://uk.linkedin.com/jobs/view/qa-embedded-tester-at-hutch-4359983518|0479fb1e2a2e69d6
 https://uk.linkedin.com/jobs/view/qa-engineer-at-best-job-tool-4363976557|23a0109a4c715aca
 https://uk.linkedin.com/jobs/view/qa-engineer-at-bilfinger-uk-4354231217|b642d1c060e8eea5
+https://uk.linkedin.com/jobs/view/qa-engineer-at-clio-4389844197|fc2e88e993362e41
 https://uk.linkedin.com/jobs/view/qa-engineer-at-haystack-4386368058|c7cef3bf37083af5
 https://uk.linkedin.com/jobs/view/qa-engineer-at-hid-4373953970|63a9432141f21c9b
 https://uk.linkedin.com/jobs/view/qa-engineer-at-hirenza-4381940293|0727e077eea4d7be
@@ -409,7 +410,7 @@ https://uk.linkedin.com/jobs/view/qa-tester-at-io-associates-4380475808|8fc9914a
 https://uk.linkedin.com/jobs/view/qa-tester-at-light-wonder-4377181769|97d3465735bb399b
 https://uk.linkedin.com/jobs/view/qa-tester-at-tekton-billing-4346850509|91f6269b04830d2f
 https://uk.linkedin.com/jobs/view/qa-tester-at-voldex-4376147091|7f232ebf2aeb4dc2
-https://uk.linkedin.com/jobs/view/qa-tester-at-women-in-tech-4389767794|066c3b69d1bfdddb
+https://uk.linkedin.com/jobs/view/qa-tester-at-women-in-tech-4389767794|af7078f71cfff975
 https://uk.linkedin.com/jobs/view/qa-tester-at-zap-4326172679|35823f445514ecca
 https://uk.linkedin.com/jobs/view/qa-tester-ftc-till-june-at-supermassive-games-ltd-4371016967|e68c48932b4a6544
 https://uk.linkedin.com/jobs/view/qa-tester-mobile-app-and-firmware-manual-testing-role-at-botz-innovation-4351274551|bf6eee9db1f6b4f4
@@ -629,7 +630,7 @@ https://uk.linkedin.com/jobs/view/software-tester-at-iken-4373871842|996095a353f
 https://uk.linkedin.com/jobs/view/software-tester-at-seebyte-4388392006|ae256385936cad4f
 https://uk.linkedin.com/jobs/view/software-tester-at-squarcle-4379885720|4e8faed697e6c205
 https://uk.linkedin.com/jobs/view/software-tester-at-stratospherec-limited-4374263563|5aa9ebbec25dee17
-https://uk.linkedin.com/jobs/view/software-tester-at-ubique-systems-4387599526|2c35f8da231028ad
+https://uk.linkedin.com/jobs/view/software-tester-at-ubique-systems-4387599526|39eb3618a4103e40
 https://uk.linkedin.com/jobs/view/software-tester-innova-recruitment-at-jobster-4359228466|4e4fd2f1c2f17ee5
 https://uk.linkedin.com/jobs/view/software-tester-qa-at-robertson-sumner-4348480072|99f79aa851119221
 https://uk.linkedin.com/jobs/view/software-tester-qa-at-robertson-sumner-4351213562|5989d0e52918d75f
@@ -663,6 +664,7 @@ https://uk.linkedin.com/jobs/view/test-automation-engineer-mobile-at-person-cent
 https://uk.linkedin.com/jobs/view/test-automation-lead-at-natobotics-4346044508|1202ef8b183040bc
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-83zero-4361861230|151e79f8e8f78d58
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-ceox-services-ltd-4345182421|0cbc1dbc9a3a05d3
+https://uk.linkedin.com/jobs/view/test-automation-specialist-at-coforge-4389582934|1d23a158abfbfecd
 https://uk.linkedin.com/jobs/view/test-data-specialist-remote-at-taskify-ai-4338525459|c0d854d4514e033f
 https://uk.linkedin.com/jobs/view/test-development-engineer-at-marcus-webb-associates-limited-4371971094|f7621f0f831ed5fc
 https://uk.linkedin.com/jobs/view/test-early-careers-at-marks-and-spencer-4363869850|a15805b0fe529652
@@ -699,7 +701,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-la-fosse-4329705420|2bafa9116
 https://uk.linkedin.com/jobs/view/test-engineer-at-la-fosse-4362021163|2aa01c2d0a4db8f7
 https://uk.linkedin.com/jobs/view/test-engineer-at-la-fosse-4376062563|5df60c5c1087f70a
 https://uk.linkedin.com/jobs/view/test-engineer-at-luxoft-4370535017|1e356c7503cdea8b
-https://uk.linkedin.com/jobs/view/test-engineer-at-mactaggart-scott-4389462389|e89eeb031a049174
+https://uk.linkedin.com/jobs/view/test-engineer-at-mactaggart-scott-4389462389|f5793446ecb03136
 https://uk.linkedin.com/jobs/view/test-engineer-at-nhs-4344984973|43bdc87c9ebc6e28
 https://uk.linkedin.com/jobs/view/test-engineer-at-north-scout-4386854950|fd2155ae786dec6d
 https://uk.linkedin.com/jobs/view/test-engineer-at-oho-group-4374616530|7a138b8b7d0aaf6a
@@ -1202,7 +1204,7 @@ https://www.jobsgopublic.com/job/senior-test-engineer-40761|e8c468bee652d3fb
 https://www.jobsgopublic.com/job/systems-test-engineer-42031|e7fa5e24d0f6f187
 https://www.jobsgopublic.com/job/test-engineer-42038|c25171f4def6acd0
 https://www.jobsgopublic.com/job/test-engineer-44451|c711b8352b522ead
-https://www.jobsgopublic.com/job/test-engineer-48097|e843fc2f393b10da
+https://www.jobsgopublic.com/job/test-engineer-48097|3ad86868c481b5a9
 https://www.jobsinwales.com/jobs-in-bassaleg/test-engineer_1430130?region=south|37705c64e5734de4
 https://www.jobsinwales.com/jobs-in-gorseinon/automation-engineer_1442968?region=south|a3ba40c94be1e6de
 https://www.jobsinwales.com/jobs-in-lampeter/automation-engineer_1438071?region=south|7cf624a34af9c7b4
