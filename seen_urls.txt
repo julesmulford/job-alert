@@ -510,7 +510,7 @@ https://uk.linkedin.com/jobs/view/senior-dft-engineer-at-arm-4329674368|dff91769
 https://uk.linkedin.com/jobs/view/senior-electronics-test-engineer-at-microchip-technology-inc-4371297311|494621fd5325f43d
 https://uk.linkedin.com/jobs/view/senior-engineer-automation-at-scopely-4371616133|6039efb685e51aa5
 https://uk.linkedin.com/jobs/view/senior-engineer-in-test-at-halos-body-cameras-4370828845|27e9b96107eafb76
-https://uk.linkedin.com/jobs/view/senior-engineer-test-capability-at-rolls-royce-smr-4392296058|f5d137b7760d5944
+https://uk.linkedin.com/jobs/view/senior-engineer-test-capability-at-rolls-royce-smr-4392296058|87f612a1f87bf3ac
 https://uk.linkedin.com/jobs/view/senior-engineer-test-release-at-hackajob-4382425239|ecb02a09aa9bae68
 https://uk.linkedin.com/jobs/view/senior-etl-test-engineer-at-w-talent-4354659160|d97b0fe2aab744cc
 https://uk.linkedin.com/jobs/view/senior-field-test-engineer-at-pc-help-a-s-4354678812|9caa60a57be5af7b
@@ -640,6 +640,7 @@ https://uk.linkedin.com/jobs/view/software-engineer-iii-sdet-at-hackajob-4329392
 https://uk.linkedin.com/jobs/view/software-engineer-iii-test-automation-at-hackajob-4329747933|fd7364b5d1fa634d
 https://uk.linkedin.com/jobs/view/software-engineer-iii-test-automation-at-hackajob-4370457711|d91aa751d419bf31
 https://uk.linkedin.com/jobs/view/software-engineer-in-test-balance-talent-at-jobster-4360393554|825b9c0992a30987
+https://uk.linkedin.com/jobs/view/software-qa-analyst-at-spectrum-it-recruitment-4390968042|7953f5f3505cc715
 https://uk.linkedin.com/jobs/view/software-qa-engineer-at-spectrum-it-recruitment-4372841788|711f16ed55cb0718
 https://uk.linkedin.com/jobs/view/software-qa-fruition-group-at-jobster-4360161348|01781b0cf46ef3b9
 https://uk.linkedin.com/jobs/view/software-qa-tester-at-capita-4387887563|e3da46052fb54cb0
