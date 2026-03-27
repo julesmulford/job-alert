@@ -510,7 +510,7 @@ https://uk.linkedin.com/jobs/view/senior-dft-engineer-at-arm-4329674368|dff91769
 https://uk.linkedin.com/jobs/view/senior-electronics-test-engineer-at-microchip-technology-inc-4371297311|494621fd5325f43d
 https://uk.linkedin.com/jobs/view/senior-engineer-automation-at-scopely-4371616133|6039efb685e51aa5
 https://uk.linkedin.com/jobs/view/senior-engineer-in-test-at-halos-body-cameras-4370828845|27e9b96107eafb76
-https://uk.linkedin.com/jobs/view/senior-engineer-test-capability-at-rolls-royce-smr-4392296058|6519ef67d3653c6f
+https://uk.linkedin.com/jobs/view/senior-engineer-test-capability-at-rolls-royce-smr-4392296058|f5d137b7760d5944
 https://uk.linkedin.com/jobs/view/senior-engineer-test-release-at-hackajob-4382425239|ecb02a09aa9bae68
 https://uk.linkedin.com/jobs/view/senior-etl-test-engineer-at-w-talent-4354659160|d97b0fe2aab744cc
 https://uk.linkedin.com/jobs/view/senior-field-test-engineer-at-pc-help-a-s-4354678812|9caa60a57be5af7b
@@ -631,6 +631,7 @@ https://uk.linkedin.com/jobs/view/senior-testing-engineer-complex-at-energy-job-
 https://uk.linkedin.com/jobs/view/server-automation-tester-at-standard-chartered-4376086992|1b52172a9406542e
 https://uk.linkedin.com/jobs/view/service-desk-automation-engineer-at-klipboard-4328657575|ae4412447abd9f4d
 https://uk.linkedin.com/jobs/view/signalling-integration-test-engineer-at-alten-ltd-uk-4384995550|41f7f634e91c46df
+https://uk.linkedin.com/jobs/view/software-and-test-engineer-apprenticeships-it-dwp-digital-studentjob-co-uk-at-jobster-4390780909|a531185912532f39
 https://uk.linkedin.com/jobs/view/software-automation-engineer-at-owen-daniels-4348882795|4484d7689910b096
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-at-royal-london-4375868118|c772565f1d25218b
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-data-tester-automation-engineer-asset-management-outside-ir35-at-bangura-solutions-4371954322|b677280231bcea1f
