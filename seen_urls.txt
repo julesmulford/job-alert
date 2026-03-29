@@ -68,7 +68,7 @@ https://uk.jobrapido.com/jobpreview/3537245259366924288|adf45c409dd12358
 https://uk.jobrapido.com/jobpreview/3555100623827369984|fc543aa1b44658a1
 https://uk.jobrapido.com/jobpreview/3569419993252626432|040aedc2a50de823
 https://uk.jobrapido.com/jobpreview/3581161042270486528|dc61c419fcc67388
-https://uk.jobrapido.com/jobpreview/3626533501987192832|4b27b832d50802c8
+https://uk.jobrapido.com/jobpreview/3626533501987192832|d60b5b6ca2e44e3c
 https://uk.jobrapido.com/jobpreview/3698180381187506176|6b4e2df8d6471961
 https://uk.jobrapido.com/jobpreview/3747544364465782784|fe3482b172587b42
 https://uk.jobrapido.com/jobpreview/3797409158110642176|f0cb35e69812acf9
@@ -175,7 +175,7 @@ https://uk.jobrapido.com/jobpreview/8631401395288801280|3976b984706a884a
 https://uk.jobrapido.com/jobpreview/8638691896115331072|d3a70761f4e7a09d
 https://uk.jobrapido.com/jobpreview/8682179487959351296|ef0197ac3fb8e4fd
 https://uk.jobrapido.com/jobpreview/8693341180248719360|10b5f31283b60154
-https://uk.jobrapido.com/jobpreview/8693353012883619840|cd7e6cd1b05fdb75
+https://uk.jobrapido.com/jobpreview/8693353012883619840|ee2c1641bba31687
 https://uk.jobrapido.com/jobpreview/8695404448177979392|8c48f4e9ff7192f1
 https://uk.jobrapido.com/jobpreview/8724001233787944960|e0addd80ad15fff4
 https://uk.jobrapido.com/jobpreview/8736397952513212416|7a7a1321cb618990
@@ -299,7 +299,7 @@ https://uk.linkedin.com/jobs/view/controls-and-automation-engineer-at-yeo-valley
 https://uk.linkedin.com/jobs/view/controls-automation-engineer-connected-consulting-limited-at-jobster-4360038306|fcf0d6a3dbbce355
 https://uk.linkedin.com/jobs/view/controls-test-engineer-at-siemens-energy-4390154133|e329a68b9dda2963
 https://uk.linkedin.com/jobs/view/datawarehouse-qa-engineer-at-randstad-enterprise-4361767060|128b8b7ba2700041
-https://uk.linkedin.com/jobs/view/deltav-software-quality-assurance-engineer-at-thermo-fisher-scientific-4393712564|fbbae30e3809c9ac
+https://uk.linkedin.com/jobs/view/deltav-software-quality-assurance-engineer-at-thermo-fisher-scientific-4393712564|b56f5f020c4b583a
 https://uk.linkedin.com/jobs/view/diagnostic-engineer-at-ashby-finance-4363419702|6010922a3f8f8b1f
 https://uk.linkedin.com/jobs/view/digital-delivery-senior-automation-tester-intellectual-property-office-seo-at-free-work-uk-4387828946|bb0bf4b9cf2283d5
 https://uk.linkedin.com/jobs/view/e2e-test-engineer-manual-at-g4s-4346195365|c690f0684efa81c4
@@ -654,7 +654,7 @@ https://uk.linkedin.com/jobs/view/software-qa-analyst-at-spectrum-it-recruitment
 https://uk.linkedin.com/jobs/view/software-qa-engineer-at-spectrum-it-recruitment-4372841788|711f16ed55cb0718
 https://uk.linkedin.com/jobs/view/software-qa-fruition-group-at-jobster-4360161348|01781b0cf46ef3b9
 https://uk.linkedin.com/jobs/view/software-qa-tester-at-capita-4387887563|e3da46052fb54cb0
-https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-dartt-4392318139|adeafb9db5428684
+https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-dartt-4392318139|2e6a708357ff637d
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-michael-james-associates-4329040513|3934a53764eda1b8
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-nuclera-4386735718|a7ef651c447512b4
 https://uk.linkedin.com/jobs/view/software-quality-assurance-tester-at-davanti-recruitment-ltd-4368640262|de7c19afff1d2d35
@@ -703,7 +703,7 @@ https://uk.linkedin.com/jobs/view/test-analyst-at-mygwork-lgbtq+-business-commun
 https://uk.linkedin.com/jobs/view/test-analyst-at-weatherbys-ltd-4381020452|fb41c72c39a758af
 https://uk.linkedin.com/jobs/view/test-and-authentication-engineer-at-navantia-uk-4328911069|7f975253b620c28c
 https://uk.linkedin.com/jobs/view/test-area-team-lead-at-tld-4355770978|dc4b8c264c8e2874
-https://uk.linkedin.com/jobs/view/test-automation-engineer-at-barclays-4393792488|d4afafbee5304470
+https://uk.linkedin.com/jobs/view/test-automation-engineer-at-barclays-4393792488|e256d571c8b7f67e
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4328330834|042d44c33833c196
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4363379599|630767aab9e2e2d5
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4374924178|8f3af75f8b05d9db
@@ -760,7 +760,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-luxoft-4370535017|1e356c7503c
 https://uk.linkedin.com/jobs/view/test-engineer-at-mactaggart-scott-4389462389|2acd0a7d997a4564
 https://uk.linkedin.com/jobs/view/test-engineer-at-multiplex-4392679126|fc59fac6d258d774
 https://uk.linkedin.com/jobs/view/test-engineer-at-nhs-4344984973|43bdc87c9ebc6e28
-https://uk.linkedin.com/jobs/view/test-engineer-at-noir-4391575462?refId=YFMtumkk92R3Odlti783EA==&trackingId=p/8elq5/o/Y+ywvlS0q2LQ==|2610ad982c25bf02
+https://uk.linkedin.com/jobs/view/test-engineer-at-noir-4391575462?refId=YFMtumkk92R3Odlti783EA==&trackingId=p/8elq5/o/Y+ywvlS0q2LQ==|55295b3c3f218aed
 https://uk.linkedin.com/jobs/view/test-engineer-at-north-scout-4386854950|fd2155ae786dec6d
 https://uk.linkedin.com/jobs/view/test-engineer-at-oho-group-4374616530|7a138b8b7d0aaf6a
 https://uk.linkedin.com/jobs/view/test-engineer-at-oho-group-ltd-4325583001|fc6f061b72f0f66f
