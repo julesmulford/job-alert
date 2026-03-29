@@ -651,6 +651,7 @@ https://uk.linkedin.com/jobs/view/software-qa-analyst-at-spectrum-it-recruitment
 https://uk.linkedin.com/jobs/view/software-qa-engineer-at-spectrum-it-recruitment-4372841788|711f16ed55cb0718
 https://uk.linkedin.com/jobs/view/software-qa-fruition-group-at-jobster-4360161348|01781b0cf46ef3b9
 https://uk.linkedin.com/jobs/view/software-qa-tester-at-capita-4387887563|e3da46052fb54cb0
+https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-dartt-4392318139|a120c0bedcb24ea2
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-michael-james-associates-4329040513|3934a53764eda1b8
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-nuclera-4386735718|a7ef651c447512b4
 https://uk.linkedin.com/jobs/view/software-quality-assurance-tester-at-davanti-recruitment-ltd-4368640262|de7c19afff1d2d35
@@ -699,7 +700,7 @@ https://uk.linkedin.com/jobs/view/test-analyst-at-mygwork-lgbtq+-business-commun
 https://uk.linkedin.com/jobs/view/test-analyst-at-weatherbys-ltd-4381020452|fb41c72c39a758af
 https://uk.linkedin.com/jobs/view/test-and-authentication-engineer-at-navantia-uk-4328911069|7f975253b620c28c
 https://uk.linkedin.com/jobs/view/test-area-team-lead-at-tld-4355770978|dc4b8c264c8e2874
-https://uk.linkedin.com/jobs/view/test-automation-engineer-at-barclays-4393792488|194fda5b14ea9d19
+https://uk.linkedin.com/jobs/view/test-automation-engineer-at-barclays-4393792488|287ebcaaed497d4f
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4328330834|042d44c33833c196
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4363379599|630767aab9e2e2d5
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4374924178|8f3af75f8b05d9db
