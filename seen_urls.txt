@@ -276,6 +276,7 @@ https://uk.linkedin.com/jobs/view/automation-engineer-infrastructure-at-wiraa-43
 https://uk.linkedin.com/jobs/view/automation-engineer-microsoft-powerapps-microsoft-power-automate-azure-financial-services-investment-management-at-psd-group-4372245084|f1554874bd757eec
 https://uk.linkedin.com/jobs/view/automation-engineer-rme-at-amazon-4361665708|30015ebb4763a27b
 https://uk.linkedin.com/jobs/view/automation-intern-at-10x-media-4354450549|4298841c0f9e9f67
+https://uk.linkedin.com/jobs/view/automation-qa-engineer-intern-testcomplete-studentjob-co-uk-at-jobster-4392819913|e62786fdaf4c76ca
 https://uk.linkedin.com/jobs/view/automation-qa-engineer-oracle-at-coinmarketcap-4345425426|116430409b16195c
 https://uk.linkedin.com/jobs/view/automation-test-analyst-at-eden-scott-4361848575|61998bda0aba44b1
 https://uk.linkedin.com/jobs/view/automation-test-analyst-at-paritas-recruitment-4355906380|0feb98c60da0f27c
@@ -313,7 +314,7 @@ https://uk.linkedin.com/jobs/view/controls-test-engineer-at-siemens-energy-43901
 https://uk.linkedin.com/jobs/view/cro-qa-test-engineer-at-virgin-media-o2-4392440383|4465316495e03317
 https://uk.linkedin.com/jobs/view/datawarehouse-qa-engineer-at-randstad-enterprise-4361767060|128b8b7ba2700041
 https://uk.linkedin.com/jobs/view/deltav-software-quality-assurance-engineer-at-thermo-fisher-scientific-4393712564|80d88400ad309129
-https://uk.linkedin.com/jobs/view/devices-test-engineer-at-inventus-group-4394634345|5ecfe867264895c1
+https://uk.linkedin.com/jobs/view/devices-test-engineer-at-inventus-group-4394634345|ccbdf5d533419bb4
 https://uk.linkedin.com/jobs/view/diagnostic-engineer-at-ashby-finance-4363419702|6010922a3f8f8b1f
 https://uk.linkedin.com/jobs/view/digital-delivery-senior-automation-tester-intellectual-property-office-seo-at-free-work-uk-4387828946|bb0bf4b9cf2283d5
 https://uk.linkedin.com/jobs/view/e2e-test-engineer-manual-at-g4s-4346195365|c690f0684efa81c4
@@ -321,6 +322,7 @@ https://uk.linkedin.com/jobs/view/electrical-domestic-tester-at-rge-services-434
 https://uk.linkedin.com/jobs/view/electrical-test-engineer-at-tiptopjob-4365700648|893da8ed5bde33b0
 https://uk.linkedin.com/jobs/view/electrical-tester-at-connolly-ltd-4372337301|68e00dacc6e8eeb2
 https://uk.linkedin.com/jobs/view/electrical-tester-at-hrhislop-com-electrical-contracting-limited-4370547198|4aa3c90912c3acce
+https://uk.linkedin.com/jobs/view/electrical-tester-at-hrhislop-com-electrical-contracting-limited-4394638075|7d18484d7778e62c
 https://uk.linkedin.com/jobs/view/electrical-tester-at-rge-services-4365610173|728f4c777e12aba5
 https://uk.linkedin.com/jobs/view/electrical-tester-at-the-construction-index-ltd-4365588112|07e2a4511aff7549
 https://uk.linkedin.com/jobs/view/electrical-tester-recruitment-helpline-at-guardian-jobs-4372803966|a31fe9cc4e55efec
@@ -732,7 +734,7 @@ https://uk.linkedin.com/jobs/view/test-1-at-princes-group-4371874538|0bf50de8058
 https://uk.linkedin.com/jobs/view/test-2-at-resillion-4392591047|14a2b9382c0c7adb
 https://uk.linkedin.com/jobs/view/test-analyst-at-mygwork-lgbtq+-business-community-4386603221|8b83a6bb52a7faf3
 https://uk.linkedin.com/jobs/view/test-analyst-at-weatherbys-ltd-4381020452|fb41c72c39a758af
-https://uk.linkedin.com/jobs/view/test-analyst-part-time-20-hours-per-week-studentjob-co-uk-at-jobster-4392830450|eb32e2b628483011
+https://uk.linkedin.com/jobs/view/test-analyst-part-time-20-hours-per-week-studentjob-co-uk-at-jobster-4392830450|b68e6fcf20eb4acf
 https://uk.linkedin.com/jobs/view/test-and-authentication-engineer-at-navantia-uk-4328911069|7f975253b620c28c
 https://uk.linkedin.com/jobs/view/test-area-team-lead-at-tld-4355770978|dc4b8c264c8e2874
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-barclays-4393792488|595a01914e20db17
@@ -1276,7 +1278,7 @@ https://uk.whatjobs.com/jobs/java-sdet?id=364605333|6f4e6b8b9206c7b4
 https://uk.whatjobs.com/jobs/qa-engineer?id=364443368|4b240744e8ae7964
 https://uk.whatjobs.com/jobs/senior-automation-engineer?id=391373537|35b74eb3a865675a
 https://uk.whatjobs.com/jobs/test-engineer?id=364423812|afcee8982a1e55da
-https://welovesalt.com/jobs/mainframe-system-automation-engineer-finance-nottingham-712766|94bb09e12064ef37
+https://welovesalt.com/jobs/mainframe-system-automation-engineer-finance-nottingham-712766|04d9babefdfba22c
 https://www.cybersecurityjobsite.com/job/5510530/automation-test-engineer/|7b6ef0ca2f23b673
 https://www.google.com/url?rct=j&sa=t&url=https://uk.indeed.com/q-software-tester-l-stoke-on-trent-jobs.html%3Fstart%3D10&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw19O_Nm2xkl35IJNoahYIzB|cccc9d5b4f048905
 https://www.google.com/url?rct=j&sa=t&url=https://uk.jooble.org/jdp/-5177900960689959283&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw2NYgRQ2ZsVYKQMEvbl7czI|b364d5754ff2f009
