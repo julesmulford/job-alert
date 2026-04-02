@@ -23,6 +23,7 @@ https://jobtoday.com/gb/jobs-software-tester/worksop|5d780b5162d0597e
 https://syncni.com/article/14760/backing-the-next-generation-of-entrepreneurs-in-northern-ireland|739e3baadcd1402a
 https://thecareerwallet.com/job/qa-automation-test-engineer-20286590142025496|9f2618254ba5e3db
 https://thecareerwallet.com/jobs/ai-automation-engineer-build-scalable-ai-agents-81887932119407321|4437416eeae368cb
+https://uk.jobrapido.com/jobpreview/1049071675733180416|063cdfc7ae839d90
 https://uk.jobrapido.com/jobpreview/1221754052799365120|e94027c909286a4e
 https://uk.jobrapido.com/jobpreview/1236926935305551872|a1dd960be68f01d3
 https://uk.jobrapido.com/jobpreview/1256481921404239872|08eae31d1062728a
@@ -524,6 +525,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-n-able-434759098
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-oal-4390547738|2e4c8c27f9ea1a65
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-severn-trent-4369765823|57cef31c2ab06792
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-sky-4379038938|a07966429047723f
+https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-smith+nephew-4376769214|f1aae8288b68cbc4
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-game-engine-at-games-factory-talents-connecting-passion-talent-4352326737|9d405b627825e91b
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-london-global-prime-brokerage-financing-platform-at-jobs-via-efinancialcareers-4354670360|3075a98a7f834576
 https://uk.linkedin.com/jobs/view/senior-automation-qa-remote-at-tiptopjob-4346999306|d9970c705c6a87d5
@@ -599,6 +601,7 @@ https://uk.linkedin.com/jobs/view/senior-software-development-engineer-in-test-s
 https://uk.linkedin.com/jobs/view/senior-software-development-engineer-in-test-sdet-at-transreport-4363750929|8f24ad6fcc3bb219
 https://uk.linkedin.com/jobs/view/senior-software-development-engineer-in-test-sdet-at-transreport-4364704223|d62494bc12e478aa
 https://uk.linkedin.com/jobs/view/senior-software-development-test-engineer-at-paysafe-4328929077|760efaaefc55491b
+https://uk.linkedin.com/jobs/view/senior-software-engineer-in-test-sdet-at-hackajob-4395344439|e830e13460f94617
 https://uk.linkedin.com/jobs/view/senior-software-qa-test-development-engineer-at-nvidia-4359313436|c4a842303bc50c05
 https://uk.linkedin.com/jobs/view/senior-software-qa-test-development-engineer-senior-software-qa-test-development-engineer-at-nvidia-4377419275|851f63840f51a922
 https://uk.linkedin.com/jobs/view/senior-software-quality-assurance-engineer-at-eden-scott-4353716476|1dc2bbd9dde11aed
