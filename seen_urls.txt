@@ -369,7 +369,7 @@ https://uk.linkedin.com/jobs/view/lead-salesforce-test-engineer-at-axa-health-43
 https://uk.linkedin.com/jobs/view/lead-software-test-engineer-at-edwards-vacuum-4386265396|e52047e750094536
 https://uk.linkedin.com/jobs/view/lead-test-engineer-at-dwp-digital-4343452622|51516104c77510d8
 https://uk.linkedin.com/jobs/view/lead-test-engineer-at-haystack-4392361746|23918e9a52a8ab8a
-https://uk.linkedin.com/jobs/view/lead-test-engineer-at-manchester-digital-4395739504|a5ad187f1cf87082
+https://uk.linkedin.com/jobs/view/lead-test-engineer-at-manchester-digital-4395739504|8230e08c88478b06
 https://uk.linkedin.com/jobs/view/lead-test-engineer-at-public-sector-resourcing-4351224757|b708631322123882
 https://uk.linkedin.com/jobs/view/lead-test-engineer-cure-talent-at-jobster-4360241165|ab48bc6f5cb02c8a
 https://uk.linkedin.com/jobs/view/lead-test-engineer-microservices-at-inoverse-groupe-4359679612|ddef492d7e329d1b
@@ -545,7 +545,7 @@ https://uk.linkedin.com/jobs/view/senior-development-engineer-in-test-sdet-at-va
 https://uk.linkedin.com/jobs/view/senior-dft-engineer-at-arm-4329674368|dff917696abd35e2
 https://uk.linkedin.com/jobs/view/senior-electronics-test-engineer-at-microchip-technology-inc-4371297311|494621fd5325f43d
 https://uk.linkedin.com/jobs/view/senior-engineer-automation-at-scopely-4371616133|6039efb685e51aa5
-https://uk.linkedin.com/jobs/view/senior-engineer-in-test-applications-at-alpaca-4395361497|df943844b9897527
+https://uk.linkedin.com/jobs/view/senior-engineer-in-test-applications-at-alpaca-4395361497|15cca5e0a393ce87
 https://uk.linkedin.com/jobs/view/senior-engineer-in-test-at-halos-body-cameras-4370828845|27e9b96107eafb76
 https://uk.linkedin.com/jobs/view/senior-engineer-test-capability-at-rolls-royce-smr-4392296058|2bf801086088a3ea
 https://uk.linkedin.com/jobs/view/senior-engineer-test-release-at-hackajob-4382425239|ecb02a09aa9bae68
@@ -653,7 +653,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-fsp-4373559448|0054670
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-government-digital-service-4359845377|00d2d6d973744c88
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-hackajob-4372099231|e763ba45664aaace
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-hackajob-4390993468|6c0b8d6466ef62d4
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-hackajob-4396058555|10636e8320cb0cff
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-hackajob-4396058555|decebbff0745330d
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-ic-resources-4366382846|a103624c885ecfcf
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-it-world-limited-4356701720|798f6e79427b7782
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-leonardo-4394676516|9de5be5e3d7675f1
@@ -686,7 +686,7 @@ https://uk.linkedin.com/jobs/view/software-and-test-engineer-apprenticeships-it-
 https://uk.linkedin.com/jobs/view/software-automation-engineer-at-owen-daniels-4348882795|4484d7689910b096
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-at-royal-london-4375868118|c772565f1d25218b
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-data-tester-automation-engineer-asset-management-outside-ir35-at-bangura-solutions-4371954322|b677280231bcea1f
-https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-at-bede-gaming-4397503215|8836a6c26ef80a5f
+https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-at-bede-gaming-4397503215|aeaba8353470720c
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-defence-at-ibm-4372625294|9d8c5924906886f5
 https://uk.linkedin.com/jobs/view/software-engineer-iii-sdet-at-hackajob-4329392484|cb7f223f5b6091c4
 https://uk.linkedin.com/jobs/view/software-engineer-iii-test-automation-at-hackajob-4329747933|fd7364b5d1fa634d
@@ -1313,7 +1313,7 @@ https://www.google.com/url?rct=j&sa=t&url=https://www.totaljobs.com/job/test-eng
 https://www.google.com/url?rct=j&sa=t&url=https://www.waconsultants.com/jobs/embedded-softwaresystems-test-engineer-hybrid-3571/&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw2TnhgdjdgBG8yOhW38MxfK|c79988a546822281
 https://www.jobserve.com/gb/en/JobListing.aspx?shid=F2BF1CC59F2D179A8DA4|241902bbeb2f5a67
 https://www.jobserve.com/gb/en/mob/job/2EDCDAB8B0A6B1E0D9?shid=539624818B2FA6C8CB14&page=1|c56c8251964bc2f0
-https://www.jobsgopublic.com/job/lead-test-engineer-50154|5e8a19b8864461a1
+https://www.jobsgopublic.com/job/lead-test-engineer-50154|144c7eabe158693e
 https://www.jobsgopublic.com/job/lead-test-engineer-automation-40578|f106d4abcd8cf4bd
 https://www.jobsgopublic.com/job/senior-test-engineer-40761|e8c468bee652d3fb
 https://www.jobsgopublic.com/job/systems-test-engineer-42031|e7fa5e24d0f6f187
