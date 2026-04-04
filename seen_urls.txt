@@ -357,8 +357,8 @@ https://uk.linkedin.com/jobs/view/hardware-test-engineer-at-vector-recruitment-l
 https://uk.linkedin.com/jobs/view/hil-test-automation-engineer-at-axiscades-4387589068|0aa611ce8ab3274b
 https://uk.linkedin.com/jobs/view/infrastructure-test-analysts-at-xpertise-recruitment-4363827060|4d0f293f8b73f6b7
 https://uk.linkedin.com/jobs/view/integration-test-engineer-at-hme-4364014827|2d4657fb83b4c3dd
-https://uk.linkedin.com/jobs/view/integration-test-engineer-at-raytheon-uk-4397303571|72f3e2fe295148ce
-https://uk.linkedin.com/jobs/view/iot-test-lead-engineer-at-vodafone-4397564463|31fba9adc25d021c
+https://uk.linkedin.com/jobs/view/integration-test-engineer-at-raytheon-uk-4397303571|97cde77ad960fb79
+https://uk.linkedin.com/jobs/view/iot-test-lead-engineer-at-vodafone-4397564463|226e88bfcef6cde1
 https://uk.linkedin.com/jobs/view/java-sdet-at-cognizant-4346115894|831da1900154ff7d
 https://uk.linkedin.com/jobs/view/jcf-test-at-johnston-carmichael-chartered-accountants-and-business-advisers-4328142874|ef4d79395c541bb8
 https://uk.linkedin.com/jobs/view/job-alert-test-at-salford-city-college-group-4389258203|d3bdea1723ed68d9
@@ -391,7 +391,7 @@ https://uk.linkedin.com/jobs/view/mid-level-sdet-at-insight-global-4391894033|59
 https://uk.linkedin.com/jobs/view/mobile-qa-engineer-at-leo-club-maastricht-4343199676|fc2cf7916d082ecf
 https://uk.linkedin.com/jobs/view/multiple-automation-developers-at-mrj-recruitment-4361826210|7c7c50d2ebb6fe2b
 https://uk.linkedin.com/jobs/view/new-job-georgia-test-at-bath-north-east-somerset-council-4339834532|63bf12faadc62aaf
-https://uk.linkedin.com/jobs/view/new-test-job-rakel-at-epsilon-4396597265|5e46285f94ce818b
+https://uk.linkedin.com/jobs/view/new-test-job-rakel-at-epsilon-4396597265|9da7151448f7677d
 https://uk.linkedin.com/jobs/view/non-functional-test-manager-at-institute-of-communication-4364550613|7bd54b14cc24f747
 https://uk.linkedin.com/jobs/view/offensive-security-tester-at-hackajob-4321452018|42eb01360b963bb5
 https://uk.linkedin.com/jobs/view/pat-tester-at-ecs-ltd-4329895656|4681d398c2c71711
@@ -399,7 +399,7 @@ https://uk.linkedin.com/jobs/view/pat-tester-portable-appliance-tester-at-norwoo
 https://uk.linkedin.com/jobs/view/performance-test-engineer-at-coforge-4327626051|646ad838432143d4
 https://uk.linkedin.com/jobs/view/plc-and-automation-engineer-at-tiptopjob-4370905294|2ce31d5b53816ba7
 https://uk.linkedin.com/jobs/view/plc-automation-engineer-at-the-seaking-group-4370696401|57a644496275172a
-https://uk.linkedin.com/jobs/view/power-supply-design-and-test-engineer-at-ic-resources-4393836909|eae5d040dd28e60e
+https://uk.linkedin.com/jobs/view/power-supply-design-and-test-engineer-at-ic-resources-4393836909|cb67bb39e9fe08ce
 https://uk.linkedin.com/jobs/view/powertrain-test-support-engineer-at-ashby-finance-4321308388|d9b4ee338abb99ec
 https://uk.linkedin.com/jobs/view/principal-cybersecurity-test-engineer-at-spacelabs-healthcare-4392593696|69d00ad7ae0a407a
 https://uk.linkedin.com/jobs/view/principal-qa-engineer-at-amadeus-4370416241|71412cc6b66e5042
@@ -497,7 +497,7 @@ https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-recenso-services
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tgs-international-group-4361421723|a09cad407db3bf01
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tria-4350252385|7524309888b21991
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-workmaze-4350562868|0d5e8cefa61fc974
-https://uk.linkedin.com/jobs/view/quality-assurance-engineer-data-centre-at-ten11-4397547749|fbe9e19b594ba89f
+https://uk.linkedin.com/jobs/view/quality-assurance-engineer-data-centre-at-ten11-4397547749|f5b25c227d0c8f0c
 https://uk.linkedin.com/jobs/view/quality-assurance-qa-engineer-at-hackajob-4381077057|b556d3ecd5270384
 https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-anglia-uk-4381633439|050ddb57228595ac
 https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-gama-aviation-4371756518|4c51afcb092f5cf3
@@ -574,7 +574,7 @@ https://uk.linkedin.com/jobs/view/senior-qa-at-waracle-4379940136|d9c66e164a3afa
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-fuuse-4365286628|36b3cbbd5e66eccc
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-jobs-via-efinancialcareers-4346694704|e5197ed78aeface3
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-nice-4356230212|27ddf270898891b5
-https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-tba-4381424994|a9299a410e154db7
+https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-tba-4381424994|fcc6534006dc1eab
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-tp-icap-4347492608|d8dcfb2c130aae89
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-cdl-software-4390843137|aa7f5c868137d8c8
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-huel-4376899550?refId=HlxZ/eBPXA3moBCIfkVYFw==&trackingId=ge57O+XUiJeZwI4WjLNV6w==&position=10&pageNum=0|057aa598d06a1705
@@ -614,6 +614,7 @@ https://uk.linkedin.com/jobs/view/senior-software-development-engineer-in-test-s
 https://uk.linkedin.com/jobs/view/senior-software-development-engineer-in-test-sdet-at-transreport-4364704223|d62494bc12e478aa
 https://uk.linkedin.com/jobs/view/senior-software-development-test-engineer-at-paysafe-4328929077|760efaaefc55491b
 https://uk.linkedin.com/jobs/view/senior-software-engineer-in-test-sdet-at-hackajob-4395344439|e830e13460f94617
+https://uk.linkedin.com/jobs/view/senior-software-engineer-remote-at-crossing-hurdles-4394265412|2e87c8ab71ebc8c7
 https://uk.linkedin.com/jobs/view/senior-software-qa-test-development-engineer-at-nvidia-4359313436|c4a842303bc50c05
 https://uk.linkedin.com/jobs/view/senior-software-qa-test-development-engineer-senior-software-qa-test-development-engineer-at-nvidia-4377419275|851f63840f51a922
 https://uk.linkedin.com/jobs/view/senior-software-quality-assurance-engineer-at-eden-scott-4353716476|1dc2bbd9dde11aed
@@ -702,7 +703,7 @@ https://uk.linkedin.com/jobs/view/software-engineer-iii-sdet-at-hackajob-4329392
 https://uk.linkedin.com/jobs/view/software-engineer-iii-test-automation-at-hackajob-4329747933|fd7364b5d1fa634d
 https://uk.linkedin.com/jobs/view/software-engineer-iii-test-automation-at-hackajob-4370457711|d91aa751d419bf31
 https://uk.linkedin.com/jobs/view/software-engineer-in-test-balance-talent-at-jobster-4360393554|825b9c0992a30987
-https://uk.linkedin.com/jobs/view/software-firmware-test-engineer-at-unipart-4396073060|10f4a0df555d0f25
+https://uk.linkedin.com/jobs/view/software-firmware-test-engineer-at-unipart-4396073060|92de3da8e200562a
 https://uk.linkedin.com/jobs/view/software-qa-analyst-at-spectrum-it-recruitment-4390968042|b693f19377d05eba
 https://uk.linkedin.com/jobs/view/software-qa-engineer-at-spectrum-it-recruitment-4372841788|711f16ed55cb0718
 https://uk.linkedin.com/jobs/view/software-qa-fruition-group-at-jobster-4360161348|01781b0cf46ef3b9
@@ -842,7 +843,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-construction-at-lucideon-4328789
 https://uk.linkedin.com/jobs/view/test-engineer-dfe-seo-at-manchester-digital-4329654428|171db8e357731827
 https://uk.linkedin.com/jobs/view/test-engineer-dv-at-npaworldwide-4378253199|f20e99bf9b39c2a7
 https://uk.linkedin.com/jobs/view/test-engineer-electronics-at-duxvalves-4369704484|c88acee4db9e5eb4
-https://uk.linkedin.com/jobs/view/test-engineer-i-at-legrand-north-america-4397810016|780aa4631c6fbfbd
+https://uk.linkedin.com/jobs/view/test-engineer-i-at-legrand-north-america-4397810016|9fdbfdbd208a7977
 https://uk.linkedin.com/jobs/view/test-engineer-in-circuit-bmr-solutions-ltd-at-jobster-4359208383|7c7bff9b7b68f7dc
 https://uk.linkedin.com/jobs/view/test-engineer-iot-audio-video-networks-at-mayflower-recruitment-ltd-4349703749|3c702b2fbfb7c4e6
 https://uk.linkedin.com/jobs/view/test-engineer-mi5-the-security-service-heo-at-free-work-uk-4377193089|97f56351fdb80e51
@@ -861,7 +862,7 @@ https://uk.linkedin.com/jobs/view/test-rig-engineer-at-trescal-4362404132|0e8ef1
 https://uk.linkedin.com/jobs/view/test-run-technician-pat-tester-at-first-response-site-services-ltd-4381256041|ee90cc745abe8975
 https://uk.linkedin.com/jobs/view/test-software-engineer-at-bullhorn-middleware-test-company-4365329510|8ea9184d8f5fc36e
 https://uk.linkedin.com/jobs/view/test-test-at-serco-4369827103|91149c3e42273731
-https://uk.linkedin.com/jobs/view/tester-at-compass-community-4393864300|ce790f04a849df6a
+https://uk.linkedin.com/jobs/view/tester-at-compass-community-4393864300|686e42e02d7180bc
 https://uk.linkedin.com/jobs/view/tester-at-experis-uk-4371251789|5e621cf9ccefbd0c
 https://uk.linkedin.com/jobs/view/tester-at-hbsuk-4390358371|0551668e9f59a7a9
 https://uk.linkedin.com/jobs/view/tester-dv-cleared-at-experis-uk-4382359162|7e662f9499e3267c
@@ -1003,7 +1004,7 @@ https://uk.talent.com/view?id=603451325821951929|e70efbcc30971df5
 https://uk.talent.com/view?id=603602977709561101|24621b6bb1bac8f7
 https://uk.talent.com/view?id=603602985996588301|4123df87c39ff6ac
 https://uk.talent.com/view?id=603826057349436685|966b947f7bd71973
-https://uk.talent.com/view?id=604691814964932317|b2f66e1cd57e66e1
+https://uk.talent.com/view?id=604691814964932317|a74a2a85be90adee
 https://uk.talent.com/view?id=605304202241385396|7851aa61fe24e12a
 https://uk.talent.com/view?id=605432227963481452|d03540a98f35693d
 https://uk.talent.com/view?id=607046753033982424|b1c00584d31e7f94
