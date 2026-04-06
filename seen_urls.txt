@@ -391,7 +391,7 @@ https://uk.linkedin.com/jobs/view/microservices-test-engineer-at-inoverse-groupe
 https://uk.linkedin.com/jobs/view/mid-level-qa-engineer-at-hackajob-4378288958|d2a6aa11950a0bfc
 https://uk.linkedin.com/jobs/view/mid-level-sdet-at-insight-global-4391894033|5971fb8d58f425f3
 https://uk.linkedin.com/jobs/view/mobile-qa-engineer-at-leo-club-maastricht-4343199676|fc2cf7916d082ecf
-https://uk.linkedin.com/jobs/view/mot-tester-at-the-test-centre-i-nothing-but-mots-4397741155|cb0cb0e165106373
+https://uk.linkedin.com/jobs/view/mot-tester-at-the-test-centre-i-nothing-but-mots-4397741155|3d824ceb7213bd92
 https://uk.linkedin.com/jobs/view/multiple-automation-developers-at-mrj-recruitment-4361826210|7c7c50d2ebb6fe2b
 https://uk.linkedin.com/jobs/view/new-job-georgia-test-at-bath-north-east-somerset-council-4339834532|63bf12faadc62aaf
 https://uk.linkedin.com/jobs/view/new-test-job-rakel-at-epsilon-4396597265|5df7835d9662c85c
@@ -408,6 +408,7 @@ https://uk.linkedin.com/jobs/view/principal-cybersecurity-test-engineer-at-space
 https://uk.linkedin.com/jobs/view/principal-qa-engineer-at-amadeus-4370416241|71412cc6b66e5042
 https://uk.linkedin.com/jobs/view/principal-system-test-engineer-at-graphcore-4330087351|91356169a3d2fffb
 https://uk.linkedin.com/jobs/view/principal-test-engineer-at-hackajob-4329216868|b442b734201dc71b
+https://uk.linkedin.com/jobs/view/principal-test-engineer-at-hackajob-4394423547|db33b593b18d5870
 https://uk.linkedin.com/jobs/view/product-test-engineer-luxury-audio-at-harman-international-4351011419|2d0a56c30be833f4
 https://uk.linkedin.com/jobs/view/project-and-automation-engineer-at-years-com-more-years-together-4390309010|0f1447eecbc78e27
 https://uk.linkedin.com/jobs/view/qa-analyst-at-hackajob-4378266775|db75b839a6723228
@@ -1009,6 +1010,7 @@ https://uk.talent.com/view?id=603602977709561101|24621b6bb1bac8f7
 https://uk.talent.com/view?id=603602985996588301|4123df87c39ff6ac
 https://uk.talent.com/view?id=603826057349436685|966b947f7bd71973
 https://uk.talent.com/view?id=604691814964932317|a74a2a85be90adee
+https://uk.talent.com/view?id=605134143504658141|9e4061fe057e187a
 https://uk.talent.com/view?id=605304202241385396|7851aa61fe24e12a
 https://uk.talent.com/view?id=605432227963481452|d03540a98f35693d
 https://uk.talent.com/view?id=607046753033982424|b1c00584d31e7f94
