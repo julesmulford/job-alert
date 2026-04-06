@@ -18,7 +18,7 @@ https://jobs.theguardian.com/job/10049733/control-panel-equipment-test-engineer/
 https://jobs.theguardian.com/job/9974624/automation-engineer-eica-buk-service-dept/|077135f818a9f9f9
 https://jobs.theguardian.com/job/9996002/automation-engineer-eica-buk-service-dept/|b988361b43f008de
 https://jobtoday.com/gb/jobs-network-automation-engineer/stafford|a0b69de5ca1e63c2
-https://jobtoday.com/gb/jobs-qa-tester/chatham|4f68bc9ed746953e
+https://jobtoday.com/gb/jobs-qa-tester/chatham|efc00de7c339caa1
 https://jobtoday.com/gb/jobs-qa-tester/pontefract|5b5187d52c163eef
 https://jobtoday.com/gb/jobs-software-tester/worksop|5d780b5162d0597e
 https://syncni.com/article/14760/backing-the-next-generation-of-entrepreneurs-in-northern-ireland|739e3baadcd1402a
@@ -225,6 +225,7 @@ https://uk.jobtome.com/job/software-tester-1-year-fixed-term/d7ca9b44ad31d520dbd
 https://uk.jobtome.com/job/software-tester-remote/59c4fd629d579b89d74ce4eaa73cb864|48ca661c91a3d262
 https://uk.jobtome.com/job/test-engineer/1f7b368913a61d50750874b8e3270f45|68a16fc79dd56a45
 https://uk.jobtome.com/test-engineer-jobs-derby|4e3b6c25922e379f
+https://uk.linkedin.com/in/raveena-shah-9340543b9|f6bf3f65e159e59f
 https://uk.linkedin.com/in/seema-hanchate-31442b3b9|2345f6b0779a0b5c
 https://uk.linkedin.com/jobs/software-tester-jobs-wideopen|a153e5be237d086c
 https://uk.linkedin.com/jobs/view/actemium-automation-nottingham-senior-control-systems-engineer-siemens-specialist-at-actemium-uk-4329640161|7c5b4f936b81866c
@@ -409,7 +410,7 @@ https://uk.linkedin.com/jobs/view/principal-cybersecurity-test-engineer-at-space
 https://uk.linkedin.com/jobs/view/principal-qa-engineer-at-amadeus-4370416241|71412cc6b66e5042
 https://uk.linkedin.com/jobs/view/principal-system-test-engineer-at-graphcore-4330087351|91356169a3d2fffb
 https://uk.linkedin.com/jobs/view/principal-test-engineer-at-hackajob-4329216868|b442b734201dc71b
-https://uk.linkedin.com/jobs/view/principal-test-engineer-at-hackajob-4394423547|8dca5f5508addef4
+https://uk.linkedin.com/jobs/view/principal-test-engineer-at-hackajob-4394423547|b67625c4a1fb1865
 https://uk.linkedin.com/jobs/view/product-test-engineer-luxury-audio-at-harman-international-4351011419|2d0a56c30be833f4
 https://uk.linkedin.com/jobs/view/project-and-automation-engineer-at-years-com-more-years-together-4390309010|0f1447eecbc78e27
 https://uk.linkedin.com/jobs/view/qa-analyst-at-hackajob-4378266775|db75b839a6723228
@@ -534,7 +535,7 @@ https://uk.linkedin.com/jobs/view/sdet-at-xcede-4325820951|5d46d56bc466b04d
 https://uk.linkedin.com/jobs/view/sdet-engineer-at-clearroute-4369294926|c0cc81cf38c49f9f
 https://uk.linkedin.com/jobs/view/sdet-wallet-platform-at-jobgether-4385351605|ebd10bd0fcf42d44
 https://uk.linkedin.com/jobs/view/senior-ai-automation-engineer-at-binnies-4359407906|ead0980efac05468
-https://uk.linkedin.com/jobs/view/senior-associate-qa-engineer-london-stock-exchange-group-at-jobs-via-efinancialcareers-4398036196|25739ba037ffbc85
+https://uk.linkedin.com/jobs/view/senior-associate-qa-engineer-london-stock-exchange-group-at-jobs-via-efinancialcareers-4398036196|299309512e4ab9ce
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-arrows-4390703513|15c85bdbc282ba02
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-kainos-4345647757|d20f9b074a651b7c
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-n-able-4347590980|be238205d7350d0c
@@ -831,7 +832,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-multiplex-4392679126|fc59fac6
 https://uk.linkedin.com/jobs/view/test-engineer-at-nhs-4344984973|43bdc87c9ebc6e28
 https://uk.linkedin.com/jobs/view/test-engineer-at-noir-4391575462?refId=YFMtumkk92R3Odlti783EA==&trackingId=p/8elq5/o/Y+ywvlS0q2LQ==|a7b90acaa4e51d14
 https://uk.linkedin.com/jobs/view/test-engineer-at-north-scout-4386854950|fd2155ae786dec6d
-https://uk.linkedin.com/jobs/view/test-engineer-at-novanta-inc-4394466359|0e3b9f616fdc5422
+https://uk.linkedin.com/jobs/view/test-engineer-at-novanta-inc-4394466359|e4103fcbf5455196
 https://uk.linkedin.com/jobs/view/test-engineer-at-oho-group-4374616530|7a138b8b7d0aaf6a
 https://uk.linkedin.com/jobs/view/test-engineer-at-oho-group-ltd-4325583001|fc6f061b72f0f66f
 https://uk.linkedin.com/jobs/view/test-engineer-at-open-mind-srl-4388086611|947feded4e1ee9e5
@@ -1013,7 +1014,7 @@ https://uk.talent.com/view?id=603602977709561101|24621b6bb1bac8f7
 https://uk.talent.com/view?id=603602985996588301|4123df87c39ff6ac
 https://uk.talent.com/view?id=603826057349436685|966b947f7bd71973
 https://uk.talent.com/view?id=604691814964932317|a74a2a85be90adee
-https://uk.talent.com/view?id=605134143504658141|510e7374579650aa
+https://uk.talent.com/view?id=605134143504658141|9e4061fe057e187a
 https://uk.talent.com/view?id=605304202241385396|7851aa61fe24e12a
 https://uk.talent.com/view?id=605432227963481452|d03540a98f35693d
 https://uk.talent.com/view?id=607046753033982424|b1c00584d31e7f94
@@ -1319,7 +1320,7 @@ https://uk.whatjobs.com/jobs/senior-automation-engineer?id=391373537|35b74eb3a86
 https://uk.whatjobs.com/jobs/test-engineer?id=364423812|afcee8982a1e55da
 https://welovesalt.com/jobs/mainframe-system-automation-engineer-finance-nottingham-712766|83eacae5c4af6c42
 https://www.cybersecurityjobsite.com/job/5510530/automation-test-engineer/|7b6ef0ca2f23b673
-https://www.cybersecurityjobsite.com/job/5517734/automation-test-engineer/|fc3e34af7cbcd31d
+https://www.cybersecurityjobsite.com/job/5517734/automation-test-engineer/|675cfb432a46219c
 https://www.google.com/url?rct=j&sa=t&url=https://uk.indeed.com/q-software-tester-l-stoke-on-trent-jobs.html%3Fstart%3D10&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw19O_Nm2xkl35IJNoahYIzB|cccc9d5b4f048905
 https://www.google.com/url?rct=j&sa=t&url=https://uk.jooble.org/jdp/-5177900960689959283&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw2NYgRQ2ZsVYKQMEvbl7czI|b364d5754ff2f009
 https://www.google.com/url?rct=j&sa=t&url=https://uk.jooble.org/jdp/195197851374480301&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw3dyHICZoruTy21La4b2Umg|8fd04a30a8505006
