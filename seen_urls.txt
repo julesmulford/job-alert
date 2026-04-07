@@ -18,7 +18,7 @@ https://jobs.theguardian.com/job/10049733/control-panel-equipment-test-engineer/
 https://jobs.theguardian.com/job/9974624/automation-engineer-eica-buk-service-dept/|077135f818a9f9f9
 https://jobs.theguardian.com/job/9996002/automation-engineer-eica-buk-service-dept/|b988361b43f008de
 https://jobtoday.com/gb/jobs-network-automation-engineer/stafford|a0b69de5ca1e63c2
-https://jobtoday.com/gb/jobs-qa-tester/chatham|ba5424c27c8830dc
+https://jobtoday.com/gb/jobs-qa-tester/chatham|8ef3a33c1e85e558
 https://jobtoday.com/gb/jobs-qa-tester/pontefract|5b5187d52c163eef
 https://jobtoday.com/gb/jobs-software-tester/worksop|5d780b5162d0597e
 https://syncni.com/article/14760/backing-the-next-generation-of-entrepreneurs-in-northern-ireland|739e3baadcd1402a
@@ -410,7 +410,7 @@ https://uk.linkedin.com/jobs/view/principal-cybersecurity-test-engineer-at-space
 https://uk.linkedin.com/jobs/view/principal-qa-engineer-at-amadeus-4370416241|71412cc6b66e5042
 https://uk.linkedin.com/jobs/view/principal-system-test-engineer-at-graphcore-4330087351|91356169a3d2fffb
 https://uk.linkedin.com/jobs/view/principal-test-engineer-at-hackajob-4329216868|b442b734201dc71b
-https://uk.linkedin.com/jobs/view/principal-test-engineer-at-hackajob-4394423547|4d851096d9665537
+https://uk.linkedin.com/jobs/view/principal-test-engineer-at-hackajob-4394423547|6863bbd5b2ea44de
 https://uk.linkedin.com/jobs/view/product-test-engineer-luxury-audio-at-harman-international-4351011419|2d0a56c30be833f4
 https://uk.linkedin.com/jobs/view/project-and-automation-engineer-at-years-com-more-years-together-4390309010|0f1447eecbc78e27
 https://uk.linkedin.com/jobs/view/qa-analyst-at-hackajob-4378266775|db75b839a6723228
@@ -535,7 +535,7 @@ https://uk.linkedin.com/jobs/view/sdet-at-xcede-4325820951|5d46d56bc466b04d
 https://uk.linkedin.com/jobs/view/sdet-engineer-at-clearroute-4369294926|c0cc81cf38c49f9f
 https://uk.linkedin.com/jobs/view/sdet-wallet-platform-at-jobgether-4385351605|ebd10bd0fcf42d44
 https://uk.linkedin.com/jobs/view/senior-ai-automation-engineer-at-binnies-4359407906|ead0980efac05468
-https://uk.linkedin.com/jobs/view/senior-associate-qa-engineer-london-stock-exchange-group-at-jobs-via-efinancialcareers-4398036196|d1a061eaa7b2d4f8
+https://uk.linkedin.com/jobs/view/senior-associate-qa-engineer-london-stock-exchange-group-at-jobs-via-efinancialcareers-4398036196|b0ee50ad95765fd3
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-arrows-4390703513|15c85bdbc282ba02
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-kainos-4345647757|d20f9b074a651b7c
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-n-able-4347590980|be238205d7350d0c
@@ -832,7 +832,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-multiplex-4392679126|fc59fac6
 https://uk.linkedin.com/jobs/view/test-engineer-at-nhs-4344984973|43bdc87c9ebc6e28
 https://uk.linkedin.com/jobs/view/test-engineer-at-noir-4391575462?refId=YFMtumkk92R3Odlti783EA==&trackingId=p/8elq5/o/Y+ywvlS0q2LQ==|a7b90acaa4e51d14
 https://uk.linkedin.com/jobs/view/test-engineer-at-north-scout-4386854950|fd2155ae786dec6d
-https://uk.linkedin.com/jobs/view/test-engineer-at-novanta-inc-4394466359|ede5ea6d76df57f6
+https://uk.linkedin.com/jobs/view/test-engineer-at-novanta-inc-4394466359|a2993897b9322c1d
 https://uk.linkedin.com/jobs/view/test-engineer-at-oho-group-4374616530|7a138b8b7d0aaf6a
 https://uk.linkedin.com/jobs/view/test-engineer-at-oho-group-ltd-4325583001|fc6f061b72f0f66f
 https://uk.linkedin.com/jobs/view/test-engineer-at-open-mind-srl-4388086611|947feded4e1ee9e5
@@ -1014,7 +1014,7 @@ https://uk.talent.com/view?id=603602977709561101|24621b6bb1bac8f7
 https://uk.talent.com/view?id=603602985996588301|4123df87c39ff6ac
 https://uk.talent.com/view?id=603826057349436685|966b947f7bd71973
 https://uk.talent.com/view?id=604691814964932317|a74a2a85be90adee
-https://uk.talent.com/view?id=605134143504658141|a8a9bf796093836f
+https://uk.talent.com/view?id=605134143504658141|34a3fe78ad8faef1
 https://uk.talent.com/view?id=605304202241385396|7851aa61fe24e12a
 https://uk.talent.com/view?id=605432227963481452|d03540a98f35693d
 https://uk.talent.com/view?id=607046753033982424|b1c00584d31e7f94
