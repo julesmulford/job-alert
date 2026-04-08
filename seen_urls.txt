@@ -402,7 +402,7 @@ https://uk.linkedin.com/jobs/view/non-functional-test-manager-at-institute-of-co
 https://uk.linkedin.com/jobs/view/offensive-security-tester-at-hackajob-4321452018|42eb01360b963bb5
 https://uk.linkedin.com/jobs/view/pat-tester-at-ecs-ltd-4329895656|4681d398c2c71711
 https://uk.linkedin.com/jobs/view/pat-tester-portable-appliance-tester-at-norwood-electrical-uk-ltd-4373217113|ce4e3379c8ce3353
-https://uk.linkedin.com/jobs/view/performance-qa-engineer-at-opus-recruitment-solutions-4395455103|00b0182a3f7b367d
+https://uk.linkedin.com/jobs/view/performance-qa-engineer-at-opus-recruitment-solutions-4395455103|5d9abf6b0eb36431
 https://uk.linkedin.com/jobs/view/performance-test-engineer-at-coforge-4327626051|646ad838432143d4
 https://uk.linkedin.com/jobs/view/plc-and-automation-engineer-at-tiptopjob-4370905294|2ce31d5b53816ba7
 https://uk.linkedin.com/jobs/view/plc-automation-engineer-at-the-seaking-group-4370696401|57a644496275172a
@@ -648,7 +648,7 @@ https://uk.linkedin.com/jobs/view/senior-test-analyst-at-premier-group-434257418
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-trust-in-soda-4370200377|ee34b72dfa859b63
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-hackajob-4328310922|3e71ee73833045a8
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-lsl-property-services-plc-4385274442|5f6df77b4858d361
-https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-satalia-4398523342|101717a2e0691cf7
+https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-satalia-4398523342|ae4118e8badf8092
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-xperi-inc-4326506723|2745901db43560f3
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-contract-at-epam-systems-4389181506|84d6ff88d966c455
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-workday-product-incubator-at-kainos-4391598569|87bdeaca968ab3ac
@@ -693,7 +693,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-redtech-recruitment-43
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-sepura-4342671512|802c4a8e196a88f1
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-sepura-4393562419|cfe4aa295cc0f66f
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-socode-recruitment-4395861889|3d146b5884091bb5
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-tec-partners-technical-recruitment-specialists-4398278261|797e520e8a125173
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-tec-partners-technical-recruitment-specialists-4398278261|7295ab1294159bd0
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-teledyne-technologies-incorporated-4364733758|2e64368daa66e61d
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-the-one-group-ltd-4379832081|4439b2c530e6d726
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-trs-staffing-solutions-4321497038|53495690671905ee
@@ -747,7 +747,7 @@ https://uk.linkedin.com/jobs/view/software-test-engineers-at-hackajob-4366436413
 https://uk.linkedin.com/jobs/view/software-tester-at-culverdocs-4342181779|b35890caa39d6ecc
 https://uk.linkedin.com/jobs/view/software-tester-at-europa-worldwide-group-4394656468|b2d6c80de2747a46
 https://uk.linkedin.com/jobs/view/software-tester-at-fdm-group-4348622615|63521ed80df38291
-https://uk.linkedin.com/jobs/view/software-tester-at-fetchjobs-co-4394797920|5d5b5b116ee3d1cc
+https://uk.linkedin.com/jobs/view/software-tester-at-fetchjobs-co-4394797920|7ba3888faf932ec9
 https://uk.linkedin.com/jobs/view/software-tester-at-iken-4373871842|996095a353f91053
 https://uk.linkedin.com/jobs/view/software-tester-at-seebyte-4388392006|ae256385936cad4f
 https://uk.linkedin.com/jobs/view/software-tester-at-squarcle-4379885720|4e8faed697e6c205
@@ -897,7 +897,7 @@ https://uk.linkedin.com/jobs/view/tooling-automation-engineer-at-apple-436006515
 https://uk.linkedin.com/jobs/view/tosca-lead-at-ampstek-4390113114|e80983dc948dcede
 https://uk.linkedin.com/jobs/view/tp-united-kingdom-testing-at-concentrix-4386138464|f0d7cfed074a78e3
 https://uk.linkedin.com/jobs/view/trainee-software-tester-at-taxpad-ltd-4346412018|1aacc02d1e77fa82
-https://uk.linkedin.com/jobs/view/uat-tester-at-deloitte-4395418794|4f1b991dfa5cc40b
+https://uk.linkedin.com/jobs/view/uat-tester-at-deloitte-4395418794|22eeb97fff176cdd
 https://uk.linkedin.com/jobs/view/validation-engineer-at-ic-resources-4345646712|16505730f1ae5d37
 https://uk.linkedin.com/jobs/view/vehicle-test-engineer-adas-systems-at-jlr-4362128333|09423538761595d1
 https://uk.linkedin.com/jobs/view/vehicle-test-engineer-at-quintessential-design-services-limited-4364037357|aaeb3843eba85fed
