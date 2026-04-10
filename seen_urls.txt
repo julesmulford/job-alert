@@ -11,7 +11,7 @@ https://gb.bebee.com/job/da698c6ce7dcb67f506cb4e2bfdaec03|2e6fa3e25350a39f
 https://gb.bebee.com/job/ebb07f7589e02268879299b8016bac79|b21f99dba29cb333
 https://gb.bebee.com/job/eef67ab7c098e677a138f416f7c1bacd|d31d93925373d447
 https://jobs.jobg8.com/jobs/junior-test-engineer-remote-playwright-jest-gds-in-united-kingdom/5673-3057150701ED|89a9d4ced5176dfa
-https://jobs.theguardian.com/employer/ba7a045f-d758-4e3a-9109-bb2e748f6551/accenture|7cc45523136ae63c
+https://jobs.theguardian.com/employer/ba7a045f-d758-4e3a-9109-bb2e748f6551/accenture|8c18da15cf6bfec8
 https://jobs.theguardian.com/job/10027869/automation-engineer-eica-buk-service-dept/|e1d14c69614b87e9
 https://jobs.theguardian.com/job/10030318/control-panel-equipment-test-engineer/|06b07244cad14a78
 https://jobs.theguardian.com/job/10047303/automation-engineer-eica-buk-service-dept/|af14efad454deae1
@@ -409,7 +409,7 @@ https://uk.linkedin.com/jobs/view/pat-tester-at-ecs-ltd-4329895656|4681d398c2c71
 https://uk.linkedin.com/jobs/view/pat-tester-portable-appliance-tester-at-norwood-electrical-uk-ltd-4373217113|ce4e3379c8ce3353
 https://uk.linkedin.com/jobs/view/performance-qa-engineer-at-opus-recruitment-solutions-4395455103|c23237fc2c30d1b1
 https://uk.linkedin.com/jobs/view/performance-test-engineer-at-coforge-4327626051|646ad838432143d4
-https://uk.linkedin.com/jobs/view/performance-test-engineer-at-test-yantra-4400376893|6b324760a3d17936
+https://uk.linkedin.com/jobs/view/performance-test-engineer-at-test-yantra-4400376893|bfc672f00af8b27d
 https://uk.linkedin.com/jobs/view/plc-and-automation-engineer-at-tiptopjob-4370905294|2ce31d5b53816ba7
 https://uk.linkedin.com/jobs/view/plc-automation-engineer-at-the-seaking-group-4370696401|57a644496275172a
 https://uk.linkedin.com/jobs/view/power-supply-design-and-test-engineer-at-ic-resources-4393836909|ebb13a742e5fbcc8
@@ -453,7 +453,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-at-io-associates-4368786425|b92e6b
 https://uk.linkedin.com/jobs/view/qa-engineer-at-ldms-4373929610|eedaccf95ecbfe1f
 https://uk.linkedin.com/jobs/view/qa-engineer-at-low-carbon-contracts-company-4384961209|58a886af2aed0c96
 https://uk.linkedin.com/jobs/view/qa-engineer-at-lyon-s-a-bit-creative-4384522554|df29a0aa3319fbe5
-https://uk.linkedin.com/jobs/view/qa-engineer-at-netrolynx-ai-4400382124|cdce8801c67f4285
+https://uk.linkedin.com/jobs/view/qa-engineer-at-netrolynx-ai-4400382124|e87832edcafa7249
 https://uk.linkedin.com/jobs/view/qa-engineer-at-opus-recruitment-solutions-4392192500|aabe8f956a2efc2b
 https://uk.linkedin.com/jobs/view/qa-engineer-at-person-centred-software-ltd-4376751447|6bc0c8359f292f52
 https://uk.linkedin.com/jobs/view/qa-engineer-at-radius-4377861129|575daf99b84b2976
@@ -637,7 +637,7 @@ https://uk.linkedin.com/jobs/view/senior-software-development-engineer-in-test-s
 https://uk.linkedin.com/jobs/view/senior-software-development-test-engineer-at-paysafe-4328929077|760efaaefc55491b
 https://uk.linkedin.com/jobs/view/senior-software-engineer-in-test-sdet-at-hackajob-4395344439|e830e13460f94617
 https://uk.linkedin.com/jobs/view/senior-software-engineer-remote-at-crossing-hurdles-4394265412|4a65d2ded691429c
-https://uk.linkedin.com/jobs/view/senior-software-qa-engineer-at-engineered-arts-4398857857|fbe5c79b399cb08b
+https://uk.linkedin.com/jobs/view/senior-software-qa-engineer-at-engineered-arts-4398857857|9574ecdf7d062f8c
 https://uk.linkedin.com/jobs/view/senior-software-qa-test-development-engineer-at-nvidia-4359313436|c4a842303bc50c05
 https://uk.linkedin.com/jobs/view/senior-software-qa-test-development-engineer-senior-software-qa-test-development-engineer-at-nvidia-4377419275|851f63840f51a922
 https://uk.linkedin.com/jobs/view/senior-software-quality-assurance-engineer-at-eden-scott-4353716476|1dc2bbd9dde11aed
@@ -698,7 +698,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-mygwork-lgbtq+-busines
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-ncr-atleos-4328117500|ec03eab6907ecb97
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-platform-recruitment-4353124635|d6451abbc33d4f61
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-randstad-digital-4363069521|8b4188bf5d8e63a8
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-raytheon-uk-4400548094|5895dd8fb13f78a8
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-raytheon-uk-4400548094|47126127ce304187
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-redtech-recruitment-4363953251|4fc318021a15f295
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-sepura-4342671512|802c4a8e196a88f1
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-sepura-4393562419|cfe4aa295cc0f66f
@@ -740,7 +740,7 @@ https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-dartt-4
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-michael-james-associates-4329040513|3934a53764eda1b8
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-nuclera-4386735718|a7ef651c447512b4
 https://uk.linkedin.com/jobs/view/software-quality-assurance-tester-at-davanti-recruitment-ltd-4368640262|de7c19afff1d2d35
-https://uk.linkedin.com/jobs/view/software-test-engineer-at-avance-consulting-4398104755|28050078b44d719c
+https://uk.linkedin.com/jobs/view/software-test-engineer-at-avance-consulting-4398104755|936ba7da8baa2c39
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-empresaria-group-plc-4386833646|e23c361890815055
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-explore-group-4350146205|90039330509a4368
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-ic-resources-4359453757|17b23602836072a5
