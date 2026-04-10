@@ -701,7 +701,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-socode-recruitment-439
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-tec-partners-technical-recruitment-specialists-4398278261|cfa5a82828f29667
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-teledyne-technologies-incorporated-4364733758|2e64368daa66e61d
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-the-one-group-ltd-4379832081|4439b2c530e6d726
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-thermo-fisher-scientific-4398676217|e5b3232bba26d837
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-thermo-fisher-scientific-4398676217|d82d07176e8f48c6
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-trs-staffing-solutions-4321497038|53495690671905ee
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-vallum-associates-4386382719|5b815833e1841a96
 https://uk.linkedin.com/jobs/view/senior-test-engineer-aws-microservices-transformation-public-sector-12-months-at-bangura-solutions-4353933351|afe05559cf0fc4a9
@@ -1380,7 +1380,7 @@ https://www.jobsinwales.com/jobs-in-pontyclun/test-engineer_1438890?region=south
 https://www.jobsinwales.com/jobs-in-pontyclun/test-engineer_1444048?region=south|0dba12009be6215e
 https://www.jobsinwales.com/jobs-in-st-asaph/test-engineer_1425893?region=south|3d77650c53142102
 https://www.microtech-global.com/en/job_detail.asp?jobid=19003UMQ|045f1298b72e0376
-https://www.microtech-global.com/en/job_detail.asp?jobid=19003URX|6f47c5cec15a2cd7
+https://www.microtech-global.com/en/job_detail.asp?jobid=19003URX|55ab9358e6993da5
 https://www.nhsjobs.com/job/UK/Cardiff/Cardiff/Public_Health_Wales_NHS_Trust/QA_Tester/QA_Tester-v7765316|be57810b0cfe591f
 https://www.prs.uk.com/job/production-test-engineer-essex-bh-68485|9bf9421c3b4f4ddf
 https://www.qualifiedfinder.com/jobs/environmental-test-engineer-3058483800|e7fffbd7e631d68c
