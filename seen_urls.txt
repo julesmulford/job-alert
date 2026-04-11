@@ -221,7 +221,7 @@ https://uk.jobtome.com/job/qa-engineer/2bfd9f8756c6c623237fbb634bd02d9e|f4de2d76
 https://uk.jobtome.com/job/qa-engineer/7522886bfc63e58012eb96f13d6b688a|0c1ee079cd56d9d9
 https://uk.jobtome.com/job/rf-test-engineer/cdb1a9916708ea1ee127d92c1a059c2c|4d39e190e9d7478a
 https://uk.jobtome.com/job/robot-automation-engineer/7cd6ec89d78e0014ab068283aa33da20|184555015c07eb16
-https://uk.jobtome.com/job/senior-qa-analyst-and-automation-engineer/83d105e9fe3362d0100576c52eba0e53|99a47c16adf798a5
+https://uk.jobtome.com/job/senior-qa-analyst-and-automation-engineer/83d105e9fe3362d0100576c52eba0e53|4f34c57f6bd04c06
 https://uk.jobtome.com/job/senior-test-engineer/7617fb5b75b2aaa596fdd0829d0b1e07|8c1b11ab49f42f1c
 https://uk.jobtome.com/job/software-test-engineer/f07cb5b9008937bc0ee7b9016cfd094f|fb412cf65f9a348b
 https://uk.jobtome.com/job/software-tester-1-year-fixed-term/d7ca9b44ad31d520dbd727390aa656d0|ba0a697ae74a6c0d
@@ -460,7 +460,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-at-person-centred-software-ltd-437
 https://uk.linkedin.com/jobs/view/qa-engineer-at-radius-4377861129|575daf99b84b2976
 https://uk.linkedin.com/jobs/view/qa-engineer-at-robert-walters-4365270219|5f0c9ba0b2881b71
 https://uk.linkedin.com/jobs/view/qa-engineer-at-softcat-4362643513|3c7c5b4082189194
-https://uk.linkedin.com/jobs/view/qa-engineer-at-sphere-solutions-4399301907|8d63643ab37f7edd
+https://uk.linkedin.com/jobs/view/qa-engineer-at-sphere-solutions-4399301907|fe1660ce00d60303
 https://uk.linkedin.com/jobs/view/qa-engineer-at-track24-4329964964|e6c5aaea37e21a83
 https://uk.linkedin.com/jobs/view/qa-engineer-at-women-in-tech-4397374727|a1bafc4e64a15e10
 https://uk.linkedin.com/jobs/view/qa-engineer-at-xpertise-recruitment-4352390269|bfdbf73c88f4aaa3
