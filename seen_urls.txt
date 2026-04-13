@@ -204,7 +204,7 @@ https://uk.jobrapido.com/jobpreview/9193484821878276096|e820d75a22f26709
 https://uk.jobtome.com/job/automation-engineer/5e3f4fcfb8bbc63ee2a60c7e9196d9bc|b2c6653613eddc8d
 https://uk.jobtome.com/job/automation-infrastructure-engineer-corsham/02e5c3b98943edac9898bb381ba79b61|61ac1930405723cc
 https://uk.jobtome.com/job/automation-test-engineer/24ae5192e97b359d47b0021e072d206b|071a02599367df07
-https://uk.jobtome.com/job/control-and-automation-engineer/458a65605408fe5492b2236e945ab976|99f6589dc9973c26
+https://uk.jobtome.com/job/control-and-automation-engineer/458a65605408fe5492b2236e945ab976|54a5f6073d53d3af
 https://uk.jobtome.com/job/control-automation-engineer/4fddb2ea344cc740cb735d6c6a5ef28a|99db1ad2e1c4d404
 https://uk.jobtome.com/job/data-test-automation-engineer/7594b3578c98f6a478cf625e82eaada0|07d65255a0e3a360
 https://uk.jobtome.com/job/devops-engineer/2612ad35fdbf73f7544721043e045ff9|a88501153b84e2f5
@@ -214,7 +214,7 @@ https://uk.jobtome.com/job/graduate-software-test-engineer/b807f359d089e020b273f
 https://uk.jobtome.com/job/integration-test-engineer/cd659bfa74569a61d683fa9bdac16eb7|5a1705949866e97a
 https://uk.jobtome.com/job/lead-ai-automation-engineer-rpa-llm/09c94b7b3b08dce332601fb78196b04c|16b947b9ae511283
 https://uk.jobtome.com/job/mainframe-system-automation-engineer/8b2b6d1f12c4c40d197de3523b6868b8|b33405c357f2593a
-https://uk.jobtome.com/job/network-automation-engineer-specialist-telecoms-network/0f37c97938eaf81714950a849921e6a2|7e78a94914979317
+https://uk.jobtome.com/job/network-automation-engineer-specialist-telecoms-network/0f37c97938eaf81714950a849921e6a2|8e402ce8a8687bbc
 https://uk.jobtome.com/job/nvh-wind-noise-rig-test-engineer/58f1ff802eac3fb560b7f90b98a68bab|30d2030f103ec9fb
 https://uk.jobtome.com/job/principle-test-engineer/fc5538f297890cdb9db9c4c236286f39|9556e9ef747ceced
 https://uk.jobtome.com/job/process-automation-engineer/7b3bc2ca0efcbec8e01268fd810a1136|c4753b9a9f1fb9b6
@@ -224,7 +224,7 @@ https://uk.jobtome.com/job/qa-engineer/2bfd9f8756c6c623237fbb634bd02d9e|f4de2d76
 https://uk.jobtome.com/job/qa-engineer/7522886bfc63e58012eb96f13d6b688a|0c1ee079cd56d9d9
 https://uk.jobtome.com/job/rf-test-engineer/cdb1a9916708ea1ee127d92c1a059c2c|4d39e190e9d7478a
 https://uk.jobtome.com/job/robot-automation-engineer/7cd6ec89d78e0014ab068283aa33da20|184555015c07eb16
-https://uk.jobtome.com/job/safety-test-engineer/2a7195174582d585e63bee3520561d0a|a433717d3d8366d2
+https://uk.jobtome.com/job/safety-test-engineer/2a7195174582d585e63bee3520561d0a|1e0efbdee395c953
 https://uk.jobtome.com/job/senior-qa-analyst-and-automation-engineer/83d105e9fe3362d0100576c52eba0e53|12004aad20df54c9
 https://uk.jobtome.com/job/senior-test-engineer/7617fb5b75b2aaa596fdd0829d0b1e07|8c1b11ab49f42f1c
 https://uk.jobtome.com/job/software-qa-engineer/d941fb021bd298514e1b6e70ffcdd189|01cceb431aac6609
@@ -331,7 +331,7 @@ https://uk.linkedin.com/jobs/view/content-tester-shipit-at-shipit-4346291657|266
 https://uk.linkedin.com/jobs/view/contract-automation-tester-at-inspired-thinking-group-itg-4372255067|980033d40ba3a74b
 https://uk.linkedin.com/jobs/view/controls-and-automation-engineer-at-yeo-valley-organic-4380018521|bb2817f0bfcd0a60
 https://uk.linkedin.com/jobs/view/controls-automation-engineer-connected-consulting-limited-at-jobster-4360038306|fcf0d6a3dbbce355
-https://uk.linkedin.com/jobs/view/controls-automation-engineer-plc-scada-at-j-t-business-consulting-4398783833|dfe3607ec34faa14
+https://uk.linkedin.com/jobs/view/controls-automation-engineer-plc-scada-at-j-t-business-consulting-4398783833|df16f8223cfd2b7d
 https://uk.linkedin.com/jobs/view/controls-test-engineer-at-siemens-energy-4390154133|e329a68b9dda2963
 https://uk.linkedin.com/jobs/view/cro-qa-test-engineer-at-virgin-media-o2-4392440383|4465316495e03317
 https://uk.linkedin.com/jobs/view/cx-automation-lead-intercom-at-nexus-international-entertainment-4397530939|af2f296bcf6fe81b
@@ -543,7 +543,7 @@ https://uk.linkedin.com/jobs/view/quality-automation-specialist-at-natwest-group
 https://uk.linkedin.com/jobs/view/quality-engineer-at-best-job-tool-4345600421|e5fd1146a0594a23
 https://uk.linkedin.com/jobs/view/quality-engineer-at-brotherstech-4395032036|70da840fdb1f264b
 https://uk.linkedin.com/jobs/view/quality-engineer-at-netrolynx-ai-4400693510|446ae717b0afc4af
-https://uk.linkedin.com/jobs/view/quality-engineer-at-netrolynx-ai-4400958953|cf86f246cbd7d03f
+https://uk.linkedin.com/jobs/view/quality-engineer-at-netrolynx-ai-4400958953|8bd412a650b48a49
 https://uk.linkedin.com/jobs/view/quality-engineer-remote-at-taskify-ai-4339838044|68c9e9b88a7f9aa6
 https://uk.linkedin.com/jobs/view/rf-systems-and-product-test-engineer-at-tiptopjob-4345504827|0d1dbb4645522fee
 https://uk.linkedin.com/jobs/view/rf-test-engineer-at-ic-resources-4379470816|d53fe4c742a388b1
