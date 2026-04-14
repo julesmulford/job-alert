@@ -20,7 +20,7 @@ https://jobs.theguardian.com/job/10074913/automation-engineer-eica-buk-service-d
 https://jobs.theguardian.com/job/9974624/automation-engineer-eica-buk-service-dept/|077135f818a9f9f9
 https://jobs.theguardian.com/job/9996002/automation-engineer-eica-buk-service-dept/|b988361b43f008de
 https://jobtoday.com/gb/jobs-network-automation-engineer/stafford|a0b69de5ca1e63c2
-https://jobtoday.com/gb/jobs-qa-tester/castleford|f27d696b33386a4f
+https://jobtoday.com/gb/jobs-qa-tester/castleford|5ff90eb6449ad7ec
 https://jobtoday.com/gb/jobs-qa-tester/chatham|588af79ffd2584da
 https://jobtoday.com/gb/jobs-qa-tester/pontefract|5b5187d52c163eef
 https://jobtoday.com/gb/jobs-software-tester/worksop|5d780b5162d0597e
@@ -214,7 +214,7 @@ https://uk.jobtome.com/job/data-test-automation-engineer/7594b3578c98f6a478cf625
 https://uk.jobtome.com/job/devops-engineer/2612ad35fdbf73f7544721043e045ff9|a88501153b84e2f5
 https://uk.jobtome.com/job/electrical-controls-automation-engineer-process/6e7972000c3c908be26718fad5ac367e|ad416ecda3cbba4a
 https://uk.jobtome.com/job/environmental-test-engineer/f81909c2d0e48e3aba31c74440bc74d1|5639ca1f3f53e8bc
-https://uk.jobtome.com/job/firmware-test-automation-engineer-embedded-linux-video/20f95d4b782b8b8b4964d9e1d17c2734|ac90682005bdcc34
+https://uk.jobtome.com/job/firmware-test-automation-engineer-embedded-linux-video/20f95d4b782b8b8b4964d9e1d17c2734|292f017ceaffa5fa
 https://uk.jobtome.com/job/graduate-software-test-engineer/b807f359d089e020b273fda0424f572d|e3f759a785d8fee3
 https://uk.jobtome.com/job/integration-test-engineer/cd659bfa74569a61d683fa9bdac16eb7|5a1705949866e97a
 https://uk.jobtome.com/job/lead-ai-automation-engineer-rpa-llm/09c94b7b3b08dce332601fb78196b04c|16b947b9ae511283
@@ -239,7 +239,7 @@ https://uk.jobtome.com/job/software-tester-1-year-fixed-term/d7ca9b44ad31d520dbd
 https://uk.jobtome.com/job/software-tester-remote/59c4fd629d579b89d74ce4eaa73cb864|48ca661c91a3d262
 https://uk.jobtome.com/job/software-tester-workforce-management-systems-experience/3b472fef492940322f1d3b13bb0d1c38|dd50d7fa12934fb9
 https://uk.jobtome.com/job/test-engineer/1f7b368913a61d50750874b8e3270f45|68a16fc79dd56a45
-https://uk.jobtome.com/job/transducer-test-engineer/484197d30c9d6c1320f695f3984d8fbb|934298204bd09a6e
+https://uk.jobtome.com/job/transducer-test-engineer/484197d30c9d6c1320f695f3984d8fbb|5c004189e7efc763
 https://uk.jobtome.com/test-engineer-jobs-derby|4e3b6c25922e379f
 https://uk.linkedin.com/in/raveena-shah-9340543b9|f6bf3f65e159e59f
 https://uk.linkedin.com/in/seema-hanchate-31442b3b9|2345f6b0779a0b5c
@@ -421,7 +421,7 @@ https://uk.linkedin.com/jobs/view/mobile-qa-engineer-at-leo-club-maastricht-4343
 https://uk.linkedin.com/jobs/view/mot-tester-at-the-test-centre-i-nothing-but-mots-4397741155|3ae54c1010ce688d
 https://uk.linkedin.com/jobs/view/multiple-automation-developers-at-mrj-recruitment-4361826210|7c7c50d2ebb6fe2b
 https://uk.linkedin.com/jobs/view/new-job-georgia-test-at-bath-north-east-somerset-council-4339834532|63bf12faadc62aaf
-https://uk.linkedin.com/jobs/view/new-test-at-healthnet-homecare-uk-ltd-4399581182|a549ee09daaefdb9
+https://uk.linkedin.com/jobs/view/new-test-at-healthnet-homecare-uk-ltd-4399581182|ad01e58afa79c762
 https://uk.linkedin.com/jobs/view/new-test-job-rakel-at-epsilon-4396597265|5df7835d9662c85c
 https://uk.linkedin.com/jobs/view/non-functional-test-manager-at-institute-of-communication-4364550613|7bd54b14cc24f747
 https://uk.linkedin.com/jobs/view/offensive-security-tester-at-hackajob-4321452018|42eb01360b963bb5
@@ -522,7 +522,7 @@ https://uk.linkedin.com/jobs/view/qa-tester-ftc-till-june-at-supermassive-games-
 https://uk.linkedin.com/jobs/view/qa-tester-mobile-app-and-firmware-manual-testing-role-at-botz-innovation-4351274551|bf6eee9db1f6b4f4
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4338654888|39955294fa06f4f9
 https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4339450297|0f2676ee91a465a0
-https://uk.linkedin.com/jobs/view/qa-tester-unity-mobile-game-at-jobgether-4400709199|022c20c8e04c910c
+https://uk.linkedin.com/jobs/view/qa-tester-unity-mobile-game-at-jobgether-4400709199|2e2f0cd35b07cb55
 https://uk.linkedin.com/jobs/view/qa-testing-engineer-fintech-saas-game-changer-hybrid-remote-at-debt-register-4383755794|b44a505fee330a44
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-ampstek-4384246751|1022bad25b4285a0
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-develop-4383098142|e217092a148c1aa0
@@ -543,7 +543,7 @@ https://uk.linkedin.com/jobs/view/quality-assurance-engineer-data-centre-at-ten1
 https://uk.linkedin.com/jobs/view/quality-assurance-qa-engineer-at-hackajob-4381077057|b556d3ecd5270384
 https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-anglia-uk-4381633439|050ddb57228595ac
 https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-gama-aviation-4371756518|4c51afcb092f5cf3
-https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-lexisnexis-risk-solutions-4399745286|04287867be1d075e
+https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-lexisnexis-risk-solutions-4399745286|4e1fe53d693e3659
 https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-inara-4401350569|4ecf4c5b588526dd
 https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-pocket-sized-hands-4373947227|37c285d6c03d7f06
 https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-skillspree-4349846037|6059d533c654b364
@@ -585,6 +585,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-sky-4379038938|a
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-smith+nephew-4376769214|f1aae8288b68cbc4
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-game-engine-at-games-factory-talents-connecting-passion-talent-4352326737|9d405b627825e91b
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-london-global-prime-brokerage-financing-platform-at-jobs-via-efinancialcareers-4354670360|3075a98a7f834576
+https://uk.linkedin.com/jobs/view/senior-automation-qa-engineer-at-tradingview-4400743993|75a7d0daa278fa22
 https://uk.linkedin.com/jobs/view/senior-automation-qa-remote-at-tiptopjob-4346999306|d9970c705c6a87d5
 https://uk.linkedin.com/jobs/view/senior-automation-service-engineer-at-spx-flow-inc-4349524418|20157b13a0845e6c
 https://uk.linkedin.com/jobs/view/senior-automation-software-development-test-engineer-at-spacelabs-healthcare-4346530829|06f52bbe3feadac8
