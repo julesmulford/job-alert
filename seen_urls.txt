@@ -202,9 +202,9 @@ https://uk.jobrapido.com/jobpreview/9094772428873138176|3dde5765aea2b34c
 https://uk.jobrapido.com/jobpreview/9114528110203633664|048267a1fa94deda
 https://uk.jobrapido.com/jobpreview/9182285823502974976|3ee4c61d276c4688
 https://uk.jobrapido.com/jobpreview/9193484821878276096|e820d75a22f26709
-https://uk.jobtome.com/job/automation-engineer/26634f8456de7c57c65731aa5c90aea1|4eba3a8185257f9e
+https://uk.jobtome.com/job/automation-engineer/26634f8456de7c57c65731aa5c90aea1|4ee2f998e0eab9c1
 https://uk.jobtome.com/job/automation-engineer/5e3f4fcfb8bbc63ee2a60c7e9196d9bc|b2c6653613eddc8d
-https://uk.jobtome.com/job/automation-engineer/cf005dc98309391b80c9e451e88c2322|45cf704c35ad35ea
+https://uk.jobtome.com/job/automation-engineer/cf005dc98309391b80c9e451e88c2322|3d6a873716436995
 https://uk.jobtome.com/job/automation-infrastructure-engineer-corsham/02e5c3b98943edac9898bb381ba79b61|61ac1930405723cc
 https://uk.jobtome.com/job/automation-test-engineer/24ae5192e97b359d47b0021e072d206b|071a02599367df07
 https://uk.jobtome.com/job/control-and-automation-engineer/458a65605408fe5492b2236e945ab976|b6ff568fb3fa72b7
@@ -213,7 +213,7 @@ https://uk.jobtome.com/job/data-test-automation-engineer/7594b3578c98f6a478cf625
 https://uk.jobtome.com/job/devops-engineer/2612ad35fdbf73f7544721043e045ff9|a88501153b84e2f5
 https://uk.jobtome.com/job/electrical-controls-automation-engineer-process/6e7972000c3c908be26718fad5ac367e|ad416ecda3cbba4a
 https://uk.jobtome.com/job/environmental-test-engineer/f81909c2d0e48e3aba31c74440bc74d1|5639ca1f3f53e8bc
-https://uk.jobtome.com/job/firmware-test-automation-engineer-embedded-linux-video/20f95d4b782b8b8b4964d9e1d17c2734|8a64d3c65a6a5991
+https://uk.jobtome.com/job/firmware-test-automation-engineer-embedded-linux-video/20f95d4b782b8b8b4964d9e1d17c2734|2e812c19b764bd49
 https://uk.jobtome.com/job/graduate-software-test-engineer/b807f359d089e020b273fda0424f572d|e3f759a785d8fee3
 https://uk.jobtome.com/job/integration-test-engineer/cd659bfa74569a61d683fa9bdac16eb7|5a1705949866e97a
 https://uk.jobtome.com/job/lead-ai-automation-engineer-rpa-llm/09c94b7b3b08dce332601fb78196b04c|16b947b9ae511283
@@ -816,7 +816,7 @@ https://uk.linkedin.com/jobs/view/test-analyst-part-time-20-hours-per-week-stude
 https://uk.linkedin.com/jobs/view/test-and-authentication-engineer-at-navantia-uk-4328911069|7f975253b620c28c
 https://uk.linkedin.com/jobs/view/test-area-team-lead-at-tld-4355770978|dc4b8c264c8e2874
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-barclays-4393792488|595a01914e20db17
-https://uk.linkedin.com/jobs/view/test-automation-engineer-at-chartered-insurance-institute-4401310993|107d9a6784dd1709
+https://uk.linkedin.com/jobs/view/test-automation-engineer-at-chartered-insurance-institute-4401310993|64bfc852d586028d
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4328330834|042d44c33833c196
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4363379599|630767aab9e2e2d5
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4374924178|8f3af75f8b05d9db
