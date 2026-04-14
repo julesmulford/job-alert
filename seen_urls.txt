@@ -202,9 +202,9 @@ https://uk.jobrapido.com/jobpreview/9094772428873138176|3dde5765aea2b34c
 https://uk.jobrapido.com/jobpreview/9114528110203633664|048267a1fa94deda
 https://uk.jobrapido.com/jobpreview/9182285823502974976|3ee4c61d276c4688
 https://uk.jobrapido.com/jobpreview/9193484821878276096|e820d75a22f26709
-https://uk.jobtome.com/job/automation-engineer/26634f8456de7c57c65731aa5c90aea1|6202e2df85d00c74
+https://uk.jobtome.com/job/automation-engineer/26634f8456de7c57c65731aa5c90aea1|ced6553c05f89a57
 https://uk.jobtome.com/job/automation-engineer/5e3f4fcfb8bbc63ee2a60c7e9196d9bc|b2c6653613eddc8d
-https://uk.jobtome.com/job/automation-engineer/cf005dc98309391b80c9e451e88c2322|d625721f4fbc94fe
+https://uk.jobtome.com/job/automation-engineer/cf005dc98309391b80c9e451e88c2322|6f9ac9a8a3954932
 https://uk.jobtome.com/job/automation-infrastructure-engineer-corsham/02e5c3b98943edac9898bb381ba79b61|61ac1930405723cc
 https://uk.jobtome.com/job/automation-test-engineer/24ae5192e97b359d47b0021e072d206b|071a02599367df07
 https://uk.jobtome.com/job/control-and-automation-engineer/458a65605408fe5492b2236e945ab976|b6ff568fb3fa72b7
@@ -213,14 +213,14 @@ https://uk.jobtome.com/job/data-test-automation-engineer/7594b3578c98f6a478cf625
 https://uk.jobtome.com/job/devops-engineer/2612ad35fdbf73f7544721043e045ff9|a88501153b84e2f5
 https://uk.jobtome.com/job/electrical-controls-automation-engineer-process/6e7972000c3c908be26718fad5ac367e|ad416ecda3cbba4a
 https://uk.jobtome.com/job/environmental-test-engineer/f81909c2d0e48e3aba31c74440bc74d1|5639ca1f3f53e8bc
-https://uk.jobtome.com/job/firmware-test-automation-engineer-embedded-linux-video/20f95d4b782b8b8b4964d9e1d17c2734|a48b889af5e39bd6
+https://uk.jobtome.com/job/firmware-test-automation-engineer-embedded-linux-video/20f95d4b782b8b8b4964d9e1d17c2734|051ac32b3658c840
 https://uk.jobtome.com/job/graduate-software-test-engineer/b807f359d089e020b273fda0424f572d|e3f759a785d8fee3
 https://uk.jobtome.com/job/integration-test-engineer/cd659bfa74569a61d683fa9bdac16eb7|5a1705949866e97a
 https://uk.jobtome.com/job/lead-ai-automation-engineer-rpa-llm/09c94b7b3b08dce332601fb78196b04c|16b947b9ae511283
 https://uk.jobtome.com/job/mainframe-system-automation-engineer/8b2b6d1f12c4c40d197de3523b6868b8|b33405c357f2593a
 https://uk.jobtome.com/job/network-automation-engineer-specialist-telecoms-network/0f37c97938eaf81714950a849921e6a2|8e402ce8a8687bbc
 https://uk.jobtome.com/job/nvh-wind-noise-rig-test-engineer/58f1ff802eac3fb560b7f90b98a68bab|30d2030f103ec9fb
-https://uk.jobtome.com/job/principle-test-engineer/6bdab2929308dc093b7b2458b15894cc|d790c7b8722f322c
+https://uk.jobtome.com/job/principle-test-engineer/6bdab2929308dc093b7b2458b15894cc|d3e2c3cfe61f7280
 https://uk.jobtome.com/job/principle-test-engineer/fc5538f297890cdb9db9c4c236286f39|9556e9ef747ceced
 https://uk.jobtome.com/job/process-automation-engineer/7b3bc2ca0efcbec8e01268fd810a1136|c4753b9a9f1fb9b6
 https://uk.jobtome.com/job/propulsion-test-engineer/bfda88798e6f5c204e053430e496f55f|e1d6ddb6e41ddf1e
@@ -238,7 +238,7 @@ https://uk.jobtome.com/job/software-tester-1-year-fixed-term/d7ca9b44ad31d520dbd
 https://uk.jobtome.com/job/software-tester-remote/59c4fd629d579b89d74ce4eaa73cb864|48ca661c91a3d262
 https://uk.jobtome.com/job/software-tester-workforce-management-systems-experience/3b472fef492940322f1d3b13bb0d1c38|dd50d7fa12934fb9
 https://uk.jobtome.com/job/test-engineer/1f7b368913a61d50750874b8e3270f45|68a16fc79dd56a45
-https://uk.jobtome.com/job/transducer-test-engineer/484197d30c9d6c1320f695f3984d8fbb|160a76cec45544d1
+https://uk.jobtome.com/job/transducer-test-engineer/484197d30c9d6c1320f695f3984d8fbb|0edd5375a02dff9e
 https://uk.jobtome.com/test-engineer-jobs-derby|4e3b6c25922e379f
 https://uk.linkedin.com/in/raveena-shah-9340543b9|f6bf3f65e159e59f
 https://uk.linkedin.com/in/seema-hanchate-31442b3b9|2345f6b0779a0b5c
@@ -540,6 +540,7 @@ https://uk.linkedin.com/jobs/view/quality-assurance-engineer-data-centre-at-ten1
 https://uk.linkedin.com/jobs/view/quality-assurance-qa-engineer-at-hackajob-4381077057|b556d3ecd5270384
 https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-anglia-uk-4381633439|050ddb57228595ac
 https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-gama-aviation-4371756518|4c51afcb092f5cf3
+https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-inara-4401350569|39131f6b189e8072
 https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-pocket-sized-hands-4373947227|37c285d6c03d7f06
 https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-skillspree-4349846037|6059d533c654b364
 https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-undisclosed-4390148250|fc5beb1d4ae228ff
@@ -764,6 +765,7 @@ https://uk.linkedin.com/jobs/view/software-qa-tester-at-capita-4387887563|e3da46
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-dartt-4392318139|72ca70b3de962ce2
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-michael-james-associates-4329040513|3934a53764eda1b8
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-nuclera-4386735718|a7ef651c447512b4
+https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-roc-search-4401091742|a674aba1d0ffaebc
 https://uk.linkedin.com/jobs/view/software-quality-assurance-tester-at-davanti-recruitment-ltd-4368640262|de7c19afff1d2d35
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-avance-consulting-4398104755|936ba7da8baa2c39
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-empresaria-group-plc-4386833646|e23c361890815055
@@ -818,7 +820,7 @@ https://uk.linkedin.com/jobs/view/test-analyst-part-time-20-hours-per-week-stude
 https://uk.linkedin.com/jobs/view/test-and-authentication-engineer-at-navantia-uk-4328911069|7f975253b620c28c
 https://uk.linkedin.com/jobs/view/test-area-team-lead-at-tld-4355770978|dc4b8c264c8e2874
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-barclays-4393792488|595a01914e20db17
-https://uk.linkedin.com/jobs/view/test-automation-engineer-at-chartered-insurance-institute-4401310993|bcddbc538b62c120
+https://uk.linkedin.com/jobs/view/test-automation-engineer-at-chartered-insurance-institute-4401310993|33fbb5fb58eae28e
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4328330834|042d44c33833c196
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4363379599|630767aab9e2e2d5
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4374924178|8f3af75f8b05d9db
@@ -1416,6 +1418,7 @@ https://www.jobsinwales.com/jobs-in-pontyclun/test-engineer_1444048?region=south
 https://www.jobsinwales.com/jobs-in-st-asaph/test-engineer_1425893?region=south|3d77650c53142102
 https://www.microtech-global.com/en/job_detail.asp?jobid=19003UMQ|045f1298b72e0376
 https://www.microtech-global.com/en/job_detail.asp?jobid=19003URX|1e85e98d76bc1668
+https://www.microtech-global.com/en/job_detail.asp?jobid=19003US4|68f3d7f977d7d468
 https://www.nhsjobs.com/job/UK/Cardiff/Cardiff/Public_Health_Wales_NHS_Trust/QA_Tester/QA_Tester-v7765316|be57810b0cfe591f
 https://www.prs.uk.com/job/production-test-engineer-essex-bh-68485|9bf9421c3b4f4ddf
 https://www.qualifiedfinder.com/jobs/environmental-test-engineer-3058483800|e7fffbd7e631d68c
