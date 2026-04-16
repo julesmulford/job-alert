@@ -17,7 +17,7 @@ https://jobs.theguardian.com/job/10030318/control-panel-equipment-test-engineer/
 https://jobs.theguardian.com/job/10047303/automation-engineer-eica-buk-service-dept/|af14efad454deae1
 https://jobs.theguardian.com/job/10049733/control-panel-equipment-test-engineer/|2f3f208578314e71
 https://jobs.theguardian.com/job/10074913/automation-engineer-eica-buk-service-dept/|58252d4a145158f5
-https://jobs.theguardian.com/job/10078079/control-panel-equipment-test-engineer/|f13b354bc9f2d5a4
+https://jobs.theguardian.com/job/10078079/control-panel-equipment-test-engineer/|9cafe2f27787a6ec
 https://jobs.theguardian.com/job/9974624/automation-engineer-eica-buk-service-dept/|077135f818a9f9f9
 https://jobs.theguardian.com/job/9996002/automation-engineer-eica-buk-service-dept/|b988361b43f008de
 https://jobtoday.com/gb/jobs-network-automation-engineer/stafford|a0b69de5ca1e63c2
@@ -240,7 +240,7 @@ https://uk.jobtome.com/job/software-tester-1-year-fixed-term/d7ca9b44ad31d520dbd
 https://uk.jobtome.com/job/software-tester-remote/59c4fd629d579b89d74ce4eaa73cb864|48ca661c91a3d262
 https://uk.jobtome.com/job/software-tester-workforce-management-systems-experience/3b472fef492940322f1d3b13bb0d1c38|dd50d7fa12934fb9
 https://uk.jobtome.com/job/test-engineer/1f7b368913a61d50750874b8e3270f45|68a16fc79dd56a45
-https://uk.jobtome.com/job/test-engineer/8268d686a6b2b5f0992fd06850baf441|ab7a3f192f791c62
+https://uk.jobtome.com/job/test-engineer/8268d686a6b2b5f0992fd06850baf441|6eec566c1bb50f94
 https://uk.jobtome.com/job/transducer-test-engineer/484197d30c9d6c1320f695f3984d8fbb|a2032742e648cafb
 https://uk.jobtome.com/test-engineer-jobs-derby|4e3b6c25922e379f
 https://uk.linkedin.com/in/raveena-shah-9340543b9|f6bf3f65e159e59f
@@ -506,7 +506,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-studentjob-co-uk-at-jobster-436771
 https://uk.linkedin.com/jobs/view/qa-engineer-web-app-d65-integration-sc-cleared-at-pioneer-search-4354715256|b6d3d619c735a2d6
 https://uk.linkedin.com/jobs/view/qa-manual-tester-at-mcs-rental-software-4382920727|d713d0ab9a3d63e8
 https://uk.linkedin.com/jobs/view/qa-payments-at-insight-global-4378815393|7baa848ca1fab557
-https://uk.linkedin.com/jobs/view/qa-software-test-engineer-code-review-remote-at-yo-it-consulting-4395422868?position=45&pageNum=0&refId=SR3QQzjgwjKBL8g5fS6CdQ==&trackingId=lhnlXs18WxqSH7Uikcg7mg==|bac0ef1c65fe1fff
+https://uk.linkedin.com/jobs/view/qa-software-test-engineer-code-review-remote-at-yo-it-consulting-4395422868?position=45&pageNum=0&refId=SR3QQzjgwjKBL8g5fS6CdQ==&trackingId=lhnlXs18WxqSH7Uikcg7mg==|fde5b73a748afe44
 https://uk.linkedin.com/jobs/view/qa-software-tester-at-bytron-aviation-systems-4372228942|a0fc5379c6c142ba
 https://uk.linkedin.com/jobs/view/qa-test-analyst-at-haystack-4364903516|b0d936613d89fb08
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-dine-4358754863?position=34&pageNum=0&refId=82jCfizjECYS02Im/WtfeQ==&trackingId=g2GFRa6Ry42KihTL0xDURQ==|39491eda9bc42633
@@ -624,7 +624,7 @@ https://uk.linkedin.com/jobs/view/senior-firmware-test-automation-engineer-at-di
 https://uk.linkedin.com/jobs/view/senior-functional-test-engineer-at-oho-group-4386888271|4e2a163dea8e8de1
 https://uk.linkedin.com/jobs/view/senior-intelligent-automation-engineer-at-ciklum-4349455288|b9e216a3e121562a
 https://uk.linkedin.com/jobs/view/senior-intelligent-automation-qa-engineer-uipath-outside-ir35-fully-remote-gambling-client-at-urban-connect-4373144061|fd7bbbf1456b114b
-https://uk.linkedin.com/jobs/view/senior-manual-qa-engineer-at-maxwell-bond-4400408343|abe0cb89ea66471e
+https://uk.linkedin.com/jobs/view/senior-manual-qa-engineer-at-maxwell-bond-4400408343|5c417e9d5a2f014e
 https://uk.linkedin.com/jobs/view/senior-manufacturing-test-engineer-at-siemens-4329866510|1c4ef1fe4696bb05
 https://uk.linkedin.com/jobs/view/senior-mobile-automation-tester-at-w3global-4342763594|8e182b4bd9741edf
 https://uk.linkedin.com/jobs/view/senior-product-test-engineer-at-copello-global-4384032728|f5130f6ec2ef19bf
@@ -653,7 +653,7 @@ https://uk.linkedin.com/jobs/view/senior-qa-manual-tester-at-maxwell-bond-439507
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-clover-4383203683|2ec63e44caf6ced3
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-department-for-work-and-pensions-dwp-4377369600|5075ddaf7fb53d3e
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-kinetic-games-4358954740|36b781f80b4025c8
-https://uk.linkedin.com/jobs/view/senior-qa-tester-at-lighthouse-games-4400173879|eb4272a80a6d8ced
+https://uk.linkedin.com/jobs/view/senior-qa-tester-at-lighthouse-games-4400173879|f4b8135c7c932422
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-albert-bow-4363978540|8df2713dc2dfb908
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-eflow-4361065610|b54953650ef3033c
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-gravitas-recruitment-group-global-ltd-4381709384|1c87717a8eb0c52f
@@ -765,6 +765,7 @@ https://uk.linkedin.com/jobs/view/service-desk-automation-engineer-at-klipboard-
 https://uk.linkedin.com/jobs/view/signalling-integration-test-engineer-at-alten-ltd-uk-4384995550|41f7f634e91c46df
 https://uk.linkedin.com/jobs/view/software-and-test-engineer-apprenticeships-it-dwp-digital-studentjob-co-uk-at-jobster-4390780909|8e4651472481a254
 https://uk.linkedin.com/jobs/view/software-automation-engineer-at-owen-daniels-4348882795|4484d7689910b096
+https://uk.linkedin.com/jobs/view/software-developer-in-test-uk-security-clearance-eligibility-required-at-appvia-4402944708|595070c9c54b0974
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-at-royal-london-4375868118|c772565f1d25218b
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-data-tester-automation-engineer-asset-management-outside-ir35-at-bangura-solutions-4371954322|b677280231bcea1f
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-at-bede-gaming-4397503215|c8fa1c114fb75bfc
@@ -1448,7 +1449,7 @@ https://www.railwaypeople.com/Rail-Jobs/General-Rail-Jobs/IVVQ-Engineer-System-T
 https://www.railwaypeople.com/Rail-Jobs/Quantity-Surveyor-Jobs/Senior-Quantity-Surveyor/Details/646770|44e7f334386fe79e
 https://www.redglobal.com/jobs/job/aem-qa-automation-engineer/Y3D8MoPP|b0028ca629e8cbc2
 https://www.s1jobs.com/job/advanced-assembly-test-engineer-apprentice-126175264|35c098da573ffc43
-https://www.s1jobs.com/job/ai-automation-engineer-126697677|c503f4014ddaef18
+https://www.s1jobs.com/job/ai-automation-engineer-126697677|3b1872a60ac59c13
 https://www.s1jobs.com/job/automation-engineer-126170329|f085a5302a564262
 https://www.s1jobs.com/job/automation-test-engineer-finance-trading-126120952|45f55b58f969c9d9
 https://www.s1jobs.com/job/lead-qa-tester-126180217|d5f42936139f8384
