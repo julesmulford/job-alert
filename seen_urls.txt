@@ -240,7 +240,7 @@ https://uk.jobtome.com/job/software-tester-1-year-fixed-term/d7ca9b44ad31d520dbd
 https://uk.jobtome.com/job/software-tester-remote/59c4fd629d579b89d74ce4eaa73cb864|48ca661c91a3d262
 https://uk.jobtome.com/job/software-tester-workforce-management-systems-experience/3b472fef492940322f1d3b13bb0d1c38|dd50d7fa12934fb9
 https://uk.jobtome.com/job/test-engineer/1f7b368913a61d50750874b8e3270f45|68a16fc79dd56a45
-https://uk.jobtome.com/job/test-engineer/8268d686a6b2b5f0992fd06850baf441|6eec566c1bb50f94
+https://uk.jobtome.com/job/test-engineer/8268d686a6b2b5f0992fd06850baf441|2ed4c081f23d8764
 https://uk.jobtome.com/job/transducer-test-engineer/484197d30c9d6c1320f695f3984d8fbb|a2032742e648cafb
 https://uk.jobtome.com/test-engineer-jobs-derby|4e3b6c25922e379f
 https://uk.linkedin.com/in/raveena-shah-9340543b9|f6bf3f65e159e59f
@@ -309,6 +309,7 @@ https://uk.linkedin.com/jobs/view/automation-engineer-rme-at-amazon-4361665708|3
 https://uk.linkedin.com/jobs/view/automation-intern-at-10x-media-4354450549|4298841c0f9e9f67
 https://uk.linkedin.com/jobs/view/automation-qa-engineer-intern-testcomplete-studentjob-co-uk-at-jobster-4392819913|7170c99ddfdcf9f7
 https://uk.linkedin.com/jobs/view/automation-qa-engineer-oracle-at-coinmarketcap-4345425426|116430409b16195c
+https://uk.linkedin.com/jobs/view/automation-specialist-at-hcltech-4400420328|37f0bdbfde007294
 https://uk.linkedin.com/jobs/view/automation-test-analyst-at-eden-scott-4361848575|61998bda0aba44b1
 https://uk.linkedin.com/jobs/view/automation-test-analyst-at-paritas-recruitment-4355906380|0feb98c60da0f27c
 https://uk.linkedin.com/jobs/view/automation-test-analyst-at-paritas-recruitment-4399017529|9d180428d33837c1
@@ -391,6 +392,7 @@ https://uk.linkedin.com/jobs/view/hiring-manual-tester-net-erp-api-remote-uk-shi
 https://uk.linkedin.com/jobs/view/infrastructure-test-analysts-at-xpertise-recruitment-4363827060|4d0f293f8b73f6b7
 https://uk.linkedin.com/jobs/view/integration-test-engineer-at-hme-4364014827|2d4657fb83b4c3dd
 https://uk.linkedin.com/jobs/view/integration-test-engineer-at-raytheon-uk-4397303571|97cde77ad960fb79
+https://uk.linkedin.com/jobs/view/intelligent-automation-engineer-at-experis-uk-4402678441|d56875618640c6a6
 https://uk.linkedin.com/jobs/view/iot-test-lead-engineer-at-vodafone-4397564463|175f0be70f272880
 https://uk.linkedin.com/jobs/view/java-sdet-at-cognizant-4346115894|831da1900154ff7d
 https://uk.linkedin.com/jobs/view/jcf-test-at-johnston-carmichael-chartered-accountants-and-business-advisers-4328142874|ef4d79395c541bb8
@@ -506,7 +508,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-studentjob-co-uk-at-jobster-436771
 https://uk.linkedin.com/jobs/view/qa-engineer-web-app-d65-integration-sc-cleared-at-pioneer-search-4354715256|b6d3d619c735a2d6
 https://uk.linkedin.com/jobs/view/qa-manual-tester-at-mcs-rental-software-4382920727|d713d0ab9a3d63e8
 https://uk.linkedin.com/jobs/view/qa-payments-at-insight-global-4378815393|7baa848ca1fab557
-https://uk.linkedin.com/jobs/view/qa-software-test-engineer-code-review-remote-at-yo-it-consulting-4395422868?position=45&pageNum=0&refId=SR3QQzjgwjKBL8g5fS6CdQ==&trackingId=lhnlXs18WxqSH7Uikcg7mg==|fde5b73a748afe44
+https://uk.linkedin.com/jobs/view/qa-software-test-engineer-code-review-remote-at-yo-it-consulting-4395422868?position=45&pageNum=0&refId=SR3QQzjgwjKBL8g5fS6CdQ==&trackingId=lhnlXs18WxqSH7Uikcg7mg==|df9155d1759a0199
 https://uk.linkedin.com/jobs/view/qa-software-tester-at-bytron-aviation-systems-4372228942|a0fc5379c6c142ba
 https://uk.linkedin.com/jobs/view/qa-test-analyst-at-haystack-4364903516|b0d936613d89fb08
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-dine-4358754863?position=34&pageNum=0&refId=82jCfizjECYS02Im/WtfeQ==&trackingId=g2GFRa6Ry42KihTL0xDURQ==|39491eda9bc42633
@@ -606,6 +608,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-etrm-trading-p
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-python-at-machnet-medical-robotics-4365314733|db42809e96ef4c85
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-cognizant-4376827127|f91843537c44ca04
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-netcompany-4344991895|3d4dbf0417845212
+https://uk.linkedin.com/jobs/view/senior-automation-tester-at-netcompany-4399913844|b8392ccfe211f58c
 https://uk.linkedin.com/jobs/view/senior-automation-tester-flutter-agentic-ai-api-systems-at-deliveryapp-4378790054|d720c69d8eaae8a1
 https://uk.linkedin.com/jobs/view/senior-comparative-test-engineer-at-leidos-4400277018|2ba04497a635cd8f
 https://uk.linkedin.com/jobs/view/senior-consultant-qa-engineer-tc-uki-belfast-at-hackajob-4374608078|f97d9ac1da34261f
@@ -624,7 +627,7 @@ https://uk.linkedin.com/jobs/view/senior-firmware-test-automation-engineer-at-di
 https://uk.linkedin.com/jobs/view/senior-functional-test-engineer-at-oho-group-4386888271|4e2a163dea8e8de1
 https://uk.linkedin.com/jobs/view/senior-intelligent-automation-engineer-at-ciklum-4349455288|b9e216a3e121562a
 https://uk.linkedin.com/jobs/view/senior-intelligent-automation-qa-engineer-uipath-outside-ir35-fully-remote-gambling-client-at-urban-connect-4373144061|fd7bbbf1456b114b
-https://uk.linkedin.com/jobs/view/senior-manual-qa-engineer-at-maxwell-bond-4400408343|5c417e9d5a2f014e
+https://uk.linkedin.com/jobs/view/senior-manual-qa-engineer-at-maxwell-bond-4400408343|b1980a2592db392a
 https://uk.linkedin.com/jobs/view/senior-manufacturing-test-engineer-at-siemens-4329866510|1c4ef1fe4696bb05
 https://uk.linkedin.com/jobs/view/senior-mobile-automation-tester-at-w3global-4342763594|8e182b4bd9741edf
 https://uk.linkedin.com/jobs/view/senior-product-test-engineer-at-copello-global-4384032728|f5130f6ec2ef19bf
@@ -653,7 +656,7 @@ https://uk.linkedin.com/jobs/view/senior-qa-manual-tester-at-maxwell-bond-439507
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-clover-4383203683|2ec63e44caf6ced3
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-department-for-work-and-pensions-dwp-4377369600|5075ddaf7fb53d3e
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-kinetic-games-4358954740|36b781f80b4025c8
-https://uk.linkedin.com/jobs/view/senior-qa-tester-at-lighthouse-games-4400173879|f4b8135c7c932422
+https://uk.linkedin.com/jobs/view/senior-qa-tester-at-lighthouse-games-4400173879|bb8853c84634089f
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-albert-bow-4363978540|8df2713dc2dfb908
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-eflow-4361065610|b54953650ef3033c
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-gravitas-recruitment-group-global-ltd-4381709384|1c87717a8eb0c52f
@@ -765,7 +768,7 @@ https://uk.linkedin.com/jobs/view/service-desk-automation-engineer-at-klipboard-
 https://uk.linkedin.com/jobs/view/signalling-integration-test-engineer-at-alten-ltd-uk-4384995550|41f7f634e91c46df
 https://uk.linkedin.com/jobs/view/software-and-test-engineer-apprenticeships-it-dwp-digital-studentjob-co-uk-at-jobster-4390780909|8e4651472481a254
 https://uk.linkedin.com/jobs/view/software-automation-engineer-at-owen-daniels-4348882795|4484d7689910b096
-https://uk.linkedin.com/jobs/view/software-developer-in-test-uk-security-clearance-eligibility-required-at-appvia-4402944708|595070c9c54b0974
+https://uk.linkedin.com/jobs/view/software-developer-in-test-uk-security-clearance-eligibility-required-at-appvia-4402944708|c43e42445b902d7f
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-at-royal-london-4375868118|c772565f1d25218b
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-data-tester-automation-engineer-asset-management-outside-ir35-at-bangura-solutions-4371954322|b677280231bcea1f
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-at-bede-gaming-4397503215|c8fa1c114fb75bfc
@@ -780,6 +783,7 @@ https://uk.linkedin.com/jobs/view/software-qa-analyst-at-spectrum-it-recruitment
 https://uk.linkedin.com/jobs/view/software-qa-engineer-at-spectrum-it-recruitment-4372841788|711f16ed55cb0718
 https://uk.linkedin.com/jobs/view/software-qa-fruition-group-at-jobster-4360161348|01781b0cf46ef3b9
 https://uk.linkedin.com/jobs/view/software-qa-tester-at-capita-4387887563|e3da46052fb54cb0
+https://uk.linkedin.com/jobs/view/software-qa-tester-at-capita-4400415413|2d7bfe44eadd0b93
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-dartt-4392318139|72ca70b3de962ce2
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-michael-james-associates-4329040513|3934a53764eda1b8
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-nuclera-4386735718|a7ef651c447512b4
@@ -833,6 +837,7 @@ https://uk.linkedin.com/jobs/view/systems-integration-automation-engineer-outsid
 https://uk.linkedin.com/jobs/view/systems-test-engineer-at-sava-4344281499|d0a9e8df05b68da5
 https://uk.linkedin.com/jobs/view/test-1-at-princes-group-4371874538|0bf50de805868fc0
 https://uk.linkedin.com/jobs/view/test-2-at-resillion-4392591047|14a2b9382c0c7adb
+https://uk.linkedin.com/jobs/view/test-analyst-at-adroit-people-limited-uk-4401464277|4322b204b75f2db9
 https://uk.linkedin.com/jobs/view/test-analyst-at-mygwork-lgbtq+-business-community-4386603221|8b83a6bb52a7faf3
 https://uk.linkedin.com/jobs/view/test-analyst-at-weatherbys-ltd-4381020452|fb41c72c39a758af
 https://uk.linkedin.com/jobs/view/test-analyst-part-time-20-hours-per-week-studentjob-co-uk-at-jobster-4392830450|efcbd07f4f8b2887
@@ -1449,7 +1454,7 @@ https://www.railwaypeople.com/Rail-Jobs/General-Rail-Jobs/IVVQ-Engineer-System-T
 https://www.railwaypeople.com/Rail-Jobs/Quantity-Surveyor-Jobs/Senior-Quantity-Surveyor/Details/646770|44e7f334386fe79e
 https://www.redglobal.com/jobs/job/aem-qa-automation-engineer/Y3D8MoPP|b0028ca629e8cbc2
 https://www.s1jobs.com/job/advanced-assembly-test-engineer-apprentice-126175264|35c098da573ffc43
-https://www.s1jobs.com/job/ai-automation-engineer-126697677|3b1872a60ac59c13
+https://www.s1jobs.com/job/ai-automation-engineer-126697677|47aafc4364782750
 https://www.s1jobs.com/job/automation-engineer-126170329|f085a5302a564262
 https://www.s1jobs.com/job/automation-test-engineer-finance-trading-126120952|45f55b58f969c9d9
 https://www.s1jobs.com/job/lead-qa-tester-126180217|d5f42936139f8384
