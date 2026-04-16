@@ -504,7 +504,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-studentjob-co-uk-at-jobster-436771
 https://uk.linkedin.com/jobs/view/qa-engineer-web-app-d65-integration-sc-cleared-at-pioneer-search-4354715256|b6d3d619c735a2d6
 https://uk.linkedin.com/jobs/view/qa-manual-tester-at-mcs-rental-software-4382920727|d713d0ab9a3d63e8
 https://uk.linkedin.com/jobs/view/qa-payments-at-insight-global-4378815393|7baa848ca1fab557
-https://uk.linkedin.com/jobs/view/qa-software-test-engineer-code-review-remote-at-yo-it-consulting-4395422868?position=45&pageNum=0&refId=SR3QQzjgwjKBL8g5fS6CdQ==&trackingId=lhnlXs18WxqSH7Uikcg7mg==|f1797a5ce64883c7
+https://uk.linkedin.com/jobs/view/qa-software-test-engineer-code-review-remote-at-yo-it-consulting-4395422868?position=45&pageNum=0&refId=SR3QQzjgwjKBL8g5fS6CdQ==&trackingId=lhnlXs18WxqSH7Uikcg7mg==|2015a0470d85a689
 https://uk.linkedin.com/jobs/view/qa-software-tester-at-bytron-aviation-systems-4372228942|a0fc5379c6c142ba
 https://uk.linkedin.com/jobs/view/qa-test-analyst-at-haystack-4364903516|b0d936613d89fb08
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-dine-4358754863?position=34&pageNum=0&refId=82jCfizjECYS02Im/WtfeQ==&trackingId=g2GFRa6Ry42KihTL0xDURQ==|39491eda9bc42633
@@ -1444,7 +1444,7 @@ https://www.railwaypeople.com/Rail-Jobs/General-Rail-Jobs/IVVQ-Engineer-System-T
 https://www.railwaypeople.com/Rail-Jobs/Quantity-Surveyor-Jobs/Senior-Quantity-Surveyor/Details/646770|44e7f334386fe79e
 https://www.redglobal.com/jobs/job/aem-qa-automation-engineer/Y3D8MoPP|b0028ca629e8cbc2
 https://www.s1jobs.com/job/advanced-assembly-test-engineer-apprentice-126175264|35c098da573ffc43
-https://www.s1jobs.com/job/ai-automation-engineer-126697677|f54d4678c5189844
+https://www.s1jobs.com/job/ai-automation-engineer-126697677|9a0140f4284d86f5
 https://www.s1jobs.com/job/automation-engineer-126170329|f085a5302a564262
 https://www.s1jobs.com/job/automation-test-engineer-finance-trading-126120952|45f55b58f969c9d9
 https://www.s1jobs.com/job/lead-qa-tester-126180217|d5f42936139f8384
