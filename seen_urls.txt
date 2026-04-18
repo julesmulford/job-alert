@@ -431,7 +431,7 @@ https://uk.linkedin.com/jobs/view/mot-tester-at-the-test-centre-i-nothing-but-mo
 https://uk.linkedin.com/jobs/view/multiple-automation-developers-at-mrj-recruitment-4361826210|7c7c50d2ebb6fe2b
 https://uk.linkedin.com/jobs/view/new-job-georgia-test-at-bath-north-east-somerset-council-4339834532|63bf12faadc62aaf
 https://uk.linkedin.com/jobs/view/new-test-at-healthnet-homecare-uk-ltd-4399581182|27ca8137d2ca7deb
-https://uk.linkedin.com/jobs/view/new-test-at-healthnet-homecare-uk-ltd-4400813332|bf24fa11f27c4c0f
+https://uk.linkedin.com/jobs/view/new-test-at-healthnet-homecare-uk-ltd-4400813332|59a15edeeb9a1860
 https://uk.linkedin.com/jobs/view/new-test-job-rakel-at-epsilon-4396597265|5df7835d9662c85c
 https://uk.linkedin.com/jobs/view/non-functional-test-manager-at-institute-of-communication-4364550613|7bd54b14cc24f747
 https://uk.linkedin.com/jobs/view/offensive-security-tester-at-hackajob-4321452018|42eb01360b963bb5
@@ -629,7 +629,7 @@ https://uk.linkedin.com/jobs/view/senior-firmware-test-automation-engineer-at-di
 https://uk.linkedin.com/jobs/view/senior-functional-test-engineer-at-oho-group-4386888271|4e2a163dea8e8de1
 https://uk.linkedin.com/jobs/view/senior-intelligent-automation-engineer-at-ciklum-4349455288|b9e216a3e121562a
 https://uk.linkedin.com/jobs/view/senior-intelligent-automation-qa-engineer-uipath-outside-ir35-fully-remote-gambling-client-at-urban-connect-4373144061|fd7bbbf1456b114b
-https://uk.linkedin.com/jobs/view/senior-ip-test-engineer-at-hays-4403464299|c03c0ef979d691eb
+https://uk.linkedin.com/jobs/view/senior-ip-test-engineer-at-hays-4403464299|023459295356b400
 https://uk.linkedin.com/jobs/view/senior-manual-qa-engineer-at-maxwell-bond-4400408343|b1980a2592db392a
 https://uk.linkedin.com/jobs/view/senior-manufacturing-test-engineer-at-siemens-4329866510|1c4ef1fe4696bb05
 https://uk.linkedin.com/jobs/view/senior-mobile-automation-tester-at-w3global-4342763594|8e182b4bd9741edf
