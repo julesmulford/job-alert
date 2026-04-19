@@ -227,6 +227,7 @@ https://uk.jobtome.com/job/principle-test-engineer/fc5538f297890cdb9db9c4c236286
 https://uk.jobtome.com/job/process-automation-engineer/7b3bc2ca0efcbec8e01268fd810a1136|c4753b9a9f1fb9b6
 https://uk.jobtome.com/job/propulsion-test-engineer/bfda88798e6f5c204e053430e496f55f|e1d6ddb6e41ddf1e
 https://uk.jobtome.com/job/qa-engineer-with-banking-exp/071f0df705530704dddf8b4f27a07d86|5467d8c496e34acd
+https://uk.jobtome.com/job/qa-engineer/1f30d10853cdf97b67ed2a5765c731be|e95a055ed913df7a
 https://uk.jobtome.com/job/qa-engineer/2bfd9f8756c6c623237fbb634bd02d9e|f4de2d76079e230a
 https://uk.jobtome.com/job/qa-engineer/7522886bfc63e58012eb96f13d6b688a|0c1ee079cd56d9d9
 https://uk.jobtome.com/job/rf-test-engineer/cdb1a9916708ea1ee127d92c1a059c2c|4d39e190e9d7478a
@@ -569,7 +570,7 @@ https://uk.linkedin.com/jobs/view/quality-engineer-at-best-job-tool-4345600421|e
 https://uk.linkedin.com/jobs/view/quality-engineer-at-brotherstech-4395032036|70da840fdb1f264b
 https://uk.linkedin.com/jobs/view/quality-engineer-at-netrolynx-ai-4400693510|446ae717b0afc4af
 https://uk.linkedin.com/jobs/view/quality-engineer-at-netrolynx-ai-4400958953|c1ce48ef7040850f
-https://uk.linkedin.com/jobs/view/quality-engineer-at-netrolynx-ai-4403596610|1599355f54e60a6b
+https://uk.linkedin.com/jobs/view/quality-engineer-at-netrolynx-ai-4403596610|e699d7ea481bed4b
 https://uk.linkedin.com/jobs/view/quality-engineer-remote-at-taskify-ai-4339838044|68c9e9b88a7f9aa6
 https://uk.linkedin.com/jobs/view/rf-systems-and-product-test-engineer-at-tiptopjob-4345504827|0d1dbb4645522fee
 https://uk.linkedin.com/jobs/view/rf-test-engineer-at-ic-resources-4379470816|d53fe4c742a388b1
@@ -577,7 +578,7 @@ https://uk.linkedin.com/jobs/view/rf-test-engineer-at-socode-recruitment-4328480
 https://uk.linkedin.com/jobs/view/rf-test-engineer-at-socode-recruitment-4381509917|4b5754d71562127e
 https://uk.linkedin.com/jobs/view/robotics-manufacturing-and-test-engineer-at-paladin-space-4370624099|7146ec43c02074ad
 https://uk.linkedin.com/jobs/view/runtimes-automation-engineer-at-arm-4385765948|ca0cf37ebfb7f56d
-https://uk.linkedin.com/jobs/view/runtimes-automation-engineer-at-arm-4403842242|6950d1b90e5a03db
+https://uk.linkedin.com/jobs/view/runtimes-automation-engineer-at-arm-4403842242|b6c4ac252edb1279
 https://uk.linkedin.com/jobs/view/sac-tester-at-natobotics-4330021219|fde5f8853c9d3afa
 https://uk.linkedin.com/jobs/view/sailpoint-automation-tester-iam-specialist-at-hexaware-technologies-4377930784|a147fed974a0e770
 https://uk.linkedin.com/jobs/view/sailpoint-tester-at-codeconvergence-limited-ccl-4372540494|39ac7016ab7cf57d
