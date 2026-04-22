@@ -880,7 +880,7 @@ https://uk.linkedin.com/jobs/view/test-analyst-at-weatherbys-ltd-4381020452|fb41
 https://uk.linkedin.com/jobs/view/test-analyst-part-time-20-hours-per-week-studentjob-co-uk-at-jobster-4392830450|efcbd07f4f8b2887
 https://uk.linkedin.com/jobs/view/test-and-authentication-engineer-at-navantia-uk-4328911069|7f975253b620c28c
 https://uk.linkedin.com/jobs/view/test-area-team-lead-at-tld-4355770978|dc4b8c264c8e2874
-https://uk.linkedin.com/jobs/view/test-authentication-automation-engineer-at-teksystems-4404977885|f243ca6c1955e498
+https://uk.linkedin.com/jobs/view/test-authentication-automation-engineer-at-teksystems-4404977885|98bdcfc08696101d
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-barclays-4393792488|595a01914e20db17
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-chartered-insurance-institute-4401310993|76fbade0d4a311dd
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4328330834|042d44c33833c196
@@ -1514,6 +1514,7 @@ https://www.securityclearedjobs.com/job/802070735/manufacturing-test-engineer/|2
 https://www.securityclearedjobs.com/job/802074384/manufacturing-test-engineer-circuit-card-assembly/|f42284063866319d
 https://www.securityclearedjobs.com/job/802075170/principal-manufacturing-test-engineer/|59d360a9805f4a54
 https://www.securityclearedjobs.com/job/802075171/manufacturing-test-engineer/|2e124fa407abad92
+https://www.securityclearedjobs.com/job/802075743/manufacturing-test-engineer/|5f66b1f63608aecc
 https://www.thechemicalengineer.com/news/dow-cuts-4-500-jobs-as-automation-and-ai-expand/|e7b57a0272df85d3
 https://www.thechemicalengineer.com/news/from-lab-to-market-the-scaleup-hurdles-facing-the-apprentice-s-browtasia/|2aedf5b8fff7a8f2
 https://www.thechemicalengineer.com/news/uk-commits-75m-to-phasing-out-animal-testing/|f90c12a96dee0861
