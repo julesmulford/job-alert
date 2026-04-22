@@ -474,7 +474,7 @@ https://uk.linkedin.com/jobs/view/qa-analyst-operations-automation-engineer-at-m
 https://uk.linkedin.com/jobs/view/qa-analyst-studentjob-co-uk-at-jobster-4367723252|05255b7de71d0a41
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-benifex-4390947068|bf023b7df505ff5d
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-harnham-4384247834|9cd4d2b685993d55
-https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-howdens-4404454701|68234264a7b523af
+https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-howdens-4404454701|781b55c2ed02b355
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-l-q-4393543049|e67bbfab7e49c630
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-noir-4392385009|17cfa8bd4a7fabd4
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-radius-4391114149|3e0e1e9616a9e1c7
@@ -509,7 +509,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-at-person-centred-software-ltd-437
 https://uk.linkedin.com/jobs/view/qa-engineer-at-radius-4377861129|575daf99b84b2976
 https://uk.linkedin.com/jobs/view/qa-engineer-at-robert-walters-4365270219|5f0c9ba0b2881b71
 https://uk.linkedin.com/jobs/view/qa-engineer-at-softcat-4362643513|3c7c5b4082189194
-https://uk.linkedin.com/jobs/view/qa-engineer-at-spectrum-it-recruitment-4404436400|767774b8ae76397d
+https://uk.linkedin.com/jobs/view/qa-engineer-at-spectrum-it-recruitment-4404436400|fef8f7911f69228c
 https://uk.linkedin.com/jobs/view/qa-engineer-at-sphere-solutions-4399301907|53e40509e7f31248
 https://uk.linkedin.com/jobs/view/qa-engineer-at-track24-4329964964|e6c5aaea37e21a83
 https://uk.linkedin.com/jobs/view/qa-engineer-at-women-in-tech-4397374727|a1bafc4e64a15e10
@@ -580,6 +580,7 @@ https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-anglia-uk-4
 https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-gama-aviation-4371756518|4c51afcb092f5cf3
 https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-lexisnexis-risk-solutions-4399745286|9d0c4d880ac2f97f
 https://uk.linkedin.com/jobs/view/quality-assurance-test-lead-at-amdaris-4402262187|e762ed9bcfd89fbe
+https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-addition-4404283817|fa2c0a6270673b7e
 https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-inara-4401350569|4ecf4c5b588526dd
 https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-pocket-sized-hands-4373947227|37c285d6c03d7f06
 https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-skillspree-4349846037|6059d533c654b364
@@ -882,7 +883,7 @@ https://uk.linkedin.com/jobs/view/test-analyst-at-weatherbys-ltd-4381020452|fb41
 https://uk.linkedin.com/jobs/view/test-analyst-part-time-20-hours-per-week-studentjob-co-uk-at-jobster-4392830450|efcbd07f4f8b2887
 https://uk.linkedin.com/jobs/view/test-and-authentication-engineer-at-navantia-uk-4328911069|7f975253b620c28c
 https://uk.linkedin.com/jobs/view/test-area-team-lead-at-tld-4355770978|dc4b8c264c8e2874
-https://uk.linkedin.com/jobs/view/test-authentication-automation-engineer-at-teksystems-4404977885|59649c8f3a29a81d
+https://uk.linkedin.com/jobs/view/test-authentication-automation-engineer-at-teksystems-4404977885|2acd5efac1a7dd26
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-barclays-4393792488|595a01914e20db17
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-chartered-insurance-institute-4401310993|76fbade0d4a311dd
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4328330834|042d44c33833c196
@@ -961,6 +962,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-open-mind-srl-4388086611|947f
 https://uk.linkedin.com/jobs/view/test-engineer-at-oxford-instruments-plc-4354369275|29bac4a361d6d5a2
 https://uk.linkedin.com/jobs/view/test-engineer-at-progressive-4377772765|10524d8d610eeb04
 https://uk.linkedin.com/jobs/view/test-engineer-at-q1-technologies-inc-4356460892|93d082a9cfd2e6b5
+https://uk.linkedin.com/jobs/view/test-engineer-at-queen-square-recruitment-4402455029|71a638c2158058fe
 https://uk.linkedin.com/jobs/view/test-engineer-at-smart4-chemicals-4325720996|cd07f7351d1a5e91
 https://uk.linkedin.com/jobs/view/test-engineer-at-smart4-chemicals-4386886272|0cab008e360f680a
 https://uk.linkedin.com/jobs/view/test-engineer-at-solus-an-aviva-company-4393849460|fdaaf6ba2eddfdac
