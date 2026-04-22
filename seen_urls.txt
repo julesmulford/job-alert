@@ -474,6 +474,7 @@ https://uk.linkedin.com/jobs/view/qa-analyst-operations-automation-engineer-at-m
 https://uk.linkedin.com/jobs/view/qa-analyst-studentjob-co-uk-at-jobster-4367723252|05255b7de71d0a41
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-benifex-4390947068|bf023b7df505ff5d
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-harnham-4384247834|9cd4d2b685993d55
+https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-howdens-4404454701|68234264a7b523af
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-l-q-4393543049|e67bbfab7e49c630
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-noir-4392385009|17cfa8bd4a7fabd4
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-radius-4391114149|3e0e1e9616a9e1c7
@@ -508,6 +509,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-at-person-centred-software-ltd-437
 https://uk.linkedin.com/jobs/view/qa-engineer-at-radius-4377861129|575daf99b84b2976
 https://uk.linkedin.com/jobs/view/qa-engineer-at-robert-walters-4365270219|5f0c9ba0b2881b71
 https://uk.linkedin.com/jobs/view/qa-engineer-at-softcat-4362643513|3c7c5b4082189194
+https://uk.linkedin.com/jobs/view/qa-engineer-at-spectrum-it-recruitment-4404436400|767774b8ae76397d
 https://uk.linkedin.com/jobs/view/qa-engineer-at-sphere-solutions-4399301907|53e40509e7f31248
 https://uk.linkedin.com/jobs/view/qa-engineer-at-track24-4329964964|e6c5aaea37e21a83
 https://uk.linkedin.com/jobs/view/qa-engineer-at-women-in-tech-4397374727|a1bafc4e64a15e10
@@ -880,7 +882,7 @@ https://uk.linkedin.com/jobs/view/test-analyst-at-weatherbys-ltd-4381020452|fb41
 https://uk.linkedin.com/jobs/view/test-analyst-part-time-20-hours-per-week-studentjob-co-uk-at-jobster-4392830450|efcbd07f4f8b2887
 https://uk.linkedin.com/jobs/view/test-and-authentication-engineer-at-navantia-uk-4328911069|7f975253b620c28c
 https://uk.linkedin.com/jobs/view/test-area-team-lead-at-tld-4355770978|dc4b8c264c8e2874
-https://uk.linkedin.com/jobs/view/test-authentication-automation-engineer-at-teksystems-4404977885|98bdcfc08696101d
+https://uk.linkedin.com/jobs/view/test-authentication-automation-engineer-at-teksystems-4404977885|59649c8f3a29a81d
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-barclays-4393792488|595a01914e20db17
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-chartered-insurance-institute-4401310993|76fbade0d4a311dd
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4328330834|042d44c33833c196
@@ -1514,7 +1516,7 @@ https://www.securityclearedjobs.com/job/802070735/manufacturing-test-engineer/|2
 https://www.securityclearedjobs.com/job/802074384/manufacturing-test-engineer-circuit-card-assembly/|f42284063866319d
 https://www.securityclearedjobs.com/job/802075170/principal-manufacturing-test-engineer/|59d360a9805f4a54
 https://www.securityclearedjobs.com/job/802075171/manufacturing-test-engineer/|2e124fa407abad92
-https://www.securityclearedjobs.com/job/802075743/manufacturing-test-engineer/|5f66b1f63608aecc
+https://www.securityclearedjobs.com/job/802075743/manufacturing-test-engineer/|1f89b52e59554910
 https://www.thechemicalengineer.com/news/dow-cuts-4-500-jobs-as-automation-and-ai-expand/|e7b57a0272df85d3
 https://www.thechemicalengineer.com/news/from-lab-to-market-the-scaleup-hurdles-facing-the-apprentice-s-browtasia/|2aedf5b8fff7a8f2
 https://www.thechemicalengineer.com/news/uk-commits-75m-to-phasing-out-animal-testing/|f90c12a96dee0861
