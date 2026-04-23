@@ -235,7 +235,7 @@ https://uk.jobtome.com/job/qa-engineer/7522886bfc63e58012eb96f13d6b688a|0c1ee079
 https://uk.jobtome.com/job/rf-test-engineer/cdb1a9916708ea1ee127d92c1a059c2c|4d39e190e9d7478a
 https://uk.jobtome.com/job/robot-automation-engineer/7cd6ec89d78e0014ab068283aa33da20|184555015c07eb16
 https://uk.jobtome.com/job/safety-test-engineer/2a7195174582d585e63bee3520561d0a|b417a5a70904e4de
-https://uk.jobtome.com/job/senior-cloud-automation-engineer/6aac430b67662293c1328a5c5dca1925|f15ee68d4d72a622
+https://uk.jobtome.com/job/senior-cloud-automation-engineer/6aac430b67662293c1328a5c5dca1925|186284538995e216
 https://uk.jobtome.com/job/senior-qa-analyst-and-automation-engineer/83d105e9fe3362d0100576c52eba0e53|12004aad20df54c9
 https://uk.jobtome.com/job/senior-test-engineer/7617fb5b75b2aaa596fdd0829d0b1e07|8c1b11ab49f42f1c
 https://uk.jobtome.com/job/software-qa-engineer/d941fb021bd298514e1b6e70ffcdd189|01cceb431aac6609
@@ -277,6 +277,7 @@ https://uk.linkedin.com/jobs/view/api-test-engineer-ai-trainer-at-dataannotation
 https://uk.linkedin.com/jobs/view/app-tester-uk-residents-at-testvox-4330053414|2f9ff29ee5acf29c
 https://uk.linkedin.com/jobs/view/application-security-test-engineer-at-oxford-nanopore-technologies-4332253976|2b7ef111629ddcd0
 https://uk.linkedin.com/jobs/view/application-test-engineer-insurance-at-arthur-recruitment-4390007805|76eee1785063e7a8
+https://uk.linkedin.com/jobs/view/applied-ai-automation-engineer-12-month-ftc-at-ngpartners-4405674960|7c78979e9e332f04
 https://uk.linkedin.com/jobs/view/applied-ai-automation-engineer-at-institute-of-communication-4382197881|b1497b69f2c3c5b4
 https://uk.linkedin.com/jobs/view/applied-automation-engineer-at-harnham-4400096973|819b06ad7c451cce
 https://uk.linkedin.com/jobs/view/apprenticeship-test-engineer-at-hitachi-energy-4330273429|37ef82a6d852bea4
@@ -723,7 +724,7 @@ https://uk.linkedin.com/jobs/view/senior-software-qa-test-development-engineer-s
 https://uk.linkedin.com/jobs/view/senior-software-quality-assurance-engineer-at-eden-scott-4353716476|1dc2bbd9dde11aed
 https://uk.linkedin.com/jobs/view/senior-software-system-test-engineer-validation-verification-at-jlr-4375718319|ba14c5d6559ad10f
 https://uk.linkedin.com/jobs/view/senior-software-test-automation-engineer-at-scg-midlands-4327114543|077577d78963813c
-https://uk.linkedin.com/jobs/view/senior-software-test-automation-engineer-selenium-and-playwright-at-fairfield-consultancy-services-limited-uk-4402867082|a74b987eac90a744
+https://uk.linkedin.com/jobs/view/senior-software-test-automation-engineer-selenium-and-playwright-at-fairfield-consultancy-services-limited-uk-4402867082|0c5ec4cceb1e2017
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-bae-systems-4404059945|efddffe5652840f3
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-cubiq-recruitment-4363266393|59c17378ed046e8b
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-dotmatics-4327865434|6e78732589f49267
@@ -747,7 +748,7 @@ https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-workday-produc
 https://uk.linkedin.com/jobs/view/senior-test-capability-engineer-platform-recruitment-at-jobster-4368601051|d4497f76b06d7945
 https://uk.linkedin.com/jobs/view/senior-test-development-engineer-at-cubiq-recruitment-4355330754|07764af454021c0f
 https://uk.linkedin.com/jobs/view/senior-test-development-engineer-at-kaminsky-consulting-4382317048|44948a73a887ebb0
-https://uk.linkedin.com/jobs/view/senior-test-development-engineer-at-morson-talent-4405657098|c173c0df8d334f23
+https://uk.linkedin.com/jobs/view/senior-test-development-engineer-at-morson-talent-4405657098|729d86f83b46511f
 https://uk.linkedin.com/jobs/view/senior-test-engineer-aims-team-at-cox-automotive-europe-4361768359|d020a1d0249dde09
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-1spatial-4340312479|1c3ed75608427f8e
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-a-safe-group-4394697209|a823c18017306a7b
@@ -957,7 +958,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-mactaggart-scott-4389462389|2
 https://uk.linkedin.com/jobs/view/test-engineer-at-multiplex-4392679126|fc59fac6d258d774
 https://uk.linkedin.com/jobs/view/test-engineer-at-nhs-4344984973|43bdc87c9ebc6e28
 https://uk.linkedin.com/jobs/view/test-engineer-at-noir-4391575462?refId=YFMtumkk92R3Odlti783EA==&trackingId=p/8elq5/o/Y+ywvlS0q2LQ==|a7b90acaa4e51d14
-https://uk.linkedin.com/jobs/view/test-engineer-at-noir-4405639177|69d29f9a04b42d5c
+https://uk.linkedin.com/jobs/view/test-engineer-at-noir-4405639177|bd02133a1d5c5848
 https://uk.linkedin.com/jobs/view/test-engineer-at-north-scout-4386854950|fd2155ae786dec6d
 https://uk.linkedin.com/jobs/view/test-engineer-at-novanta-inc-4394466359|28e55abdd662a3b6
 https://uk.linkedin.com/jobs/view/test-engineer-at-oho-group-4374616530|7a138b8b7d0aaf6a
@@ -1487,7 +1488,7 @@ https://www.jobsgopublic.com/job/test-engineer-42038|c25171f4def6acd0
 https://www.jobsgopublic.com/job/test-engineer-44451|c711b8352b522ead
 https://www.jobsgopublic.com/job/test-engineer-48097|ac15e20d5ba3d5f3
 https://www.jobsinwales.com/jobs-in-bassaleg/test-engineer_1430130?region=south|37705c64e5734de4
-https://www.jobsinwales.com/jobs-in-cardiff/automation-engineer_1450763?region=south|69ef0cd2f6563e8c
+https://www.jobsinwales.com/jobs-in-cardiff/automation-engineer_1450763?region=south|36c3cf8097f9d231
 https://www.jobsinwales.com/jobs-in-cardiff/lead-qa-engineer_1450778?region=south|b113f2d0e905b073
 https://www.jobsinwales.com/jobs-in-cardiff/senior-test-automation-engineer-data_1450006?region=south|6953a0aad1a2c2ec
 https://www.jobsinwales.com/jobs-in-cardiff/test-engineer_1445171?region=south|3e24a47a3a7443bb
