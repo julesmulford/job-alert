@@ -398,7 +398,7 @@ https://uk.linkedin.com/jobs/view/global-marketing-automation-architect-at-perki
 https://uk.linkedin.com/jobs/view/global-talent-visa-platform-qa-tester-volunteer-at-emigr8-tech-visa-4355510656|5ed9a3006971ab96
 https://uk.linkedin.com/jobs/view/graduate-automation-engineer-at-hitachi-energy-4327207297|92ee46761ae15f6b
 https://uk.linkedin.com/jobs/view/graduate-qa-engineer-at-ovarro-4329290939|e241c2590d20c3a1
-https://uk.linkedin.com/jobs/view/graduate-qa-engineer-oxford-world-class-team-tech-entry-at-oho-group-4405315881|665d64b669af03e8
+https://uk.linkedin.com/jobs/view/graduate-qa-engineer-oxford-world-class-team-tech-entry-at-oho-group-4405315881|b9c7463c2cc0c6da
 https://uk.linkedin.com/jobs/view/graduate-test-automation-engineer-at-targetjobs-uk-4403613788|0e1c2b25856eb7d1
 https://uk.linkedin.com/jobs/view/graduate-test-engineer-at-grayce-4369746600|e6862030db636c7e
 https://uk.linkedin.com/jobs/view/hardware-test-compliance-engineer-at-fuse-energy-4361666692|6def7703801c2e84
@@ -525,6 +525,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-contractor-at-pulse-innovations-gm
 https://uk.linkedin.com/jobs/view/qa-engineer-for-mobile-remote-at-veeva-systems-4374928086|88a2fde570db5720
 https://uk.linkedin.com/jobs/view/qa-engineer-fullstack-at-st-global-tech-llc-4368961645|9b5a87c5cb86b5b9
 https://uk.linkedin.com/jobs/view/qa-engineer-manchester-at-tilo-consulting-4401711264|d84ef72a112e677e
+https://uk.linkedin.com/jobs/view/qa-engineer-manual-automation-at-pinewood-ai-4406611740|e6ce7371fc55ac45
 https://uk.linkedin.com/jobs/view/qa-engineer-manual-mid-level-12-month-ftc-at-informa-4339482495|9009e4ac4ad456c6
 https://uk.linkedin.com/jobs/view/qa-engineer-sdet-at-mygwork-lgbtq+-business-community-4363944684|07c9fdd0bb566487
 https://uk.linkedin.com/jobs/view/qa-engineer-servicenow-at-harvey-nash-4365318311|9da4a167cd1be7ed
