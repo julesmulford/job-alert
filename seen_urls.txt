@@ -817,7 +817,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-mastek-at-jobster-4351888
 https://uk.linkedin.com/jobs/view/senior-test-engineer-oho-group-ltd-at-jobster-4321515263|ce1e057d1d8ae19d
 https://uk.linkedin.com/jobs/view/senior-test-engineer-public-at-kainos-4407446936|a74394bee864ff3b
 https://uk.linkedin.com/jobs/view/senior-test-engineer-williams-racing-at-jobster-4354707490|f7e06dc26c107b79
-https://uk.linkedin.com/jobs/view/senior-test-execution-engineer-at-tata-technologies-4405549561|c3ddbea3a9e7eb16
+https://uk.linkedin.com/jobs/view/senior-test-execution-engineer-at-tata-technologies-4405549561|f05fe96e0da5f51e
 https://uk.linkedin.com/jobs/view/senior-test-lead-at-platform-recruitment-4380252934|d43c9cd44c3766a2
 https://uk.linkedin.com/jobs/view/senior-test-lead-at-the-adecco-group-4373351588|765117b8cafd8b6b
 https://uk.linkedin.com/jobs/view/senior-testing-engineer-complex-at-energy-job-search-4381521551|6c67e96e552ba7b1
@@ -860,6 +860,7 @@ https://uk.linkedin.com/jobs/view/software-test-engineer-at-sii-group-uk-4384237
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-succession-wealth-4385182089|895f5b97a729b6a5
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-the-one-group-ltd-4352574775|5b75e7c529e8dc81
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-tiger-resourcing-group-4374287691|f415df85fcbf230d
+https://uk.linkedin.com/jobs/view/software-test-engineer-at-transport-for-greater-manchester-4405578320|6b40cac4f0c93f06
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-tst-group-4339364094|77e2528712aef090
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-vanrath-4343264665|3f309a83f0eccb19
 https://uk.linkedin.com/jobs/view/software-test-engineer-digital-pathology-image-management-system-development-at-epredia-4355243787|5b092caa79a37398
@@ -1284,7 +1285,7 @@ https://uk.talent.com/view?id=616999696318864339|06be0cc83e3df0b7
 https://uk.talent.com/view?id=617061263935476608|d86e84a214d01024
 https://uk.talent.com/view?id=617061805830248050|077e32bb1b4ce19f
 https://uk.talent.com/view?id=617061839538034290|1efea2663bbf7232
-https://uk.talent.com/view?id=617073285508305573|31401f045097edca
+https://uk.talent.com/view?id=617073285508305573|cbbacbcf2da24435
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
