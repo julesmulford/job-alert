@@ -540,6 +540,7 @@ https://uk.linkedin.com/jobs/view/qa-payments-at-insight-global-4378815393|7baa8
 https://uk.linkedin.com/jobs/view/qa-software-test-engineer-code-review-remote-at-yo-it-consulting-4395422868?position=45&pageNum=0&refId=SR3QQzjgwjKBL8g5fS6CdQ==&trackingId=lhnlXs18WxqSH7Uikcg7mg==|df9155d1759a0199
 https://uk.linkedin.com/jobs/view/qa-software-tester-at-bytron-aviation-systems-4372228942|a0fc5379c6c142ba
 https://uk.linkedin.com/jobs/view/qa-test-analyst-at-haystack-4364903516|b0d936613d89fb08
+https://uk.linkedin.com/jobs/view/qa-test-engineer-+-equity-at-fusion-fund-backed-autonomy-safety-startup-at-jack-jill-4405086336|04fe781a2c924f6a
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-dine-4358754863?position=34&pageNum=0&refId=82jCfizjECYS02Im/WtfeQ==&trackingId=g2GFRa6Ry42KihTL0xDURQ==|39491eda9bc42633
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-elsevier-4384057753|24b5d47158d2881a
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-io-associates-4386884897|a18f8de6f39e8460
@@ -1270,6 +1271,7 @@ https://uk.talent.com/view?id=616859349576787588|d65685ab8e64b15c
 https://uk.talent.com/view?id=616859364789266052|76a73aefe46f6ed0
 https://uk.talent.com/view?id=616859366363768452|54dbc6b2d7303009
 https://uk.talent.com/view?id=616887553694836452|f96ffce327e1fc52
+https://uk.talent.com/view?id=616999640160279507|05c2e65e030ee544
 https://uk.talent.com/view?id=616999696318864339|d0136cbfe380abc9
 https://uk.talent.com/view?id=617061805830248050|077e32bb1b4ce19f
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
