@@ -817,7 +817,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-mastek-at-jobster-4351888
 https://uk.linkedin.com/jobs/view/senior-test-engineer-oho-group-ltd-at-jobster-4321515263|ce1e057d1d8ae19d
 https://uk.linkedin.com/jobs/view/senior-test-engineer-public-at-kainos-4407446936|a74394bee864ff3b
 https://uk.linkedin.com/jobs/view/senior-test-engineer-williams-racing-at-jobster-4354707490|f7e06dc26c107b79
-https://uk.linkedin.com/jobs/view/senior-test-execution-engineer-at-tata-technologies-4405549561|6efe0d13f0ad56d8
+https://uk.linkedin.com/jobs/view/senior-test-execution-engineer-at-tata-technologies-4405549561|74960a5cfe641908
 https://uk.linkedin.com/jobs/view/senior-test-lead-at-platform-recruitment-4380252934|d43c9cd44c3766a2
 https://uk.linkedin.com/jobs/view/senior-test-lead-at-the-adecco-group-4373351588|765117b8cafd8b6b
 https://uk.linkedin.com/jobs/view/senior-testing-engineer-complex-at-energy-job-search-4381521551|6c67e96e552ba7b1
@@ -860,7 +860,7 @@ https://uk.linkedin.com/jobs/view/software-test-engineer-at-sii-group-uk-4384237
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-succession-wealth-4385182089|895f5b97a729b6a5
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-the-one-group-ltd-4352574775|5b75e7c529e8dc81
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-tiger-resourcing-group-4374287691|f415df85fcbf230d
-https://uk.linkedin.com/jobs/view/software-test-engineer-at-transport-for-greater-manchester-4405578320|eb11b7bd000ce90b
+https://uk.linkedin.com/jobs/view/software-test-engineer-at-transport-for-greater-manchester-4405578320|3e122a0fe54da9e1
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-tst-group-4339364094|77e2528712aef090
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-vanrath-4343264665|3f309a83f0eccb19
 https://uk.linkedin.com/jobs/view/software-test-engineer-digital-pathology-image-management-system-development-at-epredia-4355243787|5b092caa79a37398
@@ -920,7 +920,7 @@ https://uk.linkedin.com/jobs/view/test-automation-engineer-at-kerv-4390721587|fc
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-motorola-solutions-4402004887|f573d359221b5f54
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pelion-4344514030|09a1ce95d7968027
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pentenamio-4337852477|0bc864521d202384
-https://uk.linkedin.com/jobs/view/test-automation-engineer-at-person-centred-software-ltd-4408033427|382201a31d6aa6f3
+https://uk.linkedin.com/jobs/view/test-automation-engineer-at-person-centred-software-ltd-4408033427|85562eaa1247a08d
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-shawbrook-4359646770|a3f308934b6f493b
 https://uk.linkedin.com/jobs/view/test-automation-engineer-leidos-at-jobster-4321435601|605bff8319f9c382
 https://uk.linkedin.com/jobs/view/test-automation-engineer-mobile-at-person-centred-software-ltd-4360773585|9ecd34628fb0c535
@@ -972,7 +972,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4365521038|608a7
 https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4369625774|62772fc6fe1e0a7d
 https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4392366620|d4f1c1a1c2c857cb
 https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4406265770|94a31f25080e93b3
-https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4407869478|b66bafae0d18d422
+https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4407869478|65a6e74eb310641c
 https://uk.linkedin.com/jobs/view/test-engineer-at-isr-recruitment-4344881979|4bd14c58dfb08bfa
 https://uk.linkedin.com/jobs/view/test-engineer-at-ixceed-solutions-4339126718|98069541245c25bb
 https://uk.linkedin.com/jobs/view/test-engineer-at-la-fosse-4329705420|2bafa911600c8827
