@@ -26,6 +26,7 @@ https://jobtoday.com/gb/jobs-qa-tester/castleford|035543c74997e11e
 https://jobtoday.com/gb/jobs-qa-tester/chatham|588af79ffd2584da
 https://jobtoday.com/gb/jobs-qa-tester/pontefract|5b5187d52c163eef
 https://jobtoday.com/gb/jobs-software-tester/worksop|5d780b5162d0597e
+https://jobtoday.com/gb/jobs-test-engineer/coalville|8b5da526942aabd1
 https://syncni.com/article/14760/backing-the-next-generation-of-entrepreneurs-in-northern-ireland|739e3baadcd1402a
 https://thecareerwallet.com/job/qa-automation-test-engineer-20286590142025496|9f2618254ba5e3db
 https://thecareerwallet.com/jobs/ai-automation-engineer-build-scalable-ai-agents-81887932119407321|4437416eeae368cb
