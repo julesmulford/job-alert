@@ -10,6 +10,7 @@ https://gb.bebee.com/job/d98a15a8aa30ee251350899c5c138684|9136b73e45608470
 https://gb.bebee.com/job/da698c6ce7dcb67f506cb4e2bfdaec03|2e6fa3e25350a39f
 https://gb.bebee.com/job/ebb07f7589e02268879299b8016bac79|b21f99dba29cb333
 https://gb.bebee.com/job/eef67ab7c098e677a138f416f7c1bacd|d31d93925373d447
+https://ic-resources.com/en/jobs/test-engineer-451575/|3c912d279fe3d364
 https://jobs.jobg8.com/jobs/junior-test-engineer-remote-playwright-jest-gds-in-united-kingdom/5673-3057150701ED|89a9d4ced5176dfa
 https://jobs.theguardian.com/employer/ba7a045f-d758-4e3a-9109-bb2e748f6551/accenture|8c18da15cf6bfec8
 https://jobs.theguardian.com/job/10027869/automation-engineer-eica-buk-service-dept/|e1d14c69614b87e9
