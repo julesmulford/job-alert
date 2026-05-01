@@ -443,7 +443,7 @@ https://uk.linkedin.com/jobs/view/lead-test-engineer-public-at-kainos-4379296428
 https://uk.linkedin.com/jobs/view/linkedin-test-at-logic-melon-middleware-test-company-4365254834|8f97d760e8c3ae71
 https://uk.linkedin.com/jobs/view/low-code-automation-engineer-freelance-ai-trainer-at-mindrift-4403798463|3fd34bc68e205c96
 https://uk.linkedin.com/jobs/view/manual-test-engineer-application-testing-and-network-testing-at-queen-square-recruitment-4389648078|926b39ed6ecc8760
-https://uk.linkedin.com/jobs/view/manual-test-engineer-at-oho-group-4407920631|fb9f97d8b3214f30
+https://uk.linkedin.com/jobs/view/manual-test-engineer-at-oho-group-4407920631|f9ab3c27839b9c4f
 https://uk.linkedin.com/jobs/view/manual-tester-12-month-ftc-1-4-years-exp-max-at-sparta-global-4398222721|575aded86c686b8d
 https://uk.linkedin.com/jobs/view/manual-uat-tester-at-lumenalta-4340390240|58c3a7aebd070700
 https://uk.linkedin.com/jobs/view/material-testing-engineer-soft-trim-materials-at-q1-technologies-inc-4348911405|cb3fe222a3e4901d
@@ -970,6 +970,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-hamiltonian-dynamics-43705270
 https://uk.linkedin.com/jobs/view/test-engineer-at-harman-international-4360535023|576c90f0f7405e1f
 https://uk.linkedin.com/jobs/view/test-engineer-at-hays-4368740586|97198acd71f9a518
 https://uk.linkedin.com/jobs/view/test-engineer-at-hays-4397059525|2e0a14e5e5061ce1
+https://uk.linkedin.com/jobs/view/test-engineer-at-hays-4407210549|5376e17c2c1bae0a
 https://uk.linkedin.com/jobs/view/test-engineer-at-high-growth-uk-tech-startup-at-jack-jill-4351945842|051b60bfbf939369
 https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4358501849|146688b34782410b
 https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4365521038|608a737cb180a284
