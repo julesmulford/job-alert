@@ -307,7 +307,7 @@ https://uk.linkedin.com/jobs/view/automation-engineer-at-innovo-global-talent-43
 https://uk.linkedin.com/jobs/view/automation-engineer-at-john-goddard-associates-4343609737|dee4dc848ee7e1e9
 https://uk.linkedin.com/jobs/view/automation-engineer-at-kp-snacks-4387393727|feeefa545e708968
 https://uk.linkedin.com/jobs/view/automation-engineer-at-logistex-4344865655|014497cf8106484b
-https://uk.linkedin.com/jobs/view/automation-engineer-at-luxoft-4409402901|65111e35be1c953e
+https://uk.linkedin.com/jobs/view/automation-engineer-at-luxoft-4409402901|85435814616c63f9
 https://uk.linkedin.com/jobs/view/automation-engineer-at-perimeter-automation-4378386838|9a52a0b356a619ed
 https://uk.linkedin.com/jobs/view/automation-engineer-at-premier-foods-4390609811|2350288d3f2113a5
 https://uk.linkedin.com/jobs/view/automation-engineer-at-self-employed-4343378556|4e47adf5a3a804db
@@ -444,7 +444,7 @@ https://uk.linkedin.com/jobs/view/lead-test-engineer-public-at-kainos-4379296428
 https://uk.linkedin.com/jobs/view/linkedin-test-at-logic-melon-middleware-test-company-4365254834|8f97d760e8c3ae71
 https://uk.linkedin.com/jobs/view/low-code-automation-engineer-freelance-ai-trainer-at-mindrift-4403798463|3fd34bc68e205c96
 https://uk.linkedin.com/jobs/view/manual-test-engineer-application-testing-and-network-testing-at-queen-square-recruitment-4389648078|926b39ed6ecc8760
-https://uk.linkedin.com/jobs/view/manual-test-engineer-at-oho-group-4407920631|020abcef6d98e12c
+https://uk.linkedin.com/jobs/view/manual-test-engineer-at-oho-group-4407920631|77901384096f8ced
 https://uk.linkedin.com/jobs/view/manual-tester-12-month-ftc-1-4-years-exp-max-at-sparta-global-4398222721|575aded86c686b8d
 https://uk.linkedin.com/jobs/view/manual-uat-tester-at-lumenalta-4340390240|58c3a7aebd070700
 https://uk.linkedin.com/jobs/view/material-testing-engineer-soft-trim-materials-at-q1-technologies-inc-4348911405|cb3fe222a3e4901d
@@ -481,7 +481,7 @@ https://uk.linkedin.com/jobs/view/principal-test-engineer-at-hackajob-4329216868
 https://uk.linkedin.com/jobs/view/principal-test-engineer-at-hackajob-4394423547|b5451b1e51299548
 https://uk.linkedin.com/jobs/view/principle-test-engineer-ai-automation-tooling-at-axa-uk-4406509171|d09a4a67aac982de
 https://uk.linkedin.com/jobs/view/product-test-engineer-luxury-audio-at-harman-international-4351011419|2d0a56c30be833f4
-https://uk.linkedin.com/jobs/view/production-test-engineer-at-aggreko-4409498547|17192ce6c7a6d618
+https://uk.linkedin.com/jobs/view/production-test-engineer-at-aggreko-4409498547|490e4950ef83b859
 https://uk.linkedin.com/jobs/view/project-and-automation-engineer-at-years-com-more-years-together-4390309010|0f1447eecbc78e27
 https://uk.linkedin.com/jobs/view/qa-analyst-at-hackajob-4378266775|db75b839a6723228
 https://uk.linkedin.com/jobs/view/qa-analyst-operations-automation-engineer-at-marex-4390160389|49637da6911c0f16
@@ -654,7 +654,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-version-1-4
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-esc-or-edv-required-at-ibm-4401662637|580c664b78018541
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-etrm-trading-platforms-at-datacareers-4375231554|42994fca54e8759a
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-python-at-machnet-medical-robotics-4365314733|db42809e96ef4c85
-https://uk.linkedin.com/jobs/view/senior-automation-tester-at-boost-talent-ltd-4409502176|f5b0a2e26dcca98d
+https://uk.linkedin.com/jobs/view/senior-automation-tester-at-boost-talent-ltd-4409502176|ea0118491abdfdec
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-cognizant-4376827127|f91843537c44ca04
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-netcompany-4344991895|3d4dbf0417845212
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-netcompany-4399913844|b8392ccfe211f58c
@@ -845,7 +845,7 @@ https://uk.linkedin.com/jobs/view/software-engineer-iii-test-automation-at-hacka
 https://uk.linkedin.com/jobs/view/software-engineer-in-test-balance-talent-at-jobster-4360393554|825b9c0992a30987
 https://uk.linkedin.com/jobs/view/software-firmware-test-engineer-at-unipart-4396073060|83e2bd4f1bd597c9
 https://uk.linkedin.com/jobs/view/software-qa-analyst-at-spectrum-it-recruitment-4390968042|b693f19377d05eba
-https://uk.linkedin.com/jobs/view/software-qa-engineer-at-hired-4409461041|ec5024c45de35817
+https://uk.linkedin.com/jobs/view/software-qa-engineer-at-hired-4409461041|cbda71359684a23d
 https://uk.linkedin.com/jobs/view/software-qa-engineer-at-spectrum-it-recruitment-4372841788|711f16ed55cb0718
 https://uk.linkedin.com/jobs/view/software-qa-fruition-group-at-jobster-4360161348|01781b0cf46ef3b9
 https://uk.linkedin.com/jobs/view/software-qa-tester-at-capita-4387887563|e3da46052fb54cb0
@@ -974,7 +974,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-hamiltonian-dynamics-43705270
 https://uk.linkedin.com/jobs/view/test-engineer-at-harman-international-4360535023|576c90f0f7405e1f
 https://uk.linkedin.com/jobs/view/test-engineer-at-hays-4368740586|97198acd71f9a518
 https://uk.linkedin.com/jobs/view/test-engineer-at-hays-4397059525|2e0a14e5e5061ce1
-https://uk.linkedin.com/jobs/view/test-engineer-at-hays-4407210549|09c9314a29bc0ff6
+https://uk.linkedin.com/jobs/view/test-engineer-at-hays-4407210549|1fb06c421f9ddb0b
 https://uk.linkedin.com/jobs/view/test-engineer-at-high-growth-uk-tech-startup-at-jack-jill-4351945842|051b60bfbf939369
 https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4358501849|146688b34782410b
 https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4365521038|608a737cb180a284
@@ -1014,7 +1014,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-tact-4340346408|198d7eec60f85
 https://uk.linkedin.com/jobs/view/test-engineer-at-tiptopjob-4404018338|ae9f344ce54774c3
 https://uk.linkedin.com/jobs/view/test-engineer-at-vitec-4369922259|1d31c925c5da8210
 https://uk.linkedin.com/jobs/view/test-engineer-at-women-in-tech-4405347815|1f4233e942f049fe
-https://uk.linkedin.com/jobs/view/test-engineer-charging-systems-at-tata-technologies-4407203599|f50b9ed9306cbf22
+https://uk.linkedin.com/jobs/view/test-engineer-charging-systems-at-tata-technologies-4407203599|f28ecef1d5e04296
 https://uk.linkedin.com/jobs/view/test-engineer-component-level-at-verso-recruitment-group-4391093275|e9de1cea1fb1a698
 https://uk.linkedin.com/jobs/view/test-engineer-construction-at-lucideon-4328789447|e3bd07b985aac63b
 https://uk.linkedin.com/jobs/view/test-engineer-dfe-seo-at-manchester-digital-4329654428|171db8e357731827
