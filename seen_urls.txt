@@ -294,7 +294,7 @@ https://uk.linkedin.com/jobs/view/automation-engineer-at-amazon-4385172061|6039e
 https://uk.linkedin.com/jobs/view/automation-engineer-at-catalent-4369628219|7d0f1fb70112c95e
 https://uk.linkedin.com/jobs/view/automation-engineer-at-cbsbutler-4371842378|da30539f229266ee
 https://uk.linkedin.com/jobs/view/automation-engineer-at-census-ex-forces-recruitment-ltd-4348864043|bac3d74efe35182f
-https://uk.linkedin.com/jobs/view/automation-engineer-at-cititec-4407261821|4e4d1199d0a4bfc3
+https://uk.linkedin.com/jobs/view/automation-engineer-at-cititec-4407261821|ab5e40bde0d8b55f
 https://uk.linkedin.com/jobs/view/automation-engineer-at-clear-4361961076|223bf6604eb8e3ab
 https://uk.linkedin.com/jobs/view/automation-engineer-at-copello-global-4401623200|ee8a7f4e258bf47e
 https://uk.linkedin.com/jobs/view/automation-engineer-at-dabster-4374930118|a75dd7b2616d1a83
@@ -882,7 +882,7 @@ https://uk.linkedin.com/jobs/view/software-tester-at-europa-worldwide-group-4394
 https://uk.linkedin.com/jobs/view/software-tester-at-fdm-group-4348622615|63521ed80df38291
 https://uk.linkedin.com/jobs/view/software-tester-at-fetchjobs-co-4394797920|b88ef7596eb0a691
 https://uk.linkedin.com/jobs/view/software-tester-at-iken-4373871842|996095a353f91053
-https://uk.linkedin.com/jobs/view/software-tester-at-neartech-search-4407270301|feabdb2194bcca85
+https://uk.linkedin.com/jobs/view/software-tester-at-neartech-search-4407270301|63a2dc905fc32527
 https://uk.linkedin.com/jobs/view/software-tester-at-seebyte-4388392006|ae256385936cad4f
 https://uk.linkedin.com/jobs/view/software-tester-at-squarcle-4379885720|4e8faed697e6c205
 https://uk.linkedin.com/jobs/view/software-tester-at-stratospherec-limited-4374263563|5aa9ebbec25dee17
