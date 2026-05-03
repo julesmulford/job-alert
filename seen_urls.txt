@@ -258,6 +258,7 @@ https://uk.linkedin.com/jobs/view/actemium-automation-nottingham-senior-control-
 https://uk.linkedin.com/jobs/view/actemium-ics-test-engineer-at-actemium-uk-4330073147|1d0016fe50de061f
 https://uk.linkedin.com/jobs/view/aem-qa-automation-engineer-at-red-global-4348843342|25c2ad62c4905622
 https://uk.linkedin.com/jobs/view/affiliate-software-engineer-in-test-at-and-digital-4342781054|52249c509c6b31e4
+https://uk.linkedin.com/jobs/view/ai-and-automation-apprentice-at-digiovations-4409576935|5fb1da83ab0a5bc2
 https://uk.linkedin.com/jobs/view/ai-and-automation-apprenticeship-at-digital-native-4385792389|df31df1c27593639
 https://uk.linkedin.com/jobs/view/ai-and-automation-engineer-agentops-at-bet365-4370956672|2e99240f47e9d9a6
 https://uk.linkedin.com/jobs/view/ai-and-automation-specialist-at-haystack-4403866114|1bc920700b870b17
@@ -294,7 +295,7 @@ https://uk.linkedin.com/jobs/view/automation-engineer-at-amazon-4385172061|6039e
 https://uk.linkedin.com/jobs/view/automation-engineer-at-catalent-4369628219|7d0f1fb70112c95e
 https://uk.linkedin.com/jobs/view/automation-engineer-at-cbsbutler-4371842378|da30539f229266ee
 https://uk.linkedin.com/jobs/view/automation-engineer-at-census-ex-forces-recruitment-ltd-4348864043|bac3d74efe35182f
-https://uk.linkedin.com/jobs/view/automation-engineer-at-cititec-4407261821|674736d847701460
+https://uk.linkedin.com/jobs/view/automation-engineer-at-cititec-4407261821|7b3cb58ba4f9d64f
 https://uk.linkedin.com/jobs/view/automation-engineer-at-clear-4361961076|223bf6604eb8e3ab
 https://uk.linkedin.com/jobs/view/automation-engineer-at-copello-global-4401623200|ee8a7f4e258bf47e
 https://uk.linkedin.com/jobs/view/automation-engineer-at-dabster-4374930118|a75dd7b2616d1a83
@@ -359,6 +360,7 @@ https://uk.linkedin.com/jobs/view/building-automation-apprentice-at-cundall-4355
 https://uk.linkedin.com/jobs/view/c-and-i-engineer-automation-engineer-at-tiptopjob-4365612405|75fcd18d59d4cc16
 https://uk.linkedin.com/jobs/view/content-tester-shipit-at-shipit-4346291657|266049a624aab948
 https://uk.linkedin.com/jobs/view/contract-automation-tester-at-inspired-thinking-group-itg-4372255067|980033d40ba3a74b
+https://uk.linkedin.com/jobs/view/controls-and-automation-engineer-at-tiptopjob-4409824848|6fcdb6aad59ab6df
 https://uk.linkedin.com/jobs/view/controls-and-automation-engineer-at-yeo-valley-organic-4380018521|bb2817f0bfcd0a60
 https://uk.linkedin.com/jobs/view/controls-automation-engineer-connected-consulting-limited-at-jobster-4360038306|fcf0d6a3dbbce355
 https://uk.linkedin.com/jobs/view/controls-automation-engineer-plc-scada-at-j-t-business-consulting-4398783833|e8828ce8ff11c750
@@ -395,6 +397,7 @@ https://uk.linkedin.com/jobs/view/environmental-test-engineer-aerospace-at-alten
 https://uk.linkedin.com/jobs/view/ers-test-engineer-shifts-at-red-bull-racing-red-bull-technology-4350994981|17e367b82a7962d8
 https://uk.linkedin.com/jobs/view/f5-automation-engineer-at-auxo-talent-4370298846|0bb1914baaa80abd
 https://uk.linkedin.com/jobs/view/flexcube-qa-testing-analyst-at-zenith-bank-uk-limited-4345657112|c75a91273ecc0692
+https://uk.linkedin.com/jobs/view/freelance-automation-workflow-specialist-no-code-at-mindrift-4409572980|287274e93ddbab1a
 https://uk.linkedin.com/jobs/view/front-end-automation-tester-studentjob-co-uk-at-jobster-4367728191|dd3e6527005a6ddc
 https://uk.linkedin.com/jobs/view/frontend-quality-assurance-engineer-remote-at-taskify-ai-4338503541|a7a0e2af78dfdc6a
 https://uk.linkedin.com/jobs/view/ftc-test-automation-engineer-at-pentenamio-4344686960|4d762840a0fae8dc
@@ -882,7 +885,7 @@ https://uk.linkedin.com/jobs/view/software-tester-at-europa-worldwide-group-4394
 https://uk.linkedin.com/jobs/view/software-tester-at-fdm-group-4348622615|63521ed80df38291
 https://uk.linkedin.com/jobs/view/software-tester-at-fetchjobs-co-4394797920|b88ef7596eb0a691
 https://uk.linkedin.com/jobs/view/software-tester-at-iken-4373871842|996095a353f91053
-https://uk.linkedin.com/jobs/view/software-tester-at-neartech-search-4407270301|0d97ff48efb0adce
+https://uk.linkedin.com/jobs/view/software-tester-at-neartech-search-4407270301|67da28be603d3e79
 https://uk.linkedin.com/jobs/view/software-tester-at-seebyte-4388392006|ae256385936cad4f
 https://uk.linkedin.com/jobs/view/software-tester-at-squarcle-4379885720|4e8faed697e6c205
 https://uk.linkedin.com/jobs/view/software-tester-at-stratospherec-limited-4374263563|5aa9ebbec25dee17
