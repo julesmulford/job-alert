@@ -322,7 +322,7 @@ https://uk.linkedin.com/jobs/view/automation-engineer-aylesbury-at-arla-foods-43
 https://uk.linkedin.com/jobs/view/automation-engineer-fea-at-capgemini-engineering-4327805525|81515acb516bc0e2
 https://uk.linkedin.com/jobs/view/automation-engineer-infrastructure-at-wiraa-4384801433|9c4482fad375e5df
 https://uk.linkedin.com/jobs/view/automation-engineer-microsoft-powerapps-microsoft-power-automate-azure-financial-services-investment-management-at-psd-group-4372245084|f1554874bd757eec
-https://uk.linkedin.com/jobs/view/automation-engineer-n8n-at-huzzle-com-4408687369|11f4ed9dd442f49c
+https://uk.linkedin.com/jobs/view/automation-engineer-n8n-at-huzzle-com-4408687369|32b06fcb925b4c58
 https://uk.linkedin.com/jobs/view/automation-engineer-rme-at-amazon-4361665708|30015ebb4763a27b
 https://uk.linkedin.com/jobs/view/automation-engineer-standard-controls-at-segula-technologies-4400870473|4f953233449631ec
 https://uk.linkedin.com/jobs/view/automation-innovation-developer-at-royal-london-4404301390|0424f3e005fb5644
@@ -478,7 +478,7 @@ https://uk.linkedin.com/jobs/view/offensive-security-tester-at-hackajob-43214520
 https://uk.linkedin.com/jobs/view/pat-tester-at-ecs-ltd-4329895656|4681d398c2c71711
 https://uk.linkedin.com/jobs/view/pat-tester-portable-appliance-tester-at-norwood-electrical-uk-ltd-4373217113|ce4e3379c8ce3353
 https://uk.linkedin.com/jobs/view/pc-game-qa-tester-unity-steam-at-tink-team-ltd-4400944643|ca0824a75f7f4821
-https://uk.linkedin.com/jobs/view/pega-automation-engineer-at-philodesign-technologies-inc-4407759614|7c604f339ea69005
+https://uk.linkedin.com/jobs/view/pega-automation-engineer-at-philodesign-technologies-inc-4407759614|46fb5b3bb96e0e1d
 https://uk.linkedin.com/jobs/view/performance-qa-engineer-at-opus-recruitment-solutions-4395455103|c23237fc2c30d1b1
 https://uk.linkedin.com/jobs/view/performance-test-engineer-at-coforge-4327626051|646ad838432143d4
 https://uk.linkedin.com/jobs/view/performance-test-engineer-at-test-yantra-4400376893|bfc672f00af8b27d
@@ -519,6 +519,7 @@ https://uk.linkedin.com/jobs/view/qa-automation-engineer-on-site-at-insight-inte
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-python-pytest-cosmos-db-banking-client-exp-required-vallum-associates-at-jobster-4354477343|9f07fc8ceeadf8ac
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-redrock-resourcing-at-jobster-4359228463|2e3cd3c3a96e239a
 https://uk.linkedin.com/jobs/view/qa-embedded-tester-at-hutch-4359983518|0479fb1e2a2e69d6
+https://uk.linkedin.com/jobs/view/qa-engineer-ai-applications-remote-at-quik-hire-staffing-4410053793|f8dcb712d9b08330
 https://uk.linkedin.com/jobs/view/qa-engineer-at-arroyo-is-becoming-inspyr-global-solutions-4398079249|43f6d53c83890f27
 https://uk.linkedin.com/jobs/view/qa-engineer-at-best-job-tool-4363976557|23a0109a4c715aca
 https://uk.linkedin.com/jobs/view/qa-engineer-at-bilfinger-uk-4354231217|b642d1c060e8eea5
@@ -623,6 +624,7 @@ https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-undisclosed-439014
 https://uk.linkedin.com/jobs/view/quality-automation-engineer-at-hackajob-4325935309|1734bdcf9abd85e8
 https://uk.linkedin.com/jobs/view/quality-automation-engineer-london-at-accenture-uk-ireland-4345023360|2b93a6aa5bd17353
 https://uk.linkedin.com/jobs/view/quality-automation-specialist-at-natwest-group-4377753547|d952c2fd82bad9b4
+https://uk.linkedin.com/jobs/view/quality-control-software-tester-at-haystack-4408103479|1077c5f1a76a5dbd
 https://uk.linkedin.com/jobs/view/quality-engineer-at-best-job-tool-4345600421|e5fd1146a0594a23
 https://uk.linkedin.com/jobs/view/quality-engineer-at-brotherstech-4395032036|70da840fdb1f264b
 https://uk.linkedin.com/jobs/view/quality-engineer-at-netrolynx-ai-4400693510|446ae717b0afc4af
@@ -705,7 +707,7 @@ https://uk.linkedin.com/jobs/view/senior-product-test-engineer-at-haystack-43965
 https://uk.linkedin.com/jobs/view/senior-product-test-engineer-at-socode-recruitment-4390373202|57fc18adba3b954a
 https://uk.linkedin.com/jobs/view/senior-product-test-engineer-electronics-at-frontier-resourcing-4398373430|59679fcc75e1d804
 https://uk.linkedin.com/jobs/view/senior-production-test-engineer-at-evolito-ltd-4390280134|8b59a2d6889585a2
-https://uk.linkedin.com/jobs/view/senior-protection-control-engineer-at-mitie-projects-4408658701|44d5c1b943a05b1e
+https://uk.linkedin.com/jobs/view/senior-protection-control-engineer-at-mitie-projects-4408658701|8fcdb2bd5512d200
 https://uk.linkedin.com/jobs/view/senior-qa-at-waracle-4379940136|d9c66e164a3afa00
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-fuuse-4365286628|36b3cbbd5e66eccc
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-jobs-via-efinancialcareers-4346694704|e5197ed78aeface3
@@ -1054,12 +1056,12 @@ https://uk.linkedin.com/jobs/view/test-engineer-welsh-revenue-authority-heo-at-m
 https://uk.linkedin.com/jobs/view/test-equipment-sustainment-team-leader-at-ge-aerospace-4371035730|c286bf016bf8c033
 https://uk.linkedin.com/jobs/view/test-job-at-jefferies-4375542636|9ae25fc52f07ea83
 https://uk.linkedin.com/jobs/view/test-job-at-the-vale-resort-4376215294|a172b64f0542411a
-https://uk.linkedin.com/jobs/view/test-lead-at-avance-consulting-4408672116|9575f92fa65a2d57
+https://uk.linkedin.com/jobs/view/test-lead-at-avance-consulting-4408672116|fba53dec4199d5b9
 https://uk.linkedin.com/jobs/view/test-lead-at-hcltech-4350695341|658e32187b176a1b
 https://uk.linkedin.com/jobs/view/test-lead-at-national-trust-4404056616|9c1b7dbaa81cc63e
 https://uk.linkedin.com/jobs/view/test-lead-at-primus-global-solutions-primus-uk-europe-4354515937|92d559d65d9d33dc
 https://uk.linkedin.com/jobs/view/test-lead-operational-technology-poweron-adms-at-sword-group-4349397283|f2adf25a8a917e5e
-https://uk.linkedin.com/jobs/view/test-lead-oracle-field-services-at-bluerose-technologies-4410096750|ae24504ed04df4ad
+https://uk.linkedin.com/jobs/view/test-lead-oracle-field-services-at-bluerose-technologies-4410096750|3ab287e7886dd790
 https://uk.linkedin.com/jobs/view/test-lead-studentjob-co-uk-at-jobster-4330124478|76bd8d41538ebdf2
 https://uk.linkedin.com/jobs/view/test-means-engineer-at-scalian-4379912037|bb106f967f196aaa
 https://uk.linkedin.com/jobs/view/test-means-engineer-at-segula-technologies-4388521223|388153e58fe49a38
