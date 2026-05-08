@@ -333,6 +333,7 @@ https://uk.linkedin.com/jobs/view/automation-specialist-at-hcltech-4400420328|37
 https://uk.linkedin.com/jobs/view/automation-test-analyst-at-eden-scott-4361848575|61998bda0aba44b1
 https://uk.linkedin.com/jobs/view/automation-test-analyst-at-paritas-recruitment-4355906380|0feb98c60da0f27c
 https://uk.linkedin.com/jobs/view/automation-test-analyst-at-paritas-recruitment-4399017529|9d180428d33837c1
+https://uk.linkedin.com/jobs/view/automation-test-analyst-at-sparta-global-4409602360|d3c3a93e96e233bf
 https://uk.linkedin.com/jobs/view/automation-test-analyst-studentjob-co-uk-at-jobster-4367740133|f8757f24b5c8f272
 https://uk.linkedin.com/jobs/view/automation-test-architect-at-dxc-technology-4383975166|8b6f7fdeb6e2562b
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-amber-labs-4369132371|dcf50af6ecd575b4
@@ -584,6 +585,7 @@ https://uk.linkedin.com/jobs/view/qa-test-engineer-manual-automation-at-project-
 https://uk.linkedin.com/jobs/view/qa-test-engineer-ruby-python-at-partnerize-4392949419|48f0591ac92c5b68
 https://uk.linkedin.com/jobs/view/qa-tester-at-dwp-digital-4379913421|f44629cbea3e1de3
 https://uk.linkedin.com/jobs/view/qa-tester-at-haystack-4392449076|092c8637589a495b
+https://uk.linkedin.com/jobs/view/qa-tester-at-haystack-4408887883|598a155d13482901
 https://uk.linkedin.com/jobs/view/qa-tester-at-hyra-4388581776|26634eb8b9290d65
 https://uk.linkedin.com/jobs/view/qa-tester-at-io-associates-4380475808|8fc9914ac5d1615e
 https://uk.linkedin.com/jobs/view/qa-tester-at-light-wonder-4377181769|97d3465735bb399b
@@ -762,6 +764,7 @@ https://uk.linkedin.com/jobs/view/senior-safety-testing-engineer-at-avetix-engin
 https://uk.linkedin.com/jobs/view/senior-sdet-at-harmonic-security-4363652290|70f45dc3adb62e27
 https://uk.linkedin.com/jobs/view/senior-sdet-at-visa-4325523240|19fa7180632f86c5
 https://uk.linkedin.com/jobs/view/senior-sdet-quality-engineering-specialist-london-stock-exchange-group-at-jobs-via-efinancialcareers-4382688128|07633311c15bcc99
+https://uk.linkedin.com/jobs/view/senior-sdet-quality-engineering-specialist-london-stock-exchange-group-at-jobs-via-efinancialcareers-4411666065|f4a9035a5159c7f6
 https://uk.linkedin.com/jobs/view/senior-service-support-test-engineer-at-baker-hughes-4392993747|4911d201e99ebf4e
 https://uk.linkedin.com/jobs/view/senior-software-automation-engineer-at-scx-4365837501|1dd639aed37e9380
 https://uk.linkedin.com/jobs/view/senior-software-development-engineer-in-test-sdet-at-capco-4369245321|e16ebf3e5cc968f9
@@ -858,7 +861,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-driver-vehicle-licensing-
 https://uk.linkedin.com/jobs/view/senior-test-engineer-mastek-at-jobster-4351888412|3efc0d7a88b7c4d5
 https://uk.linkedin.com/jobs/view/senior-test-engineer-oho-group-ltd-at-jobster-4321515263|ce1e057d1d8ae19d
 https://uk.linkedin.com/jobs/view/senior-test-engineer-public-at-kainos-4407446936|a74394bee864ff3b
-https://uk.linkedin.com/jobs/view/senior-test-engineer-salesforce-at-indotronix-avani-uk-4410804432|c6b857ab44c06585
+https://uk.linkedin.com/jobs/view/senior-test-engineer-salesforce-at-indotronix-avani-uk-4410804432|9e20683927373de7
 https://uk.linkedin.com/jobs/view/senior-test-engineer-williams-racing-at-jobster-4354707490|f7e06dc26c107b79
 https://uk.linkedin.com/jobs/view/senior-test-execution-engineer-at-tata-technologies-4405549561|edb93042727479fe
 https://uk.linkedin.com/jobs/view/senior-test-lead-at-platform-recruitment-4380252934|d43c9cd44c3766a2
