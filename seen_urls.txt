@@ -1362,6 +1362,8 @@ https://uk.talent.com/view?id=617061839538034290|1efea2663bbf7232
 https://uk.talent.com/view?id=617073274160747173|cad352557f809fbb
 https://uk.talent.com/view?id=617073285508305573|cf7a75cc7362223b
 https://uk.talent.com/view?id=618242667062629029|d199467e5370843a
+https://uk.talent.com/view?id=618473606779378112|254898dc177335d1
+https://uk.talent.com/view?id=618558064966572915|f0c4cfff69793bea
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
@@ -1596,6 +1598,7 @@ https://www.healthjobsuk.com/job/UK/London/Manchester/Health_Research_Authority/
 https://www.irishnews.com/news/business/county-derry-energy-solutions-business-powers-growth-KIVDSQ6HFJAQRAZTMWPGN4X3TQ/|6a683f56d7f1a85a
 https://www.jobserve.com/gb/en/JobListing.aspx?shid=F2BF1CC59F2D179A8DA4|241902bbeb2f5a67
 https://www.jobserve.com/gb/en/mob/job/2EDCDAB8B0A6B1E0D9?shid=539624818B2FA6C8CB14&page=1|c56c8251964bc2f0
+https://www.jobsgopublic.com/job/lead-test-automation-engineer-56015|bafbe7e2eea726cc
 https://www.jobsgopublic.com/job/lead-test-engineer-50154|a90ac971c5bf5346
 https://www.jobsgopublic.com/job/lead-test-engineer-automation-40578|f106d4abcd8cf4bd
 https://www.jobsgopublic.com/job/senior-test-engineer-40761|e8c468bee652d3fb
