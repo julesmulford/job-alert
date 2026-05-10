@@ -460,7 +460,7 @@ https://uk.linkedin.com/jobs/view/lead-test-engineer-microservices-at-io-associa
 https://uk.linkedin.com/jobs/view/lead-test-engineer-public-at-kainos-4379296428|e46c961017e917a9
 https://uk.linkedin.com/jobs/view/linkedin-test-at-logic-melon-middleware-test-company-4365254834|8f97d760e8c3ae71
 https://uk.linkedin.com/jobs/view/low-code-automation-engineer-freelance-ai-trainer-at-mindrift-4403798463|3fd34bc68e205c96
-https://uk.linkedin.com/jobs/view/lqa-game-tester-with-dutch-at-testronic-4412472898?position=19&pageNum=0&refId=35Foyzen9iNcbas9lfS3eA==&trackingId=3BgZ3HsDbNBtRkYrlfMQbA==|4a439d2c67265734
+https://uk.linkedin.com/jobs/view/lqa-game-tester-with-dutch-at-testronic-4412472898?position=19&pageNum=0&refId=35Foyzen9iNcbas9lfS3eA==&trackingId=3BgZ3HsDbNBtRkYrlfMQbA==|87cae27b05c01bcd
 https://uk.linkedin.com/jobs/view/manual-test-engineer-application-testing-and-network-testing-at-queen-square-recruitment-4389648078|926b39ed6ecc8760
 https://uk.linkedin.com/jobs/view/manual-test-engineer-at-oho-group-4407920631|77901384096f8ced
 https://uk.linkedin.com/jobs/view/manual-tester-12-month-ftc-1-4-years-exp-max-at-sparta-global-4398222721|575aded86c686b8d
@@ -1363,9 +1363,9 @@ https://uk.talent.com/view?id=617061839538034290|1efea2663bbf7232
 https://uk.talent.com/view?id=617073274160747173|cad352557f809fbb
 https://uk.talent.com/view?id=617073285508305573|cf7a75cc7362223b
 https://uk.talent.com/view?id=618242667062629029|d199467e5370843a
-https://uk.talent.com/view?id=618473606779378112|faf81087cdb8b0e0
-https://uk.talent.com/view?id=618503963820890995|651dadbb73d88081
-https://uk.talent.com/view?id=618558064966572915|6e3998234aa6caba
+https://uk.talent.com/view?id=618473606779378112|800c26d4c99063c7
+https://uk.talent.com/view?id=618503963820890995|33d1ab97b967d443
+https://uk.talent.com/view?id=618558064966572915|f0c4cfff69793bea
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
