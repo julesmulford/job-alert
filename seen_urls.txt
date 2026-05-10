@@ -567,7 +567,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-remote-at-jobs-ai-4409842495|b0585
 https://uk.linkedin.com/jobs/view/qa-engineer-sdet-at-mygwork-lgbtq+-business-community-4363944684|07c9fdd0bb566487
 https://uk.linkedin.com/jobs/view/qa-engineer-servicenow-at-harvey-nash-4365318311|9da4a167cd1be7ed
 https://uk.linkedin.com/jobs/view/qa-engineer-studentjob-co-uk-at-jobster-4367717596|2ddafaf87d29fbd5
-https://uk.linkedin.com/jobs/view/qa-engineer-trading-systems-at-ocean-red-4412477720|1b46398f3378cdd3
+https://uk.linkedin.com/jobs/view/qa-engineer-trading-systems-at-ocean-red-4412477720|0ef2f0d489c3f16d
 https://uk.linkedin.com/jobs/view/qa-engineer-web-app-d65-integration-sc-cleared-at-pioneer-search-4354715256|b6d3d619c735a2d6
 https://uk.linkedin.com/jobs/view/qa-manual-tester-at-mcs-rental-software-4382920727|d713d0ab9a3d63e8
 https://uk.linkedin.com/jobs/view/qa-payments-at-insight-global-4378815393|7baa848ca1fab557
@@ -1370,7 +1370,7 @@ https://uk.talent.com/view?id=618473601191582144|c905fdd6520f0723
 https://uk.talent.com/view?id=618473606779378112|800c26d4c99063c7
 https://uk.talent.com/view?id=618503963820890995|dfc8a9e781823d1e
 https://uk.talent.com/view?id=618558064966572915|f0c4cfff69793bea
-https://uk.talent.com/view?id=618558065437252467|7ccfcb43f7582586
+https://uk.talent.com/view?id=618558065437252467|6d1eb1cc2ea83069
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
