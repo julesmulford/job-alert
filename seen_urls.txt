@@ -460,7 +460,7 @@ https://uk.linkedin.com/jobs/view/lead-test-engineer-microservices-at-io-associa
 https://uk.linkedin.com/jobs/view/lead-test-engineer-public-at-kainos-4379296428|e46c961017e917a9
 https://uk.linkedin.com/jobs/view/linkedin-test-at-logic-melon-middleware-test-company-4365254834|8f97d760e8c3ae71
 https://uk.linkedin.com/jobs/view/low-code-automation-engineer-freelance-ai-trainer-at-mindrift-4403798463|3fd34bc68e205c96
-https://uk.linkedin.com/jobs/view/lqa-game-tester-with-dutch-at-testronic-4412472898?position=19&pageNum=0&refId=35Foyzen9iNcbas9lfS3eA==&trackingId=3BgZ3HsDbNBtRkYrlfMQbA==|286b197a5c40d133
+https://uk.linkedin.com/jobs/view/lqa-game-tester-with-dutch-at-testronic-4412472898?position=19&pageNum=0&refId=35Foyzen9iNcbas9lfS3eA==&trackingId=3BgZ3HsDbNBtRkYrlfMQbA==|eb38f79a4b42bcba
 https://uk.linkedin.com/jobs/view/manual-test-engineer-application-testing-and-network-testing-at-queen-square-recruitment-4389648078|926b39ed6ecc8760
 https://uk.linkedin.com/jobs/view/manual-test-engineer-at-oho-group-4407920631|77901384096f8ced
 https://uk.linkedin.com/jobs/view/manual-tester-12-month-ftc-1-4-years-exp-max-at-sparta-global-4398222721|575aded86c686b8d
@@ -567,7 +567,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-remote-at-jobs-ai-4409842495|b0585
 https://uk.linkedin.com/jobs/view/qa-engineer-sdet-at-mygwork-lgbtq+-business-community-4363944684|07c9fdd0bb566487
 https://uk.linkedin.com/jobs/view/qa-engineer-servicenow-at-harvey-nash-4365318311|9da4a167cd1be7ed
 https://uk.linkedin.com/jobs/view/qa-engineer-studentjob-co-uk-at-jobster-4367717596|2ddafaf87d29fbd5
-https://uk.linkedin.com/jobs/view/qa-engineer-trading-systems-at-ocean-red-4412477720|57d5cd97d4756c85
+https://uk.linkedin.com/jobs/view/qa-engineer-trading-systems-at-ocean-red-4412477720|acefbdbabb77464e
 https://uk.linkedin.com/jobs/view/qa-engineer-web-app-d65-integration-sc-cleared-at-pioneer-search-4354715256|b6d3d619c735a2d6
 https://uk.linkedin.com/jobs/view/qa-manual-tester-at-mcs-rental-software-4382920727|d713d0ab9a3d63e8
 https://uk.linkedin.com/jobs/view/qa-payments-at-insight-global-4378815393|7baa848ca1fab557
@@ -1364,6 +1364,8 @@ https://uk.talent.com/view?id=617061839538034290|1efea2663bbf7232
 https://uk.talent.com/view?id=617073274160747173|cad352557f809fbb
 https://uk.talent.com/view?id=617073285508305573|cf7a75cc7362223b
 https://uk.talent.com/view?id=618242667062629029|d199467e5370843a
+https://uk.talent.com/view?id=618473593690724800|65376f4c84fbb315
+https://uk.talent.com/view?id=618473601191582144|c905fdd6520f0723
 https://uk.talent.com/view?id=618473606779378112|800c26d4c99063c7
 https://uk.talent.com/view?id=618503963820890995|dfc8a9e781823d1e
 https://uk.talent.com/view?id=618558064966572915|f0c4cfff69793bea
