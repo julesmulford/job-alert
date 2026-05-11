@@ -443,6 +443,7 @@ https://uk.linkedin.com/jobs/view/lead-automation-tester-at-infoplus-technologie
 https://uk.linkedin.com/jobs/view/lead-qa-engineer-1-year-ftc-we-have-office-locations-in-cambridge-leeds-and-london-at-genomics-england-4404144652|2b4258c9ee009c4f
 https://uk.linkedin.com/jobs/view/lead-qa-engineer-at-wipro-4409328493|a6cb1bae49f4021e
 https://uk.linkedin.com/jobs/view/lead-qa-engineer-automation-at-nudge-4360957717|209b254038dbd7de
+https://uk.linkedin.com/jobs/view/lead-qa-engineer-bangor-all-uk-at-trust-payments-4411874499|9ca3c55336d72e74
 https://uk.linkedin.com/jobs/view/lead-salesforce-test-engineer-at-axa-health-4346833034|a121a621cdfe48bb
 https://uk.linkedin.com/jobs/view/lead-software-test-automation-engineer-at-envision-pharma-group-4400612881|0265fa6f2bc85fcd
 https://uk.linkedin.com/jobs/view/lead-software-test-engineer-at-edwards-vacuum-4386265396|e52047e750094536
@@ -494,6 +495,7 @@ https://uk.linkedin.com/jobs/view/plc-automation-engineer-at-segula-technologies
 https://uk.linkedin.com/jobs/view/plc-automation-engineer-at-the-seaking-group-4370696401|57a644496275172a
 https://uk.linkedin.com/jobs/view/power-supply-design-and-test-engineer-at-ic-resources-4393836909|ebb13a742e5fbcc8
 https://uk.linkedin.com/jobs/view/powertrain-test-support-engineer-at-ashby-finance-4321308388|d9b4ee338abb99ec
+https://uk.linkedin.com/jobs/view/pricing-test-analyst-at-nfu-mutual-4412673702|b7beab0866668d08
 https://uk.linkedin.com/jobs/view/principal-cybersecurity-test-engineer-at-spacelabs-healthcare-4392593696|69d00ad7ae0a407a
 https://uk.linkedin.com/jobs/view/principal-qa-engineer-at-amadeus-4370416241|71412cc6b66e5042
 https://uk.linkedin.com/jobs/view/principal-qa-engineer-manchester-at-insight-investment-4403883750|9aef94a63173b198
@@ -904,6 +906,7 @@ https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-nuclera
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-roc-search-4401091742|e970d8abc6d5b13f
 https://uk.linkedin.com/jobs/view/software-quality-assurance-tester-at-davanti-recruitment-ltd-4368640262|de7c19afff1d2d35
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-avance-consulting-4398104755|936ba7da8baa2c39
+https://uk.linkedin.com/jobs/view/software-test-engineer-at-deciphex-4412730939|9818a022e6bf2910
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-empresaria-group-plc-4386833646|e23c361890815055
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-explore-group-4350146205|90039330509a4368
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-haystack-4400297298|f407a63a8ec51de5
@@ -969,6 +972,7 @@ https://uk.linkedin.com/jobs/view/test-analyst-at-mygwork-lgbtq+-business-commun
 https://uk.linkedin.com/jobs/view/test-analyst-at-weatherbys-ltd-4381020452|fb41c72c39a758af
 https://uk.linkedin.com/jobs/view/test-analyst-part-time-20-hours-per-week-studentjob-co-uk-at-jobster-4392830450|efcbd07f4f8b2887
 https://uk.linkedin.com/jobs/view/test-and-authentication-engineer-at-navantia-uk-4328911069|7f975253b620c28c
+https://uk.linkedin.com/jobs/view/test-and-development-engineer-at-tiptopjob-4412577907|6f89f65877723078
 https://uk.linkedin.com/jobs/view/test-area-team-lead-at-tld-4355770978|dc4b8c264c8e2874
 https://uk.linkedin.com/jobs/view/test-authentication-automation-engineer-at-teksystems-4404977885|2acd5efac1a7dd26
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-barclays-4393792488|595a01914e20db17
@@ -1013,6 +1017,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-caraffi-4354103843|e98a526a5a
 https://uk.linkedin.com/jobs/view/test-engineer-at-carbon60-4369217930|b609bb1a855f8078
 https://uk.linkedin.com/jobs/view/test-engineer-at-cgi-4375029215|1008c28c91f7cdfb
 https://uk.linkedin.com/jobs/view/test-engineer-at-connexai-4329565504|c438c4d4a528df64
+https://uk.linkedin.com/jobs/view/test-engineer-at-copello-global-4412744445|cdf7278712e095a6
 https://uk.linkedin.com/jobs/view/test-engineer-at-csafe-4410726362|9305efc356a9bea0
 https://uk.linkedin.com/jobs/view/test-engineer-at-cure-talent-4342032416|8883a3cc8ee084e8
 https://uk.linkedin.com/jobs/view/test-engineer-at-driver-and-vehicle-standards-agency-dvsa-4403382038|d57d8ca5a2d60ee8
