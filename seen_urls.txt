@@ -348,7 +348,7 @@ https://uk.linkedin.com/jobs/view/automation-test-engineer-dv-at-npaworldwide-43
 https://uk.linkedin.com/jobs/view/automation-test-engineer-remote-at-joveo-ai-4401747748|eca0e7da49da16d4
 https://uk.linkedin.com/jobs/view/automation-test-engineer-sc-cleared-6-months-ftc-at-cognizant-4343482637|73fc433fa928e7ba
 https://uk.linkedin.com/jobs/view/automation-test-lead-at-experis-uk-4365644466|54d502b61659a150
-https://uk.linkedin.com/jobs/view/automation-test-lead-at-legal-general-4412759435|9d1b3dd5eafb475f
+https://uk.linkedin.com/jobs/view/automation-test-lead-at-legal-general-4412759435|3a244822d3a90df6
 https://uk.linkedin.com/jobs/view/automation-test-lead-at-q1-technologies-inc-4350463464|6008cc1120ebe1cd
 https://uk.linkedin.com/jobs/view/automation-test-lead-it-contractor-at-free-work-uk-4342670153|b730e36d46d03f30
 https://uk.linkedin.com/jobs/view/automation-tester-at-associated-terminals-4343659682|36cd814d9d3880d7
@@ -496,13 +496,14 @@ https://uk.linkedin.com/jobs/view/plc-automation-engineer-at-segula-technologies
 https://uk.linkedin.com/jobs/view/plc-automation-engineer-at-the-seaking-group-4370696401|57a644496275172a
 https://uk.linkedin.com/jobs/view/power-supply-design-and-test-engineer-at-ic-resources-4393836909|ebb13a742e5fbcc8
 https://uk.linkedin.com/jobs/view/powertrain-test-support-engineer-at-ashby-finance-4321308388|d9b4ee338abb99ec
-https://uk.linkedin.com/jobs/view/pricing-test-analyst-at-nfu-mutual-4412673702|6bf0e097371f1e60
+https://uk.linkedin.com/jobs/view/pricing-test-analyst-at-nfu-mutual-4412673702|20c32b9b4c8dfb4c
 https://uk.linkedin.com/jobs/view/principal-cybersecurity-test-engineer-at-spacelabs-healthcare-4392593696|69d00ad7ae0a407a
 https://uk.linkedin.com/jobs/view/principal-qa-engineer-at-amadeus-4370416241|71412cc6b66e5042
 https://uk.linkedin.com/jobs/view/principal-qa-engineer-manchester-at-insight-investment-4403883750|9aef94a63173b198
 https://uk.linkedin.com/jobs/view/principal-system-test-engineer-at-graphcore-4330087351|91356169a3d2fffb
 https://uk.linkedin.com/jobs/view/principal-test-engineer-at-hackajob-4329216868|b442b734201dc71b
 https://uk.linkedin.com/jobs/view/principal-test-engineer-at-hackajob-4394423547|b5451b1e51299548
+https://uk.linkedin.com/jobs/view/principle-qa-test-engineer-at-pharmacy2u-certified-b-corp-4413050583|c721f56152d278f7
 https://uk.linkedin.com/jobs/view/principle-test-engineer-ai-automation-tooling-at-axa-uk-4406509171|d09a4a67aac982de
 https://uk.linkedin.com/jobs/view/product-test-engineer-luxury-audio-at-harman-international-4351011419|2d0a56c30be833f4
 https://uk.linkedin.com/jobs/view/production-test-engineer-at-aggreko-4409498547|490e4950ef83b859
@@ -908,7 +909,7 @@ https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-nuclera
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-roc-search-4401091742|e970d8abc6d5b13f
 https://uk.linkedin.com/jobs/view/software-quality-assurance-tester-at-davanti-recruitment-ltd-4368640262|de7c19afff1d2d35
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-avance-consulting-4398104755|936ba7da8baa2c39
-https://uk.linkedin.com/jobs/view/software-test-engineer-at-deciphex-4412730939|51bdd1c046f65cb8
+https://uk.linkedin.com/jobs/view/software-test-engineer-at-deciphex-4412730939|36d213fbb5582fab
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-empresaria-group-plc-4386833646|e23c361890815055
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-explore-group-4350146205|90039330509a4368
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-haystack-4400297298|f407a63a8ec51de5
@@ -1019,7 +1020,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-caraffi-4354103843|e98a526a5a
 https://uk.linkedin.com/jobs/view/test-engineer-at-carbon60-4369217930|b609bb1a855f8078
 https://uk.linkedin.com/jobs/view/test-engineer-at-cgi-4375029215|1008c28c91f7cdfb
 https://uk.linkedin.com/jobs/view/test-engineer-at-connexai-4329565504|c438c4d4a528df64
-https://uk.linkedin.com/jobs/view/test-engineer-at-copello-global-4412744445|01b49c8b77f3110f
+https://uk.linkedin.com/jobs/view/test-engineer-at-copello-global-4412744445|8f87ed562ea86092
 https://uk.linkedin.com/jobs/view/test-engineer-at-csafe-4410726362|9305efc356a9bea0
 https://uk.linkedin.com/jobs/view/test-engineer-at-cure-talent-4342032416|8883a3cc8ee084e8
 https://uk.linkedin.com/jobs/view/test-engineer-at-driver-and-vehicle-standards-agency-dvsa-4403382038|d57d8ca5a2d60ee8
