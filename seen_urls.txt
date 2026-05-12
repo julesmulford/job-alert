@@ -669,7 +669,7 @@ https://uk.linkedin.com/jobs/view/salesforce-qa-tester-at-systep-4387970666|7538
 https://uk.linkedin.com/jobs/view/salesforce-test-engineer-hybrid-working-at-oliver-james-4368752579|9ed36c8d7d9f3cdc
 https://uk.linkedin.com/jobs/view/sap-test-lead-at-testq-technologies-4345646156|f874080424847060
 https://uk.linkedin.com/jobs/view/sc-cleared-automation-test-engineer-at-hays-4408494994|4d9133257e633d95
-https://uk.linkedin.com/jobs/view/sc-cleared-manual-tester-at-experis-uk-4413484194|3f244161bbe249d4
+https://uk.linkedin.com/jobs/view/sc-cleared-manual-tester-at-experis-uk-4413484194|c88fa04ae215c5e7
 https://uk.linkedin.com/jobs/view/sc-cleared-qa-engineer-at-experis-uk-4392069111|2e79da66ec0091c7
 https://uk.linkedin.com/jobs/view/sdet-at-techshack-4359410354|cfde93afeb07d39f
 https://uk.linkedin.com/jobs/view/sdet-at-xcede-4325820951|5d46d56bc466b04d
@@ -1661,6 +1661,7 @@ https://www.s1jobs.com/job/lead-qa-tester-126180217|d5f42936139f8384
 https://www.s1jobs.com/job/senior-ai-automation-engineer-test-lead-126146833|1d5f7af693219f1f
 https://www.s1jobs.com/job/senior-medical-device-qa-engineer-regulatory-quality-126196837|0a33fa6055c0c165
 https://www.s1jobs.com/job/senior-test-automation-engineer-healthcare-platform-126121086|15bce13f0f4c4c2e
+https://www.s1jobs.com/job/test-engineer-level-2-126832622|6fc4c46e20e105ef
 https://www.securityclearedjobs.com/job/802067479/manufacturing-test-engineer/|a4648775d19b6a5e
 https://www.securityclearedjobs.com/job/802070029/environmental-test-engineer/|e9cf3f66d52eae9e
 https://www.securityclearedjobs.com/job/802070735/manufacturing-test-engineer/|26861d34c09c2e11
