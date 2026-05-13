@@ -374,6 +374,7 @@ https://uk.linkedin.com/jobs/view/controls-test-engineer-at-siemens-energy-43901
 https://uk.linkedin.com/jobs/view/cro-qa-test-engineer-at-virgin-media-o2-4392440383|4465316495e03317
 https://uk.linkedin.com/jobs/view/cx-automation-lead-intercom-at-nexus-international-entertainment-4397530939|af2f296bcf6fe81b
 https://uk.linkedin.com/jobs/view/datawarehouse-qa-engineer-at-randstad-enterprise-4361767060|128b8b7ba2700041
+https://uk.linkedin.com/jobs/view/day-shift-engineer-testing-and-inspection-at-cbre-4413731351|00bb1232d712cb85
 https://uk.linkedin.com/jobs/view/deltav-software-quality-assurance-engineer-at-thermo-fisher-scientific-4393712564|80d88400ad309129
 https://uk.linkedin.com/jobs/view/development-and-test-engineer-at-munro-vehicles-4407279878|07df863eb515b1d9
 https://uk.linkedin.com/jobs/view/devices-test-engineer-at-inventus-group-4394634345|848f2b508d7d6d87
@@ -669,7 +670,7 @@ https://uk.linkedin.com/jobs/view/salesforce-qa-tester-at-systep-4387970666|7538
 https://uk.linkedin.com/jobs/view/salesforce-test-engineer-hybrid-working-at-oliver-james-4368752579|9ed36c8d7d9f3cdc
 https://uk.linkedin.com/jobs/view/sap-test-lead-at-testq-technologies-4345646156|f874080424847060
 https://uk.linkedin.com/jobs/view/sc-cleared-automation-test-engineer-at-hays-4408494994|4d9133257e633d95
-https://uk.linkedin.com/jobs/view/sc-cleared-manual-tester-at-experis-uk-4413484194|c88fa04ae215c5e7
+https://uk.linkedin.com/jobs/view/sc-cleared-manual-tester-at-experis-uk-4413484194|4cd5026d4f40df3b
 https://uk.linkedin.com/jobs/view/sc-cleared-qa-engineer-at-experis-uk-4392069111|2e79da66ec0091c7
 https://uk.linkedin.com/jobs/view/sdet-at-techshack-4359410354|cfde93afeb07d39f
 https://uk.linkedin.com/jobs/view/sdet-at-xcede-4325820951|5d46d56bc466b04d
@@ -687,6 +688,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-sky-4379038938|a
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-smith+nephew-4376769214|f1aae8288b68cbc4
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-game-engine-at-games-factory-talents-connecting-passion-talent-4352326737|9d405b627825e91b
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-london-global-prime-brokerage-financing-platform-at-jobs-via-efinancialcareers-4354670360|3075a98a7f834576
+https://uk.linkedin.com/jobs/view/senior-automation-engineer-python-llm-spark-etl-at-hcltech-4410313642?refId=SNxU94+yWHXTQpZ0ErgOpw==&trackingId=TPOcuvJi+EPv19u3VE54og==|1855aef04a025dd6
 https://uk.linkedin.com/jobs/view/senior-automation-qa-engineer-at-tradingview-4400743993|a46949a76e038c78
 https://uk.linkedin.com/jobs/view/senior-automation-qa-remote-at-tiptopjob-4346999306|d9970c705c6a87d5
 https://uk.linkedin.com/jobs/view/senior-automation-service-engineer-at-spx-flow-inc-4349524418|20157b13a0845e6c
@@ -748,6 +750,7 @@ https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-the-investigo-group-4391
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-the-investigo-group-4407111847|73409924cbbba70e
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-tp-icap-4347391110|a5dbd38f52188bb6
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-data-integrations-global-remote-at-coursedog-4410745767|cc0b18c6d5107952
+https://uk.linkedin.com/jobs/view/senior-qa-engineer-fixed-term-contract-maternity-cover-at-mps-motion-picture-solutions-4412939810|de6c379313b158f7
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-in-finance-at-project-brains-4404034073|52a9fc45809ae8de
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-london-stock-exchange-group-at-jobs-via-efinancialcareers-4382688127|8c4cc7d30ca37c22
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-net-automation-at-wheelright-4344959473|010aac78c78e52a5
@@ -999,6 +1002,7 @@ https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pelion-4344514030|
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pentenamio-4337852477|0bc864521d202384
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-person-centred-software-ltd-4408033427|6928fa6bedb20e0a
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-shawbrook-4359646770|a3f308934b6f493b
+https://uk.linkedin.com/jobs/view/test-automation-engineer-java-at-persistent-systems-4413477094|7344c4a8694bff2a
 https://uk.linkedin.com/jobs/view/test-automation-engineer-leidos-at-jobster-4321435601|605bff8319f9c382
 https://uk.linkedin.com/jobs/view/test-automation-engineer-mobile-at-person-centred-software-ltd-4360773585|9ecd34628fb0c535
 https://uk.linkedin.com/jobs/view/test-automation-engineer-sc-cleared-at-version-1-4396652685|4a29d1fd9487a422
@@ -1661,7 +1665,7 @@ https://www.s1jobs.com/job/lead-qa-tester-126180217|d5f42936139f8384
 https://www.s1jobs.com/job/senior-ai-automation-engineer-test-lead-126146833|1d5f7af693219f1f
 https://www.s1jobs.com/job/senior-medical-device-qa-engineer-regulatory-quality-126196837|0a33fa6055c0c165
 https://www.s1jobs.com/job/senior-test-automation-engineer-healthcare-platform-126121086|15bce13f0f4c4c2e
-https://www.s1jobs.com/job/test-engineer-level-2-126832622|6fc4c46e20e105ef
+https://www.s1jobs.com/job/test-engineer-level-2-126832622|503b3bf7bb32fae7
 https://www.securityclearedjobs.com/job/802067479/manufacturing-test-engineer/|a4648775d19b6a5e
 https://www.securityclearedjobs.com/job/802070029/environmental-test-engineer/|e9cf3f66d52eae9e
 https://www.securityclearedjobs.com/job/802070735/manufacturing-test-engineer/|26861d34c09c2e11
