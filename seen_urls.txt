@@ -366,6 +366,7 @@ https://uk.linkedin.com/jobs/view/c-and-i-engineer-automation-engineer-at-tiptop
 https://uk.linkedin.com/jobs/view/comparative-test-engineer-at-leidos-4410590091|0662de6e9f11f22e
 https://uk.linkedin.com/jobs/view/content-tester-shipit-at-shipit-4346291657|266049a624aab948
 https://uk.linkedin.com/jobs/view/contract-automation-tester-at-inspired-thinking-group-itg-4372255067|980033d40ba3a74b
+https://uk.linkedin.com/jobs/view/contract-role-automation-architect-web-mobile-testing-at-infodigix-4413875556|d3344ac1bb6bf2cc
 https://uk.linkedin.com/jobs/view/controls-and-automation-engineer-at-tiptopjob-4409824848|2e7d183c1427e24e
 https://uk.linkedin.com/jobs/view/controls-and-automation-engineer-at-yeo-valley-organic-4380018521|bb2817f0bfcd0a60
 https://uk.linkedin.com/jobs/view/controls-automation-engineer-connected-consulting-limited-at-jobster-4360038306|fcf0d6a3dbbce355
@@ -492,6 +493,7 @@ https://uk.linkedin.com/jobs/view/pega-automation-engineer-at-philodesign-techno
 https://uk.linkedin.com/jobs/view/performance-qa-engineer-at-opus-recruitment-solutions-4395455103|c23237fc2c30d1b1
 https://uk.linkedin.com/jobs/view/performance-test-engineer-at-coforge-4327626051|646ad838432143d4
 https://uk.linkedin.com/jobs/view/performance-test-engineer-at-test-yantra-4400376893|bfc672f00af8b27d
+https://uk.linkedin.com/jobs/view/performance-tester-at-insight-international-uk-ltd-4414102493|e544ede7d63fd2d3
 https://uk.linkedin.com/jobs/view/plc-and-automation-engineer-at-tiptopjob-4370905294|2ce31d5b53816ba7
 https://uk.linkedin.com/jobs/view/plc-automation-engineer-at-segula-technologies-4406645450|fc595e6c5cec326d
 https://uk.linkedin.com/jobs/view/plc-automation-engineer-at-the-seaking-group-4370696401|57a644496275172a
