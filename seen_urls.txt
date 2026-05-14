@@ -366,7 +366,7 @@ https://uk.linkedin.com/jobs/view/c-and-i-engineer-automation-engineer-at-tiptop
 https://uk.linkedin.com/jobs/view/comparative-test-engineer-at-leidos-4410590091|0662de6e9f11f22e
 https://uk.linkedin.com/jobs/view/content-tester-shipit-at-shipit-4346291657|266049a624aab948
 https://uk.linkedin.com/jobs/view/contract-automation-tester-at-inspired-thinking-group-itg-4372255067|980033d40ba3a74b
-https://uk.linkedin.com/jobs/view/contract-role-automation-architect-web-mobile-testing-at-infodigix-4413875556|227e04cec9eba3fd
+https://uk.linkedin.com/jobs/view/contract-role-automation-architect-web-mobile-testing-at-infodigix-4413875556|2d6bcbd9cece1e1f
 https://uk.linkedin.com/jobs/view/controls-and-automation-engineer-at-tiptopjob-4409824848|2e7d183c1427e24e
 https://uk.linkedin.com/jobs/view/controls-and-automation-engineer-at-yeo-valley-organic-4380018521|bb2817f0bfcd0a60
 https://uk.linkedin.com/jobs/view/controls-automation-engineer-connected-consulting-limited-at-jobster-4360038306|fcf0d6a3dbbce355
@@ -386,7 +386,7 @@ https://uk.linkedin.com/jobs/view/digital-delivery-senior-automation-tester-inte
 https://uk.linkedin.com/jobs/view/e2e-test-engineer-manual-at-g4s-4346195365|c690f0684efa81c4
 https://uk.linkedin.com/jobs/view/electrical-domestic-tester-at-rge-services-4343670607|c7baaa4a186528fd
 https://uk.linkedin.com/jobs/view/electrical-test-engineer-at-tiptopjob-4365700648|893da8ed5bde33b0
-https://uk.linkedin.com/jobs/view/electrical-test-engineer-automotive-at-alten-ltd-uk-4413594045?position=23&pageNum=0&refId=Bg6HC5ueEh1R8Fzng9xLNw==&trackingId=sEUmwpffwltjsmB6ULFp0g==|a3338a4df200528c
+https://uk.linkedin.com/jobs/view/electrical-test-engineer-automotive-at-alten-ltd-uk-4413594045?position=23&pageNum=0&refId=Bg6HC5ueEh1R8Fzng9xLNw==&trackingId=sEUmwpffwltjsmB6ULFp0g==|c92f756ff0820a97
 https://uk.linkedin.com/jobs/view/electrical-tester-at-connolly-ltd-4372337301|68e00dacc6e8eeb2
 https://uk.linkedin.com/jobs/view/electrical-tester-at-hrhislop-com-electrical-contracting-limited-4370547198|4aa3c90912c3acce
 https://uk.linkedin.com/jobs/view/electrical-tester-at-hrhislop-com-electrical-contracting-limited-4394638075|b7920a3b4415d996
@@ -494,8 +494,8 @@ https://uk.linkedin.com/jobs/view/pega-automation-engineer-at-philodesign-techno
 https://uk.linkedin.com/jobs/view/performance-qa-engineer-at-opus-recruitment-solutions-4395455103|c23237fc2c30d1b1
 https://uk.linkedin.com/jobs/view/performance-test-engineer-at-coforge-4327626051|646ad838432143d4
 https://uk.linkedin.com/jobs/view/performance-test-engineer-at-test-yantra-4400376893|bfc672f00af8b27d
-https://uk.linkedin.com/jobs/view/performance-tester-at-insight-international-uk-ltd-4414102493|69eb61aa018d67bb
-https://uk.linkedin.com/jobs/view/performance-tester-jmeter-loadrunner-at-insight-international-uk-ltd-4414128740|6556632a8589fe86
+https://uk.linkedin.com/jobs/view/performance-tester-at-insight-international-uk-ltd-4414102493|fe30bc3f31ab3827
+https://uk.linkedin.com/jobs/view/performance-tester-jmeter-loadrunner-at-insight-international-uk-ltd-4414128740|e3162b4b9c9cccce
 https://uk.linkedin.com/jobs/view/plc-and-automation-engineer-at-tiptopjob-4370905294|2ce31d5b53816ba7
 https://uk.linkedin.com/jobs/view/plc-automation-engineer-at-segula-technologies-4406645450|fc595e6c5cec326d
 https://uk.linkedin.com/jobs/view/plc-automation-engineer-at-the-seaking-group-4370696401|57a644496275172a
@@ -592,7 +592,7 @@ https://uk.linkedin.com/jobs/view/qa-test-engineer-at-elsevier-4384057753|24b5d4
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-geogaming-group-4408414301|f64d042504c58e5c
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-io-associates-4386884897|a18f8de6f39e8460
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-leo-recruitment-limited-4394678992|97d2fdb068bb5fe6
-https://uk.linkedin.com/jobs/view/qa-test-engineer-at-lush-4414204310|d8edaa8a6f86a657
+https://uk.linkedin.com/jobs/view/qa-test-engineer-at-lush-4414204310|99a01b1924fd0a26
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-pharmacy2u-certified-b-corp-4404059280|60e11b42805a57f5
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-pogust-goodhead-4376058492|b3d4dc132b87ee14
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-red-global-4399749401|ce6d15d2effac5f5
@@ -1129,6 +1129,7 @@ https://uk.linkedin.com/jobs/view/test-means-engineer-at-segula-technologies-438
 https://uk.linkedin.com/jobs/view/test-rig-engineer-at-trescal-4362404132|0e8ef14e05b26c6b
 https://uk.linkedin.com/jobs/view/test-run-technician-pat-tester-at-first-response-site-services-ltd-4381256041|ee90cc745abe8975
 https://uk.linkedin.com/jobs/view/test-software-engineer-at-bullhorn-middleware-test-company-4365329510|8ea9184d8f5fc36e
+https://uk.linkedin.com/jobs/view/test-test-at-greene-king-4413973289|7a450b9672d86251
 https://uk.linkedin.com/jobs/view/test-test-at-serco-4369827103|91149c3e42273731
 https://uk.linkedin.com/jobs/view/tester-at-compass-community-4393864300|a1981b4000ba5983
 https://uk.linkedin.com/jobs/view/tester-at-experis-uk-4371251789|5e621cf9ccefbd0c
@@ -1140,7 +1141,7 @@ https://uk.linkedin.com/jobs/view/tester-remote-at-talent-orbit-4342316289|e228e
 https://uk.linkedin.com/jobs/view/testing-analyst-remote-at-taskify-ai-4339868277|d8a7537dd47dacbb
 https://uk.linkedin.com/jobs/view/testing-consultant-remote-at-talent-pulse-4342526153|5260f2d7cdd031de
 https://uk.linkedin.com/jobs/view/testing-job-at-tae-power-solutions-4363197342|d8b8577ec70d740a
-https://uk.linkedin.com/jobs/view/testing-specialist-at-risco-group-4413997815|dfd1300dc3c31aee
+https://uk.linkedin.com/jobs/view/testing-specialist-at-risco-group-4413997815|62975b53c2cb32ed
 https://uk.linkedin.com/jobs/view/testing-specialist-remote-at-hire-wave-4342690970|f531e5354d615a47
 https://uk.linkedin.com/jobs/view/the-a-to-z-of-automated-software-testing-senior-qa-at-mongoose-gray-4376359886|4b052889b3cb594c
 https://uk.linkedin.com/jobs/view/this-is-a-test-at-cellpoint-digital-4355283492|a29d3aeca020fe93
@@ -1397,7 +1398,8 @@ https://uk.talent.com/view?id=618473606779378112|800c26d4c99063c7
 https://uk.talent.com/view?id=618503963820890995|dfc8a9e781823d1e
 https://uk.talent.com/view?id=618558064966572915|f0c4cfff69793bea
 https://uk.talent.com/view?id=618558065437252467|6d1eb1cc2ea83069
-https://uk.talent.com/view?id=619204048526974050|7f15e9ec41aaa251
+https://uk.talent.com/view?id=619204048526974050|361e6099592bfef2
+https://uk.talent.com/view?id=619204073282149474|d37f4a3ef7884bd1
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
