@@ -727,7 +727,7 @@ https://uk.linkedin.com/jobs/view/senior-field-test-engineer-at-pc-help-a-s-4354
 https://uk.linkedin.com/jobs/view/senior-field-test-engineer-at-pc-help-a-s-4374190086|e943f32f1cbfca84
 https://uk.linkedin.com/jobs/view/senior-firmware-test-automation-engineer-at-diver5ify-4389730235|2c550ec7cac59b04
 https://uk.linkedin.com/jobs/view/senior-functional-test-engineer-at-oho-group-4386888271|4e2a163dea8e8de1
-https://uk.linkedin.com/jobs/view/senior-hardware-test-engineer-at-ncr-atleos-4414758303|9945f7ee1d5e9dcb
+https://uk.linkedin.com/jobs/view/senior-hardware-test-engineer-at-ncr-atleos-4414758303|824447fbf44662ba
 https://uk.linkedin.com/jobs/view/senior-intelligent-automation-engineer-at-ciklum-4349455288|b9e216a3e121562a
 https://uk.linkedin.com/jobs/view/senior-intelligent-automation-qa-engineer-uipath-outside-ir35-fully-remote-gambling-client-at-urban-connect-4373144061|fd7bbbf1456b114b
 https://uk.linkedin.com/jobs/view/senior-ip-test-engineer-at-hays-4403464299|b8fba38ebca07384
@@ -875,6 +875,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-sepura-4393562419|cfe4
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-socode-recruitment-4395861889|3d146b5884091bb5
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-tec-partners-technical-recruitment-specialists-4398278261|cfa5a82828f29667
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-teledyne-technologies-incorporated-4364733758|2e64368daa66e61d
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-teledyne-technologies-incorporated-4411509586|1ae123dd38268c2d
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-the-one-group-ltd-4379832081|4439b2c530e6d726
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-thermo-fisher-scientific-4398676217|aa58742ef503b860
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-thermo-fisher-scientific-4408170976|cad63dc98c3f26db
@@ -1051,6 +1052,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-forrit-4345411356|2888884afa1
 https://uk.linkedin.com/jobs/view/test-engineer-at-free-work-uk-4376517585|2a0e31f6e8dd4dc8
 https://uk.linkedin.com/jobs/view/test-engineer-at-fuse-energy-4403466880|14ee97ec20609908
 https://uk.linkedin.com/jobs/view/test-engineer-at-gazelle-global-4389680645|dab68e8b7ac029ac
+https://uk.linkedin.com/jobs/view/test-engineer-at-ge-vernova-4414947322|8d5820f9430db727
 https://uk.linkedin.com/jobs/view/test-engineer-at-hackajob-4369146846|d98319985ba3b99e
 https://uk.linkedin.com/jobs/view/test-engineer-at-hackajob-4405361115|f93f6632258e32d9
 https://uk.linkedin.com/jobs/view/test-engineer-at-hamiltonian-dynamics-4370527081|bfed51e1e9faee6b
