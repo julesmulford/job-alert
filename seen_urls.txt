@@ -473,7 +473,7 @@ https://uk.linkedin.com/jobs/view/manual-test-engineer-at-oho-group-4407920631|7
 https://uk.linkedin.com/jobs/view/manual-tester-12-month-ftc-1-4-years-exp-max-at-sparta-global-4398222721|575aded86c686b8d
 https://uk.linkedin.com/jobs/view/manual-uat-tester-at-lumenalta-4340390240|58c3a7aebd070700
 https://uk.linkedin.com/jobs/view/manufacturing-systems-automation-engineer-at-anson-mccade-4398817630|1ef8e255dcc290d9
-https://uk.linkedin.com/jobs/view/manufacturing-test-engineer-with-labview-at-eaton-4412093443|0b592a41284ea548
+https://uk.linkedin.com/jobs/view/manufacturing-test-engineer-with-labview-at-eaton-4412093443|6ea1bd9c63d8d17f
 https://uk.linkedin.com/jobs/view/material-testing-engineer-soft-trim-materials-at-q1-technologies-inc-4348911405|cb3fe222a3e4901d
 https://uk.linkedin.com/jobs/view/materials-test-engineer-at-survitec-group-ltd-4339849541|2c6bcc5397f412dc
 https://uk.linkedin.com/jobs/view/microservices-test-engineer-at-inoverse-groupe-4342509830|9b57414df6d0e4a8
@@ -1269,7 +1269,7 @@ https://uk.talent.com/view?id=534433852433827814|37f721f1f27939fd
 https://uk.talent.com/view?id=53d51fc22999|1d2775062d9c9e37
 https://uk.talent.com/view?id=545db132f5fb|95b47627007d3d0f
 https://uk.talent.com/view?id=546f1ee3a765|223bfad73e6c5909
-https://uk.talent.com/view?id=552251953100947819|6414a0b3c8008c63
+https://uk.talent.com/view?id=552251953100947819|2461e074cd82a061
 https://uk.talent.com/view?id=553260610482274940|15c1d04ef23a7ba1
 https://uk.talent.com/view?id=5637aa0fb6f3|e029b605cfa2412d
 https://uk.talent.com/view?id=56d166262aa3|a0c7c3176b83f697
@@ -1411,6 +1411,8 @@ https://uk.talent.com/view?id=618558064966572915|f0c4cfff69793bea
 https://uk.talent.com/view?id=618558065437252467|6d1eb1cc2ea83069
 https://uk.talent.com/view?id=619204048526974050|361e6099592bfef2
 https://uk.talent.com/view?id=619204073282149474|d37f4a3ef7884bd1
+https://uk.talent.com/view?id=619534556663394207|0019db03fe5c03d2
+https://uk.talent.com/view?id=619634775932083908|e12d798db28f520b
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
