@@ -555,7 +555,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-at-best-job-tool-4363976557|23a010
 https://uk.linkedin.com/jobs/view/qa-engineer-at-bilfinger-uk-4354231217|b642d1c060e8eea5
 https://uk.linkedin.com/jobs/view/qa-engineer-at-clio-4389844197|7e2cbc51011b1124
 https://uk.linkedin.com/jobs/view/qa-engineer-at-diatom-technologies-4390853193|8b77f1355c16682b
-https://uk.linkedin.com/jobs/view/qa-engineer-at-fetchjobs-co-4415778699|372364e8184526b6
+https://uk.linkedin.com/jobs/view/qa-engineer-at-fetchjobs-co-4415778699|78caabe2ac9779ff
 https://uk.linkedin.com/jobs/view/qa-engineer-at-haystack-4386368058|c7cef3bf37083af5
 https://uk.linkedin.com/jobs/view/qa-engineer-at-hid-4373953970|63a9432141f21c9b
 https://uk.linkedin.com/jobs/view/qa-engineer-at-hirenza-4381940293|0727e077eea4d7be
@@ -651,6 +651,7 @@ https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tria-4350252385|
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-workmaze-4350562868|0d5e8cefa61fc974
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-data-centre-at-ten11-4397547749|4c865469465d7167
 https://uk.linkedin.com/jobs/view/quality-assurance-improvement-engineer-at-cambridge-aerospace-4404076178|bd24341a067201c6
+https://uk.linkedin.com/jobs/view/quality-assurance-performance-tester-at-infosum-4416629947|8b6cdbef4b7f3f3d
 https://uk.linkedin.com/jobs/view/quality-assurance-qa-engineer-at-hackajob-4381077057|b556d3ecd5270384
 https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-anglia-uk-4381633439|050ddb57228595ac
 https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-gama-aviation-4371756518|4c51afcb092f5cf3
@@ -1435,8 +1436,8 @@ https://uk.talent.com/view?id=619634775932083908|535e873ea1e47d5f
 https://uk.talent.com/view?id=619754146029771874|50bdbe603ad7de14
 https://uk.talent.com/view?id=619903025129462882|1e2a67cfb30923e6
 https://uk.talent.com/view?id=619903710121698255|7cc4711b38a168c7
-https://uk.talent.com/view?id=620043700757929058|faa305df0b67908c
-https://uk.talent.com/view?id=620132912900021450|7260f7da6a301d4c
+https://uk.talent.com/view?id=620043700757929058|d1c2417a5e8a6e28
+https://uk.talent.com/view?id=620132912900021450|12b15d9a01e1ecc0
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
