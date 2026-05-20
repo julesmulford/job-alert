@@ -31,7 +31,7 @@ https://jobtoday.com/gb/jobs-test-engineer/coalville|8b5da526942aabd1
 https://syncni.com/article/14760/backing-the-next-generation-of-entrepreneurs-in-northern-ireland|739e3baadcd1402a
 https://thecareerwallet.com/job/qa-automation-test-engineer-20286590142025496|9f2618254ba5e3db
 https://thecareerwallet.com/jobs/ai-automation-engineer-build-scalable-ai-agents-81887932119407321|4437416eeae368cb
-https://uk.fashionjobs.com/job/lush/Qa-test-engineer,11625655.html|549b5762ede7c2bc
+https://uk.fashionjobs.com/job/lush/Qa-test-engineer,11625655.html|26e1939816dcfa93
 https://uk.jobrapido.com/jobpreview/1049071675733180416|063cdfc7ae839d90
 https://uk.jobrapido.com/jobpreview/1221754052799365120|e94027c909286a4e
 https://uk.jobrapido.com/jobpreview/1236926935305551872|a1dd960be68f01d3
@@ -555,7 +555,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-at-best-job-tool-4363976557|23a010
 https://uk.linkedin.com/jobs/view/qa-engineer-at-bilfinger-uk-4354231217|b642d1c060e8eea5
 https://uk.linkedin.com/jobs/view/qa-engineer-at-clio-4389844197|7e2cbc51011b1124
 https://uk.linkedin.com/jobs/view/qa-engineer-at-diatom-technologies-4390853193|8b77f1355c16682b
-https://uk.linkedin.com/jobs/view/qa-engineer-at-fetchjobs-co-4415778699|df1be8f72683ad26
+https://uk.linkedin.com/jobs/view/qa-engineer-at-fetchjobs-co-4415778699|e1c08ac3abcb3fcd
 https://uk.linkedin.com/jobs/view/qa-engineer-at-haystack-4386368058|c7cef3bf37083af5
 https://uk.linkedin.com/jobs/view/qa-engineer-at-hid-4373953970|63a9432141f21c9b
 https://uk.linkedin.com/jobs/view/qa-engineer-at-hirenza-4381940293|0727e077eea4d7be
@@ -651,7 +651,7 @@ https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tria-4350252385|
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-workmaze-4350562868|0d5e8cefa61fc974
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-data-centre-at-ten11-4397547749|4c865469465d7167
 https://uk.linkedin.com/jobs/view/quality-assurance-improvement-engineer-at-cambridge-aerospace-4404076178|bd24341a067201c6
-https://uk.linkedin.com/jobs/view/quality-assurance-performance-tester-at-infosum-4416629947|01e15ac8cab1c6e8
+https://uk.linkedin.com/jobs/view/quality-assurance-performance-tester-at-infosum-4416629947|8201edcd445df024
 https://uk.linkedin.com/jobs/view/quality-assurance-qa-engineer-at-hackajob-4381077057|b556d3ecd5270384
 https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-anglia-uk-4381633439|050ddb57228595ac
 https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-gama-aviation-4371756518|4c51afcb092f5cf3
@@ -778,7 +778,7 @@ https://uk.linkedin.com/jobs/view/senior-qa-engineer-fixed-term-contract-materni
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-in-finance-at-project-brains-4404034073|52a9fc45809ae8de
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-london-stock-exchange-group-at-jobs-via-efinancialcareers-4382688127|8c4cc7d30ca37c22
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-net-automation-at-wheelright-4344959473|010aac78c78e52a5
-https://uk.linkedin.com/jobs/view/senior-qa-engineer-pro-design-at-canva-4415779313|4e41817293dbdf45
+https://uk.linkedin.com/jobs/view/senior-qa-engineer-pro-design-at-canva-4415779313|7e6032e2428387f1
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-python-test-automation-at-client-server-4375833698|86f99cf387dca8cd
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-sports-tech-at-client-server-4373959823|116690d5469e89a1
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-sportsbook-at-sportserve-4369230284|b275f81d8c191d62
@@ -943,7 +943,7 @@ https://uk.linkedin.com/jobs/view/software-qa-engineer-product-workflow-at-subsu
 https://uk.linkedin.com/jobs/view/software-qa-fruition-group-at-jobster-4360161348|01781b0cf46ef3b9
 https://uk.linkedin.com/jobs/view/software-qa-tester-at-capita-4387887563|e3da46052fb54cb0
 https://uk.linkedin.com/jobs/view/software-qa-tester-at-capita-4400415413|2d7bfe44eadd0b93
-https://uk.linkedin.com/jobs/view/software-qa-tester-at-capita-4413332118|e63f6ff3a30b4ef9
+https://uk.linkedin.com/jobs/view/software-qa-tester-at-capita-4413332118|3d93fd17b9744f70
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-dartt-4392318139|72ca70b3de962ce2
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-michael-james-associates-4329040513|3934a53764eda1b8
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-nuclera-4386735718|a7ef651c447512b4
@@ -952,7 +952,7 @@ https://uk.linkedin.com/jobs/view/software-quality-assurance-tester-at-davanti-r
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-avance-consulting-4398104755|936ba7da8baa2c39
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-deciphex-4412730939|fa0aeba4ab896e95
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-empresaria-group-plc-4386833646|e23c361890815055
-https://uk.linkedin.com/jobs/view/software-test-engineer-at-empresaria-group-plc-4415779988|469463a3f4bfb9e9
+https://uk.linkedin.com/jobs/view/software-test-engineer-at-empresaria-group-plc-4415779988|d185deb50144c909
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-explore-group-4350146205|90039330509a4368
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-haystack-4400297298|f407a63a8ec51de5
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-ic-resources-4359453757|17b23602836072a5
@@ -1439,13 +1439,15 @@ https://uk.talent.com/view?id=619634775932083908|535e873ea1e47d5f
 https://uk.talent.com/view?id=619754146029771874|50bdbe603ad7de14
 https://uk.talent.com/view?id=619903025129462882|1e2a67cfb30923e6
 https://uk.talent.com/view?id=619903710121698255|7cc4711b38a168c7
-https://uk.talent.com/view?id=620030540482354378|0ccc3581820a7a83
-https://uk.talent.com/view?id=620030548754767050|b3924e0e49d2af3a
-https://uk.talent.com/view?id=620040603178053601|43950035cb0a1f02
-https://uk.talent.com/view?id=620043700757929058|592c8a061ae4cea7
-https://uk.talent.com/view?id=620132912900021450|d0e1c67f03b533bb
-https://uk.talent.com/view?id=620135306260066273|db2a05dffe4d82c8
-https://uk.talent.com/view?id=620135335595552737|26d4208bcde417ec
+https://uk.talent.com/view?id=620030540482354378|c6b1d5e3eedd6ba0
+https://uk.talent.com/view?id=620030548754767050|6928e38fdb428875
+https://uk.talent.com/view?id=620040603178053601|5577dcf3e369bd9e
+https://uk.talent.com/view?id=620043700757929058|3cb909936363354e
+https://uk.talent.com/view?id=620132912900021450|1a06aa8127dfa94f
+https://uk.talent.com/view?id=620132971783527626|010177319cafd648
+https://uk.talent.com/view?id=620135306260066273|9399af2184cdf249
+https://uk.talent.com/view?id=620135322256420833|317c5306c12e7d56
+https://uk.talent.com/view?id=620135335595552737|024de05abc875f77
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
