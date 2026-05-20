@@ -418,6 +418,7 @@ https://uk.linkedin.com/jobs/view/environmental-test-engineer-aerospace-at-alten
 https://uk.linkedin.com/jobs/view/ers-test-engineer-shifts-at-red-bull-racing-red-bull-technology-4350994981|17e367b82a7962d8
 https://uk.linkedin.com/jobs/view/f5-automation-engineer-at-auxo-talent-4370298846|0bb1914baaa80abd
 https://uk.linkedin.com/jobs/view/flexcube-qa-testing-analyst-at-zenith-bank-uk-limited-4345657112|c75a91273ecc0692
+https://uk.linkedin.com/jobs/view/flexi-prac-test-at-nudge-education-limited-4417097703|0ccc7f3961f788c0
 https://uk.linkedin.com/jobs/view/freelance-automation-workflow-specialist-no-code-at-mindrift-4409572980|e9fd5cc76c381253
 https://uk.linkedin.com/jobs/view/front-end-automation-tester-studentjob-co-uk-at-jobster-4367728191|dd3e6527005a6ddc
 https://uk.linkedin.com/jobs/view/frontend-quality-assurance-engineer-remote-at-taskify-ai-4338503541|a7a0e2af78dfdc6a
@@ -886,6 +887,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-lrqa-4342733252|7de82e
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-lrqa-4371827606|558dc08dc28a419f
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-mygwork-lgbtq+-business-community-4352790694|f4e5cfb4135aebec
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-ncr-atleos-4328117500|ec03eab6907ecb97
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-opus-recruitment-solutions-4416158972|fbefb01d98a4b7c0
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-platform-recruitment-4353124635|d6451abbc33d4f61
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-public-sector-resourcing-4415520063|a991e8c754b61959
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-randstad-digital-4363069521|8b4188bf5d8e63a8
@@ -954,6 +956,7 @@ https://uk.linkedin.com/jobs/view/software-test-engineer-at-avance-consulting-43
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-deciphex-4412730939|fa0aeba4ab896e95
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-empresaria-group-plc-4386833646|e23c361890815055
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-empresaria-group-plc-4415779988|39218efd035627a5
+https://uk.linkedin.com/jobs/view/software-test-engineer-at-etl-systems-4413625413|abb825d51d66a2a5
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-explore-group-4350146205|90039330509a4368
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-haystack-4400297298|f407a63a8ec51de5
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-ic-resources-4359453757|17b23602836072a5
@@ -1022,6 +1025,7 @@ https://uk.linkedin.com/jobs/view/test-and-development-engineer-at-tiptopjob-441
 https://uk.linkedin.com/jobs/view/test-area-team-lead-at-tld-4355770978|dc4b8c264c8e2874
 https://uk.linkedin.com/jobs/view/test-authentication-automation-engineer-at-teksystems-4404977885|2acd5efac1a7dd26
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-barclays-4393792488|595a01914e20db17
+https://uk.linkedin.com/jobs/view/test-automation-engineer-at-bt-group-4413615172|efa79028e2337fe2
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-chartered-insurance-institute-4401310993|76fbade0d4a311dd
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4328330834|042d44c33833c196
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4363379599|630767aab9e2e2d5
@@ -1449,6 +1453,9 @@ https://uk.talent.com/view?id=620132971783527626|bd3773f24239bfd6
 https://uk.talent.com/view?id=620135306260066273|ee7a943422d6d1df
 https://uk.talent.com/view?id=620135322256420833|2f9fccef665613b7
 https://uk.talent.com/view?id=620135335595552737|9dfa5d421bfa5fef
+https://uk.talent.com/view?id=620215168465050826|3e28709f093e364d
+https://uk.talent.com/view?id=620217071590715361|f3d46838eb023907
+https://uk.talent.com/view?id=620260588886369231|0b0b5302122fdc53
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
