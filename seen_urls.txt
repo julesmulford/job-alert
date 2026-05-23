@@ -588,6 +588,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-contract-at-fort-4379024741|36e328
 https://uk.linkedin.com/jobs/view/qa-engineer-contractor-at-pulse-innovations-gmbh-4360642801|e9bdcc2f1c86907a
 https://uk.linkedin.com/jobs/view/qa-engineer-for-mobile-remote-at-veeva-systems-4374928086|88a2fde570db5720
 https://uk.linkedin.com/jobs/view/qa-engineer-fullstack-at-st-global-tech-llc-4368961645|9b5a87c5cb86b5b9
+https://uk.linkedin.com/jobs/view/qa-engineer-hs2-at-hays-4417194381|e4f8905614305493
 https://uk.linkedin.com/jobs/view/qa-engineer-manchester-at-tilo-consulting-4401711264|d84ef72a112e677e
 https://uk.linkedin.com/jobs/view/qa-engineer-manual-automation-at-pinewood-ai-4406611740|4399597a3906c6ed
 https://uk.linkedin.com/jobs/view/qa-engineer-manual-mid-level-12-month-ftc-at-informa-4339482495|9009e4ac4ad456c6
@@ -1488,6 +1489,7 @@ https://uk.talent.com/view?id=620483235083066570|29cc6b563804ca15
 https://uk.talent.com/view?id=620483244065889482|e30df0ec77ed7d0f
 https://uk.talent.com/view?id=620483247665323210|7003dd3f9c0b8890
 https://uk.talent.com/view?id=620483261059046602|ad9f194e44a1a36d
+https://uk.talent.com/view?id=620560840237785831|c8427525a435bd6c
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
@@ -1722,6 +1724,7 @@ https://www.healthjobsuk.com/job/UK/London/Manchester/Health_Research_Authority/
 https://www.irishnews.com/news/business/county-derry-energy-solutions-business-powers-growth-KIVDSQ6HFJAQRAZTMWPGN4X3TQ/|6a683f56d7f1a85a
 https://www.jobserve.com/gb/en/JobListing.aspx?shid=F2BF1CC59F2D179A8DA4|241902bbeb2f5a67
 https://www.jobserve.com/gb/en/mob/job/2EDCDAB8B0A6B1E0D9?shid=539624818B2FA6C8CB14&page=1|c56c8251964bc2f0
+https://www.jobsgopublic.com/job/2664-heo-test-engineer-58571|bafbe7e2eea726cc
 https://www.jobsgopublic.com/job/lead-test-automation-engineer-56015|bafbe7e2eea726cc
 https://www.jobsgopublic.com/job/lead-test-engineer-50154|a90ac971c5bf5346
 https://www.jobsgopublic.com/job/lead-test-engineer-automation-40578|f106d4abcd8cf4bd
@@ -1734,7 +1737,7 @@ https://www.jobsinwales.com/jobs-in-bassaleg/test-engineer_1430130?region=south|
 https://www.jobsinwales.com/jobs-in-cardiff/automation-engineer_1450763?region=south|47c95eb7459a24f9
 https://www.jobsinwales.com/jobs-in-cardiff/lead-qa-engineer_1450778?region=south|b113f2d0e905b073
 https://www.jobsinwales.com/jobs-in-cardiff/senior-test-automation-engineer-data_1450006?region=south|6953a0aad1a2c2ec
-https://www.jobsinwales.com/jobs-in-cardiff/senior-test-automation-engineer-data_1456469?region=south|57f9b1f0ee94740f
+https://www.jobsinwales.com/jobs-in-cardiff/senior-test-automation-engineer-data_1456469?region=south|8ea091aa95dfdbf6
 https://www.jobsinwales.com/jobs-in-cardiff/test-engineer_1445171?region=south|3e24a47a3a7443bb
 https://www.jobsinwales.com/jobs-in-gorseinon/automation-engineer_1442968?region=south|a3ba40c94be1e6de
 https://www.jobsinwales.com/jobs-in-lampeter/automation-engineer_1438071?region=south|7cf624a34af9c7b4
