@@ -348,10 +348,11 @@ https://uk.linkedin.com/jobs/view/automation-test-analyst-studentjob-co-uk-at-jo
 https://uk.linkedin.com/jobs/view/automation-test-architect-at-dxc-technology-4383975166|8b6f7fdeb6e2562b
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-amber-labs-4369132371|dcf50af6ecd575b4
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-cgi-4378007828|e856eaa8afe68fda
+https://uk.linkedin.com/jobs/view/automation-test-engineer-at-coltech-4417209552|2368351fadae1ab5
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-datacareers-4375233527|034a4c90424033e5
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-natobotics-4325826061|71c11201427e433c
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-test-yantra-4346084735|47fff4f0e57ef1b0
-https://uk.linkedin.com/jobs/view/automation-test-engineer-at-test-yantra-4418810090|1e97deff688290cd
+https://uk.linkedin.com/jobs/view/automation-test-engineer-at-test-yantra-4418810090|25d9f068eca349d8
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-the-future-project-ltd-4389563664|b1216a8e0de0639c
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-txp-4341770738|67276035208b1db5
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-txp-4364296178|9b9f07e66b30f6fd
@@ -669,7 +670,7 @@ https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tria-4350252385|
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-workmaze-4350562868|0d5e8cefa61fc974
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-data-centre-at-ten11-4397547749|4c865469465d7167
 https://uk.linkedin.com/jobs/view/quality-assurance-improvement-engineer-at-cambridge-aerospace-4404076178|bd24341a067201c6
-https://uk.linkedin.com/jobs/view/quality-assurance-lead-at-test-yantra-4418595503|e339e65febc5b3b3
+https://uk.linkedin.com/jobs/view/quality-assurance-lead-at-test-yantra-4418595503|2ba6cd4c1e681cac
 https://uk.linkedin.com/jobs/view/quality-assurance-performance-tester-at-infosum-4416629947|bffaf72c121e4615
 https://uk.linkedin.com/jobs/view/quality-assurance-qa-engineer-at-hackajob-4381077057|b556d3ecd5270384
 https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-anglia-uk-4381633439|050ddb57228595ac
@@ -792,6 +793,7 @@ https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-cdl-software-4390843137|
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-hackajob-4398346497|6570d5f74f0630f6
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-huel-4376899550?refId=HlxZ/eBPXA3moBCIfkVYFw==&trackingId=ge57O+XUiJeZwI4WjLNV6w==&position=10&pageNum=0|057aa598d06a1705
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-investengine-4360014970|50d00a166927b182
+https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-jacobs-4419898787|e1feecb4927e9e8d
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-the-investigo-group-4391586190|c20ddc442aea2ec5
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-the-investigo-group-4407111847|73409924cbbba70e
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-tp-icap-4347391110|a5dbd38f52188bb6
@@ -1192,7 +1194,7 @@ https://uk.linkedin.com/jobs/view/test-lead-at-avance-consulting-4408672116|f680
 https://uk.linkedin.com/jobs/view/test-lead-at-hcltech-4350695341|658e32187b176a1b
 https://uk.linkedin.com/jobs/view/test-lead-at-national-trust-4404056616|9c1b7dbaa81cc63e
 https://uk.linkedin.com/jobs/view/test-lead-at-primus-global-solutions-primus-uk-europe-4354515937|92d559d65d9d33dc
-https://uk.linkedin.com/jobs/view/test-lead-at-primus-global-solutions-primus-uk-europe-4419872833|d3a41e9edca27a46
+https://uk.linkedin.com/jobs/view/test-lead-at-primus-global-solutions-primus-uk-europe-4419872833|cd50367088e72484
 https://uk.linkedin.com/jobs/view/test-lead-at-sf-technology-partners-4412815508?position=58&pageNum=0&refId=QHWiWfsd75GStulZwbxj6Q==&trackingId=hCMXGg43lguLeXr+OwrjIw==|634f51cd33f39b31
 https://uk.linkedin.com/jobs/view/test-lead-at-smartchoice-international-limited-4408400837|ea5ef851baad8d5b
 https://uk.linkedin.com/jobs/view/test-lead-operational-technology-poweron-adms-at-sword-group-4349397283|f2adf25a8a917e5e
