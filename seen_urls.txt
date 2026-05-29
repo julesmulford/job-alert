@@ -1053,6 +1053,7 @@ https://uk.linkedin.com/jobs/view/systems-test-engineer-at-sava-4344281499|d0a9e
 https://uk.linkedin.com/jobs/view/technical-test-lead-at-matchtech-4408192022|7c094414e544607e
 https://uk.linkedin.com/jobs/view/test-1-at-princes-group-4371874538|0bf50de805868fc0
 https://uk.linkedin.com/jobs/view/test-2-at-resillion-4392591047|14a2b9382c0c7adb
+https://uk.linkedin.com/jobs/view/test-advert-at-cb-i-4420911839|1db7619ca9a2fdfa
 https://uk.linkedin.com/jobs/view/test-analyst-at-adroit-people-limited-uk-4401464277|4322b204b75f2db9
 https://uk.linkedin.com/jobs/view/test-analyst-at-mygwork-lgbtq+-business-community-4386603221|8b83a6bb52a7faf3
 https://uk.linkedin.com/jobs/view/test-analyst-at-weatherbys-ltd-4381020452|fb41c72c39a758af
@@ -1557,6 +1558,7 @@ https://uk.talent.com/view?id=620664353203887306|5465972d0ef294ad
 https://uk.talent.com/view?id=620734083401063522|226b0725f42c94cd
 https://uk.talent.com/view?id=620734113993792610|1478599ca11110ab
 https://uk.talent.com/view?id=620742869548147663|1c3ea947b9d74044
+https://uk.talent.com/view?id=621532956388039561|de0d61685003659c
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
