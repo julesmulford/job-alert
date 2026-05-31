@@ -378,6 +378,7 @@ https://uk.linkedin.com/jobs/view/automation-tester-government-at-stealth-it-con
 https://uk.linkedin.com/jobs/view/back-end-automation-engineer-at-kham-lab-4363877284|ba9c5fb4530e905e
 https://uk.linkedin.com/jobs/view/building-automation-apprentice-at-cundall-4355695384|6283fca1e3b95bb9
 https://uk.linkedin.com/jobs/view/c-and-i-engineer-automation-engineer-at-tiptopjob-4365612405|75fcd18d59d4cc16
+https://uk.linkedin.com/jobs/view/commercial-electrician-electrical-test-engineer-at-valoris-group-limited-4422532606|bf236a7e19923e85
 https://uk.linkedin.com/jobs/view/comparative-test-engineer-at-leidos-4410590091|0662de6e9f11f22e
 https://uk.linkedin.com/jobs/view/content-tester-shipit-at-shipit-4346291657|266049a624aab948
 https://uk.linkedin.com/jobs/view/contract-automation-tester-at-inspired-thinking-group-itg-4372255067|980033d40ba3a74b
@@ -787,7 +788,7 @@ https://uk.linkedin.com/jobs/view/senior-protection-control-engineer-at-mitie-pr
 https://uk.linkedin.com/jobs/view/senior-qa-at-waracle-4379940136|d9c66e164a3afa00
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-benifex-4413040067|0532b8a0d85efe2d
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-fuuse-4365286628|36b3cbbd5e66eccc
-https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-hackajob-4422025150|f3360df9ee8d981b
+https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-hackajob-4422025150|ff35dd31586f6eb7
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-jobs-via-efinancialcareers-4346694704|e5197ed78aeface3
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-nice-4356230212|27ddf270898891b5
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-tba-4381424994|00b94598c4e8d90b
@@ -1562,6 +1563,7 @@ https://uk.talent.com/view?id=620734083401063522|226b0725f42c94cd
 https://uk.talent.com/view?id=620734113993792610|1478599ca11110ab
 https://uk.talent.com/view?id=620742869548147663|1c3ea947b9d74044
 https://uk.talent.com/view?id=621532956388039561|de0d61685003659c
+https://uk.talent.com/view?id=621614782979641510|55e722011a1bd128
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
