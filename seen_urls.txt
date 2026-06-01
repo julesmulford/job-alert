@@ -507,7 +507,7 @@ https://uk.linkedin.com/jobs/view/mobile-qa-engineer-at-leo-club-maastricht-4343
 https://uk.linkedin.com/jobs/view/mot-tester-at-peoples-ford-4406829537|d6f61aeddeb4eef5
 https://uk.linkedin.com/jobs/view/mot-tester-at-the-test-centre-i-nothing-but-mots-4397741155|3ae54c1010ce688d
 https://uk.linkedin.com/jobs/view/multiple-automation-developers-at-mrj-recruitment-4361826210|7c7c50d2ebb6fe2b
-https://uk.linkedin.com/jobs/view/net-automation-tester-at-hackajob-4423209335|9175f5de326d7448
+https://uk.linkedin.com/jobs/view/net-automation-tester-at-hackajob-4423209335|85b1d1f3845579b2
 https://uk.linkedin.com/jobs/view/net-automation-tester-at-solirius-reply-4408377478|5de018c93054ef16
 https://uk.linkedin.com/jobs/view/network-automation-engineer-at-haystack-4416051619|5f18b4bfbe978a9c
 https://uk.linkedin.com/jobs/view/network-performance-qa-validation-network-test-engineer-telco-at-hunter-bond-4418396761|aab855b1a8aae2d0
@@ -576,6 +576,7 @@ https://uk.linkedin.com/jobs/view/qa-automation-engineer-redrock-resourcing-at-j
 https://uk.linkedin.com/jobs/view/qa-embedded-tester-at-hutch-4359983518|0479fb1e2a2e69d6
 https://uk.linkedin.com/jobs/view/qa-engineer-ai-applications-remote-at-quik-hire-staffing-4410053793|eda51eb28a1c85bb
 https://uk.linkedin.com/jobs/view/qa-engineer-at-agilegrid-solutions-4421657821|4c5cf70517078393
+https://uk.linkedin.com/jobs/view/qa-engineer-at-ao-4423206570|57c6552d2d693df1
 https://uk.linkedin.com/jobs/view/qa-engineer-at-arroyo-is-becoming-inspyr-global-solutions-4398079249|43f6d53c83890f27
 https://uk.linkedin.com/jobs/view/qa-engineer-at-artificial-labs-4418420692|98f8b154f137dac2
 https://uk.linkedin.com/jobs/view/qa-engineer-at-best-job-tool-4363976557|23a0109a4c715aca
@@ -1833,7 +1834,7 @@ https://uk.whatjobs.com/jobs/qa-engineer?id=364443368|4b240744e8ae7964
 https://uk.whatjobs.com/jobs/senior-automation-engineer?id=391373537|35b74eb3a865675a
 https://uk.whatjobs.com/jobs/test-engineer?id=364423812|afcee8982a1e55da
 https://welovesalt.com/jobs/mainframe-system-automation-engineer-finance-nottingham-712766|83eacae5c4af6c42
-https://welovesalt.com/jobs/powershell-automation-engineer-contractor-713509|aef154a3c530f99f
+https://welovesalt.com/jobs/powershell-automation-engineer-contractor-713509|64dd5ff7c2c91231
 https://www.cybersecurityjobsite.com/job/5510530/automation-test-engineer/|7b6ef0ca2f23b673
 https://www.cybersecurityjobsite.com/job/5517734/automation-test-engineer/|885b3dd37e1bdba6
 https://www.google.com/url?rct=j&sa=t&url=https://uk.indeed.com/q-software-tester-l-stoke-on-trent-jobs.html%3Fstart%3D10&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw19O_Nm2xkl35IJNoahYIzB|cccc9d5b4f048905
