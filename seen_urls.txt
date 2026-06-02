@@ -454,6 +454,7 @@ https://uk.linkedin.com/jobs/view/infrastructure-test-analysts-at-xpertise-recru
 https://uk.linkedin.com/jobs/view/infrastructure-test-engineer-secure-cloud-infrastructure-sc-clearance-at-cgi-4403526522|ce86c3d06a536bba
 https://uk.linkedin.com/jobs/view/ingeniero-qa-crm-at-babel-4403541301|ed1f9c7b540a08b6
 https://uk.linkedin.com/jobs/view/integration-test-engineer-at-hme-4364014827|2d4657fb83b4c3dd
+https://uk.linkedin.com/jobs/view/integration-test-engineer-at-hme-4422147142|e246a26ab9320e85
 https://uk.linkedin.com/jobs/view/integration-test-engineer-at-raytheon-uk-4397303571|97cde77ad960fb79
 https://uk.linkedin.com/jobs/view/intelligent-automation-engineer-at-experis-uk-4402678441|d56875618640c6a6
 https://uk.linkedin.com/jobs/view/iot-test-lead-engineer-at-vodafone-4397564463|175f0be70f272880
@@ -829,6 +830,7 @@ https://uk.linkedin.com/jobs/view/senior-qa-tester-at-kinetic-games-4358954740|3
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-lighthouse-games-4400173879|bb8853c84634089f
 https://uk.linkedin.com/jobs/view/senior-qa-tester-sc-cleared-at-scrumconnect-consulting-4414374611|73195888a6497181
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-3di-information-solutions-ltd-4403742930|43d41eb00c6d20fc
+https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-albaco-ltd-4421683081|15c1a36e6847d2fc
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-albert-bow-4363978540|8df2713dc2dfb908
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-eflow-4361065610|b54953650ef3033c
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-formula-4416667952|aaa0dd48c36e27b6
@@ -1626,7 +1628,10 @@ https://uk.talent.com/view?id=621881739639394470|961e88886a5b505f
 https://uk.talent.com/view?id=621881782407794854|fc416d2d6ae77ad1
 https://uk.talent.com/view?id=621889585554201481|b9bed69fd72d16af
 https://uk.talent.com/view?id=621890212548645007|42b07af57cfee9eb
-https://uk.talent.com/view?id=622076547586396326|ae5bdce21ca0be41
+https://uk.talent.com/view?id=622035635314236297|bb26ac6d7d891699
+https://uk.talent.com/view?id=622035679373302665|2bb1605bb4b31cac
+https://uk.talent.com/view?id=622076547586396326|c9c36620aaa7b5cd
+https://uk.talent.com/view?id=622124939292843012|6612aef8a13c23ce
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
