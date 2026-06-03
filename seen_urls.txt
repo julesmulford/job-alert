@@ -609,7 +609,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-at-xpertise-recruitment-4352390269
 https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-esure-group-4374899573|b6dd12b78117302a
 https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-nudge-global-limited-4362062643|46cb215e9192f7b6
 https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-rm-plc-4328787520|9247e76f76e6e89f
-https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-team-creation-4422980847?position=21&pageNum=0&refId=ftNng9pax5ljCBDOyLEndw==&trackingId=vCErFtUTcldqTQha47zVkg==|85c60c373f7459cb
+https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-team-creation-4422980847?position=21&pageNum=0&refId=ftNng9pax5ljCBDOyLEndw==&trackingId=vCErFtUTcldqTQha47zVkg==|8a5a2d2449cde381
 https://uk.linkedin.com/jobs/view/qa-engineer-contract-at-fort-4379024741|36e328487dda49b2
 https://uk.linkedin.com/jobs/view/qa-engineer-contractor-at-pulse-innovations-gmbh-4360642801|e9bdcc2f1c86907a
 https://uk.linkedin.com/jobs/view/qa-engineer-for-mobile-remote-at-veeva-systems-4374928086|88a2fde570db5720
@@ -719,6 +719,7 @@ https://uk.linkedin.com/jobs/view/robotics-manufacturing-and-test-engineer-at-pa
 https://uk.linkedin.com/jobs/view/runtimes-automation-engineer-at-arm-4385765948|ca0cf37ebfb7f56d
 https://uk.linkedin.com/jobs/view/runtimes-automation-engineer-at-arm-4403312178|65da353206f26f2b
 https://uk.linkedin.com/jobs/view/runtimes-automation-engineer-at-arm-4403842242|2b8772ba7a530314
+https://uk.linkedin.com/jobs/view/runtimes-automation-engineer-at-arm-4424209027|8b011a775dee4ed4
 https://uk.linkedin.com/jobs/view/sac-tester-at-natobotics-4330021219|fde5f8853c9d3afa
 https://uk.linkedin.com/jobs/view/sailpoint-automation-tester-iam-specialist-at-hexaware-technologies-4377930784|a147fed974a0e770
 https://uk.linkedin.com/jobs/view/sailpoint-tester-at-codeconvergence-limited-ccl-4372540494|39ac7016ab7cf57d
@@ -1053,6 +1054,7 @@ https://uk.linkedin.com/jobs/view/software-tester-qa-at-robertson-sumner-4351213
 https://uk.linkedin.com/jobs/view/software-testing-intern-at-london-success-academy-4365663071|0b1034b7598b7072
 https://uk.linkedin.com/jobs/view/software-testing-work-placement-at-london-success-academy-4422449046?position=47&pageNum=0&refId=NImyWNwdaHi8ixyt+kf5IQ==&trackingId=CS2ChV3wuLkqmKMHZhJx7w==|f2dd31fcea07aef9
 https://uk.linkedin.com/jobs/view/solutions-qa-engineer-at-toppan-security-4390979058|fee8c7ad21a5f493
+https://uk.linkedin.com/jobs/view/space-whales-chapter-test-at-lever-middleware-test-company-4420123353|f05eeadaad77e02d
 https://uk.linkedin.com/jobs/view/sqa-engineer-i-at-brightstar-lottery-4385602083|77276e0ce0b5503d
 https://uk.linkedin.com/jobs/view/sr-automation-qa-at-hcltech-4418769556|6486ddc2a90f2ff4
 https://uk.linkedin.com/jobs/view/sr-qa-automation-engineer-pro-at-ink-fndn-4374723905|1436442bf1f2d65e
@@ -1219,6 +1221,7 @@ https://uk.linkedin.com/jobs/view/test-job-at-the-vale-resort-4376215294|a172b64
 https://uk.linkedin.com/jobs/view/test-job-at-wireless-logic-4409249551|5ca8e4f71252c7eb
 https://uk.linkedin.com/jobs/view/test-lead-at-avance-consulting-4408672116|f6808ac8a8a903c7
 https://uk.linkedin.com/jobs/view/test-lead-at-hcltech-4350695341|658e32187b176a1b
+https://uk.linkedin.com/jobs/view/test-lead-at-la-fosse-4424216496|0bf6937cc56b1a50
 https://uk.linkedin.com/jobs/view/test-lead-at-national-trust-4404056616|9c1b7dbaa81cc63e
 https://uk.linkedin.com/jobs/view/test-lead-at-primus-global-solutions-primus-uk-europe-4354515937|92d559d65d9d33dc
 https://uk.linkedin.com/jobs/view/test-lead-at-primus-global-solutions-primus-uk-europe-4419872833|cd50367088e72484
