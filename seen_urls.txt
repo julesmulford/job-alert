@@ -531,6 +531,7 @@ https://uk.linkedin.com/jobs/view/performance-test-engineer-at-primus-global-sol
 https://uk.linkedin.com/jobs/view/performance-test-engineer-at-test-yantra-4400376893|bfc672f00af8b27d
 https://uk.linkedin.com/jobs/view/performance-tester-at-insight-international-uk-ltd-4414102493|fe30bc3f31ab3827
 https://uk.linkedin.com/jobs/view/performance-tester-jmeter-loadrunner-at-insight-international-uk-ltd-4414128740|e3162b4b9c9cccce
+https://uk.linkedin.com/jobs/view/playwright-automation-engineer-at-transparity-4424559595|77135ab6926d05f7
 https://uk.linkedin.com/jobs/view/plc-and-automation-engineer-at-tiptopjob-4370905294|2ce31d5b53816ba7
 https://uk.linkedin.com/jobs/view/plc-automation-engineer-at-segula-technologies-4406645450|fc595e6c5cec326d
 https://uk.linkedin.com/jobs/view/plc-automation-engineer-at-the-seaking-group-4370696401|57a644496275172a
@@ -1201,6 +1202,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-tiptopjob-4404018338|ae9f344c
 https://uk.linkedin.com/jobs/view/test-engineer-at-trant-engineering-limited-4418477239|693e2ea96d850c4c
 https://uk.linkedin.com/jobs/view/test-engineer-at-vitec-4369922259|1d31c925c5da8210
 https://uk.linkedin.com/jobs/view/test-engineer-at-women-in-tech-4405347815|1f4233e942f049fe
+https://uk.linkedin.com/jobs/view/test-engineer-at-yoh-a-day-zimmermann-company-4424166860|dfeaed5002dec164
 https://uk.linkedin.com/jobs/view/test-engineer-charging-systems-at-tata-technologies-4407203599|f28ecef1d5e04296
 https://uk.linkedin.com/jobs/view/test-engineer-component-level-at-verso-recruitment-group-4391093275|e9de1cea1fb1a698
 https://uk.linkedin.com/jobs/view/test-engineer-construction-at-lucideon-4328789447|e3bd07b985aac63b
