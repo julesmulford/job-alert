@@ -438,7 +438,7 @@ https://uk.linkedin.com/jobs/view/frontend-quality-assurance-engineer-remote-at-
 https://uk.linkedin.com/jobs/view/ftc-test-automation-engineer-at-pentenamio-4344686960|4d762840a0fae8dc
 https://uk.linkedin.com/jobs/view/functional-automation-test-engineer-at-hackajob-4403310428|e64f4196c1e065ab
 https://uk.linkedin.com/jobs/view/functional-test-engineer-at-oho-group-4417894128|689fc3f29174cae3
-https://uk.linkedin.com/jobs/view/functional-tester-at-ibm-4421154207|1c349fd667dcb727
+https://uk.linkedin.com/jobs/view/functional-tester-at-ibm-4421154207|342f5ae9ec59102d
 https://uk.linkedin.com/jobs/view/global-marketing-automation-architect-at-perkinelmer-4386174412|410467b52ddfc20e
 https://uk.linkedin.com/jobs/view/global-talent-visa-platform-qa-tester-volunteer-at-emigr8-tech-visa-4355510656|5ed9a3006971ab96
 https://uk.linkedin.com/jobs/view/graduate-automation-engineer-at-hitachi-energy-4327207297|92ee46761ae15f6b
@@ -533,7 +533,7 @@ https://uk.linkedin.com/jobs/view/performance-test-engineer-at-primus-global-sol
 https://uk.linkedin.com/jobs/view/performance-test-engineer-at-test-yantra-4400376893|bfc672f00af8b27d
 https://uk.linkedin.com/jobs/view/performance-tester-at-insight-international-uk-ltd-4414102493|fe30bc3f31ab3827
 https://uk.linkedin.com/jobs/view/performance-tester-jmeter-loadrunner-at-insight-international-uk-ltd-4414128740|e3162b4b9c9cccce
-https://uk.linkedin.com/jobs/view/playwright-automation-engineer-at-transparity-4424559595|0c90ede713ed2126
+https://uk.linkedin.com/jobs/view/playwright-automation-engineer-at-transparity-4424559595|c935ebcfaae6d24b
 https://uk.linkedin.com/jobs/view/plc-and-automation-engineer-at-tiptopjob-4370905294|2ce31d5b53816ba7
 https://uk.linkedin.com/jobs/view/plc-automation-engineer-at-segula-technologies-4406645450|fc595e6c5cec326d
 https://uk.linkedin.com/jobs/view/plc-automation-engineer-at-the-seaking-group-4370696401|57a644496275172a
@@ -822,7 +822,7 @@ https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-jacobs-4419898787|e1feec
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-the-investigo-group-4391586190|c20ddc442aea2ec5
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-the-investigo-group-4407111847|73409924cbbba70e
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-tp-icap-4347391110|a5dbd38f52188bb6
-https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-trg-recruitment-4421153312|1621240fe0ce1179
+https://uk.linkedin.com/jobs/view/senior-qa-engineer-at-trg-recruitment-4421153312|65f21e39a5939ebe
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-data-integrations-global-remote-at-coursedog-4410745767|cc0b18c6d5107952
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-fixed-term-contract-maternity-cover-at-mps-motion-picture-solutions-4412939810|de6c379313b158f7
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-in-finance-at-project-brains-4404034073|52a9fc45809ae8de
@@ -1099,7 +1099,7 @@ https://uk.linkedin.com/jobs/view/test-and-development-engineer-at-tiptopjob-441
 https://uk.linkedin.com/jobs/view/test-architect-at-vallum-associates-4421690307|ae2b3cfe9a14df03
 https://uk.linkedin.com/jobs/view/test-area-team-lead-at-tld-4355770978|dc4b8c264c8e2874
 https://uk.linkedin.com/jobs/view/test-authentication-automation-engineer-at-teksystems-4404977885|2acd5efac1a7dd26
-https://uk.linkedin.com/jobs/view/test-automation-consultant-at-srmd-ltd-4424181837|c978aaa196722e0d
+https://uk.linkedin.com/jobs/view/test-automation-consultant-at-srmd-ltd-4424181837|480efc3ff2cb6ad5
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-barclays-4393792488|595a01914e20db17
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-bt-group-4413615172|401d7d779daffaf0
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-chartered-insurance-institute-4401310993|76fbade0d4a311dd
@@ -1196,6 +1196,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-oxford-instruments-gmbh-44180
 https://uk.linkedin.com/jobs/view/test-engineer-at-oxford-instruments-plc-4354369275|29bac4a361d6d5a2
 https://uk.linkedin.com/jobs/view/test-engineer-at-peregrine-4407817870|f7a70799f228e0ce
 https://uk.linkedin.com/jobs/view/test-engineer-at-progressive-4377772765|10524d8d610eeb04
+https://uk.linkedin.com/jobs/view/test-engineer-at-public-sector-resourcing-4424754900|95b5111e940601d4
 https://uk.linkedin.com/jobs/view/test-engineer-at-q1-technologies-inc-4356460892|93d082a9cfd2e6b5
 https://uk.linkedin.com/jobs/view/test-engineer-at-queen-square-recruitment-4402455029|71a638c2158058fe
 https://uk.linkedin.com/jobs/view/test-engineer-at-smart4-chemicals-4325720996|cd07f7351d1a5e91
@@ -1210,7 +1211,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-tiptopjob-4404018338|ae9f344c
 https://uk.linkedin.com/jobs/view/test-engineer-at-trant-engineering-limited-4418477239|693e2ea96d850c4c
 https://uk.linkedin.com/jobs/view/test-engineer-at-vitec-4369922259|1d31c925c5da8210
 https://uk.linkedin.com/jobs/view/test-engineer-at-women-in-tech-4405347815|1f4233e942f049fe
-https://uk.linkedin.com/jobs/view/test-engineer-at-yoh-a-day-zimmermann-company-4424166860|2700918ce4adf5c7
+https://uk.linkedin.com/jobs/view/test-engineer-at-yoh-a-day-zimmermann-company-4424166860|de8a8dc7a82f7730
 https://uk.linkedin.com/jobs/view/test-engineer-charging-systems-at-tata-technologies-4407203599|f28ecef1d5e04296
 https://uk.linkedin.com/jobs/view/test-engineer-component-level-at-verso-recruitment-group-4391093275|e9de1cea1fb1a698
 https://uk.linkedin.com/jobs/view/test-engineer-construction-at-lucideon-4328789447|e3bd07b985aac63b
