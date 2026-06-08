@@ -408,6 +408,7 @@ https://uk.linkedin.com/jobs/view/e2e-test-engineer-manual-at-g4s-4346195365|c69
 https://uk.linkedin.com/jobs/view/electrical-domestic-tester-at-rge-services-4343670607|c7baaa4a186528fd
 https://uk.linkedin.com/jobs/view/electrical-test-engineer-at-msp-technologies-ltd-4414083797|8882acccec30de96
 https://uk.linkedin.com/jobs/view/electrical-test-engineer-at-tiptopjob-4365700648|893da8ed5bde33b0
+https://uk.linkedin.com/jobs/view/electrical-test-engineer-at-yoh-solutions-ltd-4425189562|908ca984e310a175
 https://uk.linkedin.com/jobs/view/electrical-test-engineer-automotive-at-alten-ltd-uk-4413594045?position=23&pageNum=0&refId=Bg6HC5ueEh1R8Fzng9xLNw==&trackingId=sEUmwpffwltjsmB6ULFp0g==|c92f756ff0820a97
 https://uk.linkedin.com/jobs/view/electrical-tester-at-connolly-ltd-4372337301|68e00dacc6e8eeb2
 https://uk.linkedin.com/jobs/view/electrical-tester-at-future-engineering-recruitment-ltd-4417023364|e13bd212ddaf6edf
@@ -524,6 +525,7 @@ https://uk.linkedin.com/jobs/view/new-test-at-healthnet-homecare-uk-ltd-44008133
 https://uk.linkedin.com/jobs/view/new-test-job-rakel-at-epsilon-4396597265|5df7835d9662c85c
 https://uk.linkedin.com/jobs/view/non-destructive-test-engineer-ndt-at-risktec-solutions-4418729669|b424dd9872d2417c
 https://uk.linkedin.com/jobs/view/non-functional-test-manager-at-institute-of-communication-4364550613|7bd54b14cc24f747
+https://uk.linkedin.com/jobs/view/non-functional-tester-performance-accessibility-at-cognizant-4425410385|6f6c4c6cecc180a1
 https://uk.linkedin.com/jobs/view/offensive-security-tester-at-hackajob-4321452018|42eb01360b963bb5
 https://uk.linkedin.com/jobs/view/operational-test-engineer-at-hackajob-4415414883|88488f82be922ad9
 https://uk.linkedin.com/jobs/view/pat-tester-at-ecs-ltd-4329895656|4681d398c2c71711
@@ -868,6 +870,7 @@ https://uk.linkedin.com/jobs/view/senior-sdet-at-harmonic-security-4363652290|70
 https://uk.linkedin.com/jobs/view/senior-sdet-at-visa-4325523240|19fa7180632f86c5
 https://uk.linkedin.com/jobs/view/senior-sdet-quality-engineering-specialist-london-stock-exchange-group-at-jobs-via-efinancialcareers-4382688128|07633311c15bcc99
 https://uk.linkedin.com/jobs/view/senior-sdet-quality-engineering-specialist-london-stock-exchange-group-at-jobs-via-efinancialcareers-4411666065|24fc479de978ce70
+https://uk.linkedin.com/jobs/view/senior-sdet-quality-engineering-specialist-london-stock-exchange-group-at-jobs-via-efinancialcareers-4424753773|bd1ddecd98304516
 https://uk.linkedin.com/jobs/view/senior-service-support-test-engineer-at-baker-hughes-4392993747|4911d201e99ebf4e
 https://uk.linkedin.com/jobs/view/senior-software-automation-engineer-at-scx-4365837501|1dd639aed37e9380
 https://uk.linkedin.com/jobs/view/senior-software-development-engineer-in-test-sdet-at-capco-4369245321|e16ebf3e5cc968f9
@@ -1019,7 +1022,7 @@ https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-michael
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-nuclera-4386735718|a7ef651c447512b4
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-roc-search-4401091742|e970d8abc6d5b13f
 https://uk.linkedin.com/jobs/view/software-quality-assurance-intern-at-icon-train-smarter-4424772423|573b5d13b3f5548f
-https://uk.linkedin.com/jobs/view/software-quality-assurance-specialist-remote-at-hire-feed-4425175841|296952958ebf50f4
+https://uk.linkedin.com/jobs/view/software-quality-assurance-specialist-remote-at-hire-feed-4425175841|1ecaf88dd680acae
 https://uk.linkedin.com/jobs/view/software-quality-assurance-tester-at-davanti-recruitment-ltd-4368640262|de7c19afff1d2d35
 https://uk.linkedin.com/jobs/view/software-quality-engineer-at-helic-co-4418955196|f0dfee0f13912f50
 https://uk.linkedin.com/jobs/view/software-test-automation-engineer-at-technical-futures-ltd-4418093452?position=54&pageNum=0&refId=PI0FaoHFAzhgwDclzgz/5Q==&trackingId=wBRM5BvyGW/IDFkjsP60Ww==|179ae7223e9bde74
@@ -1163,7 +1166,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-first-recruitment-group-43914
 https://uk.linkedin.com/jobs/view/test-engineer-at-forrit-4345411356|2888884afa1ba690
 https://uk.linkedin.com/jobs/view/test-engineer-at-free-work-uk-4376517585|2a0e31f6e8dd4dc8
 https://uk.linkedin.com/jobs/view/test-engineer-at-fuse-energy-4403466880|14ee97ec20609908
-https://uk.linkedin.com/jobs/view/test-engineer-at-futura-design-4421575351|b237e1fd0584234b
+https://uk.linkedin.com/jobs/view/test-engineer-at-futura-design-4421575351|ef587e18a783c793
 https://uk.linkedin.com/jobs/view/test-engineer-at-gazelle-global-4389680645|dab68e8b7ac029ac
 https://uk.linkedin.com/jobs/view/test-engineer-at-ge-vernova-4414947322|8d5820f9430db727
 https://uk.linkedin.com/jobs/view/test-engineer-at-hackajob-4369146846|d98319985ba3b99e
