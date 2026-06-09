@@ -804,7 +804,7 @@ https://uk.linkedin.com/jobs/view/senior-ip-test-engineer-at-hays-4403464299|b8f
 https://uk.linkedin.com/jobs/view/senior-manual-qa-engineer-at-maxwell-bond-4400408343|b1980a2592db392a
 https://uk.linkedin.com/jobs/view/senior-manufacturing-test-engineer-at-siemens-4329866510|1c4ef1fe4696bb05
 https://uk.linkedin.com/jobs/view/senior-mobile-automation-tester-at-w3global-4342763594|8e182b4bd9741edf
-https://uk.linkedin.com/jobs/view/senior-peoplesoft-automation-test-engineer-at-datamatics-4425499875?position=45&pageNum=0&refId=UJLqIk5vzBgEX1llKatkIw==&trackingId=hmRAiuofiEniSAsqQjcrKA==|c3305f07296c0bd0
+https://uk.linkedin.com/jobs/view/senior-peoplesoft-automation-test-engineer-at-datamatics-4425499875?position=45&pageNum=0&refId=UJLqIk5vzBgEX1llKatkIw==&trackingId=hmRAiuofiEniSAsqQjcrKA==|85a2501a6c0c22b2
 https://uk.linkedin.com/jobs/view/senior-product-test-design-engineer-at-raytheon-uk-4409777971|f68b00ba188c66ed
 https://uk.linkedin.com/jobs/view/senior-product-test-development-engineer-at-copello-global-4403743390|bd249c188677b422
 https://uk.linkedin.com/jobs/view/senior-product-test-engineer-at-copello-global-4384032728|f5130f6ec2ef19bf
@@ -1670,7 +1670,7 @@ https://uk.talent.com/view?id=622124933752036356|3caa1a3e3c22c1d9
 https://uk.talent.com/view?id=622124939292843012|6612aef8a13c23ce
 https://uk.talent.com/view?id=622414417843980704|d230767c14329267
 https://uk.talent.com/view?id=622440791236348320|906fcd2bfda96c6e
-https://uk.talent.com/view?id=622736995096406775|ce6f585606f55acb
+https://uk.talent.com/view?id=622736995096406775|ffefdce0a6186a3c
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
@@ -1874,7 +1874,7 @@ https://uk.talent.com/view?id=fef049610beb|efef477a39e08ea1
 https://uk.talent.com/view?id=ff31c2837d68&trigger_from=related_jobs|21feebc10cfb45eb
 https://uk.talent.com/view?id=ff8ba027d3f6|0379e6ec0469a3c4
 https://uk.talent.com/view?id=ffb1c9fa61c8|7bee750ca43f0535
-https://uk.whatjobs.com/jobs/ai-automation-engineer/remote?id=437341389|37680d7619b863dc
+https://uk.whatjobs.com/jobs/ai-automation-engineer/remote?id=437341389|6c946b59afbd4e4b
 https://uk.whatjobs.com/jobs/java-sdet?id=364605333|6f4e6b8b9206c7b4
 https://uk.whatjobs.com/jobs/qa-engineer?id=364443368|4b240744e8ae7964
 https://uk.whatjobs.com/jobs/senior-automation-engineer?id=391373537|35b74eb3a865675a
