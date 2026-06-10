@@ -574,6 +574,7 @@ https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-l-q-4393543049|e67bb
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-noir-4392385009|17cfa8bd4a7fabd4
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-radius-4391114149|3e0e1e9616a9e1c7
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-redrock-resourcing-4381042072|332c757d98dff09c
+https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-rm-technology-4423126268|c4a51aa5712f506d
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-sage-4337158436|091c0ef1c56bf02c
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-softcat-4330273757|947e2786e6a7b929
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-at-tek-tron-it-4341240584|8c85bdd9a6cf1ef6
@@ -1000,6 +1001,7 @@ https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-at-royal
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-data-tester-automation-engineer-asset-management-outside-ir35-at-bangura-solutions-4371954322|b677280231bcea1f
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-at-bede-gaming-4397503215|c8fa1c114fb75bfc
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-defence-at-ibm-4372625294|9d8c5924906886f5
+https://uk.linkedin.com/jobs/view/software-development-test-engineer-at-barclays-4422767539|7d9c8feb7aa5a8cf
 https://uk.linkedin.com/jobs/view/software-development-test-engineer-at-haystack-4398406307|7b0635c84ceb6721
 https://uk.linkedin.com/jobs/view/software-engineer-iii-sdet-at-hackajob-4329392484|cb7f223f5b6091c4
 https://uk.linkedin.com/jobs/view/software-engineer-iii-test-automation-at-hackajob-4329747933|fd7364b5d1fa634d
@@ -1027,6 +1029,7 @@ https://uk.linkedin.com/jobs/view/software-quality-assurance-specialist-remote-a
 https://uk.linkedin.com/jobs/view/software-quality-assurance-tester-at-davanti-recruitment-ltd-4368640262|de7c19afff1d2d35
 https://uk.linkedin.com/jobs/view/software-quality-engineer-at-helic-co-4418955196|f0dfee0f13912f50
 https://uk.linkedin.com/jobs/view/software-test-automation-engineer-at-technical-futures-ltd-4418093452?position=54&pageNum=0&refId=PI0FaoHFAzhgwDclzgz/5Q==&trackingId=wBRM5BvyGW/IDFkjsP60Ww==|179ae7223e9bde74
+https://uk.linkedin.com/jobs/view/software-test-engineer-at-apex-resources-ltd-4427011966|c646dcf35fc55548
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-avance-consulting-4398104755|936ba7da8baa2c39
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-deciphex-4412730939|fa0aeba4ab896e95
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-empresaria-group-plc-4386833646|e23c361890815055
@@ -1039,6 +1042,7 @@ https://uk.linkedin.com/jobs/view/software-test-engineer-at-mac-recruit-group-lt
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-motorola-solutions-4378021573|6ff98973b9e84f3b
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-motorola-solutions-4401750406|2ed396725451c7c1
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-pearson-carter-4369497007|a3658eb849249364
+https://uk.linkedin.com/jobs/view/software-test-engineer-at-radley-james-4426723833|b83508c00d78c4c9
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-sii-group-uk-4384237536|1a6acf9bb5c47bcf
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-succession-wealth-4385182089|895f5b97a729b6a5
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-the-one-group-ltd-4352574775|5b75e7c529e8dc81
@@ -1051,6 +1055,7 @@ https://uk.linkedin.com/jobs/view/software-test-engineer-dv-at-npaworldwide-4417
 https://uk.linkedin.com/jobs/view/software-test-engineer-embedded-at-verso-recruitment-group-4358868393|6a852e5aa8546c34
 https://uk.linkedin.com/jobs/view/software-test-engineer-jr-at-sundayy-4411212153|807ba92dd448b2d0
 https://uk.linkedin.com/jobs/view/software-test-engineer-jr-at-sundayy-4411461277|12c16a9fb3c7f311
+https://uk.linkedin.com/jobs/view/software-test-engineer-m-f-d-at-tasking-4423118327|ad6c77aef13db13f
 https://uk.linkedin.com/jobs/view/software-test-engineers-at-hackajob-4329857405|eacb900a5b67cb11
 https://uk.linkedin.com/jobs/view/software-test-engineers-at-hackajob-4366436413|40dea1744f7d743d
 https://uk.linkedin.com/jobs/view/software-tester-at-benenden-health-4418426550|8b24ebbf8186989b
@@ -1163,6 +1168,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-driver-and-vehicle-standards-
 https://uk.linkedin.com/jobs/view/test-engineer-at-dynamic-tech-startup-at-jack-jill-4350796849|7b583101d799e453
 https://uk.linkedin.com/jobs/view/test-engineer-at-efectis-uk-ireland-4393569737|a60e5f1d8a7065dc
 https://uk.linkedin.com/jobs/view/test-engineer-at-experis-uk-4371244864|a22203026db1f9bc
+https://uk.linkedin.com/jobs/view/test-engineer-at-expleo-group-4426073522|53be1f6e7c1a6b54
 https://uk.linkedin.com/jobs/view/test-engineer-at-first-recruitment-group-4391427178|16b10eefc0be0c83
 https://uk.linkedin.com/jobs/view/test-engineer-at-forrit-4345411356|2888884afa1ba690
 https://uk.linkedin.com/jobs/view/test-engineer-at-free-work-uk-4376517585|2a0e31f6e8dd4dc8
@@ -1261,6 +1267,7 @@ https://uk.linkedin.com/jobs/view/test-means-engineer-at-segula-technologies-438
 https://uk.linkedin.com/jobs/view/test-rig-engineer-at-trescal-4362404132|0e8ef14e05b26c6b
 https://uk.linkedin.com/jobs/view/test-run-technician-pat-tester-at-first-response-site-services-ltd-4381256041|ee90cc745abe8975
 https://uk.linkedin.com/jobs/view/test-software-engineer-at-bullhorn-middleware-test-company-4365329510|8ea9184d8f5fc36e
+https://uk.linkedin.com/jobs/view/test-specialist-at-primus-global-solutions-primus-uk-europe-4426774178|aca8fd59482b8b7b
 https://uk.linkedin.com/jobs/view/test-technician-at-inspired-recruitment-4418468531|d11ca8104cc66764
 https://uk.linkedin.com/jobs/view/test-test-at-greene-king-4413973289|7a450b9672d86251
 https://uk.linkedin.com/jobs/view/test-test-at-serco-4369827103|91149c3e42273731
@@ -1911,6 +1918,7 @@ https://www.jobserve.com/gb/en/mob/job/2EDCDAB8B0A6B1E0D9?shid=539624818B2FA6C8C
 https://www.jobsgopublic.com/job/2664-heo-test-engineer-58571|bafbe7e2eea726cc
 https://www.jobsgopublic.com/job/lead-test-automation-engineer-56015|bafbe7e2eea726cc
 https://www.jobsgopublic.com/job/lead-test-engineer-50154|a90ac971c5bf5346
+https://www.jobsgopublic.com/job/lead-test-engineer-63610|bafbe7e2eea726cc
 https://www.jobsgopublic.com/job/lead-test-engineer-automation-40578|f106d4abcd8cf4bd
 https://www.jobsgopublic.com/job/senior-test-engineer-40761|e8c468bee652d3fb
 https://www.jobsgopublic.com/job/systems-test-engineer-42031|e7fa5e24d0f6f187
