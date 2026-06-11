@@ -11,7 +11,7 @@ https://gb.bebee.com/job/d98a15a8aa30ee251350899c5c138684|9136b73e45608470
 https://gb.bebee.com/job/da698c6ce7dcb67f506cb4e2bfdaec03|2e6fa3e25350a39f
 https://gb.bebee.com/job/ebb07f7589e02268879299b8016bac79|b21f99dba29cb333
 https://gb.bebee.com/job/eef67ab7c098e677a138f416f7c1bacd|d31d93925373d447
-https://ic-resources.com/en/jobs/rf-test-engineer-471213/|accfcaf8605acd52
+https://ic-resources.com/en/jobs/rf-test-engineer-471213/|2a812a6f37d37dbf
 https://ic-resources.com/en/jobs/test-engineer-451575/|35b022f4d0a5b29e
 https://jobs.jobg8.com/jobs/junior-test-engineer-remote-playwright-jest-gds-in-united-kingdom/5673-3057150701ED|89a9d4ced5176dfa
 https://jobs.theguardian.com/employer/ba7a045f-d758-4e3a-9109-bb2e748f6551/accenture|8c18da15cf6bfec8
@@ -338,7 +338,7 @@ https://uk.linkedin.com/jobs/view/automation-engineer-standard-controls-at-segul
 https://uk.linkedin.com/jobs/view/automation-engineer-workflow-process-automation-at-huzzle-com-4415197154|475f49fde91c3c22
 https://uk.linkedin.com/jobs/view/automation-innovation-developer-at-royal-london-4404301390|0424f3e005fb5644
 https://uk.linkedin.com/jobs/view/automation-intern-at-10x-media-4354450549|4298841c0f9e9f67
-https://uk.linkedin.com/jobs/view/automation-qa-engineer-at-causeway-technologies-4426008784|b09d2fc21feef3ae
+https://uk.linkedin.com/jobs/view/automation-qa-engineer-at-causeway-technologies-4426008784|5500f7ab8daa9a74
 https://uk.linkedin.com/jobs/view/automation-qa-engineer-intern-testcomplete-studentjob-co-uk-at-jobster-4392819913|7170c99ddfdcf9f7
 https://uk.linkedin.com/jobs/view/automation-qa-engineer-oracle-at-coinmarketcap-4345425426|116430409b16195c
 https://uk.linkedin.com/jobs/view/automation-specialist-at-hcltech-4400420328|37f0bdbfde007294
@@ -559,7 +559,7 @@ https://uk.linkedin.com/jobs/view/principle-test-engineer-ai-automation-tooling-
 https://uk.linkedin.com/jobs/view/process-control-engineer-at-free-work-uk-4421655085|5ba9a3075f039908
 https://uk.linkedin.com/jobs/view/product-+-automation-engineer-at-$1bn-aum-deep-tech-venture-capital-firm-at-jack-jill-4424451421|a42e55c1fb47dea9
 https://uk.linkedin.com/jobs/view/product-device-design-test-engineer-at-ncr-atleos-4412906177|708fcc80b7465e63
-https://uk.linkedin.com/jobs/view/product-test-engineer-at-ghd-4427040099|600b1bd67bf8964c
+https://uk.linkedin.com/jobs/view/product-test-engineer-at-ghd-4427040099|d9094eb5a710e517
 https://uk.linkedin.com/jobs/view/product-test-engineer-luxury-audio-at-harman-international-4351011419|2d0a56c30be833f4
 https://uk.linkedin.com/jobs/view/production-database-automation-engineer-at-hackajob-4415190868|c555445fdede6ce8
 https://uk.linkedin.com/jobs/view/production-test-engineer-at-aggreko-4409498547|490e4950ef83b859
@@ -845,7 +845,7 @@ https://uk.linkedin.com/jobs/view/senior-qa-engineer-python-test-automation-at-c
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-sports-tech-at-client-server-4373959823|116690d5469e89a1
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-sportsbook-at-sportserve-4369230284|b275f81d8c191d62
 https://uk.linkedin.com/jobs/view/senior-qa-manual-tester-at-maxwell-bond-4395077129|cfcdd8dca0aa3489
-https://uk.linkedin.com/jobs/view/senior-qa-tester-ai-solutions-at-mcs-group-your-specialist-recruitment-consultancy-4427038520|a65787b780674c18
+https://uk.linkedin.com/jobs/view/senior-qa-tester-ai-solutions-at-mcs-group-your-specialist-recruitment-consultancy-4427038520|8f788725a1086cb4
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-clover-4383203683|2ec63e44caf6ced3
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-department-for-work-and-pensions-dwp-4377369600|5075ddaf7fb53d3e
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-kinetic-games-4358954740|36b781f80b4025c8
@@ -901,7 +901,7 @@ https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-dotmatics-432
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-hackajob-4329322584|3b7732b91824ca0f
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-hackajob-4390741828|1a1c88004d854942
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-synergize-consulting-4348876811|e4f77cf02e1ac09e
-https://uk.linkedin.com/jobs/view/senior-software-tester-at-digital-waffle-4426089245|5cb41e8500de4bab
+https://uk.linkedin.com/jobs/view/senior-software-tester-at-digital-waffle-4426089245|e9fcad21ca17df8e
 https://uk.linkedin.com/jobs/view/senior-software-tester-at-haystack-4400288610|639e2d7b7a2225e3
 https://uk.linkedin.com/jobs/view/senior-software-tester-at-srt-marine-systems-plc-4382125455|7eada4966dd022db
 https://uk.linkedin.com/jobs/view/senior-software-tester-g-digital-at-jobster-4360104519|e95b51736df7aa61
@@ -1034,7 +1034,7 @@ https://uk.linkedin.com/jobs/view/software-quality-assurance-specialist-remote-a
 https://uk.linkedin.com/jobs/view/software-quality-assurance-tester-at-davanti-recruitment-ltd-4368640262|de7c19afff1d2d35
 https://uk.linkedin.com/jobs/view/software-quality-engineer-at-helic-co-4418955196|f0dfee0f13912f50
 https://uk.linkedin.com/jobs/view/software-test-automation-engineer-at-technical-futures-ltd-4418093452?position=54&pageNum=0&refId=PI0FaoHFAzhgwDclzgz/5Q==&trackingId=wBRM5BvyGW/IDFkjsP60Ww==|179ae7223e9bde74
-https://uk.linkedin.com/jobs/view/software-test-engineer-at-apex-resources-ltd-4427011966|b38a837769c55c46
+https://uk.linkedin.com/jobs/view/software-test-engineer-at-apex-resources-ltd-4427011966|0ed7e630d9643932
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-avance-consulting-4398104755|936ba7da8baa2c39
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-deciphex-4412730939|fa0aeba4ab896e95
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-empresaria-group-plc-4386833646|e23c361890815055
@@ -1173,7 +1173,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-driver-and-vehicle-standards-
 https://uk.linkedin.com/jobs/view/test-engineer-at-dynamic-tech-startup-at-jack-jill-4350796849|7b583101d799e453
 https://uk.linkedin.com/jobs/view/test-engineer-at-efectis-uk-ireland-4393569737|a60e5f1d8a7065dc
 https://uk.linkedin.com/jobs/view/test-engineer-at-experis-uk-4371244864|a22203026db1f9bc
-https://uk.linkedin.com/jobs/view/test-engineer-at-expleo-group-4426073522|defa209814f53f91
+https://uk.linkedin.com/jobs/view/test-engineer-at-expleo-group-4426073522|feee08e33bf3a707
 https://uk.linkedin.com/jobs/view/test-engineer-at-first-recruitment-group-4391427178|16b10eefc0be0c83
 https://uk.linkedin.com/jobs/view/test-engineer-at-forrit-4345411356|2888884afa1ba690
 https://uk.linkedin.com/jobs/view/test-engineer-at-free-work-uk-4376517585|2a0e31f6e8dd4dc8
