@@ -756,6 +756,7 @@ https://uk.linkedin.com/jobs/view/senior-associate-qa-engineer-london-stock-exch
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-arrows-4390703513|15c85bdbc282ba02
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-haystack-4417511179|5647818d18a740cf
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-kainos-4345647757|d20f9b074a651b7c
+https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-mrj-recruitment-4424883764|24346ad8720dcfc8
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-n-able-4347590980|be238205d7350d0c
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-oal-4390547738|2e4c8c27f9ea1a65
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-penta-consulting-4420963129?position=19&pageNum=0&refId=VST/qC+hlReD8XusX23TmA==&trackingId=rvCHxCoe0kGjb3VnQPvMTw==|d906df204ff0cd08
@@ -1411,6 +1412,7 @@ https://uk.talent.com/view?id=545db132f5fb|95b47627007d3d0f
 https://uk.talent.com/view?id=546f1ee3a765|223bfad73e6c5909
 https://uk.talent.com/view?id=552251953100947819|1ef01f39fa7283ba
 https://uk.talent.com/view?id=553260610482274940|15c1d04ef23a7ba1
+https://uk.talent.com/view?id=555241933136793293|e07bb3e38d41f713
 https://uk.talent.com/view?id=5637aa0fb6f3|e029b605cfa2412d
 https://uk.talent.com/view?id=56d166262aa3|a0c7c3176b83f697
 https://uk.talent.com/view?id=56d4e39e4a1b|152b2a171128a865
@@ -1686,6 +1688,7 @@ https://uk.talent.com/view?id=622414417843980704|d230767c14329267
 https://uk.talent.com/view?id=622440791236348320|906fcd2bfda96c6e
 https://uk.talent.com/view?id=622736995096406775|ffefdce0a6186a3c
 https://uk.talent.com/view?id=623057579121052064|75cd2a21edb2cd31
+https://uk.talent.com/view?id=623407015682050117|4530d33287a24ab4
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
