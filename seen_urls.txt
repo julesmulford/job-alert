@@ -777,7 +777,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-test-analyst-at-7im-44151165
 https://uk.linkedin.com/jobs/view/senior-automation-test-anaylst-at-7im-4329956923|7b4f09ddb0b5074d
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-caci-digital-experience-formerly-cyber-duck-4409713790|e55f8eeb8f748ee1
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-datacareers-4375234557|a4ddf745b8f5699b
-https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-oho-group-4426973678|c7c2eefb88eb2cc0
+https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-oho-group-4426973678|d4643364af75fb24
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-version-1-4373468517|5e8c2759bd581fc4
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-esc-or-edv-required-at-ibm-4401662637|580c664b78018541
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-etrm-trading-platforms-at-datacareers-4375231554|42994fca54e8759a
@@ -857,7 +857,7 @@ https://uk.linkedin.com/jobs/view/senior-qa-tester-at-department-for-work-and-pe
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-kinetic-games-4358954740|36b781f80b4025c8
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-lighthouse-games-4400173879|bb8853c84634089f
 https://uk.linkedin.com/jobs/view/senior-qa-tester-sc-cleared-at-scrumconnect-consulting-4414374611|73195888a6497181
-https://uk.linkedin.com/jobs/view/senior-quality-assurance-automation-engineer-at-oho-group-4426970743|d68708b9f53eb341
+https://uk.linkedin.com/jobs/view/senior-quality-assurance-automation-engineer-at-oho-group-4426970743|936092b0d01ecb9e
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-3di-information-solutions-ltd-4403742930|43d41eb00c6d20fc
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-albaco-ltd-4421683081|15c1a36e6847d2fc
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-albert-bow-4363978540|8df2713dc2dfb908
@@ -908,7 +908,7 @@ https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-cubiq-recruit
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-dotmatics-4327865434|6e78732589f49267
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-hackajob-4329322584|3b7732b91824ca0f
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-hackajob-4390741828|1a1c88004d854942
-https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-national-physical-laboratory-npl-4426987829|4f2e50912c278928
+https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-national-physical-laboratory-npl-4426987829|d47880b811a9a4b2
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-synergize-consulting-4348876811|e4f77cf02e1ac09e
 https://uk.linkedin.com/jobs/view/senior-software-tester-at-digital-waffle-4426089245|193b87075886d12b
 https://uk.linkedin.com/jobs/view/senior-software-tester-at-haystack-4400288610|639e2d7b7a2225e3
@@ -921,7 +921,7 @@ https://uk.linkedin.com/jobs/view/senior-systems-test-engineer-at-hitachi-energy
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-head-resourcing-4362221512|c367cc5a22465d8f
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-premier-group-4342574183|9fc6f65253428ec6
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-trust-in-soda-4370200377|ee34b72dfa859b63
-https://uk.linkedin.com/jobs/view/senior-test-analyst-at-ventula-consulting-4426978621?position=8&pageNum=0&refId=FrIlwOXUBQPvd7U7RMxI6g==&trackingId=qFJ57/4gR2EI9ZhhRHS2aQ==|6fa760560008a75a
+https://uk.linkedin.com/jobs/view/senior-test-analyst-at-ventula-consulting-4426978621?position=8&pageNum=0&refId=FrIlwOXUBQPvd7U7RMxI6g==&trackingId=qFJ57/4gR2EI9ZhhRHS2aQ==|bce1585f4760c18f
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-hackajob-4328310922|3e71ee73833045a8
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-lsl-property-services-plc-4385274442|5f6df77b4858d361
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-satalia-4398523342|9f6c8613d75472a6
@@ -995,7 +995,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-department-for-work-and-p
 https://uk.linkedin.com/jobs/view/senior-test-engineer-driver-vehicle-licensing-agency-at-manchester-digital-4403693103|4af008fe784b2cb6
 https://uk.linkedin.com/jobs/view/senior-test-engineer-mastek-at-jobster-4351888412|3efc0d7a88b7c4d5
 https://uk.linkedin.com/jobs/view/senior-test-engineer-oho-group-ltd-at-jobster-4321515263|ce1e057d1d8ae19d
-https://uk.linkedin.com/jobs/view/senior-test-engineer-public-at-hackajob-4427223458|ecf595f899ed1f31
+https://uk.linkedin.com/jobs/view/senior-test-engineer-public-at-hackajob-4427223458|3729467cdf219551
 https://uk.linkedin.com/jobs/view/senior-test-engineer-public-at-kainos-4407446936|a74394bee864ff3b
 https://uk.linkedin.com/jobs/view/senior-test-engineer-salesforce-at-indotronix-avani-uk-4410804432|761ac76a3e095f34
 https://uk.linkedin.com/jobs/view/senior-test-engineer-williams-racing-at-jobster-4354707490|f7e06dc26c107b79
@@ -1116,6 +1116,7 @@ https://uk.linkedin.com/jobs/view/system-validation-engineer-at-tata-consultancy
 https://uk.linkedin.com/jobs/view/systems-integration-automation-engineer-outside-ir35-contract-at-cloud-people-4361050312|7bcd3979ac1fe036
 https://uk.linkedin.com/jobs/view/systems-test-engineer-at-ic-resources-4402728602|d348c03a75cc26bb
 https://uk.linkedin.com/jobs/view/systems-test-engineer-at-sava-4344281499|d0a9e8df05b68da5
+https://uk.linkedin.com/jobs/view/technical-compliance-test-engineer-at-edm-ltd-4425344503|67b989332de2bd78
 https://uk.linkedin.com/jobs/view/technical-test-lead-at-matchtech-4408192022|7c094414e544607e
 https://uk.linkedin.com/jobs/view/test-1-at-princes-group-4371874538|0bf50de805868fc0
 https://uk.linkedin.com/jobs/view/test-2-at-resillion-4392591047|14a2b9382c0c7adb
@@ -1703,10 +1704,13 @@ https://uk.talent.com/view?id=623057579121052064|75cd2a21edb2cd31
 https://uk.talent.com/view?id=623335190953863927|ea38d8105b997056
 https://uk.talent.com/view?id=623407015682050117|e39c4a7b85ef74b4
 https://uk.talent.com/view?id=623422304994994935|a0b22366f13cae6c
-https://uk.talent.com/view?id=623530715622744974|eb80786ad0fe55ea
-https://uk.talent.com/view?id=623635531748352910|e9350f610c1ada1f
+https://uk.talent.com/view?id=623530715622744974|8b79d07702179b67
+https://uk.talent.com/view?id=623530721006330766|15baddaad13cbba7
+https://uk.talent.com/view?id=623627301651351968|1140f4f6453218c0
+https://uk.talent.com/view?id=623635531748352910|52bd0e6f01b43d47
 https://uk.talent.com/view?id=623656709691288311|86fe71d02f6b2ddb
-https://uk.talent.com/view?id=623656709992360695|12317444dde879bd
+https://uk.talent.com/view?id=623656709992360695|c34ccc53234a7f5c
+https://uk.talent.com/view?id=623656723413281527|7a91706e0f6365a8
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
