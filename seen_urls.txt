@@ -912,7 +912,7 @@ https://uk.linkedin.com/jobs/view/senior-software-system-test-engineer-validatio
 https://uk.linkedin.com/jobs/view/senior-software-test-automation-engineer-at-scg-midlands-4327114543|077577d78963813c
 https://uk.linkedin.com/jobs/view/senior-software-test-automation-engineer-selenium-and-playwright-at-fairfield-consultancy-services-limited-uk-4402867082|afc1ca402c58e5ec
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-bae-systems-4404059945|efddffe5652840f3
-https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-bae-systems-4429575316|783bc41440a6292f
+https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-bae-systems-4429575316|1e37bd9829b8bde5
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-cubiq-recruitment-4363266393|59c17378ed046e8b
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-dotmatics-4327865434|6e78732589f49267
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-hackajob-4329322584|3b7732b91824ca0f
@@ -1034,6 +1034,7 @@ https://uk.linkedin.com/jobs/view/software-engineer-iii-sdet-at-hackajob-4329392
 https://uk.linkedin.com/jobs/view/software-engineer-iii-test-automation-at-hackajob-4329747933|fd7364b5d1fa634d
 https://uk.linkedin.com/jobs/view/software-engineer-iii-test-automation-at-hackajob-4370457711|d91aa751d419bf31
 https://uk.linkedin.com/jobs/view/software-engineer-in-test-android-at-american-express-4422852838|58259fe3bd82a436
+https://uk.linkedin.com/jobs/view/software-engineer-in-test-at-codurance-4429903151|9e1888ad1aca30e8
 https://uk.linkedin.com/jobs/view/software-engineer-in-test-balance-talent-at-jobster-4360393554|825b9c0992a30987
 https://uk.linkedin.com/jobs/view/software-engineer-in-test-sdet-at-sgi-4400405805|a5c1ab357a9e8548
 https://uk.linkedin.com/jobs/view/software-engineer-in-test-software-development-engineer-in-test-at-datapath-4410967709|ff1915fc655c7a1a
@@ -1093,7 +1094,7 @@ https://uk.linkedin.com/jobs/view/software-tester-at-fdm-group-4348622615|63521e
 https://uk.linkedin.com/jobs/view/software-tester-at-fetchjobs-co-4394797920|b88ef7596eb0a691
 https://uk.linkedin.com/jobs/view/software-tester-at-iken-4373871842|996095a353f91053
 https://uk.linkedin.com/jobs/view/software-tester-at-neartech-search-4407270301|aefb973be80d55f7
-https://uk.linkedin.com/jobs/view/software-tester-at-scaletek-4429220940|558c1b4052b0649b
+https://uk.linkedin.com/jobs/view/software-tester-at-scaletek-4429220940|1e328b5d62e0a86d
 https://uk.linkedin.com/jobs/view/software-tester-at-seebyte-4388392006|ae256385936cad4f
 https://uk.linkedin.com/jobs/view/software-tester-at-squarcle-4379885720|4e8faed697e6c205
 https://uk.linkedin.com/jobs/view/software-tester-at-stratospherec-limited-4374263563|5aa9ebbec25dee17
@@ -1102,6 +1103,7 @@ https://uk.linkedin.com/jobs/view/software-tester-at-ubique-systems-4387599526|e
 https://uk.linkedin.com/jobs/view/software-tester-fully-remote-at-nucleus-financial-4389722009|40720b166ee9c061
 https://uk.linkedin.com/jobs/view/software-tester-innova-recruitment-at-jobster-4359228466|4e4fd2f1c2f17ee5
 https://uk.linkedin.com/jobs/view/software-tester-martech-at-bet365-4410557851|537f1928134eb8e6
+https://uk.linkedin.com/jobs/view/software-tester-pam-at-bet365-4428480571|b535b989ff7b3fe5
 https://uk.linkedin.com/jobs/view/software-tester-qa-at-robertson-sumner-4348480072|99f79aa851119221
 https://uk.linkedin.com/jobs/view/software-tester-qa-at-robertson-sumner-4351213562|5989d0e52918d75f
 https://uk.linkedin.com/jobs/view/software-testing-intern-at-london-success-academy-4365663071|0b1034b7598b7072
@@ -1756,8 +1758,9 @@ https://uk.talent.com/view?id=623930716638489335|c919ebfee188ff7b
 https://uk.talent.com/view?id=623930730026969847|9e5789bc6aacb877
 https://uk.talent.com/view?id=623952091666779628|d2bceff2102e825e
 https://uk.talent.com/view?id=623952116107251180|c86656f12bd60a46
-https://uk.talent.com/view?id=624079843269485454|c580e330404fb1c8
-https://uk.talent.com/view?id=624079857199883150|8764e9f5e34973da
+https://uk.talent.com/view?id=624079843269485454|42e4fa4c1f2c2109
+https://uk.talent.com/view?id=624079857199883150|6f806f2adf6acc32
+https://uk.talent.com/view?id=624133084925012727|2e84cdf46582536d
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
