@@ -365,7 +365,7 @@ https://uk.linkedin.com/jobs/view/automation-test-engineer-at-test-yantra-441881
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-the-future-project-ltd-4389563664|b1216a8e0de0639c
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-txp-4341770738|67276035208b1db5
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-txp-4364296178|9b9f07e66b30f6fd
-https://uk.linkedin.com/jobs/view/automation-test-engineer-at-version-1-4427850001|27ada0a1b86fc1a8
+https://uk.linkedin.com/jobs/view/automation-test-engineer-at-version-1-4427850001|6b37568ed23e9569
 https://uk.linkedin.com/jobs/view/automation-test-engineer-dv-at-npaworldwide-4325008520|ec485d93d5dd6a02
 https://uk.linkedin.com/jobs/view/automation-test-engineer-lorien-impellam-at-jobs-via-efinancialcareers-4424748835|dc990e4f6a2ed426
 https://uk.linkedin.com/jobs/view/automation-test-engineer-remote-at-joveo-ai-4401747748|eca0e7da49da16d4
@@ -939,7 +939,7 @@ https://uk.linkedin.com/jobs/view/senior-software-tester-m-f-d-at-tgw-northern-e
 https://uk.linkedin.com/jobs/view/senior-staff-design-for-test-engineer-at-olix-4408405731|89acf0fdec2b4bba
 https://uk.linkedin.com/jobs/view/senior-system-integration-test-engineer-at-qinetiq-4406620829|f6228ebd3cc4140c
 https://uk.linkedin.com/jobs/view/senior-systems-test-engineer-at-hitachi-energy-4362069282|cfd7ed76f68ab9d8
-https://uk.linkedin.com/jobs/view/senior-test-analyst-at-harvey-nash-4430469959|2277b2aff2016d3b
+https://uk.linkedin.com/jobs/view/senior-test-analyst-at-harvey-nash-4430469959|e46f59da48e1a80c
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-head-resourcing-4362221512|c367cc5a22465d8f
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-premier-group-4342574183|9fc6f65253428ec6
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-trust-in-soda-4370200377|ee34b72dfa859b63
@@ -1242,6 +1242,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4406265770|94a31
 https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4407869478|dad2c6b063dd931c
 https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4409860991|9b411c4c2df22361
 https://uk.linkedin.com/jobs/view/test-engineer-at-isr-recruitment-4344881979|4bd14c58dfb08bfa
+https://uk.linkedin.com/jobs/view/test-engineer-at-isr-recruitment-4430706023|8d8f6c9b4afc4c40
 https://uk.linkedin.com/jobs/view/test-engineer-at-ixceed-solutions-4339126718|98069541245c25bb
 https://uk.linkedin.com/jobs/view/test-engineer-at-kerv-4415546508|aaa7869ccbb818a1
 https://uk.linkedin.com/jobs/view/test-engineer-at-la-fosse-4329705420|2bafa911600c8827
