@@ -1,6 +1,7 @@
 https://careers.kainos.com/gb/en/job/JR_17467/Senior-Test-Engineer|a248002db3987763
 https://careers.rsmuk.com/uk/en/job/req12240/AI-Automation-Engineer|f0b7619cea4fa24f
 https://diversityjobsgroup.com/job/automation-engineer-london-n1c-4ag/|3ea1997904bc9c08
+https://diversityjobsgroup.com/job/lead-test-engineer-fareham/|1fcd4917f384c0a0
 https://engineering-jobs.theiet.org/job/65627/cni-infrastructure-automation-engineer/|f8b661f1528d2418
 https://franklandautomation.com/jobs/5105-systems-integration-senior-automation-engineer-2-birmingham-uk|5f436a706217e6fc
 https://gb.bebee.com/job/313993202f8a76c12224505ea0f4bee2|3373eedd80b25e80
@@ -365,7 +366,7 @@ https://uk.linkedin.com/jobs/view/automation-test-engineer-at-test-yantra-441881
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-the-future-project-ltd-4389563664|b1216a8e0de0639c
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-txp-4341770738|67276035208b1db5
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-txp-4364296178|9b9f07e66b30f6fd
-https://uk.linkedin.com/jobs/view/automation-test-engineer-at-version-1-4427850001|6b37568ed23e9569
+https://uk.linkedin.com/jobs/view/automation-test-engineer-at-version-1-4427850001|ac008bb1044cdde5
 https://uk.linkedin.com/jobs/view/automation-test-engineer-dv-at-npaworldwide-4325008520|ec485d93d5dd6a02
 https://uk.linkedin.com/jobs/view/automation-test-engineer-lorien-impellam-at-jobs-via-efinancialcareers-4424748835|dc990e4f6a2ed426
 https://uk.linkedin.com/jobs/view/automation-test-engineer-remote-at-joveo-ai-4401747748|eca0e7da49da16d4
@@ -604,7 +605,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-at-agilegrid-solutions-4421657821|
 https://uk.linkedin.com/jobs/view/qa-engineer-at-ao-4423206570|57c6552d2d693df1
 https://uk.linkedin.com/jobs/view/qa-engineer-at-arroyo-is-becoming-inspyr-global-solutions-4398079249|43f6d53c83890f27
 https://uk.linkedin.com/jobs/view/qa-engineer-at-artificial-labs-4418420692|98f8b154f137dac2
-https://uk.linkedin.com/jobs/view/qa-engineer-at-aurum-solutions-4410643312?refId=vc5ydGZmjBB0Q+MfchopMQ==&trackingId=+QLdv5lQTliwuln93tN3JQ==|d1bdedbc9cb63604
+https://uk.linkedin.com/jobs/view/qa-engineer-at-aurum-solutions-4410643312?refId=vc5ydGZmjBB0Q+MfchopMQ==&trackingId=+QLdv5lQTliwuln93tN3JQ==|1acc0b9435f15089
 https://uk.linkedin.com/jobs/view/qa-engineer-at-best-job-tool-4363976557|23a0109a4c715aca
 https://uk.linkedin.com/jobs/view/qa-engineer-at-bilfinger-uk-4354231217|b642d1c060e8eea5
 https://uk.linkedin.com/jobs/view/qa-engineer-at-clio-4389844197|7e2cbc51011b1124
@@ -939,7 +940,7 @@ https://uk.linkedin.com/jobs/view/senior-software-tester-m-f-d-at-tgw-northern-e
 https://uk.linkedin.com/jobs/view/senior-staff-design-for-test-engineer-at-olix-4408405731|89acf0fdec2b4bba
 https://uk.linkedin.com/jobs/view/senior-system-integration-test-engineer-at-qinetiq-4406620829|f6228ebd3cc4140c
 https://uk.linkedin.com/jobs/view/senior-systems-test-engineer-at-hitachi-energy-4362069282|cfd7ed76f68ab9d8
-https://uk.linkedin.com/jobs/view/senior-test-analyst-at-harvey-nash-4430469959|e46f59da48e1a80c
+https://uk.linkedin.com/jobs/view/senior-test-analyst-at-harvey-nash-4430469959|07e033901ec5bb61
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-head-resourcing-4362221512|c367cc5a22465d8f
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-premier-group-4342574183|9fc6f65253428ec6
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-trust-in-soda-4370200377|ee34b72dfa859b63
@@ -1143,6 +1144,7 @@ https://uk.linkedin.com/jobs/view/system-validation-engineer-at-tata-consultancy
 https://uk.linkedin.com/jobs/view/systems-integration-automation-engineer-outside-ir35-contract-at-cloud-people-4361050312|7bcd3979ac1fe036
 https://uk.linkedin.com/jobs/view/systems-test-engineer-at-ic-resources-4402728602|d348c03a75cc26bb
 https://uk.linkedin.com/jobs/view/systems-test-engineer-at-sava-4344281499|d0a9e8df05b68da5
+https://uk.linkedin.com/jobs/view/systems-test-engineer-at-waters-corporation-4430704038|74e6c973de555791
 https://uk.linkedin.com/jobs/view/technical-compliance-test-engineer-at-edm-ltd-4425344503|67b989332de2bd78
 https://uk.linkedin.com/jobs/view/technical-test-lead-at-matchtech-4408192022|7c094414e544607e
 https://uk.linkedin.com/jobs/view/test-1-at-princes-group-4371874538|0bf50de805868fc0
@@ -1242,7 +1244,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4406265770|94a31
 https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4407869478|dad2c6b063dd931c
 https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4409860991|9b411c4c2df22361
 https://uk.linkedin.com/jobs/view/test-engineer-at-isr-recruitment-4344881979|4bd14c58dfb08bfa
-https://uk.linkedin.com/jobs/view/test-engineer-at-isr-recruitment-4430706023|8d8f6c9b4afc4c40
+https://uk.linkedin.com/jobs/view/test-engineer-at-isr-recruitment-4430706023|4aaf69127e67ddc3
 https://uk.linkedin.com/jobs/view/test-engineer-at-ixceed-solutions-4339126718|98069541245c25bb
 https://uk.linkedin.com/jobs/view/test-engineer-at-kerv-4415546508|aaa7869ccbb818a1
 https://uk.linkedin.com/jobs/view/test-engineer-at-la-fosse-4329705420|2bafa911600c8827
