@@ -1145,6 +1145,7 @@ https://uk.linkedin.com/jobs/view/system-test-at-cb-i-asset-solutions-4418937434
 https://uk.linkedin.com/jobs/view/system-test-engineer-at-hackajob-4406661203|1167447efb3c0b46
 https://uk.linkedin.com/jobs/view/system-test-engineer-at-intellian-technologies-4365363875|beb09c23d3448ecd
 https://uk.linkedin.com/jobs/view/system-test-engineer-at-machnet-medical-robotics-4403878774|368ce51efe1b0a63
+https://uk.linkedin.com/jobs/view/system-test-engineer-at-necessary-ventures-4428576485|1b7b525247b54c6c
 https://uk.linkedin.com/jobs/view/system-test-engineer-at-peregrine-4389223784|0147840244e992fa
 https://uk.linkedin.com/jobs/view/system-test-engineer-premier-group-at-jobster-4360962695|4f18cba5b0d42b7f
 https://uk.linkedin.com/jobs/view/system-validation-engineer-at-tata-consultancy-services-4403315480|ffffaecfd7f2410d
@@ -1484,8 +1485,8 @@ https://uk.talent.com/view?id=589043303040811640|9dd15f2d6807b2e7
 https://uk.talent.com/view?id=589043313453826680|710802835f91f59c
 https://uk.talent.com/view?id=589043319625288984|8107ca96d6c4f03e
 https://uk.talent.com/view?id=589043337589754352|dc1b6d4dcc813ba3
-https://uk.talent.com/view?id=589043345657956848|bec1b00dca50c678
-https://uk.talent.com/view?id=591998636889481926|67ec0f173d72e8f9
+https://uk.talent.com/view?id=589043345657956848|be0037432fcc6cba
+https://uk.talent.com/view?id=591998636889481926|5ce24ac6071e2c51
 https://uk.talent.com/view?id=592326415114633287|b8b796e37e89001c
 https://uk.talent.com/view?id=595c3434a998|3f692464382d53aa
 https://uk.talent.com/view?id=5b54df8306c9|52bb5444d153be02
@@ -1494,7 +1495,7 @@ https://uk.talent.com/view?id=5d5f71d41c35|f3c7f346cb4794bf
 https://uk.talent.com/view?id=5ed64925b112|96e79a4beb459d5b
 https://uk.talent.com/view?id=600745603667071192|3f6a17ce5a6e3010
 https://uk.talent.com/view?id=602336082046036513|7e358a6420509edf
-https://uk.talent.com/view?id=602336302589346263|2e0389ab1ea91970
+https://uk.talent.com/view?id=602336302589346263|3cea187cc153dfb1
 https://uk.talent.com/view?id=602336322643493335|8f2e31e199958a1f
 https://uk.talent.com/view?id=603293914375462841|a56217482a74064c
 https://uk.talent.com/view?id=603322181752461728|753b2e26c859ba01
