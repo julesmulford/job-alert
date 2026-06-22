@@ -701,6 +701,7 @@ https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-ixcee
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-maxwell-bond-4408820793|00540806d20f1702
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-spectrum-it-recruitment-4354880550|024ee70e586a60d6
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-id44635-at-humand-talent-4354243772|94260ce3429e6686
+https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-dodimead-technologies-4408249245|f32bdfea1a2b6842
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-fintop-consulting-4384034454|cbfe08a9e4d4aed3
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-green-cad-it-consulting-pvt-ltd-4330121951|a23e177208458e59
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-haystack-4428517926|702639b48f864542
@@ -720,6 +721,7 @@ https://uk.linkedin.com/jobs/view/quality-assurance-improvement-engineer-at-camb
 https://uk.linkedin.com/jobs/view/quality-assurance-lead-at-test-yantra-4418595503|2ba6cd4c1e681cac
 https://uk.linkedin.com/jobs/view/quality-assurance-performance-tester-at-infosum-4416629947|bffaf72c121e4615
 https://uk.linkedin.com/jobs/view/quality-assurance-qa-engineer-at-hackajob-4381077057|b556d3ecd5270384
+https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-addition-4430502502|a6770c51311ff2e6
 https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-anglia-uk-4381633439|050ddb57228595ac
 https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-gama-aviation-4371756518|4c51afcb092f5cf3
 https://uk.linkedin.com/jobs/view/quality-assurance-test-engineer-at-lexisnexis-risk-solutions-4399745286|9d0c4d880ac2f97f
@@ -948,6 +950,7 @@ https://uk.linkedin.com/jobs/view/senior-systems-test-engineer-at-hitachi-energy
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-harvey-nash-4430469959|953ec83ceabfbdca
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-head-resourcing-4362221512|c367cc5a22465d8f
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-premier-group-4342574183|9fc6f65253428ec6
+https://uk.linkedin.com/jobs/view/senior-test-analyst-at-recruit-with-purpose-4431707235|f45b0e9d776b4ff8
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-trust-in-soda-4370200377|ee34b72dfa859b63
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-ventula-consulting-4426978621?position=8&pageNum=0&refId=FrIlwOXUBQPvd7U7RMxI6g==&trackingId=qFJ57/4gR2EI9ZhhRHS2aQ==|bce1585f4760c18f
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-hackajob-4328310922|3e71ee73833045a8
@@ -1268,6 +1271,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-multiplex-4392679126|fc59fac6
 https://uk.linkedin.com/jobs/view/test-engineer-at-nhs-4344984973|43bdc87c9ebc6e28
 https://uk.linkedin.com/jobs/view/test-engineer-at-noir-4391575462?refId=YFMtumkk92R3Odlti783EA==&trackingId=p/8elq5/o/Y+ywvlS0q2LQ==|a7b90acaa4e51d14
 https://uk.linkedin.com/jobs/view/test-engineer-at-noir-4405639177|89561d95d145de22
+https://uk.linkedin.com/jobs/view/test-engineer-at-noir-4431656353|03b91c6667d0e03e
 https://uk.linkedin.com/jobs/view/test-engineer-at-north-scout-4386854950|fd2155ae786dec6d
 https://uk.linkedin.com/jobs/view/test-engineer-at-novanta-inc-4394466359|28e55abdd662a3b6
 https://uk.linkedin.com/jobs/view/test-engineer-at-oho-group-4374616530|7a138b8b7d0aaf6a
@@ -1286,6 +1290,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-smart4-chemicals-4325720996|c
 https://uk.linkedin.com/jobs/view/test-engineer-at-smart4-chemicals-4386886272|0cab008e360f680a
 https://uk.linkedin.com/jobs/view/test-engineer-at-solus-an-aviva-company-4393849460|fdaaf6ba2eddfdac
 https://uk.linkedin.com/jobs/view/test-engineer-at-spt-labtech-4407857552|ac4c2a7b84056f14
+https://uk.linkedin.com/jobs/view/test-engineer-at-spt-labtech-4419808779|496b653147383ebf
 https://uk.linkedin.com/jobs/view/test-engineer-at-sunamp-4344711208|ff79e30e4566f1c1
 https://uk.linkedin.com/jobs/view/test-engineer-at-symmetric-recruitment-ltd-4328901592|b9f9869ca4e8a98b
 https://uk.linkedin.com/jobs/view/test-engineer-at-system-c-4325418648|38415537ff2c427d
@@ -1326,7 +1331,7 @@ https://uk.linkedin.com/jobs/view/test-lead-at-smartchoice-international-limited
 https://uk.linkedin.com/jobs/view/test-lead-operational-technology-poweron-adms-at-sword-group-4349397283|f2adf25a8a917e5e
 https://uk.linkedin.com/jobs/view/test-lead-oracle-field-services-at-bluerose-technologies-4410096750|159aa3e5be9a0f85
 https://uk.linkedin.com/jobs/view/test-lead-studentjob-co-uk-at-jobster-4330124478|76bd8d41538ebdf2
-https://uk.linkedin.com/jobs/view/test-listing-at-tr-construction-group-4431378616|f526ffb01a148da3
+https://uk.linkedin.com/jobs/view/test-listing-at-tr-construction-group-4431378616|540b05c315a953cf
 https://uk.linkedin.com/jobs/view/test-manager-at-stellar-omada-4424754552|b14e5fa6dbca9a79
 https://uk.linkedin.com/jobs/view/test-means-engineer-at-scalian-4379912037|bb106f967f196aaa
 https://uk.linkedin.com/jobs/view/test-means-engineer-at-segula-technologies-4388521223|388153e58fe49a38
@@ -1483,7 +1488,7 @@ https://uk.talent.com/view?id=578665037518079110|754c7dddd971523e
 https://uk.talent.com/view?id=5820c9771091|311d0ebb44741ca4
 https://uk.talent.com/view?id=582379931604234130|fad183a10cb84d31
 https://uk.talent.com/view?id=587967931844733692|abfb148c44e928c3
-https://uk.talent.com/view?id=589041463124167960|dc14013c48291d60
+https://uk.talent.com/view?id=589041463124167960|8654f810ad16d24f
 https://uk.talent.com/view?id=589043223183232172|2d2e8480d8c6cb0e
 https://uk.talent.com/view?id=589043229923609772|d3683bd3253a61fc
 https://uk.talent.com/view?id=589043303040811640|9dd15f2d6807b2e7
@@ -1492,7 +1497,7 @@ https://uk.talent.com/view?id=589043319625288984|8107ca96d6c4f03e
 https://uk.talent.com/view?id=589043337589754352|dc1b6d4dcc813ba3
 https://uk.talent.com/view?id=589043345657956848|fdcf09b6302328dd
 https://uk.talent.com/view?id=590919377904739014|2d6f8eb93b573f48
-https://uk.talent.com/view?id=590974946987290119|73d6124ddc031096
+https://uk.talent.com/view?id=590974946987290119|2315f2acaffbc865
 https://uk.talent.com/view?id=590980652762671278|aa52d2264764ec6b
 https://uk.talent.com/view?id=591998636889481926|088aa5a8c9a515b9
 https://uk.talent.com/view?id=592326415114633287|b8b796e37e89001c
@@ -1504,15 +1509,17 @@ https://uk.talent.com/view?id=5d5f71d41c35|f3c7f346cb4794bf
 https://uk.talent.com/view?id=5ed64925b112|96e79a4beb459d5b
 https://uk.talent.com/view?id=600745603667071192|3f6a17ce5a6e3010
 https://uk.talent.com/view?id=600992982614085848|b58096406172a42b
-https://uk.talent.com/view?id=602336063373191713|fe65db80245bd910
+https://uk.talent.com/view?id=602336063373191713|cf219d380a17ae4d
 https://uk.talent.com/view?id=602336067750537761|defb008b8261c753
 https://uk.talent.com/view?id=602336078723951137|61a7468781fa9466
 https://uk.talent.com/view?id=602336082046036513|7e358a6420509edf
+https://uk.talent.com/view?id=602336295166280151|135817f5230ad1de
 https://uk.talent.com/view?id=602336302589346263|72152d86da2c97a1
 https://uk.talent.com/view?id=602336322643493335|8f2e31e199958a1f
-https://uk.talent.com/view?id=602336338233724637|17018f4da353d2af
-https://uk.talent.com/view?id=602338181671619703|4ea5b7948c462cf6
-https://uk.talent.com/view?id=602380900229451485|ce9ddbe799eda362
+https://uk.talent.com/view?id=602336338233724637|d9a026091221d2db
+https://uk.talent.com/view?id=602338181671619703|85fc8e4ff07f682c
+https://uk.talent.com/view?id=602338207696227447|244e2f0775f93f6d
+https://uk.talent.com/view?id=602380900229451485|83f9c86b8473606e
 https://uk.talent.com/view?id=603293914375462841|a56217482a74064c
 https://uk.talent.com/view?id=603322181752461728|753b2e26c859ba01
 https://uk.talent.com/view?id=603451325821951929|e70efbcc30971df5
@@ -1845,9 +1852,9 @@ https://uk.talent.com/view?id=624577448940866995|22b89df049aef1f2
 https://uk.talent.com/view?id=624600976896170876|694084a6719e58db
 https://uk.talent.com/view?id=624601728774833747|fc386b1dd075eec9
 https://uk.talent.com/view?id=624803309638851452|a8c6a92a7737659c
-https://uk.talent.com/view?id=624803319979842428|b5ea3f84fc9b9204
-https://uk.talent.com/view?id=624803335207459708|80b22822c8a5b3e2
-https://uk.talent.com/view?id=624807415896540755|2b285e7d82a55e02
+https://uk.talent.com/view?id=624803319979842428|53f1c38d31b3d716
+https://uk.talent.com/view?id=624803335207459708|8fc1248e900a0562
+https://uk.talent.com/view?id=624807415896540755|d9e2d4d54eddc440
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
