@@ -602,6 +602,7 @@ https://uk.linkedin.com/jobs/view/qa-automation-engineer-officer-at-state-street
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-on-site-at-insight-international-uk-ltd-4325026085|b354a5572290a238
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-python-pytest-cosmos-db-banking-client-exp-required-vallum-associates-at-jobster-4354477343|9f07fc8ceeadf8ac
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-redrock-resourcing-at-jobster-4359228463|2e3cd3c3a96e239a
+https://uk.linkedin.com/jobs/view/qa-data-test-engineer-at-venturi-4431271878|3b3569b501b800ca
 https://uk.linkedin.com/jobs/view/qa-embedded-tester-at-hutch-4359983518|0479fb1e2a2e69d6
 https://uk.linkedin.com/jobs/view/qa-engineer-ai-applications-remote-at-quik-hire-staffing-4410053793|eda51eb28a1c85bb
 https://uk.linkedin.com/jobs/view/qa-engineer-at-agilegrid-solutions-4421657821|4c5cf70517078393
@@ -636,6 +637,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-at-spectrum-it-recruitment-4404436
 https://uk.linkedin.com/jobs/view/qa-engineer-at-sphere-solutions-4399301907|53e40509e7f31248
 https://uk.linkedin.com/jobs/view/qa-engineer-at-tilo-consulting-4429566074|51e6d5e71fb6ece5
 https://uk.linkedin.com/jobs/view/qa-engineer-at-track24-4329964964|e6c5aaea37e21a83
+https://uk.linkedin.com/jobs/view/qa-engineer-at-trakd-4432295792|75a1e6d326d543df
 https://uk.linkedin.com/jobs/view/qa-engineer-at-women-in-tech-4397374727|a1bafc4e64a15e10
 https://uk.linkedin.com/jobs/view/qa-engineer-at-xpertise-recruitment-4352390269|bfdbf73c88f4aaa3
 https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-esure-group-4374899573|b6dd12b78117302a
@@ -701,7 +703,7 @@ https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-devel
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-evantis-recruitment-4393575277|4aac89e1cad69c55
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-ixceed-solutions-4380935594|334482ced3da8b6f
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-maxwell-bond-4408820793|00540806d20f1702
-https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-morson-edge-4432292104|35179d9f283c4cf8
+https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-morson-edge-4432292104|2caf3b0e26d91b00
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-spectrum-it-recruitment-4354880550|024ee70e586a60d6
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-id44635-at-humand-talent-4354243772|94260ce3429e6686
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-dodimead-technologies-4408249245|67a1138277e2ce63
