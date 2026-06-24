@@ -393,7 +393,7 @@ https://uk.linkedin.com/jobs/view/building-automation-apprentice-at-cundall-4355
 https://uk.linkedin.com/jobs/view/c-and-i-engineer-automation-engineer-at-tiptopjob-4365612405|75fcd18d59d4cc16
 https://uk.linkedin.com/jobs/view/commercial-electrician-electrical-test-engineer-at-valoris-group-limited-4422532606|a0256c64759cd795
 https://uk.linkedin.com/jobs/view/comparative-test-engineer-at-leidos-4410590091|0662de6e9f11f22e
-https://uk.linkedin.com/jobs/view/consultant-senior-consultant-software-development-engineer-in-test-sdet-engineering-defense-security-at-deloitte-4429861546|6855302baa3e254c
+https://uk.linkedin.com/jobs/view/consultant-senior-consultant-software-development-engineer-in-test-sdet-engineering-defense-security-at-deloitte-4429861546|64aa1ada03b41262
 https://uk.linkedin.com/jobs/view/content-tester-shipit-at-shipit-4346291657|266049a624aab948
 https://uk.linkedin.com/jobs/view/contract-automation-tester-at-inspired-thinking-group-itg-4372255067|980033d40ba3a74b
 https://uk.linkedin.com/jobs/view/contract-role-automation-architect-web-mobile-testing-at-infodigix-4413875556|2d6bcbd9cece1e1f
@@ -612,7 +612,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-at-agilegrid-solutions-4421657821|
 https://uk.linkedin.com/jobs/view/qa-engineer-at-ao-4423206570|57c6552d2d693df1
 https://uk.linkedin.com/jobs/view/qa-engineer-at-arroyo-is-becoming-inspyr-global-solutions-4398079249|43f6d53c83890f27
 https://uk.linkedin.com/jobs/view/qa-engineer-at-artificial-labs-4418420692|98f8b154f137dac2
-https://uk.linkedin.com/jobs/view/qa-engineer-at-aurora-4432556342|18d411d4f206df63
+https://uk.linkedin.com/jobs/view/qa-engineer-at-aurora-4432556342|ae84335a6ddd6f92
 https://uk.linkedin.com/jobs/view/qa-engineer-at-aurum-solutions-4410643312?refId=vc5ydGZmjBB0Q+MfchopMQ==&trackingId=+QLdv5lQTliwuln93tN3JQ==|16c9fea20abcf115
 https://uk.linkedin.com/jobs/view/qa-engineer-at-best-job-tool-4363976557|23a0109a4c715aca
 https://uk.linkedin.com/jobs/view/qa-engineer-at-bilfinger-uk-4354231217|b642d1c060e8eea5
@@ -713,7 +713,7 @@ https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-spect
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-id44635-at-humand-talent-4354243772|94260ce3429e6686
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-dodimead-technologies-4408249245|67a1138277e2ce63
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-fintop-consulting-4384034454|cbfe08a9e4d4aed3
-https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-genium-selection-4432593617|225d9ba61af950ca
+https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-genium-selection-4432593617|3f6e87cd3c63dad6
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-green-cad-it-consulting-pvt-ltd-4330121951|a23e177208458e59
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-haystack-4428517926|702639b48f864542
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-hitachi-energy-4328330307|08573c3341c8409b
@@ -725,7 +725,7 @@ https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-recenso-services
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-searchability-ns-d-4403893548|b6267d57a9699238
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-software-de-4408433584|3b1153d25676afaa
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tgs-international-group-4361421723|a09cad407db3bf01
-https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-transport-for-london-4431211914?position=27&pageNum=0&refId=2KzeOPBAC/ou9OHz7yIUVA==&trackingId=wT4hwt68c0bzE08zi0XsVg==|eb783e17e1e37d1d
+https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-transport-for-london-4431211914?position=27&pageNum=0&refId=2KzeOPBAC/ou9OHz7yIUVA==&trackingId=wT4hwt68c0bzE08zi0XsVg==|2f812b28f403d9bf
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tria-4350252385|7524309888b21991
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-workmaze-4350562868|0d5e8cefa61fc974
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-data-centre-at-ten11-4397547749|4c865469465d7167
@@ -1210,7 +1210,7 @@ https://uk.linkedin.com/jobs/view/test-automation-engineer-at-motorola-solutions
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pelion-4344514030|09a1ce95d7968027
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pentenamio-4337852477|0bc864521d202384
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-person-centred-software-ltd-4408033427|6928fa6bedb20e0a
-https://uk.linkedin.com/jobs/view/test-automation-engineer-at-randstad-digital-4429884419|f1ca646fc2bec27a
+https://uk.linkedin.com/jobs/view/test-automation-engineer-at-randstad-digital-4429884419|9b523643ae8ac583
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-shawbrook-4359646770|a3f308934b6f493b
 https://uk.linkedin.com/jobs/view/test-automation-engineer-for-the-banking-sector-helsinki-at-invest-in-finland-4415897592|76227932973714c0
 https://uk.linkedin.com/jobs/view/test-automation-engineer-java-at-persistent-systems-4413477094|7344c4a8694bff2a
