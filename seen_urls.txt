@@ -602,7 +602,7 @@ https://uk.linkedin.com/jobs/view/qa-automation-engineer-officer-at-state-street
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-on-site-at-insight-international-uk-ltd-4325026085|b354a5572290a238
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-python-pytest-cosmos-db-banking-client-exp-required-vallum-associates-at-jobster-4354477343|9f07fc8ceeadf8ac
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-redrock-resourcing-at-jobster-4359228463|2e3cd3c3a96e239a
-https://uk.linkedin.com/jobs/view/qa-data-test-engineer-at-venturi-4431271878|cfa3e12d8cf37643
+https://uk.linkedin.com/jobs/view/qa-data-test-engineer-at-venturi-4431271878|fe6e0b9bd26469ee
 https://uk.linkedin.com/jobs/view/qa-embedded-tester-at-hutch-4359983518|0479fb1e2a2e69d6
 https://uk.linkedin.com/jobs/view/qa-engineer-ai-applications-remote-at-quik-hire-staffing-4410053793|eda51eb28a1c85bb
 https://uk.linkedin.com/jobs/view/qa-engineer-at-agilegrid-solutions-4421657821|4c5cf70517078393
@@ -637,7 +637,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-at-spectrum-it-recruitment-4404436
 https://uk.linkedin.com/jobs/view/qa-engineer-at-sphere-solutions-4399301907|53e40509e7f31248
 https://uk.linkedin.com/jobs/view/qa-engineer-at-tilo-consulting-4429566074|51e6d5e71fb6ece5
 https://uk.linkedin.com/jobs/view/qa-engineer-at-track24-4329964964|e6c5aaea37e21a83
-https://uk.linkedin.com/jobs/view/qa-engineer-at-trakd-4432295792|9237faf296858946
+https://uk.linkedin.com/jobs/view/qa-engineer-at-trakd-4432295792|9f1a5049cc3e9a54
 https://uk.linkedin.com/jobs/view/qa-engineer-at-women-in-tech-4397374727|a1bafc4e64a15e10
 https://uk.linkedin.com/jobs/view/qa-engineer-at-xpertise-recruitment-4352390269|bfdbf73c88f4aaa3
 https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-esure-group-4374899573|b6dd12b78117302a
@@ -703,7 +703,7 @@ https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-devel
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-evantis-recruitment-4393575277|4aac89e1cad69c55
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-ixceed-solutions-4380935594|334482ced3da8b6f
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-maxwell-bond-4408820793|00540806d20f1702
-https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-morson-edge-4432292104|bf145cc36476e30d
+https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-morson-edge-4432292104|f788c8109d87a2b4
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-spectrum-it-recruitment-4354880550|024ee70e586a60d6
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-id44635-at-humand-talent-4354243772|94260ce3429e6686
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-dodimead-technologies-4408249245|67a1138277e2ce63
@@ -776,6 +776,7 @@ https://uk.linkedin.com/jobs/view/sc-cleared-qa-engineer-at-experis-uk-439206911
 https://uk.linkedin.com/jobs/view/sdet-at-techshack-4359410354|cfde93afeb07d39f
 https://uk.linkedin.com/jobs/view/sdet-at-xcede-4325820951|5d46d56bc466b04d
 https://uk.linkedin.com/jobs/view/sdet-engineer-at-clearroute-4369294926|c0cc81cf38c49f9f
+https://uk.linkedin.com/jobs/view/sdet-engineer-at-clearroute-4431298727|2f971ccae7754eff
 https://uk.linkedin.com/jobs/view/sdet-wallet-platform-at-jobgether-4385351605|ebd10bd0fcf42d44
 https://uk.linkedin.com/jobs/view/security-tester-cybersecurity-vulnerability-$70-hr-remote-at-crossing-hurdles-4395412439|9d4bd54b774bfdfb
 https://uk.linkedin.com/jobs/view/senior-ai-automation-engineer-at-binnies-4359407906|ead0980efac05468
@@ -1229,7 +1230,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-aga-rangemaster-ltd-437163941
 https://uk.linkedin.com/jobs/view/test-engineer-at-anson-mccade-4325377562|2b7a96d89b872bbb
 https://uk.linkedin.com/jobs/view/test-engineer-at-arrive-4383955561|62e1e09ed69e8949
 https://uk.linkedin.com/jobs/view/test-engineer-at-avance-consulting-4372842326|cab0f3b924095ec5
-https://uk.linkedin.com/jobs/view/test-engineer-at-balfour-beatty-plc-4429467579|336298e47a0e4495
+https://uk.linkedin.com/jobs/view/test-engineer-at-balfour-beatty-plc-4429467579|4f6473537d2351cb
 https://uk.linkedin.com/jobs/view/test-engineer-at-bluegate-consulting-4428245570|88d215306392503d
 https://uk.linkedin.com/jobs/view/test-engineer-at-bmr-solutions-ltd-4352255198|787fc4ed0b6ddeb7
 https://uk.linkedin.com/jobs/view/test-engineer-at-bms-performance-4370250406|9a28041166b88800
@@ -1878,7 +1879,7 @@ https://uk.talent.com/view?id=625117756261404948|24703c7a7cdea0f7
 https://uk.talent.com/view?id=625117791395844372|f6542b42ec09a57f
 https://uk.talent.com/view?id=625117846864336401|e0404c82aa5a1e27
 https://uk.talent.com/view?id=625117876530648593|e2808fa81b08fe38
-https://uk.talent.com/view?id=625135137128124692|88eb433200673da5
+https://uk.talent.com/view?id=625135137128124692|a7107b574b0a1295
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
