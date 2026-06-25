@@ -2108,6 +2108,7 @@ https://uk.whatjobs.com/jobs/senior-automation-engineer?id=391373537|35b74eb3a86
 https://uk.whatjobs.com/jobs/test-engineer?id=364423812|afcee8982a1e55da
 https://welovesalt.com/jobs/mainframe-system-automation-engineer-finance-nottingham-712766|83eacae5c4af6c42
 https://welovesalt.com/jobs/powershell-automation-engineer-contractor-713509|64dd5ff7c2c91231
+https://welovesalt.com/jobs/senior-cyberark-automation-engineer-713823|f826caa124f8ecff
 https://www.cybersecurityjobsite.com/job/5510530/automation-test-engineer/|7b6ef0ca2f23b673
 https://www.cybersecurityjobsite.com/job/5517734/automation-test-engineer/|885b3dd37e1bdba6
 https://www.exec-appointments.com/job/1951249/senior-salesforce-test-engineer/|e3b0c44298fc1c14
