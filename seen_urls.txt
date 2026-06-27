@@ -388,7 +388,7 @@ https://uk.linkedin.com/jobs/view/automation-tester-at-sparta-global-4412023521|
 https://uk.linkedin.com/jobs/view/automation-tester-dv-security-clearance-at-women-in-tech-4409775325|e5f9f189742dc00d
 https://uk.linkedin.com/jobs/view/automation-tester-functional-at-dns-info-ltd-4393516996|c6f7152f84127f8a
 https://uk.linkedin.com/jobs/view/automation-tester-government-at-stealth-it-consulting-4328978615|e187652c0ee5c47a
-https://uk.linkedin.com/jobs/view/avaloq-test-lead-manager-at-us3-consulting-4433898416|f668694e2729c122
+https://uk.linkedin.com/jobs/view/avaloq-test-lead-manager-at-us3-consulting-4433898416|f2ba55cbfb63c886
 https://uk.linkedin.com/jobs/view/back-end-automation-engineer-at-kham-lab-4363877284|ba9c5fb4530e905e
 https://uk.linkedin.com/jobs/view/building-automation-apprentice-at-cundall-4355695384|6283fca1e3b95bb9
 https://uk.linkedin.com/jobs/view/c-and-i-engineer-automation-engineer-at-tiptopjob-4365612405|75fcd18d59d4cc16
@@ -1105,7 +1105,7 @@ https://uk.linkedin.com/jobs/view/software-test-automation-engineer-at-technical
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-apex-resources-ltd-4427011966|fcc9e9678153cfe4
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-avance-consulting-4398104755|936ba7da8baa2c39
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-deciphex-4412730939|fa0aeba4ab896e95
-https://uk.linkedin.com/jobs/view/software-test-engineer-at-desol-tech-4433298280|671e7de5a9392023
+https://uk.linkedin.com/jobs/view/software-test-engineer-at-desol-tech-4433298280|928a1b1cbf162a42
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-empresaria-group-plc-4386833646|e23c361890815055
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-empresaria-group-plc-4415779988|39218efd035627a5
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-etl-systems-4413625413|b8bd83832f606a29
