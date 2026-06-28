@@ -539,7 +539,7 @@ https://uk.linkedin.com/jobs/view/multiple-automation-developers-at-mrj-recruitm
 https://uk.linkedin.com/jobs/view/net-automation-tester-at-hackajob-4423209335|85b1d1f3845579b2
 https://uk.linkedin.com/jobs/view/net-automation-tester-at-solirius-reply-4408377478|5de018c93054ef16
 https://uk.linkedin.com/jobs/view/network-automation-engineer-at-haystack-4416051619|5f18b4bfbe978a9c
-https://uk.linkedin.com/jobs/view/network-automation-engineer-pharmaceutical-at-alquest-technical-recruitment-4434268892|d132df3e2004d668
+https://uk.linkedin.com/jobs/view/network-automation-engineer-pharmaceutical-at-alquest-technical-recruitment-4434268892|78e070a30a87e2bb
 https://uk.linkedin.com/jobs/view/network-performance-qa-validation-network-test-engineer-telco-at-hunter-bond-4418396761|aab855b1a8aae2d0
 https://uk.linkedin.com/jobs/view/new-job-georgia-test-at-bath-north-east-somerset-council-4339834532|63bf12faadc62aaf
 https://uk.linkedin.com/jobs/view/new-test-at-healthnet-homecare-uk-ltd-4399581182|27ca8137d2ca7deb
@@ -550,6 +550,7 @@ https://uk.linkedin.com/jobs/view/non-functional-test-manager-at-institute-of-co
 https://uk.linkedin.com/jobs/view/non-functional-tester-performance-accessibility-at-cognizant-4425410385|0174d2cfa90a0c19
 https://uk.linkedin.com/jobs/view/offensive-security-tester-at-hackajob-4321452018|42eb01360b963bb5
 https://uk.linkedin.com/jobs/view/operational-test-engineer-at-hackajob-4415414883|88488f82be922ad9
+https://uk.linkedin.com/jobs/view/oracle-fusion-test-analyst-financials-at-talenthawk-4433629162|445e3e47fe6e24f9
 https://uk.linkedin.com/jobs/view/pat-tester-at-ecs-ltd-4329895656|4681d398c2c71711
 https://uk.linkedin.com/jobs/view/pat-tester-portable-appliance-tester-at-norwood-electrical-uk-ltd-4373217113|ce4e3379c8ce3353
 https://uk.linkedin.com/jobs/view/pc-game-qa-tester-unity-steam-at-tink-team-ltd-4400944643|ca0824a75f7f4821
@@ -1575,7 +1576,7 @@ https://uk.talent.com/view?id=603602942247048461&trigger_from=related_jobs|280de
 https://uk.talent.com/view?id=603602977709561101|24621b6bb1bac8f7
 https://uk.talent.com/view?id=603602985996588301|4123df87c39ff6ac
 https://uk.talent.com/view?id=603826057349436685|966b947f7bd71973
-https://uk.talent.com/view?id=603832131218774432|19f71beba9694c36
+https://uk.talent.com/view?id=603832131218774432|5645a83fd94ded0b
 https://uk.talent.com/view?id=603979881396836792|a570c1f6b46fd5fb
 https://uk.talent.com/view?id=604339196162482105|d19fe1994d84e99c
 https://uk.talent.com/view?id=604444402780021045|ca19f4db735a53ac
@@ -2202,7 +2203,7 @@ https://www.s1jobs.com/job/automation-test-engineer-finance-trading-126120952|45
 https://www.s1jobs.com/job/lead-qa-tester-126180217|d5f42936139f8384
 https://www.s1jobs.com/job/senior-ai-automation-engineer-test-lead-126146833|1d5f7af693219f1f
 https://www.s1jobs.com/job/senior-medical-device-qa-engineer-regulatory-quality-126196837|0a33fa6055c0c165
-https://www.s1jobs.com/job/senior-product-test-engineer-electronics-127035742|8e87cdaf6f2ca542
+https://www.s1jobs.com/job/senior-product-test-engineer-electronics-127035742|93cebaecf1923382
 https://www.s1jobs.com/job/senior-test-automation-engineer-healthcare-platform-126121086|15bce13f0f4c4c2e
 https://www.s1jobs.com/job/test-engineer-level-2-126832622|503b3bf7bb32fae7
 https://www.securityclearedjobs.com/job/802067479/manufacturing-test-engineer/|a4648775d19b6a5e
