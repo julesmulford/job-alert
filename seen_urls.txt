@@ -461,7 +461,7 @@ https://uk.linkedin.com/jobs/view/ftc-test-automation-engineer-at-pentenamio-434
 https://uk.linkedin.com/jobs/view/functional-automation-test-engineer-at-hackajob-4403310428|e64f4196c1e065ab
 https://uk.linkedin.com/jobs/view/functional-test-engineer-at-oho-group-4417894128|689fc3f29174cae3
 https://uk.linkedin.com/jobs/view/functional-tester-at-ibm-4421154207|c80537f178eb3fb3
-https://uk.linkedin.com/jobs/view/functional-tester-at-qualient-technology-solutions-uk-limited-4433695580|3dff85a1e17d1b1d
+https://uk.linkedin.com/jobs/view/functional-tester-at-qualient-technology-solutions-uk-limited-4433695580|a9fe4241caded72f
 https://uk.linkedin.com/jobs/view/game-qa-tester-$14-hr-remote-at-crossing-hurdles-4424648569?position=3&pageNum=0&refId=0ePnrgSpQC6l3iTXHkeoHQ==&trackingId=eroR9X5SZ9mu89wdYxPrQQ==|c51cca15e0e1c9c8
 https://uk.linkedin.com/jobs/view/game-tester-at-fetchjobs-co-4427273646|3f39afb33fd361ac
 https://uk.linkedin.com/jobs/view/global-marketing-automation-architect-at-perkinelmer-4386174412|410467b52ddfc20e
@@ -713,7 +713,7 @@ https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4339450297|0f26
 https://uk.linkedin.com/jobs/view/qa-tester-unity-mobile-game-at-jobgether-4400709199|2e2f0cd35b07cb55
 https://uk.linkedin.com/jobs/view/qa-testing-engineer-fintech-saas-game-changer-hybrid-remote-at-debt-register-4383755794|b44a505fee330a44
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-ampstek-4384246751|1022bad25b4285a0
-https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-cognify-search-4434458544|bfeeb646b9ed24b7
+https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-cognify-search-4434458544|b8084748e8dd5100
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-develop-4383098142|e217092a148c1aa0
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-evantis-recruitment-4393575277|4aac89e1cad69c55
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-ixceed-solutions-4380935594|334482ced3da8b6f
@@ -862,7 +862,7 @@ https://uk.linkedin.com/jobs/view/senior-ip-test-engineer-at-hays-4403464299|b8f
 https://uk.linkedin.com/jobs/view/senior-manual-qa-engineer-at-maxwell-bond-4400408343|b1980a2592db392a
 https://uk.linkedin.com/jobs/view/senior-manufacturing-test-engineer-at-siemens-4329866510|1c4ef1fe4696bb05
 https://uk.linkedin.com/jobs/view/senior-mobile-automation-tester-at-w3global-4342763594|8e182b4bd9741edf
-https://uk.linkedin.com/jobs/view/senior-pa-qa-engineer-at-alten-4431085959|e4446ebac81082cc
+https://uk.linkedin.com/jobs/view/senior-pa-qa-engineer-at-alten-4431085959|56bad4b928528c72
 https://uk.linkedin.com/jobs/view/senior-peoplesoft-automation-test-engineer-at-datamatics-4425499875?position=45&pageNum=0&refId=UJLqIk5vzBgEX1llKatkIw==&trackingId=hmRAiuofiEniSAsqQjcrKA==|85a2501a6c0c22b2
 https://uk.linkedin.com/jobs/view/senior-performance-test-engineer-at-nfu-mutual-4430299738|e5b88b3b9b443d59
 https://uk.linkedin.com/jobs/view/senior-product-test-design-engineer-at-raytheon-uk-4409777971|f68b00ba188c66ed
@@ -925,6 +925,7 @@ https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-formula-4
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-gravitas-recruitment-group-global-ltd-4381709384|1c87717a8eb0c52f
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-mhr-4379900477|ad9a2b02e1b5eaf6
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-spacelabs-healthcare-4370274131|2cff467bf705948c
+https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-lead-at-eteam-4434448493|4a610205c4edc845
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-specialist-at-arevna-4387985166|bf234fdf1ef2df61
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-specialist-at-mk-construction-4351150776|e57bb5a7570ed48f
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-tester-at-activ8-tech-recruitment-4379270830|52f4426a02eabec0
@@ -1078,7 +1079,7 @@ https://uk.linkedin.com/jobs/view/site-electrical-testing-engineer-at-baker-hard
 https://uk.linkedin.com/jobs/view/software-and-systems-test-coordination-engineer-at-tiptopjob-4418646153|c9d2c307bde5641b
 https://uk.linkedin.com/jobs/view/software-and-test-engineer-apprenticeships-it-dwp-digital-studentjob-co-uk-at-jobster-4390780909|8e4651472481a254
 https://uk.linkedin.com/jobs/view/software-automation-engineer-at-owen-daniels-4348882795|4484d7689910b096
-https://uk.linkedin.com/jobs/view/software-developer-in-test-sdet-at-milltech-4431508318|6415f0553e0062e6
+https://uk.linkedin.com/jobs/view/software-developer-in-test-sdet-at-milltech-4431508318|a807ea441ed088f7
 https://uk.linkedin.com/jobs/view/software-developer-in-test-uk-security-clearance-eligibility-required-at-appvia-4402944708|c43e42445b902d7f
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-at-mlabs-4421692539|52b625919f600022
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-at-royal-london-4375868118|c772565f1d25218b
@@ -1188,7 +1189,7 @@ https://uk.linkedin.com/jobs/view/system-integration-test-engineer-senior-system
 https://uk.linkedin.com/jobs/view/system-test-at-cb-i-asset-solutions-4418937434|bd9849814a1c2183
 https://uk.linkedin.com/jobs/view/system-test-engineer-at-hackajob-4406661203|1167447efb3c0b46
 https://uk.linkedin.com/jobs/view/system-test-engineer-at-intellian-technologies-4365363875|beb09c23d3448ecd
-https://uk.linkedin.com/jobs/view/system-test-engineer-at-lancesoft-uk-4433668058|e5d8b604087dec5c
+https://uk.linkedin.com/jobs/view/system-test-engineer-at-lancesoft-uk-4433668058|88bada273a832844
 https://uk.linkedin.com/jobs/view/system-test-engineer-at-machnet-medical-robotics-4403878774|368ce51efe1b0a63
 https://uk.linkedin.com/jobs/view/system-test-engineer-at-necessary-ventures-4428576485|d956a725bc0f8afa
 https://uk.linkedin.com/jobs/view/system-test-engineer-at-peregrine-4389223784|0147840244e992fa
