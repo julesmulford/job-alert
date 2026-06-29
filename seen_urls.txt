@@ -400,6 +400,7 @@ https://uk.linkedin.com/jobs/view/consultant-senior-consultant-software-developm
 https://uk.linkedin.com/jobs/view/content-tester-shipit-at-shipit-4346291657|266049a624aab948
 https://uk.linkedin.com/jobs/view/contract-automation-tester-at-inspired-thinking-group-itg-4372255067|980033d40ba3a74b
 https://uk.linkedin.com/jobs/view/contract-role-automation-architect-web-mobile-testing-at-infodigix-4413875556|2d6bcbd9cece1e1f
+https://uk.linkedin.com/jobs/view/controls-and-automation-engineer-at-skin-+-me-4434269843|3fbc6fa458edbfeb
 https://uk.linkedin.com/jobs/view/controls-and-automation-engineer-at-tiptopjob-4409824848|2e7d183c1427e24e
 https://uk.linkedin.com/jobs/view/controls-and-automation-engineer-at-tiptopjob-4418692625|c8c9f76a1ea1677f
 https://uk.linkedin.com/jobs/view/controls-and-automation-engineer-at-yeo-valley-organic-4380018521|bb2817f0bfcd0a60
@@ -539,7 +540,7 @@ https://uk.linkedin.com/jobs/view/multiple-automation-developers-at-mrj-recruitm
 https://uk.linkedin.com/jobs/view/net-automation-tester-at-hackajob-4423209335|85b1d1f3845579b2
 https://uk.linkedin.com/jobs/view/net-automation-tester-at-solirius-reply-4408377478|5de018c93054ef16
 https://uk.linkedin.com/jobs/view/network-automation-engineer-at-haystack-4416051619|5f18b4bfbe978a9c
-https://uk.linkedin.com/jobs/view/network-automation-engineer-pharmaceutical-at-alquest-technical-recruitment-4434268892|6d4c2a8fa2e2d14b
+https://uk.linkedin.com/jobs/view/network-automation-engineer-pharmaceutical-at-alquest-technical-recruitment-4434268892|ed01534953153ccc
 https://uk.linkedin.com/jobs/view/network-performance-qa-validation-network-test-engineer-telco-at-hunter-bond-4418396761|aab855b1a8aae2d0
 https://uk.linkedin.com/jobs/view/new-job-georgia-test-at-bath-north-east-somerset-council-4339834532|63bf12faadc62aaf
 https://uk.linkedin.com/jobs/view/new-test-at-healthnet-homecare-uk-ltd-4399581182|27ca8137d2ca7deb
@@ -550,7 +551,7 @@ https://uk.linkedin.com/jobs/view/non-functional-test-manager-at-institute-of-co
 https://uk.linkedin.com/jobs/view/non-functional-tester-performance-accessibility-at-cognizant-4425410385|0174d2cfa90a0c19
 https://uk.linkedin.com/jobs/view/offensive-security-tester-at-hackajob-4321452018|42eb01360b963bb5
 https://uk.linkedin.com/jobs/view/operational-test-engineer-at-hackajob-4415414883|88488f82be922ad9
-https://uk.linkedin.com/jobs/view/oracle-fusion-test-analyst-financials-at-talenthawk-4433629162|99a208c08876b754
+https://uk.linkedin.com/jobs/view/oracle-fusion-test-analyst-financials-at-talenthawk-4433629162|7ae01627914df16e
 https://uk.linkedin.com/jobs/view/pat-tester-at-ecs-ltd-4329895656|4681d398c2c71711
 https://uk.linkedin.com/jobs/view/pat-tester-portable-appliance-tester-at-norwood-electrical-uk-ltd-4373217113|ce4e3379c8ce3353
 https://uk.linkedin.com/jobs/view/pc-game-qa-tester-unity-steam-at-tink-team-ltd-4400944643|ca0824a75f7f4821
@@ -1553,7 +1554,7 @@ https://uk.talent.com/view?id=5d5f71d41c35|f3c7f346cb4794bf
 https://uk.talent.com/view?id=5ed64925b112|96e79a4beb459d5b
 https://uk.talent.com/view?id=600745603667071192|3f6a17ce5a6e3010
 https://uk.talent.com/view?id=600992982614085848|b58096406172a42b
-https://uk.talent.com/view?id=602335994439609245|e45982a62369ffc3
+https://uk.talent.com/view?id=602335994439609245|a3635b0cfa1c5082
 https://uk.talent.com/view?id=602336023529794461|478d4bc4e0fa73c3
 https://uk.talent.com/view?id=602336026176136076|341e6754db79f8a0
 https://uk.talent.com/view?id=602336042130482060|1258fc0a2a44370f
@@ -1564,7 +1565,7 @@ https://uk.talent.com/view?id=602336078723951137|61a7468781fa9466
 https://uk.talent.com/view?id=602336082046036513|7e358a6420509edf
 https://uk.talent.com/view?id=602336295166280151|6c4f0dd8ca793c0b
 https://uk.talent.com/view?id=602336302589346263|72152d86da2c97a1
-https://uk.talent.com/view?id=602336302800699863|44e1d7c04819e27e
+https://uk.talent.com/view?id=602336302800699863|4bd2ee5b5a9efd33
 https://uk.talent.com/view?id=602336322643493335|8f2e31e199958a1f
 https://uk.talent.com/view?id=602336338233724637|535f4654868f4faa
 https://uk.talent.com/view?id=602338181671619703|c1462b5f038d0e35
@@ -1577,13 +1578,14 @@ https://uk.talent.com/view?id=603602942247048461&trigger_from=related_jobs|280de
 https://uk.talent.com/view?id=603602977709561101|24621b6bb1bac8f7
 https://uk.talent.com/view?id=603602985996588301|4123df87c39ff6ac
 https://uk.talent.com/view?id=603826057349436685|966b947f7bd71973
-https://uk.talent.com/view?id=603832131218774432|1b9b55fa112045db
+https://uk.talent.com/view?id=603832131218774432|e9d1db78f6702e07
 https://uk.talent.com/view?id=603979881396836792|a570c1f6b46fd5fb
 https://uk.talent.com/view?id=604339196162482105|d19fe1994d84e99c
 https://uk.talent.com/view?id=604444402780021045|ca19f4db735a53ac
 https://uk.talent.com/view?id=604691814964932317|a74a2a85be90adee
 https://uk.talent.com/view?id=605134143504658141|9e4061fe057e187a
 https://uk.talent.com/view?id=605304202241385396|7851aa61fe24e12a
+https://uk.talent.com/view?id=605331900961399359|438c0ddf80ad2db5
 https://uk.talent.com/view?id=605432227963481452|d03540a98f35693d
 https://uk.talent.com/view?id=605833490624744773|9d6c1d78b831240a
 https://uk.talent.com/view?id=605856645780540741|a5dcff490b25a5f9
