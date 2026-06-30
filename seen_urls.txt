@@ -296,6 +296,7 @@ https://uk.linkedin.com/jobs/view/applied-automation-engineer-at-harnham-4400096
 https://uk.linkedin.com/jobs/view/apprenticeship-test-engineer-at-hitachi-energy-4330273429|37ef82a6d852bea4
 https://uk.linkedin.com/jobs/view/assistant-test-engineer-at-siemens-4396317707?position=13&pageNum=0&refId=sH0wZmJdHabqiH8wQQhtOw==&trackingId=Fm4unGrUoI8d2na7Gv32lA==|6cc6f6b13eaf8034
 https://uk.linkedin.com/jobs/view/automated-systems-tester-at-worknest-people-4371790414|89d5b8e3f938b093
+https://uk.linkedin.com/jobs/view/automated-test-developer-sdet-at-cognizant-4434439910|1a42a57cb97bcf84
 https://uk.linkedin.com/jobs/view/automation-and-ai-architect-at-intercity-4415150674|4b50a20db76973aa
 https://uk.linkedin.com/jobs/view/automation-architect-at-bdo-uk-4375119945|e3b0c7403c65a26a
 https://uk.linkedin.com/jobs/view/automation-assurance-engineer-at-stealth-it-consulting-4362293929|11b1021a6fb23b28
@@ -332,6 +333,7 @@ https://uk.linkedin.com/jobs/view/automation-engineer-at-perimeter-automation-43
 https://uk.linkedin.com/jobs/view/automation-engineer-at-premier-foods-4390609811|2350288d3f2113a5
 https://uk.linkedin.com/jobs/view/automation-engineer-at-self-employed-4343378556|4e47adf5a3a804db
 https://uk.linkedin.com/jobs/view/automation-engineer-at-the-craneware-group-4354226833|a25d55e039f7afb9
+https://uk.linkedin.com/jobs/view/automation-engineer-at-us-tech-solutions-4431083196|700ad199f8da6d57
 https://uk.linkedin.com/jobs/view/automation-engineer-at-valeo-foods-uk-4390772722|e2011cf43ebc1ba8
 https://uk.linkedin.com/jobs/view/automation-engineer-at-wipro-4371960811|2da1f86f41404c7b
 https://uk.linkedin.com/jobs/view/automation-engineer-at-wynne-consulting-4390135343|da5bc5f7f1a00750
@@ -461,7 +463,7 @@ https://uk.linkedin.com/jobs/view/ftc-test-automation-engineer-at-pentenamio-434
 https://uk.linkedin.com/jobs/view/functional-automation-test-engineer-at-hackajob-4403310428|e64f4196c1e065ab
 https://uk.linkedin.com/jobs/view/functional-test-engineer-at-oho-group-4417894128|689fc3f29174cae3
 https://uk.linkedin.com/jobs/view/functional-tester-at-ibm-4421154207|c80537f178eb3fb3
-https://uk.linkedin.com/jobs/view/functional-tester-at-qualient-technology-solutions-uk-limited-4433695580|8b4abf90d4a3dcef
+https://uk.linkedin.com/jobs/view/functional-tester-at-qualient-technology-solutions-uk-limited-4433695580|efcaeeb1c2637538
 https://uk.linkedin.com/jobs/view/game-qa-tester-$14-hr-remote-at-crossing-hurdles-4424648569?position=3&pageNum=0&refId=0ePnrgSpQC6l3iTXHkeoHQ==&trackingId=eroR9X5SZ9mu89wdYxPrQQ==|c51cca15e0e1c9c8
 https://uk.linkedin.com/jobs/view/game-tester-at-fetchjobs-co-4427273646|3f39afb33fd361ac
 https://uk.linkedin.com/jobs/view/global-marketing-automation-architect-at-perkinelmer-4386174412|410467b52ddfc20e
@@ -754,6 +756,7 @@ https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-inara-4401350569|4
 https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-pocket-sized-hands-4373947227|37c285d6c03d7f06
 https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-skillspree-4349846037|6059d533c654b364
 https://uk.linkedin.com/jobs/view/quality-assurance-tester-at-undisclosed-4390148250|fc5beb1d4ae228ff
+https://uk.linkedin.com/jobs/view/quality-automation-engineer-at-anson-mccade-4431083257|e750d61999740170
 https://uk.linkedin.com/jobs/view/quality-automation-engineer-at-hackajob-4325935309|1734bdcf9abd85e8
 https://uk.linkedin.com/jobs/view/quality-automation-engineer-london-at-accenture-uk-ireland-4345023360|2b93a6aa5bd17353
 https://uk.linkedin.com/jobs/view/quality-automation-specialist-at-natwest-group-4377753547|d952c2fd82bad9b4
@@ -862,7 +865,7 @@ https://uk.linkedin.com/jobs/view/senior-ip-test-engineer-at-hays-4403464299|b8f
 https://uk.linkedin.com/jobs/view/senior-manual-qa-engineer-at-maxwell-bond-4400408343|b1980a2592db392a
 https://uk.linkedin.com/jobs/view/senior-manufacturing-test-engineer-at-siemens-4329866510|1c4ef1fe4696bb05
 https://uk.linkedin.com/jobs/view/senior-mobile-automation-tester-at-w3global-4342763594|8e182b4bd9741edf
-https://uk.linkedin.com/jobs/view/senior-pa-qa-engineer-at-alten-4431085959|d96172111853f110
+https://uk.linkedin.com/jobs/view/senior-pa-qa-engineer-at-alten-4431085959|f5dc5ddb1a885891
 https://uk.linkedin.com/jobs/view/senior-peoplesoft-automation-test-engineer-at-datamatics-4425499875?position=45&pageNum=0&refId=UJLqIk5vzBgEX1llKatkIw==&trackingId=hmRAiuofiEniSAsqQjcrKA==|85a2501a6c0c22b2
 https://uk.linkedin.com/jobs/view/senior-performance-test-engineer-at-nfu-mutual-4430299738|e5b88b3b9b443d59
 https://uk.linkedin.com/jobs/view/senior-product-test-design-engineer-at-raytheon-uk-4409777971|f68b00ba188c66ed
@@ -917,6 +920,7 @@ https://uk.linkedin.com/jobs/view/senior-quality-assurance-automation-engineer-a
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-3di-information-solutions-ltd-4403742930|43d41eb00c6d20fc
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-albaco-ltd-4421683081|15c1a36e6847d2fc
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-albert-bow-4363978540|8df2713dc2dfb908
+https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-albert-bow-4431074376|a319f8dccd73356e
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-babcock-international-group-4426430306|c02c6d7bb88d1b98
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-bae-systems-4424164005|2a785b53a56b36fc
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-digital-waffle-4426102089|60581d025f17b764
@@ -925,7 +929,7 @@ https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-formula-4
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-gravitas-recruitment-group-global-ltd-4381709384|1c87717a8eb0c52f
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-mhr-4379900477|ad9a2b02e1b5eaf6
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-spacelabs-healthcare-4370274131|2cff467bf705948c
-https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-lead-at-eteam-4434448493|ffc7f38dae4c7030
+https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-lead-at-eteam-4434448493|4112a9917e754ab8
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-specialist-at-arevna-4387985166|bf234fdf1ef2df61
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-specialist-at-mk-construction-4351150776|e57bb5a7570ed48f
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-tester-at-activ8-tech-recruitment-4379270830|52f4426a02eabec0
@@ -1079,7 +1083,7 @@ https://uk.linkedin.com/jobs/view/site-electrical-testing-engineer-at-baker-hard
 https://uk.linkedin.com/jobs/view/software-and-systems-test-coordination-engineer-at-tiptopjob-4418646153|c9d2c307bde5641b
 https://uk.linkedin.com/jobs/view/software-and-test-engineer-apprenticeships-it-dwp-digital-studentjob-co-uk-at-jobster-4390780909|8e4651472481a254
 https://uk.linkedin.com/jobs/view/software-automation-engineer-at-owen-daniels-4348882795|4484d7689910b096
-https://uk.linkedin.com/jobs/view/software-developer-in-test-sdet-at-milltech-4431508318|0f4c5e493d00f448
+https://uk.linkedin.com/jobs/view/software-developer-in-test-sdet-at-milltech-4431508318|11670418d9a8f472
 https://uk.linkedin.com/jobs/view/software-developer-in-test-uk-security-clearance-eligibility-required-at-appvia-4402944708|c43e42445b902d7f
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-at-mlabs-4421692539|52b625919f600022
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-at-royal-london-4375868118|c772565f1d25218b
@@ -1189,7 +1193,7 @@ https://uk.linkedin.com/jobs/view/system-integration-test-engineer-senior-system
 https://uk.linkedin.com/jobs/view/system-test-at-cb-i-asset-solutions-4418937434|bd9849814a1c2183
 https://uk.linkedin.com/jobs/view/system-test-engineer-at-hackajob-4406661203|1167447efb3c0b46
 https://uk.linkedin.com/jobs/view/system-test-engineer-at-intellian-technologies-4365363875|beb09c23d3448ecd
-https://uk.linkedin.com/jobs/view/system-test-engineer-at-lancesoft-uk-4433668058|b314aa15bb7b2620
+https://uk.linkedin.com/jobs/view/system-test-engineer-at-lancesoft-uk-4433668058|a905a5b4d217b5e8
 https://uk.linkedin.com/jobs/view/system-test-engineer-at-machnet-medical-robotics-4403878774|368ce51efe1b0a63
 https://uk.linkedin.com/jobs/view/system-test-engineer-at-necessary-ventures-4428576485|d956a725bc0f8afa
 https://uk.linkedin.com/jobs/view/system-test-engineer-at-peregrine-4389223784|0147840244e992fa
