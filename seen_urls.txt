@@ -353,7 +353,7 @@ https://uk.linkedin.com/jobs/view/automation-qa-engineer-intern-testcomplete-stu
 https://uk.linkedin.com/jobs/view/automation-qa-engineer-oracle-at-coinmarketcap-4345425426|116430409b16195c
 https://uk.linkedin.com/jobs/view/automation-software-tester-at-vantify-4429945430|4f688e2a18c8c162
 https://uk.linkedin.com/jobs/view/automation-specialist-at-hcltech-4400420328|37f0bdbfde007294
-https://uk.linkedin.com/jobs/view/automation-test-analyst-at-bmc-recruitment-group-4434983343|764183a57d545ff7
+https://uk.linkedin.com/jobs/view/automation-test-analyst-at-bmc-recruitment-group-4434983343|819ef29cbfec5544
 https://uk.linkedin.com/jobs/view/automation-test-analyst-at-eden-scott-4361848575|61998bda0aba44b1
 https://uk.linkedin.com/jobs/view/automation-test-analyst-at-paritas-recruitment-4355906380|0feb98c60da0f27c
 https://uk.linkedin.com/jobs/view/automation-test-analyst-at-paritas-recruitment-4399017529|9d180428d33837c1
@@ -366,7 +366,7 @@ https://uk.linkedin.com/jobs/view/automation-test-engineer-at-amber-labs-4369132
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-cgi-4378007828|e856eaa8afe68fda
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-coltech-4417209552|2368351fadae1ab5
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-datacareers-4375233527|034a4c90424033e5
-https://uk.linkedin.com/jobs/view/automation-test-engineer-at-infinity-quest-4435171009|5a9043ea0aabe76e
+https://uk.linkedin.com/jobs/view/automation-test-engineer-at-infinity-quest-4435171009|4e805ab9d5537daf
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-natobotics-4325826061|71c11201427e433c
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-qualient-technology-solutions-uk-limited-4431209722|620ff544e59d5df4
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-test-yantra-4346084735|47fff4f0e57ef1b0
@@ -539,7 +539,7 @@ https://uk.linkedin.com/jobs/view/mechanical-test-technician-at-aqumen-recruitme
 https://uk.linkedin.com/jobs/view/microservices-test-engineer-at-inoverse-groupe-4342509830|9b57414df6d0e4a8
 https://uk.linkedin.com/jobs/view/mid-level-qa-engineer-at-hackajob-4378288958|d2a6aa11950a0bfc
 https://uk.linkedin.com/jobs/view/mid-level-sdet-at-insight-global-4391894033|5971fb8d58f425f3
-https://uk.linkedin.com/jobs/view/mobile-automation-test-engineer-at-solirius-reply-4434310722|d1e3d42a8b04063d
+https://uk.linkedin.com/jobs/view/mobile-automation-test-engineer-at-solirius-reply-4434310722|00630188dff58a74
 https://uk.linkedin.com/jobs/view/mobile-qa-engineer-at-leo-club-maastricht-4343199676|fc2cf7916d082ecf
 https://uk.linkedin.com/jobs/view/mot-tester-at-peoples-ford-4406829537|d6f61aeddeb4eef5
 https://uk.linkedin.com/jobs/view/mot-tester-at-the-test-centre-i-nothing-but-mots-4397741155|3ae54c1010ce688d
@@ -653,6 +653,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-at-robert-walters-4365270219|5f0c9
 https://uk.linkedin.com/jobs/view/qa-engineer-at-softcat-4362643513|3c7c5b4082189194
 https://uk.linkedin.com/jobs/view/qa-engineer-at-spectrum-it-recruitment-4404436400|fef8f7911f69228c
 https://uk.linkedin.com/jobs/view/qa-engineer-at-sphere-solutions-4399301907|53e40509e7f31248
+https://uk.linkedin.com/jobs/view/qa-engineer-at-team-creation-4435175191|fe9e3b5bb633faa4
 https://uk.linkedin.com/jobs/view/qa-engineer-at-tilo-consulting-4429566074|51e6d5e71fb6ece5
 https://uk.linkedin.com/jobs/view/qa-engineer-at-track24-4329964964|e6c5aaea37e21a83
 https://uk.linkedin.com/jobs/view/qa-engineer-at-trakd-4432295792|ca166a3b415953f4
@@ -870,7 +871,7 @@ https://uk.linkedin.com/jobs/view/senior-ip-test-engineer-at-hays-4403464299|b8f
 https://uk.linkedin.com/jobs/view/senior-manual-qa-engineer-at-maxwell-bond-4400408343|b1980a2592db392a
 https://uk.linkedin.com/jobs/view/senior-manufacturing-test-engineer-at-siemens-4329866510|1c4ef1fe4696bb05
 https://uk.linkedin.com/jobs/view/senior-mobile-automation-tester-at-w3global-4342763594|8e182b4bd9741edf
-https://uk.linkedin.com/jobs/view/senior-nft-test-engineer-at-barclays-4431981293|9e13acd2dc24a286
+https://uk.linkedin.com/jobs/view/senior-nft-test-engineer-at-barclays-4431981293|43f994ee8ce17290
 https://uk.linkedin.com/jobs/view/senior-pa-qa-engineer-at-alten-4431085959|f5dc5ddb1a885891
 https://uk.linkedin.com/jobs/view/senior-peoplesoft-automation-test-engineer-at-datamatics-4425499875?position=45&pageNum=0&refId=UJLqIk5vzBgEX1llKatkIw==&trackingId=hmRAiuofiEniSAsqQjcrKA==|85a2501a6c0c22b2
 https://uk.linkedin.com/jobs/view/senior-performance-test-engineer-at-nfu-mutual-4430299738|e5b88b3b9b443d59
@@ -915,7 +916,7 @@ https://uk.linkedin.com/jobs/view/senior-qa-engineer-python-test-automation-at-c
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-sports-tech-at-client-server-4373959823|116690d5469e89a1
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-sportsbook-at-sportserve-4369230284|b275f81d8c191d62
 https://uk.linkedin.com/jobs/view/senior-qa-manual-tester-at-maxwell-bond-4395077129|cfcdd8dca0aa3489
-https://uk.linkedin.com/jobs/view/senior-qa-sdet-at-albert-bow-4431918309|b33e7f10693bd457
+https://uk.linkedin.com/jobs/view/senior-qa-sdet-at-albert-bow-4431918309|b128fc515270bab8
 https://uk.linkedin.com/jobs/view/senior-qa-tester-ai-solutions-at-mcs-group-your-specialist-recruitment-consultancy-4427038520|2a16141d702850ef
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-clover-4383203683|2ec63e44caf6ced3
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-department-for-work-and-pensions-dwp-4377369600|5075ddaf7fb53d3e
@@ -991,7 +992,7 @@ https://uk.linkedin.com/jobs/view/senior-system-integration-test-engineer-at-qin
 https://uk.linkedin.com/jobs/view/senior-systems-test-engineer-at-hitachi-energy-4362069282|cfd7ed76f68ab9d8
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-harvey-nash-4430469959|953ec83ceabfbdca
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-head-resourcing-4362221512|c367cc5a22465d8f
-https://uk.linkedin.com/jobs/view/senior-test-analyst-at-infinity-quest-4435171009|d533800e02554162
+https://uk.linkedin.com/jobs/view/senior-test-analyst-at-infinity-quest-4435171009|b5165eedae8a4790
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-premier-group-4342574183|9fc6f65253428ec6
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-recruit-with-purpose-4431707235|0ca599a725593285
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-trust-in-soda-4370200377|ee34b72dfa859b63
@@ -1007,6 +1008,7 @@ https://uk.linkedin.com/jobs/view/senior-test-development-engineer-at-copello-gl
 https://uk.linkedin.com/jobs/view/senior-test-development-engineer-at-cubiq-recruitment-4355330754|07764af454021c0f
 https://uk.linkedin.com/jobs/view/senior-test-development-engineer-at-kaminsky-consulting-4382317048|44948a73a887ebb0
 https://uk.linkedin.com/jobs/view/senior-test-development-engineer-at-morson-talent-4405657098|0f6d937dde2ff73e
+https://uk.linkedin.com/jobs/view/senior-test-engineer-4g-5g-network-at-vallum-associates-4435168630|7c3db0e558fdff7c
 https://uk.linkedin.com/jobs/view/senior-test-engineer-aims-team-at-cox-automotive-europe-4361768359|d020a1d0249dde09
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-1spatial-4340312479|1c3ed75608427f8e
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-a-safe-group-4394697209|a823c18017306a7b
@@ -1050,7 +1052,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-oho-group-4417591820|8
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-opus-recruitment-solutions-4416158972|6568962e93522360
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-platform-recruitment-4353124635|d6451abbc33d4f61
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-public-sector-resourcing-4415520063|a991e8c754b61959
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-queen-square-recruitment-4431919397|6c5788f23a312abd
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-queen-square-recruitment-4431919397|904db5267cdd41f0
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-randstad-digital-4363069521|8b4188bf5d8e63a8
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-raytheon-uk-4400548094|47126127ce304187
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-redtech-recruitment-4363953251|4fc318021a15f295
