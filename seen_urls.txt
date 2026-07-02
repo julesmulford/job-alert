@@ -1375,7 +1375,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-sunamp-4344711208|ff79e30e456
 https://uk.linkedin.com/jobs/view/test-engineer-at-symmetric-recruitment-ltd-4328901592|b9f9869ca4e8a98b
 https://uk.linkedin.com/jobs/view/test-engineer-at-system-c-4325418648|38415537ff2c427d
 https://uk.linkedin.com/jobs/view/test-engineer-at-tact-4340346408|198d7eec60f85fa0
-https://uk.linkedin.com/jobs/view/test-engineer-at-tata-consultancy-services-4435057396|606cccb3e55b1399
+https://uk.linkedin.com/jobs/view/test-engineer-at-tata-consultancy-services-4435057396|0cc5478883c373d0
 https://uk.linkedin.com/jobs/view/test-engineer-at-tiptopjob-4404018338|ae9f344ce54774c3
 https://uk.linkedin.com/jobs/view/test-engineer-at-trant-engineering-limited-4418477239|693e2ea96d850c4c
 https://uk.linkedin.com/jobs/view/test-engineer-at-vitec-4369922259|1d31c925c5da8210
@@ -2200,6 +2200,7 @@ https://www.google.com/url?rct=j&sa=t&url=https://www.totaljobs.com/job/senior-b
 https://www.google.com/url?rct=j&sa=t&url=https://www.totaljobs.com/job/test-engineer/nhs-wales-informatics-services-job106240375&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw1SrmUwT8w1JzrtHxe_beuc|7df77b4c12125d10
 https://www.google.com/url?rct=j&sa=t&url=https://www.waconsultants.com/jobs/embedded-softwaresystems-test-engineer-hybrid-3571/&ct=ga&cd=CAIyHGRkODJmYWNlNzdjZWE3YzU6Y29tOmVuOkdCOlI&usg=AOvVaw2TnhgdjdgBG8yOhW38MxfK|c79988a546822281
 https://www.healthjobsuk.com/job/UK/London/Manchester/Health_Research_Authority/Senior_Test_Engineer/Senior_Test_Engineer-v7925658|ef5414f4e3661b8a
+https://www.hyperec.com/jobs/senior-automation-engineer-15690/|978252d3be901f7c
 https://www.irishnews.com/news/business/county-derry-energy-solutions-business-powers-growth-KIVDSQ6HFJAQRAZTMWPGN4X3TQ/|6a683f56d7f1a85a
 https://www.jobserve.com/gb/en/JobListing.aspx?shid=F2BF1CC59F2D179A8DA4|241902bbeb2f5a67
 https://www.jobserve.com/gb/en/find-jobs-in-United-Kingdom/TRAINEE-QA-ENGINEER-A8C64A7CDD63DF5C85/|0f71a68a2f4fba3b
