@@ -978,7 +978,7 @@ https://uk.linkedin.com/jobs/view/senior-software-qa-test-development-engineer-a
 https://uk.linkedin.com/jobs/view/senior-software-qa-test-development-engineer-senior-software-qa-test-development-engineer-at-nvidia-4377419275|851f63840f51a922
 https://uk.linkedin.com/jobs/view/senior-software-quality-assurance-engineer-at-eden-scott-4353716476|1dc2bbd9dde11aed
 https://uk.linkedin.com/jobs/view/senior-software-quality-assurance-engineer-at-ipro-suite-4405659876|7fcd5bdbd9a7e959
-https://uk.linkedin.com/jobs/view/senior-software-quality-engineer-saas-at-jobgether-4435215600|53208ab09fbc6b2c
+https://uk.linkedin.com/jobs/view/senior-software-quality-engineer-saas-at-jobgether-4435215600|ab1b3fcf9bb34df4
 https://uk.linkedin.com/jobs/view/senior-software-system-test-engineer-validation-verification-at-jlr-4375718319|ba14c5d6559ad10f
 https://uk.linkedin.com/jobs/view/senior-software-test-automation-engineer-at-scg-midlands-4327114543|077577d78963813c
 https://uk.linkedin.com/jobs/view/senior-software-test-automation-engineer-selenium-and-playwright-at-fairfield-consultancy-services-limited-uk-4402867082|afc1ca402c58e5ec
@@ -990,7 +990,7 @@ https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-hackajob-4329
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-hackajob-4390741828|1a1c88004d854942
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-national-physical-laboratory-npl-4426987829|d47880b811a9a4b2
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-synergize-consulting-4348876811|e4f77cf02e1ac09e
-https://uk.linkedin.com/jobs/view/senior-software-test-engineer-m-w-d-at-roche-4436361762|263fa34652602990
+https://uk.linkedin.com/jobs/view/senior-software-test-engineer-m-w-d-at-roche-4436361762|ca297861a1ecdb86
 https://uk.linkedin.com/jobs/view/senior-software-tester-at-digital-waffle-4426089245|193b87075886d12b
 https://uk.linkedin.com/jobs/view/senior-software-tester-at-haystack-4400288610|639e2d7b7a2225e3
 https://uk.linkedin.com/jobs/view/senior-software-tester-at-srt-marine-systems-plc-4382125455|7eada4966dd022db
@@ -1148,7 +1148,7 @@ https://uk.linkedin.com/jobs/view/software-test-engineer-at-avance-consulting-43
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-cranmore-4435309668|2ab25bc427e136b8
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-deciphex-4412730939|fa0aeba4ab896e95
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-desol-tech-4433298280|0370af8565ec8530
-https://uk.linkedin.com/jobs/view/software-test-engineer-at-electus-recruitment-solutions-4436338899|850d798e56158ddb
+https://uk.linkedin.com/jobs/view/software-test-engineer-at-electus-recruitment-solutions-4436338899|e77d5cb7cf7fc840
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-empresaria-group-plc-4386833646|e23c361890815055
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-empresaria-group-plc-4415779988|39218efd035627a5
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-etl-systems-4413625413|b8bd83832f606a29
@@ -1278,7 +1278,7 @@ https://uk.linkedin.com/jobs/view/test-automation-specialist-at-coforge-43895829
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-infinity-quest-4435123709|18c8baa95815dd40
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-opus-recruitment-solutions-4430382836|2adab9748fca202d
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-response-informatics-4435570557|6339fb389d17ad80
-https://uk.linkedin.com/jobs/view/test-automation-specialist-at-sparta-global-4433111012|80bdb48315fccb2c
+https://uk.linkedin.com/jobs/view/test-automation-specialist-at-sparta-global-4433111012|09f0e70a73cffa6d
 https://uk.linkedin.com/jobs/view/test-data-specialist-remote-at-taskify-ai-4338525459|c0d854d4514e033f
 https://uk.linkedin.com/jobs/view/test-development-engineer-at-concurrent-4400631889|323b7884d57e9084
 https://uk.linkedin.com/jobs/view/test-development-engineer-at-ic-resources-4428602164|395a033122d801a4
@@ -1379,8 +1379,8 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-sunamp-4344711208|ff79e30e456
 https://uk.linkedin.com/jobs/view/test-engineer-at-symmetric-recruitment-ltd-4328901592|b9f9869ca4e8a98b
 https://uk.linkedin.com/jobs/view/test-engineer-at-system-c-4325418648|38415537ff2c427d
 https://uk.linkedin.com/jobs/view/test-engineer-at-tact-4340346408|198d7eec60f85fa0
-https://uk.linkedin.com/jobs/view/test-engineer-at-tata-consultancy-services-4435057396|a1c83f8fe3cbc28e
-https://uk.linkedin.com/jobs/view/test-engineer-at-test-4436300993|48eeefe982558dab
+https://uk.linkedin.com/jobs/view/test-engineer-at-tata-consultancy-services-4435057396|5f1addc14058ff5b
+https://uk.linkedin.com/jobs/view/test-engineer-at-test-4436300993|2e7356d272a8aca3
 https://uk.linkedin.com/jobs/view/test-engineer-at-tiptopjob-4404018338|ae9f344ce54774c3
 https://uk.linkedin.com/jobs/view/test-engineer-at-trant-engineering-limited-4418477239|693e2ea96d850c4c
 https://uk.linkedin.com/jobs/view/test-engineer-at-vitec-4369922259|1d31c925c5da8210
