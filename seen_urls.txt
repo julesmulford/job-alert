@@ -296,8 +296,8 @@ https://uk.linkedin.com/jobs/view/applied-ai-automation-engineer-at-institute-of
 https://uk.linkedin.com/jobs/view/applied-automation-engineer-at-harnham-4400096973|819b06ad7c451cce
 https://uk.linkedin.com/jobs/view/apprenticeship-test-engineer-at-hitachi-energy-4330273429|37ef82a6d852bea4
 https://uk.linkedin.com/jobs/view/assistant-test-engineer-at-siemens-4396317707?position=13&pageNum=0&refId=sH0wZmJdHabqiH8wQQhtOw==&trackingId=Fm4unGrUoI8d2na7Gv32lA==|6cc6f6b13eaf8034
-https://uk.linkedin.com/jobs/view/automated-qa-engineer-ai-trainer-at-chatgpt-jobs-4433750852|02a61c8e12ba864e
-https://uk.linkedin.com/jobs/view/automated-qa-engineer-ai-trainer-at-chatgpt-jobs-4433770036|31b99744038b8d80
+https://uk.linkedin.com/jobs/view/automated-qa-engineer-ai-trainer-at-chatgpt-jobs-4433750852|9153f153cf7be01c
+https://uk.linkedin.com/jobs/view/automated-qa-engineer-ai-trainer-at-chatgpt-jobs-4433770036|5e1f5845aebfe0f9
 https://uk.linkedin.com/jobs/view/automated-systems-tester-at-worknest-people-4371790414|89d5b8e3f938b093
 https://uk.linkedin.com/jobs/view/automated-test-developer-sdet-at-cognizant-4434439910|1a42a57cb97bcf84
 https://uk.linkedin.com/jobs/view/automation-and-ai-architect-at-intercity-4415150674|4b50a20db76973aa
@@ -436,7 +436,7 @@ https://uk.linkedin.com/jobs/view/e2e-test-engineer-manual-at-g4s-4346195365|c69
 https://uk.linkedin.com/jobs/view/electrical-domestic-tester-at-rge-services-4343670607|c7baaa4a186528fd
 https://uk.linkedin.com/jobs/view/electrical-test-engineer-at-msp-technologies-ltd-4414083797|8882acccec30de96
 https://uk.linkedin.com/jobs/view/electrical-test-engineer-at-tiptopjob-4365700648|893da8ed5bde33b0
-https://uk.linkedin.com/jobs/view/electrical-test-engineer-at-tiptopjob-4436982203|47a94cf77d950d61
+https://uk.linkedin.com/jobs/view/electrical-test-engineer-at-tiptopjob-4436982203|f789a95952c1ef57
 https://uk.linkedin.com/jobs/view/electrical-test-engineer-at-yoh-solutions-ltd-4425189562|e2acb83864ba646b
 https://uk.linkedin.com/jobs/view/electrical-test-engineer-automotive-at-alten-ltd-uk-4413594045?position=23&pageNum=0&refId=Bg6HC5ueEh1R8Fzng9xLNw==&trackingId=sEUmwpffwltjsmB6ULFp0g==|c92f756ff0820a97
 https://uk.linkedin.com/jobs/view/electrical-tester-at-connolly-ltd-4372337301|68e00dacc6e8eeb2
@@ -508,6 +508,7 @@ https://uk.linkedin.com/jobs/view/junior-test-acceptance-engineer-at-indra-group
 https://uk.linkedin.com/jobs/view/junior-test-automation-engineer-at-socode-recruitment-4328600467|0523e60a5fd7357d
 https://uk.linkedin.com/jobs/view/kazakh-localization-qa-tester-proofreader-at-welocalize-4415423234|be479825bbfe8d4a
 https://uk.linkedin.com/jobs/view/kernel-build-automation-engineer-ubuntu-linux-at-canonical-4388760797|479fc2a561dd5271
+https://uk.linkedin.com/jobs/view/laser-test-engineer-at-litron-lasers-ltd-4433767821|c31ed4ab93edbf4b
 https://uk.linkedin.com/jobs/view/lead-ai-automation-architect-at-partnerize-4343710286|36f138131f220ad0
 https://uk.linkedin.com/jobs/view/lead-automation-test-architect-at-cipher-talent-4328871747|508abfdf82e8d5df
 https://uk.linkedin.com/jobs/view/lead-automation-test-engineer-playwright-at-cyberim-4379237217|da370802fbf7716e
@@ -862,7 +863,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-scala-play-app
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-boost-talent-ltd-4409502176|ea0118491abdfdec
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-boost-talent-ltd-4423017577?position=4&pageNum=0&refId=ZTpSnFxPEjqXqgVgfBOh+Q==&trackingId=6ggb9qIGQw/YKZq6gi1WcQ==|ab94da2b94a3213c
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-cognizant-4376827127|f91843537c44ca04
-https://uk.linkedin.com/jobs/view/senior-automation-tester-at-dla-piper-4436986596|5a56cb630b1f3254
+https://uk.linkedin.com/jobs/view/senior-automation-tester-at-dla-piper-4436986596|01a0d9a0865a482c
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-netcompany-4344991895|3d4dbf0417845212
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-netcompany-4399913844|b8392ccfe211f58c
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-test-yantra-4434992869|ac0fe03b22eb8f14
@@ -1406,7 +1407,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-tact-4340346408|198d7eec60f85
 https://uk.linkedin.com/jobs/view/test-engineer-at-tata-consultancy-services-4435057396|5ac73eeeebfea313
 https://uk.linkedin.com/jobs/view/test-engineer-at-test-4436300993|6e98486a638ec05b
 https://uk.linkedin.com/jobs/view/test-engineer-at-tiptopjob-4404018338|ae9f344ce54774c3
-https://uk.linkedin.com/jobs/view/test-engineer-at-tiptopjob-4436970706|cf7f3e267af866ed
+https://uk.linkedin.com/jobs/view/test-engineer-at-tiptopjob-4436970706|2a331c7a62797639
 https://uk.linkedin.com/jobs/view/test-engineer-at-trant-engineering-limited-4418477239|693e2ea96d850c4c
 https://uk.linkedin.com/jobs/view/test-engineer-at-vitec-4369922259|1d31c925c5da8210
 https://uk.linkedin.com/jobs/view/test-engineer-at-women-in-tech-4405347815|1f4233e942f049fe
