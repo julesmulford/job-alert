@@ -296,6 +296,8 @@ https://uk.linkedin.com/jobs/view/applied-ai-automation-engineer-at-institute-of
 https://uk.linkedin.com/jobs/view/applied-automation-engineer-at-harnham-4400096973|819b06ad7c451cce
 https://uk.linkedin.com/jobs/view/apprenticeship-test-engineer-at-hitachi-energy-4330273429|37ef82a6d852bea4
 https://uk.linkedin.com/jobs/view/assistant-test-engineer-at-siemens-4396317707?position=13&pageNum=0&refId=sH0wZmJdHabqiH8wQQhtOw==&trackingId=Fm4unGrUoI8d2na7Gv32lA==|6cc6f6b13eaf8034
+https://uk.linkedin.com/jobs/view/automated-qa-engineer-ai-trainer-at-chatgpt-jobs-4433750852|b6f28fcab4bd48f8
+https://uk.linkedin.com/jobs/view/automated-qa-engineer-ai-trainer-at-chatgpt-jobs-4433770036|8e9d186e4312b886
 https://uk.linkedin.com/jobs/view/automated-systems-tester-at-worknest-people-4371790414|89d5b8e3f938b093
 https://uk.linkedin.com/jobs/view/automated-test-developer-sdet-at-cognizant-4434439910|1a42a57cb97bcf84
 https://uk.linkedin.com/jobs/view/automation-and-ai-architect-at-intercity-4415150674|4b50a20db76973aa
@@ -859,6 +861,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-scala-play-app
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-boost-talent-ltd-4409502176|ea0118491abdfdec
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-boost-talent-ltd-4423017577?position=4&pageNum=0&refId=ZTpSnFxPEjqXqgVgfBOh+Q==&trackingId=6ggb9qIGQw/YKZq6gi1WcQ==|ab94da2b94a3213c
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-cognizant-4376827127|f91843537c44ca04
+https://uk.linkedin.com/jobs/view/senior-automation-tester-at-dla-piper-4436986596|1f85187c83a427ba
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-netcompany-4344991895|3d4dbf0417845212
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-netcompany-4399913844|b8392ccfe211f58c
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-test-yantra-4434992869|ac0fe03b22eb8f14
@@ -1402,6 +1405,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-tact-4340346408|198d7eec60f85
 https://uk.linkedin.com/jobs/view/test-engineer-at-tata-consultancy-services-4435057396|5ac73eeeebfea313
 https://uk.linkedin.com/jobs/view/test-engineer-at-test-4436300993|6e98486a638ec05b
 https://uk.linkedin.com/jobs/view/test-engineer-at-tiptopjob-4404018338|ae9f344ce54774c3
+https://uk.linkedin.com/jobs/view/test-engineer-at-tiptopjob-4436970706|8b7e68772c833588
 https://uk.linkedin.com/jobs/view/test-engineer-at-trant-engineering-limited-4418477239|693e2ea96d850c4c
 https://uk.linkedin.com/jobs/view/test-engineer-at-vitec-4369922259|1d31c925c5da8210
 https://uk.linkedin.com/jobs/view/test-engineer-at-women-in-tech-4405347815|1f4233e942f049fe
