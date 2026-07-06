@@ -1247,6 +1247,7 @@ https://uk.linkedin.com/jobs/view/system-test-engineer-at-peregrine-4389223784|0
 https://uk.linkedin.com/jobs/view/system-test-engineer-premier-group-at-jobster-4360962695|4f18cba5b0d42b7f
 https://uk.linkedin.com/jobs/view/system-validation-engineer-at-tata-consultancy-services-4403315480|ffffaecfd7f2410d
 https://uk.linkedin.com/jobs/view/systems-integration-automation-engineer-outside-ir35-contract-at-cloud-people-4361050312|7bcd3979ac1fe036
+https://uk.linkedin.com/jobs/view/systems-test-engineer-at-eteam-4437407410|16d7016a21410c9b
 https://uk.linkedin.com/jobs/view/systems-test-engineer-at-ic-resources-4402728602|d348c03a75cc26bb
 https://uk.linkedin.com/jobs/view/systems-test-engineer-at-leonardo-4435546364|de49cb398cb817c4
 https://uk.linkedin.com/jobs/view/systems-test-engineer-at-sava-4344281499|d0a9e8df05b68da5
