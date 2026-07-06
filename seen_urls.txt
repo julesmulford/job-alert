@@ -283,6 +283,7 @@ https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-recepio-lab-43866273
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-besque-at-jobster-4321426547|9fc06ef842bced82
 https://uk.linkedin.com/jobs/view/ai-automation-lead-pe-backed-healthtech-at-la-fosse-4403321450|d08f855e215a1311
 https://uk.linkedin.com/jobs/view/ai-automation-specialist-contract-at-aurea-ai-solutions-4381272478|24dcf5e639d64384
+https://uk.linkedin.com/jobs/view/ai-quality-analyst-$70-hr-remote-at-crossing-hurdles-4436089309|8458a2b605bb15d4
 https://uk.linkedin.com/jobs/view/ai-red-team-tester-at-alignerr-4386060740|6c811812c23133ce
 https://uk.linkedin.com/jobs/view/ai-solutions-automation-architect-gohighlevel-at-huzzle-com-4400330006?position=45&pageNum=0&refId=GuBrCIjBJs7r1uTX2zuepQ==&trackingId=fH7vrx2zBnwuDm0s3akk3g==|4e6f67fe0369a6d7
 https://uk.linkedin.com/jobs/view/ai-test-automation-engineer-at-sthree-4350705806|649ad18633d5ec5b
@@ -312,6 +313,7 @@ https://uk.linkedin.com/jobs/view/automation-engineer-at-amazon-4385172061|6039e
 https://uk.linkedin.com/jobs/view/automation-engineer-at-amazon-4417350605|e12fe9f73addad75
 https://uk.linkedin.com/jobs/view/automation-engineer-at-amazon-4436773596|faec5898efb4c71f
 https://uk.linkedin.com/jobs/view/automation-engineer-at-automation-engineering-controls-ltd-aec-4435526718|2f879f5861c3d0cb
+https://uk.linkedin.com/jobs/view/automation-engineer-at-cambi-4437147427|1e765a330d6883a5
 https://uk.linkedin.com/jobs/view/automation-engineer-at-catalent-4369628219|7d0f1fb70112c95e
 https://uk.linkedin.com/jobs/view/automation-engineer-at-cbsbutler-4371842378|da30539f229266ee
 https://uk.linkedin.com/jobs/view/automation-engineer-at-census-ex-forces-recruitment-ltd-4348864043|bac3d74efe35182f
@@ -510,7 +512,7 @@ https://uk.linkedin.com/jobs/view/kazakh-localization-qa-tester-proofreader-at-w
 https://uk.linkedin.com/jobs/view/kernel-build-automation-engineer-ubuntu-linux-at-canonical-4388760797|479fc2a561dd5271
 https://uk.linkedin.com/jobs/view/laser-test-engineer-at-litron-lasers-ltd-4433767821|c31ed4ab93edbf4b
 https://uk.linkedin.com/jobs/view/lead-ai-automation-architect-at-partnerize-4343710286|36f138131f220ad0
-https://uk.linkedin.com/jobs/view/lead-automation-engineer-at-eteam-4437142840|eb35f5bae296667e
+https://uk.linkedin.com/jobs/view/lead-automation-engineer-at-eteam-4437142840|ac9cdf072b0cd407
 https://uk.linkedin.com/jobs/view/lead-automation-test-architect-at-cipher-talent-4328871747|508abfdf82e8d5df
 https://uk.linkedin.com/jobs/view/lead-automation-test-engineer-playwright-at-cyberim-4379237217|da370802fbf7716e
 https://uk.linkedin.com/jobs/view/lead-automation-tester-at-infoplus-technologies-uk-limited-4389211384|b3a6101cccc68588
@@ -553,7 +555,7 @@ https://uk.linkedin.com/jobs/view/microservices-test-engineer-at-inoverse-groupe
 https://uk.linkedin.com/jobs/view/mid-level-qa-engineer-at-hackajob-4378288958|d2a6aa11950a0bfc
 https://uk.linkedin.com/jobs/view/mid-level-sdet-at-insight-global-4391894033|5971fb8d58f425f3
 https://uk.linkedin.com/jobs/view/mid-senior-qa-analyst-at-ve3-4435454968|85036b28e9ecda49
-https://uk.linkedin.com/jobs/view/mid-senior-qa-engineer-b2b-saas-uk-at-transreport-4433797754|fd7bc637257ff090
+https://uk.linkedin.com/jobs/view/mid-senior-qa-engineer-b2b-saas-uk-at-transreport-4433797754|f6459ec6c239a9fa
 https://uk.linkedin.com/jobs/view/mobile-automation-test-engineer-at-solirius-reply-4434310722|bcbc42827e48ff85
 https://uk.linkedin.com/jobs/view/mobile-qa-engineer-at-leo-club-maastricht-4343199676|fc2cf7916d082ecf
 https://uk.linkedin.com/jobs/view/mot-tester-at-peoples-ford-4406829537|d6f61aeddeb4eef5
@@ -1112,6 +1114,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-williams-racing-at-jobste
 https://uk.linkedin.com/jobs/view/senior-test-execution-engineer-at-tata-technologies-4405549561|edb93042727479fe
 https://uk.linkedin.com/jobs/view/senior-test-lead-at-platform-recruitment-4380252934|d43c9cd44c3766a2
 https://uk.linkedin.com/jobs/view/senior-test-lead-at-the-adecco-group-4373351588|765117b8cafd8b6b
+https://uk.linkedin.com/jobs/view/senior-test-manager-at-eames-consulting-4436099010|e09fb8013b29c91c
 https://uk.linkedin.com/jobs/view/senior-testing-engineer-complex-at-energy-job-search-4381521551|6c67e96e552ba7b1
 https://uk.linkedin.com/jobs/view/senior-verification-test-engineer-at-comind-4430942404|9deebd27d13f5942
 https://uk.linkedin.com/jobs/view/senior-wi-fi-test-engineer-at-q1-technologies-inc-4408855048|2ec9047702829f25
@@ -1609,6 +1612,7 @@ https://uk.talent.com/view?id=587967931844733692|abfb148c44e928c3
 https://uk.talent.com/view?id=589041463124167960|04283aa973b42266
 https://uk.talent.com/view?id=589043223183232172|2d2e8480d8c6cb0e
 https://uk.talent.com/view?id=589043229923609772|d3683bd3253a61fc
+https://uk.talent.com/view?id=589043251012635820|37b392a11a1be76d
 https://uk.talent.com/view?id=589043303040811640|9dd15f2d6807b2e7
 https://uk.talent.com/view?id=589043313453826680|9cc6e1ac22f05ed1
 https://uk.talent.com/view?id=589043319625288984|8107ca96d6c4f03e
@@ -1648,7 +1652,7 @@ https://uk.talent.com/view?id=602336325998150103|c03efdca816c2637
 https://uk.talent.com/view?id=602336338233724637|535f4654868f4faa
 https://uk.talent.com/view?id=602338181671619703|c1462b5f038d0e35
 https://uk.talent.com/view?id=602338207696227447|31ab067fd247cbaf
-https://uk.talent.com/view?id=602378933985028641|77712827fab04074
+https://uk.talent.com/view?id=602378933985028641|38ed55b111342aa4
 https://uk.talent.com/view?id=602380900229451485|624e0aaeee0e6f04
 https://uk.talent.com/view?id=603293914375462841|a56217482a74064c
 https://uk.talent.com/view?id=603322181752461728|753b2e26c859ba01
