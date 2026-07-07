@@ -720,6 +720,7 @@ https://uk.linkedin.com/jobs/view/qa-test-engineer-at-red-global-4399749401|ce6d
 https://uk.linkedin.com/jobs/view/qa-test-engineer-at-techshack-4349323829|2b3f492655cf3cbd
 https://uk.linkedin.com/jobs/view/qa-test-engineer-manual-automation-at-project-people-4375505250|210eda17560cc2c5
 https://uk.linkedin.com/jobs/view/qa-test-engineer-ruby-python-at-partnerize-4392949419|48f0591ac92c5b68
+https://uk.linkedin.com/jobs/view/qa-test-engineer-web-mobile-selenium-at-client-server-4437775499|0abe7fe5899b79e7
 https://uk.linkedin.com/jobs/view/qa-tester-at-dwp-digital-4379913421|f44629cbea3e1de3
 https://uk.linkedin.com/jobs/view/qa-tester-at-haystack-4392449076|092c8637589a495b
 https://uk.linkedin.com/jobs/view/qa-tester-at-haystack-4408887883|68d8681c72038ff2
@@ -1055,6 +1056,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-axelera-ai-4375815227|
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-boss-energy-consulting-4378863013|2a55bbf8ec281fcb
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-caraffi-4348271560|b77ba115d934c1e6
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-ceres-4368740918|291e9cc8b1befeb0
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-collins-aerospace-4434555478|8a3354d551fc6a5e
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-companies-house-4350711948|ef73e247cd8510d5
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-diversejobsmatter-4343531379|1c7f217dd918b093
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-djr-4431726541|b6043b81b2d1c284
