@@ -749,7 +749,7 @@ https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-evant
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-ixceed-solutions-4380935594|334482ced3da8b6f
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-maxwell-bond-4408820793|00540806d20f1702
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-morson-edge-4432292104|8cee36a054dece81
-https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-persistent-systems-4434857320?refId=JL2mDXMpBcPbiGz6a1lNCg==&trackingId=fvgPCq9RRZihLelPQLXK0g==|649f2699e909fac5
+https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-persistent-systems-4434857320?refId=JL2mDXMpBcPbiGz6a1lNCg==&trackingId=fvgPCq9RRZihLelPQLXK0g==|130d0700e36d6645
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-spectrum-it-recruitment-4354880550|024ee70e586a60d6
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-id44635-at-humand-talent-4354243772|94260ce3429e6686
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-connect-ai-4435167523|3e6cc2aa8e825175
@@ -1027,6 +1027,7 @@ https://uk.linkedin.com/jobs/view/senior-software-tester-g-digital-at-jobster-43
 https://uk.linkedin.com/jobs/view/senior-software-tester-m-f-d-at-tgw-northern-europe-4382708711|e9473e42cbead067
 https://uk.linkedin.com/jobs/view/senior-staff-design-for-test-engineer-at-olix-4408405731|89acf0fdec2b4bba
 https://uk.linkedin.com/jobs/view/senior-system-integration-test-engineer-at-qinetiq-4406620829|f6228ebd3cc4140c
+https://uk.linkedin.com/jobs/view/senior-system-test-engineer-at-experis-scotland-4437064676|ef8f42ffb5a6328c
 https://uk.linkedin.com/jobs/view/senior-systems-test-engineer-at-hitachi-energy-4362069282|cfd7ed76f68ab9d8
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-harvey-nash-4430469959|953ec83ceabfbdca
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-head-resourcing-4362221512|c367cc5a22465d8f
