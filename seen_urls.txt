@@ -805,6 +805,7 @@ https://uk.linkedin.com/jobs/view/quality-engineer-at-netrolynx-ai-4403596610|88
 https://uk.linkedin.com/jobs/view/quality-engineer-at-netrolynx-ai-4406835100|67ade7a04f2a9404
 https://uk.linkedin.com/jobs/view/quality-engineer-at-platform-recruitment-4412679146|66d7dc51f2776a8c
 https://uk.linkedin.com/jobs/view/quality-engineer-remote-at-taskify-ai-4339838044|68c9e9b88a7f9aa6
+https://uk.linkedin.com/jobs/view/quality-engineer-tester-at-tagmatix360-4438592964|f95641183e1809e1
 https://uk.linkedin.com/jobs/view/quality-test-engineer-at-ixceed-solutions-4412937083|e00fce1210728862
 https://uk.linkedin.com/jobs/view/req-12667-software-test-engineer-digital-pathology-image-management-system-development-at-epredia-4401653530|6a52de76bf5cf913
 https://uk.linkedin.com/jobs/view/rf-systems-and-product-test-engineer-at-tiptopjob-4345504827|0d1dbb4645522fee
@@ -867,6 +868,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-test-anaylst-at-7im-43299569
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-caci-digital-experience-formerly-cyber-duck-4409713790|e55f8eeb8f748ee1
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-datacareers-4375234557|a4ddf745b8f5699b
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-oho-group-4426973678|d4643364af75fb24
+https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-ve3-4437556299|28fac0033a0dcc5e
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-version-1-4373468517|5e8c2759bd581fc4
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-esc-or-edv-required-at-ibm-4401662637|580c664b78018541
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-etrm-trading-platforms-at-datacareers-4375231554|42994fca54e8759a
@@ -925,7 +927,7 @@ https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-hackajob-4422
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-jobs-via-efinancialcareers-4346694704|e5197ed78aeface3
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-nice-4356230212|27ddf270898891b5
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-softcat-4433247154|538fc2ef036884ea
-https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-synechron-4435674420|b184522a79a76ffb
+https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-synechron-4435674420|28ec8c9e0f8c8932
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-tba-4381424994|00b94598c4e8d90b
 https://uk.linkedin.com/jobs/view/senior-qa-automation-engineer-at-tp-icap-4347492608|d8dcfb2c130aae89
 https://uk.linkedin.com/jobs/view/senior-qa-automation-manual-tester-swift-sepa-visa-contract-at-hithunter-4428108174|f4dadd2534f42442
@@ -1037,7 +1039,7 @@ https://uk.linkedin.com/jobs/view/senior-test-analyst-at-head-resourcing-4362221
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-infinity-quest-4435171009|3c5589fecd671135
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-premier-group-4342574183|9fc6f65253428ec6
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-recruit-with-purpose-4431707235|0ca599a725593285
-https://uk.linkedin.com/jobs/view/senior-test-analyst-at-royal-london-4438633860|6f694200b67aa311
+https://uk.linkedin.com/jobs/view/senior-test-analyst-at-royal-london-4438633860|e03b7ed8749feb7e
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-trust-in-soda-4370200377|ee34b72dfa859b63
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-ventula-consulting-4426978621?position=8&pageNum=0&refId=FrIlwOXUBQPvd7U7RMxI6g==&trackingId=qFJ57/4gR2EI9ZhhRHS2aQ==|bce1585f4760c18f
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-hackajob-4328310922|3e71ee73833045a8
