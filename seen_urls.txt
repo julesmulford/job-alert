@@ -769,7 +769,7 @@ https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-navantia-uk-4405
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-recenso-services-4343518438|b52ad03fe9ca74d3
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-searchability-ns-d-4403893548|b6267d57a9699238
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-software-de-4408433584|3b1153d25676afaa
-https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-switch-tech-talent-4435972743|b9c04c9c4b6631fe
+https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-switch-tech-talent-4435972743|903eacc1d0b351d8
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tait-4436464958|997b1aed535b04d8
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tgs-international-group-4361421723|a09cad407db3bf01
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-transport-for-london-4431211914?position=27&pageNum=0&refId=2KzeOPBAC/ou9OHz7yIUVA==&trackingId=wT4hwt68c0bzE08zi0XsVg==|6fb9cf1c48365db1
@@ -836,6 +836,7 @@ https://uk.linkedin.com/jobs/view/sdet-at-techshack-4359410354|cfde93afeb07d39f
 https://uk.linkedin.com/jobs/view/sdet-at-xcede-4325820951|5d46d56bc466b04d
 https://uk.linkedin.com/jobs/view/sdet-engineer-at-clearroute-4369294926|c0cc81cf38c49f9f
 https://uk.linkedin.com/jobs/view/sdet-engineer-at-clearroute-4431298727|03063b26f6f1598a
+https://uk.linkedin.com/jobs/view/sdet-software-development-engineer-in-test-at-compare-the-market-4439086094|d96f79612734edcb
 https://uk.linkedin.com/jobs/view/sdet-wallet-platform-at-jobgether-4385351605|ebd10bd0fcf42d44
 https://uk.linkedin.com/jobs/view/security-tester-cybersecurity-vulnerability-$70-hr-remote-at-crossing-hurdles-4395412439|9d4bd54b774bfdfb
 https://uk.linkedin.com/jobs/view/senior-ai-automation-engineer-at-binnies-4359407906|ead0980efac05468
