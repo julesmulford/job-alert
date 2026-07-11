@@ -391,6 +391,7 @@ https://uk.linkedin.com/jobs/view/automation-test-engineer-dv-at-npaworldwide-43
 https://uk.linkedin.com/jobs/view/automation-test-engineer-lorien-impellam-at-jobs-via-efinancialcareers-4424748835|dc990e4f6a2ed426
 https://uk.linkedin.com/jobs/view/automation-test-engineer-remote-at-joveo-ai-4401747748|eca0e7da49da16d4
 https://uk.linkedin.com/jobs/view/automation-test-engineer-sc-cleared-6-months-ftc-at-cognizant-4343482637|73fc433fa928e7ba
+https://uk.linkedin.com/jobs/view/automation-test-lead-at-coforge-4438919542|21132e738285c894
 https://uk.linkedin.com/jobs/view/automation-test-lead-at-experis-uk-4365644466|54d502b61659a150
 https://uk.linkedin.com/jobs/view/automation-test-lead-at-legal-general-4412759435|fd396a4e37ec5386
 https://uk.linkedin.com/jobs/view/automation-test-lead-at-q1-technologies-inc-4350463464|6008cc1120ebe1cd
@@ -696,7 +697,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-hs2-at-hays-4417194381|c4674b084c4
 https://uk.linkedin.com/jobs/view/qa-engineer-manchester-at-tilo-consulting-4401711264|d84ef72a112e677e
 https://uk.linkedin.com/jobs/view/qa-engineer-manual-automation-at-pinewood-ai-4406611740|4399597a3906c6ed
 https://uk.linkedin.com/jobs/view/qa-engineer-manual-mid-level-12-month-ftc-at-informa-4339482495|9009e4ac4ad456c6
-https://uk.linkedin.com/jobs/view/qa-engineer-remote-at-breeam-official-4439081644|8a6f68c4dc953bca
+https://uk.linkedin.com/jobs/view/qa-engineer-remote-at-breeam-official-4439081644|79260bc6810116ea
 https://uk.linkedin.com/jobs/view/qa-engineer-remote-at-jobs-ai-4409842495|b0585d00cd864613
 https://uk.linkedin.com/jobs/view/qa-engineer-sdet-at-mygwork-lgbtq+-business-community-4363944684|07c9fdd0bb566487
 https://uk.linkedin.com/jobs/view/qa-engineer-senior-at-xe-com-4432518867|1ede9854c948fc73
@@ -837,7 +838,7 @@ https://uk.linkedin.com/jobs/view/sdet-at-techshack-4359410354|cfde93afeb07d39f
 https://uk.linkedin.com/jobs/view/sdet-at-xcede-4325820951|5d46d56bc466b04d
 https://uk.linkedin.com/jobs/view/sdet-engineer-at-clearroute-4369294926|c0cc81cf38c49f9f
 https://uk.linkedin.com/jobs/view/sdet-engineer-at-clearroute-4431298727|03063b26f6f1598a
-https://uk.linkedin.com/jobs/view/sdet-software-development-engineer-in-test-at-compare-the-market-4439086094|3a321b3180272f3f
+https://uk.linkedin.com/jobs/view/sdet-software-development-engineer-in-test-at-compare-the-market-4439086094|281bf8a400a9c588
 https://uk.linkedin.com/jobs/view/sdet-wallet-platform-at-jobgether-4385351605|ebd10bd0fcf42d44
 https://uk.linkedin.com/jobs/view/security-tester-cybersecurity-vulnerability-$70-hr-remote-at-crossing-hurdles-4395412439|9d4bd54b774bfdfb
 https://uk.linkedin.com/jobs/view/senior-ai-automation-engineer-at-binnies-4359407906|ead0980efac05468
@@ -911,7 +912,7 @@ https://uk.linkedin.com/jobs/view/senior-ip-test-engineer-at-hays-4403464299|b8f
 https://uk.linkedin.com/jobs/view/senior-manual-qa-engineer-at-maxwell-bond-4400408343|b1980a2592db392a
 https://uk.linkedin.com/jobs/view/senior-manufacturing-test-engineer-at-siemens-4329866510|1c4ef1fe4696bb05
 https://uk.linkedin.com/jobs/view/senior-mobile-automation-tester-at-w3global-4342763594|8e182b4bd9741edf
-https://uk.linkedin.com/jobs/view/senior-mobile-qa-at-waracle-4439088808|747b7ff2291291a4
+https://uk.linkedin.com/jobs/view/senior-mobile-qa-at-waracle-4439088808|f645a3e53e937e8b
 https://uk.linkedin.com/jobs/view/senior-nft-test-engineer-at-barclays-4431981293|efc20ad0ab6a1968
 https://uk.linkedin.com/jobs/view/senior-pa-qa-engineer-at-alten-4431085959|f5dc5ddb1a885891
 https://uk.linkedin.com/jobs/view/senior-peoplesoft-automation-test-engineer-at-datamatics-4425499875?position=45&pageNum=0&refId=UJLqIk5vzBgEX1llKatkIw==&trackingId=hmRAiuofiEniSAsqQjcrKA==|85a2501a6c0c22b2
@@ -1008,6 +1009,7 @@ https://uk.linkedin.com/jobs/view/senior-software-development-engineer-in-test-s
 https://uk.linkedin.com/jobs/view/senior-software-development-engineer-in-test-sdet-at-transreport-4364704223|d62494bc12e478aa
 https://uk.linkedin.com/jobs/view/senior-software-development-engineer-test-at-maxwell-bond-4420738542|e0b51af2a94358de
 https://uk.linkedin.com/jobs/view/senior-software-development-test-engineer-at-paysafe-4328929077|760efaaefc55491b
+https://uk.linkedin.com/jobs/view/senior-software-engineer-in-test-at-al-watania-agriculture-company-4439305777|4fa277502c4cd0da
 https://uk.linkedin.com/jobs/view/senior-software-engineer-in-test-at-mrj-recruitment-4433178178|92d0f2ae6df5fcc7
 https://uk.linkedin.com/jobs/view/senior-software-engineer-in-test-sdet-at-hackajob-4395344439|e830e13460f94617
 https://uk.linkedin.com/jobs/view/senior-software-engineer-remote-at-crossing-hurdles-4394265412|4a65d2ded691429c
@@ -1096,7 +1098,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-hackajob-4396058555|5f
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-henderson-scott-4426432049|ae5bf7ca8bc2a81c
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-ic-resources-4366382846|a103624c885ecfcf
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-it-world-limited-4356701720|798f6e79427b7782
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-l3harris-technologies-4439319746|28e407a8405d077a
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-l3harris-technologies-4439319746|97e2ac6606036bec
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-leonardo-4394676516|9de5be5e3d7675f1
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-lrqa-4342733252|7de82e1f7d276383
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-lrqa-4371827606|558dc08dc28a419f
@@ -1289,6 +1291,7 @@ https://uk.linkedin.com/jobs/view/test-analyst-at-mygwork-lgbtq+-business-commun
 https://uk.linkedin.com/jobs/view/test-analyst-at-university-hospital-southampton-nhs-ft-4420750893|09a48953f54ed14d
 https://uk.linkedin.com/jobs/view/test-analyst-at-weatherbys-ltd-4381020452|fb41c72c39a758af
 https://uk.linkedin.com/jobs/view/test-analyst-part-time-20-hours-per-week-studentjob-co-uk-at-jobster-4392830450|efcbd07f4f8b2887
+https://uk.linkedin.com/jobs/view/test-analyst-tester-daventry-northamptonshire-at-myo-talent-4439307798|2f7c5e0d7410ab67
 https://uk.linkedin.com/jobs/view/test-and-assurance-lead-at-nhs-business-services-authority-4435366277|1a615748532fae3d
 https://uk.linkedin.com/jobs/view/test-and-authentication-engineer-at-navantia-uk-4328911069|7f975253b620c28c
 https://uk.linkedin.com/jobs/view/test-and-development-engineer-at-tiptopjob-4412577907|b3c5000642b55161
