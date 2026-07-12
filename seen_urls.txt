@@ -117,7 +117,7 @@ https://uk.jobrapido.com/jobpreview/4910374478883586048|8306c986c4f0f933
 https://uk.jobrapido.com/jobpreview/5083498580451262464|c4b4fa9889d8ff4d
 https://uk.jobrapido.com/jobpreview/5090107427018244096|39343a7c1ff9b926
 https://uk.jobrapido.com/jobpreview/510172186254770176|5e55749b79af772f
-https://uk.jobrapido.com/jobpreview/518102882021539840|4ea8d36eb2c97a6f
+https://uk.jobrapido.com/jobpreview/518102882021539840|f1f6709dda1d5bf9
 https://uk.jobrapido.com/jobpreview/5181785806053834752|481699b72e032900
 https://uk.jobrapido.com/jobpreview/5212141492440662016|d51037a7890cb496
 https://uk.jobrapido.com/jobpreview/5253096221811146752|34170ffd50e1adb6
@@ -890,7 +890,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-tester-at-netcompany-4344991
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-netcompany-4399913844|b8392ccfe211f58c
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-test-yantra-4434992869|ac0fe03b22eb8f14
 https://uk.linkedin.com/jobs/view/senior-automation-tester-flutter-agentic-ai-api-systems-at-deliveryapp-4378790054|d720c69d8eaae8a1
-https://uk.linkedin.com/jobs/view/senior-cloud-automation-engineer-remote-at-hire-feed-4439702728|43a7d82545c4fce2
+https://uk.linkedin.com/jobs/view/senior-cloud-automation-engineer-remote-at-hire-feed-4439702728|c758b4b67c427fd0
 https://uk.linkedin.com/jobs/view/senior-comparative-test-engineer-at-leidos-4400277018|2ba04497a635cd8f
 https://uk.linkedin.com/jobs/view/senior-consultant-qa-engineer-tc-uki-belfast-at-hackajob-4374608078|f97d9ac1da34261f
 https://uk.linkedin.com/jobs/view/senior-control-and-automation-engineer-at-iti-group-4403521450|946aadf6710fe8b3
@@ -1527,6 +1527,7 @@ https://uk.linkedin.com/jobs/view/vehicle-test-engineer-at-quintessential-design
 https://uk.linkedin.com/jobs/view/verification-qa-engineer-at-socode-recruitment-4328879923|15b875cccb579ed9
 https://uk.linkedin.com/jobs/view/verification-validation-engineer-click-recruitment-at-jobster-4360271182|68ddd4df8c69e911
 https://uk.linkedin.com/jobs/view/workday-lead-software-testing-at-insight-international-uk-ltd-4388972598|032b72020fb4ae2b
+https://uk.linkedin.com/jobs/view/workshop-technician-and-test-engineer-at-artus-air-4439729154|aaff9fa77c09491f
 https://uk.linkedin.com/jobs/view/xpert-senior-test-manager-test-architect-at-inspired-testing-4433265828|c7e940a8c2198c41
 https://uk.linkedin.com/jobs/website-testing-jobs-london-area-united-kingdom|824a2e964dc7af73
 https://uk.news.yahoo.com/meet-hello-fresh-apprentices-spondon-060000144.html|7ca95acd22dc232a
