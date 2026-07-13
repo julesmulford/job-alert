@@ -117,7 +117,7 @@ https://uk.jobrapido.com/jobpreview/4910374478883586048|8306c986c4f0f933
 https://uk.jobrapido.com/jobpreview/5083498580451262464|c4b4fa9889d8ff4d
 https://uk.jobrapido.com/jobpreview/5090107427018244096|39343a7c1ff9b926
 https://uk.jobrapido.com/jobpreview/510172186254770176|5e55749b79af772f
-https://uk.jobrapido.com/jobpreview/518102882021539840|7a52cf149b0d69e7
+https://uk.jobrapido.com/jobpreview/518102882021539840|886e8899e9cac6b5
 https://uk.jobrapido.com/jobpreview/5181785806053834752|481699b72e032900
 https://uk.jobrapido.com/jobpreview/5212141492440662016|d51037a7890cb496
 https://uk.jobrapido.com/jobpreview/5253096221811146752|34170ffd50e1adb6
@@ -409,7 +409,7 @@ https://uk.linkedin.com/jobs/view/automation-tester-at-sparta-global-4412023521|
 https://uk.linkedin.com/jobs/view/automation-tester-dv-security-clearance-at-women-in-tech-4409775325|e5f9f189742dc00d
 https://uk.linkedin.com/jobs/view/automation-tester-functional-at-dns-info-ltd-4393516996|c6f7152f84127f8a
 https://uk.linkedin.com/jobs/view/automation-tester-government-at-stealth-it-consulting-4328978615|e187652c0ee5c47a
-https://uk.linkedin.com/jobs/view/automation-tester-security-clearance-at-women-in-tech-4439707524|ce8dfbd3635b3a3a
+https://uk.linkedin.com/jobs/view/automation-tester-security-clearance-at-women-in-tech-4439707524|5d24811daf581dcd
 https://uk.linkedin.com/jobs/view/avaloq-test-lead-manager-at-us3-consulting-4433898416|844e35db05a27076
 https://uk.linkedin.com/jobs/view/back-end-automation-engineer-at-kham-lab-4363877284|ba9c5fb4530e905e
 https://uk.linkedin.com/jobs/view/building-automation-apprentice-at-cundall-4355695384|6283fca1e3b95bb9
@@ -891,7 +891,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-tester-at-netcompany-4344991
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-netcompany-4399913844|b8392ccfe211f58c
 https://uk.linkedin.com/jobs/view/senior-automation-tester-at-test-yantra-4434992869|ac0fe03b22eb8f14
 https://uk.linkedin.com/jobs/view/senior-automation-tester-flutter-agentic-ai-api-systems-at-deliveryapp-4378790054|d720c69d8eaae8a1
-https://uk.linkedin.com/jobs/view/senior-cloud-automation-engineer-remote-at-hire-feed-4439702728|96b2a4ec9c8d1f68
+https://uk.linkedin.com/jobs/view/senior-cloud-automation-engineer-remote-at-hire-feed-4439702728|1ed5b9efe3741602
 https://uk.linkedin.com/jobs/view/senior-comparative-test-engineer-at-leidos-4400277018|2ba04497a635cd8f
 https://uk.linkedin.com/jobs/view/senior-consultant-qa-engineer-tc-uki-belfast-at-hackajob-4374608078|f97d9ac1da34261f
 https://uk.linkedin.com/jobs/view/senior-control-and-automation-engineer-at-iti-group-4403521450|946aadf6710fe8b3
@@ -1092,6 +1092,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-eclectic-recruitment-l
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-eclerx-4404337793|11e3c5bef3f190cb
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-edwards-vacuum-4386254586|aae9fb2914bb2dad
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-empresaria-group-plc-4414483406|a532d3433bd7b38f
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-flusso-limited-4439782459|ad6ecf7e7d57a14b
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-free-work-uk-4342510829|620dfa58431adae2
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-free-work-uk-4365119530|386d7fb03bb13ad5
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-fsp-4373559448|0054670c5b200c76
@@ -1184,6 +1185,7 @@ https://uk.linkedin.com/jobs/view/software-qa-analyst-at-spectrum-it-recruitment
 https://uk.linkedin.com/jobs/view/software-qa-engineer-at-hired-4409461041|cbda71359684a23d
 https://uk.linkedin.com/jobs/view/software-qa-engineer-at-light-wonder-4418403928|03f79f46cb09657c
 https://uk.linkedin.com/jobs/view/software-qa-engineer-at-spectrum-it-recruitment-4372841788|711f16ed55cb0718
+https://uk.linkedin.com/jobs/view/software-qa-engineer-at-spectrum-it-recruitment-4439132879|8972137d12f3dc20
 https://uk.linkedin.com/jobs/view/software-qa-engineer-product-workflow-at-subsurface-dynamics-4415419901|111464182c7b26dc
 https://uk.linkedin.com/jobs/view/software-qa-fruition-group-at-jobster-4360161348|01781b0cf46ef3b9
 https://uk.linkedin.com/jobs/view/software-qa-tester-at-capita-4387887563|e3da46052fb54cb0
@@ -1267,6 +1269,7 @@ https://uk.linkedin.com/jobs/view/sr-qa-automation-engineer-pro-at-ink-fndn-4374
 https://uk.linkedin.com/jobs/view/sr-quality-assurance-engineer-w-detox-testing-experience-at-concentrix-4404114582|a17e680f716c0e9a
 https://uk.linkedin.com/jobs/view/sr-software-test-engineer-at-entrust-4358775231|d7480921afa00733
 https://uk.linkedin.com/jobs/view/sr-test-analyst-at-test-yantra-4400609810|ca7b22fc65e21090
+https://uk.linkedin.com/jobs/view/sr-test-engineer-with-cypress-at-mastek-4437247735|784e1b76132f0f72
 https://uk.linkedin.com/jobs/view/staff-release-automation-engineer-linux-at-arm-4329584799|96be39aa84e3611d
 https://uk.linkedin.com/jobs/view/stem-textbook-qa-specialist-at-mercor-4388580897|17f0034b38acdff1
 https://uk.linkedin.com/jobs/view/student-placement-software-automation-engineer-at-targetjobs-uk-4408379592|ed2182f3c26eff9f
@@ -1528,7 +1531,7 @@ https://uk.linkedin.com/jobs/view/vehicle-test-engineer-at-quintessential-design
 https://uk.linkedin.com/jobs/view/verification-qa-engineer-at-socode-recruitment-4328879923|15b875cccb579ed9
 https://uk.linkedin.com/jobs/view/verification-validation-engineer-click-recruitment-at-jobster-4360271182|68ddd4df8c69e911
 https://uk.linkedin.com/jobs/view/workday-lead-software-testing-at-insight-international-uk-ltd-4388972598|032b72020fb4ae2b
-https://uk.linkedin.com/jobs/view/workshop-technician-and-test-engineer-at-artus-air-4439729154|f53833bf01740703
+https://uk.linkedin.com/jobs/view/workshop-technician-and-test-engineer-at-artus-air-4439729154|ced752c4ad841850
 https://uk.linkedin.com/jobs/view/xpert-senior-test-manager-test-architect-at-inspired-testing-4433265828|c7e940a8c2198c41
 https://uk.linkedin.com/jobs/website-testing-jobs-london-area-united-kingdom|824a2e964dc7af73
 https://uk.news.yahoo.com/meet-hello-fresh-apprentices-spondon-060000144.html|7ca95acd22dc232a
