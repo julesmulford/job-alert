@@ -15,7 +15,7 @@ https://gb.bebee.com/job/ebb07f7589e02268879299b8016bac79|b21f99dba29cb333
 https://gb.bebee.com/job/eef67ab7c098e677a138f416f7c1bacd|d31d93925373d447
 https://ic-resources.com/en/jobs/electronics-test-engineer-472183/|9449176aaa8cc298
 https://ic-resources.com/en/jobs/rf-test-engineer-471213/|ee541504204c6dcd
-https://ic-resources.com/en/jobs/senior-ic-test-engineer-486659/|05a983d8c31dd905
+https://ic-resources.com/en/jobs/senior-ic-test-engineer-486659/|60e0102b5145b573
 https://ic-resources.com/en/jobs/test-engineer-451575/|35b022f4d0a5b29e
 https://ic-resources.com/us/jobs/test-engineer-483827/|8fc65ccb37d5124c
 https://jobs.jobg8.com/jobs/junior-test-engineer-remote-playwright-jest-gds-in-united-kingdom/5673-3057150701ED|89a9d4ced5176dfa
@@ -369,7 +369,7 @@ https://uk.linkedin.com/jobs/view/automation-software-tester-at-vantify-44299454
 https://uk.linkedin.com/jobs/view/automation-specialist-at-hcltech-4400420328|37f0bdbfde007294
 https://uk.linkedin.com/jobs/view/automation-test-analyst-at-bmc-recruitment-group-4434983343|f1feabd5ee429c8a
 https://uk.linkedin.com/jobs/view/automation-test-analyst-at-eden-scott-4361848575|61998bda0aba44b1
-https://uk.linkedin.com/jobs/view/automation-test-analyst-at-logic-managed-services-4437675641|652b2b497b7f2d11
+https://uk.linkedin.com/jobs/view/automation-test-analyst-at-logic-managed-services-4437675641|1353b719d5b0cff9
 https://uk.linkedin.com/jobs/view/automation-test-analyst-at-paritas-recruitment-4355906380|0feb98c60da0f27c
 https://uk.linkedin.com/jobs/view/automation-test-analyst-at-paritas-recruitment-4399017529|9d180428d33837c1
 https://uk.linkedin.com/jobs/view/automation-test-analyst-at-response-informatics-4440057382|28880967696e469d
