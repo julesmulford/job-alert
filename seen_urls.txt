@@ -747,7 +747,7 @@ https://uk.linkedin.com/jobs/view/qa-tester-at-dwp-digital-4379913421|f44629cbea
 https://uk.linkedin.com/jobs/view/qa-tester-at-haystack-4392449076|092c8637589a495b
 https://uk.linkedin.com/jobs/view/qa-tester-at-haystack-4408887883|68d8681c72038ff2
 https://uk.linkedin.com/jobs/view/qa-tester-at-hyra-4388581776|26634eb8b9290d65
-https://uk.linkedin.com/jobs/view/qa-tester-at-ibm-sixworks-4416616287|2ccee5dbabdf88d2
+https://uk.linkedin.com/jobs/view/qa-tester-at-ibm-sixworks-4416616287|cc19ee7d20c6faf7
 https://uk.linkedin.com/jobs/view/qa-tester-at-io-associates-4380475808|8fc9914ac5d1615e
 https://uk.linkedin.com/jobs/view/qa-tester-at-light-wonder-4377181769|97d3465735bb399b
 https://uk.linkedin.com/jobs/view/qa-tester-at-orbital-4412021626|2f3366c03192719e
@@ -1213,8 +1213,8 @@ https://uk.linkedin.com/jobs/view/software-qa-fruition-group-at-jobster-43601613
 https://uk.linkedin.com/jobs/view/software-qa-tester-at-capita-4387887563|e3da46052fb54cb0
 https://uk.linkedin.com/jobs/view/software-qa-tester-at-capita-4400415413|2d7bfe44eadd0b93
 https://uk.linkedin.com/jobs/view/software-qa-tester-at-capita-4413332118|05452118581066eb
-https://uk.linkedin.com/jobs/view/software-quality-assurance-analyst-at-mirav-technologies-4442169912|b48598b07be566e7
-https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-crane-authentication-nxt-4441979095|5d5153f5b1333256
+https://uk.linkedin.com/jobs/view/software-quality-assurance-analyst-at-mirav-technologies-4442169912|be596265cf46b935
+https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-crane-authentication-nxt-4441979095|2b097f6ac2deefdc
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-dartt-4392318139|72ca70b3de962ce2
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-michael-james-associates-4329040513|3934a53764eda1b8
 https://uk.linkedin.com/jobs/view/software-quality-assurance-engineer-at-nuclera-4386735718|a7ef651c447512b4
@@ -1385,7 +1385,7 @@ https://uk.linkedin.com/jobs/view/test-development-engineer-at-insignis-talent-4
 https://uk.linkedin.com/jobs/view/test-development-engineer-at-marcus-webb-associates-limited-4371971094|f7621f0f831ed5fc
 https://uk.linkedin.com/jobs/view/test-development-engineer-at-murata-power-solutions-4395665499|60c1dc2e3b0d2101
 https://uk.linkedin.com/jobs/view/test-development-engineer-at-octagon-group-4398235054|b71e018019bf0b01
-https://uk.linkedin.com/jobs/view/test-development-engineer-at-sti-limited-4439629329|6f0a5f8a6fee4b05
+https://uk.linkedin.com/jobs/view/test-development-engineer-at-sti-limited-4439629329|efdc5e03f0ddc937
 https://uk.linkedin.com/jobs/view/test-development-engineer-at-tiptopjob-4424948635|cd89c6a651d7a187
 https://uk.linkedin.com/jobs/view/test-development-engineer-electronics-at-verso-recruitment-group-4401293913|71229f29a7291b36
 https://uk.linkedin.com/jobs/view/test-early-careers-at-marks-and-spencer-4363869850|a15805b0fe529652
@@ -1503,7 +1503,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-id49644-at-humand-talent-4432383
 https://uk.linkedin.com/jobs/view/test-engineer-in-circuit-bmr-solutions-ltd-at-jobster-4359208383|7c7bff9b7b68f7dc
 https://uk.linkedin.com/jobs/view/test-engineer-iot-audio-video-networks-at-mayflower-recruitment-ltd-4349703749|3c702b2fbfb7c4e6
 https://uk.linkedin.com/jobs/view/test-engineer-mi5-the-security-service-heo-at-free-work-uk-4377193089|97f56351fdb80e51
-https://uk.linkedin.com/jobs/view/test-engineer-qa-at-zunzun-solutions-4442118929|3d11a272eaf8bd64
+https://uk.linkedin.com/jobs/view/test-engineer-qa-at-zunzun-solutions-4442118929|1b0d4cae2bd09034
 https://uk.linkedin.com/jobs/view/test-engineer-sc-cleared-it-contractor-at-free-work-uk-4370371459|9bc43bdd44e2cb5a
 https://uk.linkedin.com/jobs/view/test-engineer-scrum-tester-at-honeywell-4410724926|06ae35b31f7d4a58
 https://uk.linkedin.com/jobs/view/test-engineer-senior-test-engineer-cloud-at-io-associates-4369370225|bbe6e464b155e6f0
@@ -1528,7 +1528,7 @@ https://uk.linkedin.com/jobs/view/test-lead-operational-technology-poweron-adms-
 https://uk.linkedin.com/jobs/view/test-lead-oracle-field-services-at-bluerose-technologies-4410096750|159aa3e5be9a0f85
 https://uk.linkedin.com/jobs/view/test-lead-studentjob-co-uk-at-jobster-4330124478|76bd8d41538ebdf2
 https://uk.linkedin.com/jobs/view/test-listing-at-tr-construction-group-4431378616|540b05c315a953cf
-https://uk.linkedin.com/jobs/view/test-manager-at-primus-global-solutions-primus-uk-europe-4442435899|f5c7d9248ea02461
+https://uk.linkedin.com/jobs/view/test-manager-at-primus-global-solutions-primus-uk-europe-4442435899|91a06b4c6ef9794b
 https://uk.linkedin.com/jobs/view/test-manager-at-stellar-omada-4424754552|b14e5fa6dbca9a79
 https://uk.linkedin.com/jobs/view/test-means-engineer-at-scalian-4379912037|bb106f967f196aaa
 https://uk.linkedin.com/jobs/view/test-means-engineer-at-segula-technologies-4388521223|388153e58fe49a38
