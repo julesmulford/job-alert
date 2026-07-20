@@ -791,7 +791,7 @@ https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-recenso-services
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-searchability-ns-d-4403893548|b6267d57a9699238
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-software-de-4408433584|3b1153d25676afaa
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-switch-tech-talent-4435972743|85169bfd0a8b1d6b
-https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tagmatix360-4442586063|5ff40588fd83f991
+https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tagmatix360-4442586063|fb8eb672256beb25
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tait-4436464958|997b1aed535b04d8
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tgs-international-group-4361421723|a09cad407db3bf01
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-transport-for-london-4431211914?position=27&pageNum=0&refId=2KzeOPBAC/ou9OHz7yIUVA==&trackingId=wT4hwt68c0bzE08zi0XsVg==|6fb9cf1c48365db1
@@ -829,6 +829,7 @@ https://uk.linkedin.com/jobs/view/quality-engineer-at-netrolynx-ai-4403596610|88
 https://uk.linkedin.com/jobs/view/quality-engineer-at-netrolynx-ai-4406835100|67ade7a04f2a9404
 https://uk.linkedin.com/jobs/view/quality-engineer-at-platform-recruitment-4412679146|66d7dc51f2776a8c
 https://uk.linkedin.com/jobs/view/quality-engineer-remote-at-taskify-ai-4339838044|68c9e9b88a7f9aa6
+https://uk.linkedin.com/jobs/view/quality-engineer-tester-at-csi-global-ltd-4442579672|b6dc352250d8ea4a
 https://uk.linkedin.com/jobs/view/quality-engineer-tester-at-tagmatix360-4438592964|b114eec90e413914
 https://uk.linkedin.com/jobs/view/quality-engineering-lead-test-lead-software-engineering-at-randstad-digital-uk-4435972339|446a110ca7d9ba46
 https://uk.linkedin.com/jobs/view/quality-test-engineer-at-ixceed-solutions-4412937083|e00fce1210728862
@@ -1378,6 +1379,7 @@ https://uk.linkedin.com/jobs/view/test-automation-engineer-mobile-at-person-cent
 https://uk.linkedin.com/jobs/view/test-automation-engineer-sc-cleared-at-version-1-4396652685|4a29d1fd9487a422
 https://uk.linkedin.com/jobs/view/test-automation-lead-at-natobotics-4346044508|1202ef8b183040bc
 https://uk.linkedin.com/jobs/view/test-automation-lead-at-premier-group-4430951195|ad3a06b7a2382f74
+https://uk.linkedin.com/jobs/view/test-automation-lead-at-premier-group-4442577908|d4194d0f3cc50074
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-83zero-4361861230|151e79f8e8f78d58
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-ceox-services-ltd-4345182421|0cbc1dbc9a3a05d3
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-coforge-4389582934|6a2ed6687c1833f5
