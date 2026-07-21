@@ -578,7 +578,7 @@ https://uk.linkedin.com/jobs/view/mid-senior-qa-analyst-at-ve3-4435454968|85036b
 https://uk.linkedin.com/jobs/view/mid-senior-qa-engineer-b2b-saas-uk-at-transreport-4433797754|f6459ec6c239a9fa
 https://uk.linkedin.com/jobs/view/mobile-automation-test-engineer-at-solirius-reply-4434310722|bcbc42827e48ff85
 https://uk.linkedin.com/jobs/view/mobile-qa-engineer-at-leo-club-maastricht-4343199676|fc2cf7916d082ecf
-https://uk.linkedin.com/jobs/view/mobile-qa-engineer-at-thrive-it-systems-4442010855|43a0b8b0889eb3d4
+https://uk.linkedin.com/jobs/view/mobile-qa-engineer-at-thrive-it-systems-4442010855|23625e4469120f46
 https://uk.linkedin.com/jobs/view/mot-tester-at-peoples-ford-4406829537|d6f61aeddeb4eef5
 https://uk.linkedin.com/jobs/view/mot-tester-at-the-test-centre-i-nothing-but-mots-4397741155|3ae54c1010ce688d
 https://uk.linkedin.com/jobs/view/multiple-automation-developers-at-mrj-recruitment-4361826210|7c7c50d2ebb6fe2b
@@ -698,7 +698,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-at-team-creation-4435175191|088cf0
 https://uk.linkedin.com/jobs/view/qa-engineer-at-tilo-consulting-4429566074|51e6d5e71fb6ece5
 https://uk.linkedin.com/jobs/view/qa-engineer-at-track24-4329964964|e6c5aaea37e21a83
 https://uk.linkedin.com/jobs/view/qa-engineer-at-trakd-4432295792|ca166a3b415953f4
-https://uk.linkedin.com/jobs/view/qa-engineer-at-trust-in-soda-4442758210|a6be812ba20fa982
+https://uk.linkedin.com/jobs/view/qa-engineer-at-trust-in-soda-4442758210|668331e37f1884b8
 https://uk.linkedin.com/jobs/view/qa-engineer-at-women-in-tech-4397374727|a1bafc4e64a15e10
 https://uk.linkedin.com/jobs/view/qa-engineer-at-xpertise-recruitment-4352390269|bfdbf73c88f4aaa3
 https://uk.linkedin.com/jobs/view/qa-engineer-automation-at-esure-group-4374899573|b6dd12b78117302a
@@ -1496,7 +1496,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-sunamp-4344711208|ff79e30e456
 https://uk.linkedin.com/jobs/view/test-engineer-at-symmetric-recruitment-ltd-4328901592|b9f9869ca4e8a98b
 https://uk.linkedin.com/jobs/view/test-engineer-at-system-c-4325418648|38415537ff2c427d
 https://uk.linkedin.com/jobs/view/test-engineer-at-tact-4340346408|198d7eec60f85fa0
-https://uk.linkedin.com/jobs/view/test-engineer-at-tagmatix360-4442586063|4bf182979db517d2
+https://uk.linkedin.com/jobs/view/test-engineer-at-tagmatix360-4442586063|0a3b26764790d512
 https://uk.linkedin.com/jobs/view/test-engineer-at-tata-consultancy-services-4435057396|5ac73eeeebfea313
 https://uk.linkedin.com/jobs/view/test-engineer-at-test-4436300993|6e98486a638ec05b
 https://uk.linkedin.com/jobs/view/test-engineer-at-tiptopjob-4404018338|ae9f344ce54774c3
