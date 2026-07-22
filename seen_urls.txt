@@ -578,7 +578,7 @@ https://uk.linkedin.com/jobs/view/mid-senior-qa-analyst-at-ve3-4435454968|85036b
 https://uk.linkedin.com/jobs/view/mid-senior-qa-engineer-b2b-saas-uk-at-transreport-4433797754|f6459ec6c239a9fa
 https://uk.linkedin.com/jobs/view/mobile-automation-test-engineer-at-solirius-reply-4434310722|bcbc42827e48ff85
 https://uk.linkedin.com/jobs/view/mobile-qa-engineer-at-leo-club-maastricht-4343199676|fc2cf7916d082ecf
-https://uk.linkedin.com/jobs/view/mobile-qa-engineer-at-oliver-bernard-4440472385|93dfb93471b537e0
+https://uk.linkedin.com/jobs/view/mobile-qa-engineer-at-oliver-bernard-4440472385|510fcbc5cbe6ab1d
 https://uk.linkedin.com/jobs/view/mobile-qa-engineer-at-thrive-it-systems-4442010855|aafa3fec0a936e3f
 https://uk.linkedin.com/jobs/view/mot-tester-at-peoples-ford-4406829537|d6f61aeddeb4eef5
 https://uk.linkedin.com/jobs/view/mot-tester-at-the-test-centre-i-nothing-but-mots-4397741155|3ae54c1010ce688d
@@ -657,7 +657,7 @@ https://uk.linkedin.com/jobs/view/qa-automation-engineer-london-stock-exchange-g
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-london-stock-exchange-group-at-jobs-via-efinancialcareers-4398559166|dd46796cbd045405
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-officer-at-state-street-4383367245|369d9d58903db01c
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-on-site-at-insight-international-uk-ltd-4325026085|b354a5572290a238
-https://uk.linkedin.com/jobs/view/qa-automation-engineer-playwright-cypress-contract-at-hedgehog-lab-4440456814|8f6dd4abde8c0033
+https://uk.linkedin.com/jobs/view/qa-automation-engineer-playwright-cypress-contract-at-hedgehog-lab-4440456814|e417819c2ccba4db
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-python-pytest-cosmos-db-banking-client-exp-required-vallum-associates-at-jobster-4354477343|9f07fc8ceeadf8ac
 https://uk.linkedin.com/jobs/view/qa-automation-engineer-redrock-resourcing-at-jobster-4359228463|2e3cd3c3a96e239a
 https://uk.linkedin.com/jobs/view/qa-data-test-engineer-at-venturi-4431271878|c6ee41816b0cb82b
@@ -1202,7 +1202,7 @@ https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-at-mlabs
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-at-royal-london-4375868118|c772565f1d25218b
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-data-tester-automation-engineer-asset-management-outside-ir35-at-bangura-solutions-4371954322|b677280231bcea1f
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-at-bede-gaming-4397503215|c8fa1c114fb75bfc
-https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-at-mindstep-4443504702|a81cdd76e01bae2a
+https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-at-mindstep-4443504702|c931f8995fb87289
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-defence-at-ibm-4372625294|9d8c5924906886f5
 https://uk.linkedin.com/jobs/view/software-development-test-engineer-at-barclays-4422767539|7d9c8feb7aa5a8cf
 https://uk.linkedin.com/jobs/view/software-development-test-engineer-at-haystack-4398406307|7b0635c84ceb6721
