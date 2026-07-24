@@ -1,3 +1,4 @@
+https://businessnewswales.com/how-admiral-is-developing-digital-talent-from-within/|0cee757b100c98e7
 https://careers.kainos.com/gb/en/job/JR_17467/Senior-Test-Engineer|a248002db3987763
 https://careers.rsmuk.com/uk/en/job/req12240/AI-Automation-Engineer|f0b7619cea4fa24f
 https://destinydot.com/job/uk-it-jobs-for-foreigners-2026/|e8e10bea979ee07c
@@ -1474,6 +1475,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4406265770|94a31
 https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4407869478|dad2c6b063dd931c
 https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4409860991|9b411c4c2df22361
 https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4434002834|9cc0b3d722ff9e88
+https://uk.linkedin.com/jobs/view/test-engineer-at-ic-resources-4444472786|271ffada54b69ef0
 https://uk.linkedin.com/jobs/view/test-engineer-at-infinity-quest-4435119974|21531f1df4b2be10
 https://uk.linkedin.com/jobs/view/test-engineer-at-isr-recruitment-4344881979|4bd14c58dfb08bfa
 https://uk.linkedin.com/jobs/view/test-engineer-at-isr-recruitment-4430706023|4ce29bcaf5689ff1
@@ -2392,6 +2394,7 @@ https://www.jobsinwales.com/jobs-in-pontyclun/test-engineer_1438890?region=south
 https://www.jobsinwales.com/jobs-in-pontyclun/test-engineer_1444048?region=south|0dba12009be6215e
 https://www.jobsinwales.com/jobs-in-st-asaph/test-engineer_1425893?region=south|3d77650c53142102
 https://www.jobsinwales.com/jobs-in-tongwynlais/hw-qa-engineer_1460950?region=south|c5aa7d479baf9f5d
+https://www.lainternational.com/careers/automation-test-engineer-sc-cleared-united-kingdom-lzm149430autotest_1784826439-28670|931f2fba403615c6
 https://www.microtech-global.com/en/job_detail.asp?jobid=19003UMQ|045f1298b72e0376
 https://www.microtech-global.com/en/job_detail.asp?jobid=19003URX|1e85e98d76bc1668
 https://www.microtech-global.com/en/job_detail.asp?jobid=19003US4|1c1d716c5c9f7fe1
