@@ -384,7 +384,7 @@ https://uk.linkedin.com/jobs/view/automation-test-analyst-at-synapri-4418138339?
 https://uk.linkedin.com/jobs/view/automation-test-analyst-lead-at-ampstek-4417853941|6c0b30b2f49349b6
 https://uk.linkedin.com/jobs/view/automation-test-analyst-studentjob-co-uk-at-jobster-4367740133|f8757f24b5c8f272
 https://uk.linkedin.com/jobs/view/automation-test-architect-at-dxc-technology-4383975166|8b6f7fdeb6e2562b
-https://uk.linkedin.com/jobs/view/automation-test-engineer-at-accenture-4441808873|73c877730ad6786f
+https://uk.linkedin.com/jobs/view/automation-test-engineer-at-accenture-4441808873|869468e493f4f245
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-amber-labs-4369132371|dcf50af6ecd575b4
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-cgi-4378007828|e856eaa8afe68fda
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-coltech-4417209552|2368351fadae1ab5
@@ -684,7 +684,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-at-fetchjobs-co-4415778699|3c7aca7
 https://uk.linkedin.com/jobs/view/qa-engineer-at-haystack-4386368058|c7cef3bf37083af5
 https://uk.linkedin.com/jobs/view/qa-engineer-at-hid-4373953970|63a9432141f21c9b
 https://uk.linkedin.com/jobs/view/qa-engineer-at-hirenza-4381940293|0727e077eea4d7be
-https://uk.linkedin.com/jobs/view/qa-engineer-at-indra-group-uk-ireland-4445200049|b8009ed13390f377
+https://uk.linkedin.com/jobs/view/qa-engineer-at-indra-group-uk-ireland-4445200049|919be0d94d47bf43
 https://uk.linkedin.com/jobs/view/qa-engineer-at-io-associates-4368786425|b92e6b104a8b4e2f
 https://uk.linkedin.com/jobs/view/qa-engineer-at-kanz-4429765014|a310f7f13f45f814
 https://uk.linkedin.com/jobs/view/qa-engineer-at-ldms-4373929610|eedaccf95ecbfe1f
@@ -1496,7 +1496,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-nhs-4344984973|43bdc87c9ebc6e
 https://uk.linkedin.com/jobs/view/test-engineer-at-noir-4391575462?refId=YFMtumkk92R3Odlti783EA==&trackingId=p/8elq5/o/Y+ywvlS0q2LQ==|a7b90acaa4e51d14
 https://uk.linkedin.com/jobs/view/test-engineer-at-noir-4405639177|89561d95d145de22
 https://uk.linkedin.com/jobs/view/test-engineer-at-noir-4431656353|bc1ce6ee5896f9c4
-https://uk.linkedin.com/jobs/view/test-engineer-at-noir-4444944924|27fa1d9a5b63f6ff
+https://uk.linkedin.com/jobs/view/test-engineer-at-noir-4444944924|44a80e6a2f885c59
 https://uk.linkedin.com/jobs/view/test-engineer-at-north-scout-4386854950|fd2155ae786dec6d
 https://uk.linkedin.com/jobs/view/test-engineer-at-novanta-inc-4394466359|28e55abdd662a3b6
 https://uk.linkedin.com/jobs/view/test-engineer-at-oho-group-4374616530|7a138b8b7d0aaf6a
@@ -1525,7 +1525,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-tact-4340346408|198d7eec60f85
 https://uk.linkedin.com/jobs/view/test-engineer-at-tagmatix360-4442586063|39ff3ab9a85b83d0
 https://uk.linkedin.com/jobs/view/test-engineer-at-tata-consultancy-services-4435057396|5ac73eeeebfea313
 https://uk.linkedin.com/jobs/view/test-engineer-at-test-4436300993|6e98486a638ec05b
-https://uk.linkedin.com/jobs/view/test-engineer-at-thrive-4444347271|08f887be7ff48a61
+https://uk.linkedin.com/jobs/view/test-engineer-at-thrive-4444347271|b0e9f1b62198ea07
 https://uk.linkedin.com/jobs/view/test-engineer-at-tiptopjob-4404018338|ae9f344ce54774c3
 https://uk.linkedin.com/jobs/view/test-engineer-at-tiptopjob-4436970706|2a331c7a62797639
 https://uk.linkedin.com/jobs/view/test-engineer-at-trant-engineering-limited-4418477239|693e2ea96d850c4c
