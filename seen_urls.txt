@@ -333,7 +333,7 @@ https://uk.linkedin.com/jobs/view/automation-engineer-at-dabster-4374930118|a75d
 https://uk.linkedin.com/jobs/view/automation-engineer-at-danone-4409046169|e3d1803aefa766ab
 https://uk.linkedin.com/jobs/view/automation-engineer-at-darktrace-4343433811|a6b597fa89c4339f
 https://uk.linkedin.com/jobs/view/automation-engineer-at-dats-recruitment-4436652659|4296fc92967373de
-https://uk.linkedin.com/jobs/view/automation-engineer-at-erin-associates-limited-4445287413|511e5477c7c561ee
+https://uk.linkedin.com/jobs/view/automation-engineer-at-erin-associates-limited-4445287413|a15d5e18b45e452b
 https://uk.linkedin.com/jobs/view/automation-engineer-at-gxo-logistics-inc-4344864037|fc330bda3d1d5438
 https://uk.linkedin.com/jobs/view/automation-engineer-at-hastings-direct-4401772106|19494284c6e4bd74
 https://uk.linkedin.com/jobs/view/automation-engineer-at-haystack-4392354386|45bae7c7a8cca6a7
@@ -530,7 +530,7 @@ https://uk.linkedin.com/jobs/view/intelligent-automation-engineer-at-experis-uk-
 https://uk.linkedin.com/jobs/view/iot-test-lead-engineer-at-vodafone-4397564463|175f0be70f272880
 https://uk.linkedin.com/jobs/view/java-sdet-at-cognizant-4346115894|831da1900154ff7d
 https://uk.linkedin.com/jobs/view/jcf-test-at-johnston-carmichael-chartered-accountants-and-business-advisers-4328142874|ef4d79395c541bb8
-https://uk.linkedin.com/jobs/view/jetbrains-plugin-tester-at-obra-studio-4441890914|0bcb9f38139fa7d1
+https://uk.linkedin.com/jobs/view/jetbrains-plugin-tester-at-obra-studio-4441890914|16b4548a61597b40
 https://uk.linkedin.com/jobs/view/job-alert-test-at-salford-city-college-group-4389258203|d3bdea1723ed68d9
 https://uk.linkedin.com/jobs/view/junior-qa-engineer-at-welland-medical-ltd-4345437790|04701112bba25875
 https://uk.linkedin.com/jobs/view/junior-test-acceptance-engineer-at-indra-group-uk-ireland-4436739566?position=30&pageNum=0&refId=h6VIoua2np9M3hzasEBRCw==&trackingId=NfQ6yQUIoQ/T7oZDGVcUbw==|eb2bf66b120b9c7c
@@ -568,7 +568,7 @@ https://uk.linkedin.com/jobs/view/lead-test-engineer-test-lead-qa-lead-sdet-at-h
 https://uk.linkedin.com/jobs/view/linkedin-test-at-logic-melon-middleware-test-company-4365254834|8f97d760e8c3ae71
 https://uk.linkedin.com/jobs/view/low-code-automation-engineer-freelance-ai-trainer-at-mindrift-4403798463|3fd34bc68e205c96
 https://uk.linkedin.com/jobs/view/lqa-game-tester-with-dutch-at-testronic-4412472898?position=19&pageNum=0&refId=35Foyzen9iNcbas9lfS3eA==&trackingId=3BgZ3HsDbNBtRkYrlfMQbA==|ae543ea7a7e3b9fd
-https://uk.linkedin.com/jobs/view/magnus-test-team-at-st-vincent-s-foundation-victoria-4444688715|6a6da070518b4219
+https://uk.linkedin.com/jobs/view/magnus-test-team-at-st-vincent-s-foundation-victoria-4444688715|096877f2f1a8dceb
 https://uk.linkedin.com/jobs/view/manual-automation-tester-at-sparta-global-4416813827|753edf736d46e42d
 https://uk.linkedin.com/jobs/view/manual-test-engineer-application-testing-and-network-testing-at-queen-square-recruitment-4389648078|926b39ed6ecc8760
 https://uk.linkedin.com/jobs/view/manual-test-engineer-at-oho-group-4407920631|77901384096f8ced
@@ -578,7 +578,7 @@ https://uk.linkedin.com/jobs/view/manual-tester-12-month-ftc-1-4-years-exp-max-a
 https://uk.linkedin.com/jobs/view/manual-uat-tester-at-lumenalta-4340390240|58c3a7aebd070700
 https://uk.linkedin.com/jobs/view/manufacturing-systems-automation-engineer-at-anson-mccade-4398817630|1ef8e255dcc290d9
 https://uk.linkedin.com/jobs/view/manufacturing-test-engineer-with-labview-at-eaton-4412093443|1de5312b6e6554bf
-https://uk.linkedin.com/jobs/view/marketing-ai-automation-engineer-at-besque-4445390355|3b881cdfae87de5f
+https://uk.linkedin.com/jobs/view/marketing-ai-automation-engineer-at-besque-4445390355|3ee45a2a87a0b995
 https://uk.linkedin.com/jobs/view/material-testing-engineer-soft-trim-materials-at-q1-technologies-inc-4348911405|cb3fe222a3e4901d
 https://uk.linkedin.com/jobs/view/materials-test-engineer-at-survitec-group-ltd-4339849541|2c6bcc5397f412dc
 https://uk.linkedin.com/jobs/view/mechanical-test-technician-at-aqumen-recruitment-4418978254|cedfafc010dc7ee4
