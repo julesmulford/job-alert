@@ -522,6 +522,7 @@ https://uk.linkedin.com/jobs/view/iam-automation-test-engineer-at-test-yantra-44
 https://uk.linkedin.com/jobs/view/infrastructure-test-analysts-at-xpertise-recruitment-4363827060|4d0f293f8b73f6b7
 https://uk.linkedin.com/jobs/view/infrastructure-test-engineer-dv-security-clearance-at-women-in-tech-4434438147|a2a9aec6cf11d378
 https://uk.linkedin.com/jobs/view/infrastructure-test-engineer-secure-cloud-infrastructure-sc-clearance-at-cgi-4403526522|ce86c3d06a536bba
+https://uk.linkedin.com/jobs/view/infrastructure-test-engineer-secure-cloud-infrastructure-sc-clearance-at-women-in-tech-4445670051|83a99e75e15aaee4
 https://uk.linkedin.com/jobs/view/ingeniero-qa-crm-at-babel-4403541301|ed1f9c7b540a08b6
 https://uk.linkedin.com/jobs/view/integration-test-engineer-at-hme-4364014827|2d4657fb83b4c3dd
 https://uk.linkedin.com/jobs/view/integration-test-engineer-at-hme-4422147142|e246a26ab9320e85
@@ -552,6 +553,7 @@ https://uk.linkedin.com/jobs/view/lead-salesforce-test-engineer-at-axa-health-43
 https://uk.linkedin.com/jobs/view/lead-software-test-automation-engineer-at-envision-pharma-group-4400612881|0265fa6f2bc85fcd
 https://uk.linkedin.com/jobs/view/lead-software-test-engineer-at-edwards-vacuum-4386265396|e52047e750094536
 https://uk.linkedin.com/jobs/view/lead-test-automation-engineer-at-uk-hydrographic-office-4412104432|2c117db340faf128
+https://uk.linkedin.com/jobs/view/lead-test-engineer-at-ceox-services-ltd-4445908539|66ee9cb7b3e0d483
 https://uk.linkedin.com/jobs/view/lead-test-engineer-at-dwp-digital-4343452622|51516104c77510d8
 https://uk.linkedin.com/jobs/view/lead-test-engineer-at-haystack-4392361746|23918e9a52a8ab8a
 https://uk.linkedin.com/jobs/view/lead-test-engineer-at-haystack-4403850993|1bbb51da625fba1e
@@ -604,6 +606,7 @@ https://uk.linkedin.com/jobs/view/new-test-at-healthnet-homecare-uk-ltd-43995811
 https://uk.linkedin.com/jobs/view/new-test-at-healthnet-homecare-uk-ltd-4400813332|08372c22c2f6a040
 https://uk.linkedin.com/jobs/view/new-test-job-rakel-at-epsilon-4396597265|5df7835d9662c85c
 https://uk.linkedin.com/jobs/view/non-destructive-test-engineer-ndt-at-risktec-solutions-4418729669|b424dd9872d2417c
+https://uk.linkedin.com/jobs/view/non-functional-test-lead-api-automation-asset-management-outside-ir35-at-bangura-solutions-4442361727|9288679c25cd0fae
 https://uk.linkedin.com/jobs/view/non-functional-test-manager-at-institute-of-communication-4364550613|7bd54b14cc24f747
 https://uk.linkedin.com/jobs/view/non-functional-tester-performance-accessibility-at-cognizant-4425410385|0174d2cfa90a0c19
 https://uk.linkedin.com/jobs/view/offensive-security-tester-at-hackajob-4321452018|42eb01360b963bb5
