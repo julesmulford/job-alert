@@ -709,7 +709,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-at-netrolynx-ai-4400904066|777f4f0
 https://uk.linkedin.com/jobs/view/qa-engineer-at-netrolynx-ai-4409840524|ec3636ccb76a4af4
 https://uk.linkedin.com/jobs/view/qa-engineer-at-ohmyfood-4430714984|2c909e9008f7fbd1
 https://uk.linkedin.com/jobs/view/qa-engineer-at-opus-recruitment-solutions-4392192500|aabe8f956a2efc2b
-https://uk.linkedin.com/jobs/view/qa-engineer-at-opus-recruitment-solutions-4446401055|243041fdd5444b60
+https://uk.linkedin.com/jobs/view/qa-engineer-at-opus-recruitment-solutions-4446401055|0d9c5a3cdd41d181
 https://uk.linkedin.com/jobs/view/qa-engineer-at-person-centred-software-ltd-4376751447|6bc0c8359f292f52
 https://uk.linkedin.com/jobs/view/qa-engineer-at-radius-4377861129|575daf99b84b2976
 https://uk.linkedin.com/jobs/view/qa-engineer-at-reassured-4442818255|506374850a2865cd
@@ -2414,6 +2414,7 @@ https://www.jobsgopublic.com/job/lead-test-engineer-50154|a90ac971c5bf5346
 https://www.jobsgopublic.com/job/lead-test-engineer-63610|bafbe7e2eea726cc
 https://www.jobsgopublic.com/job/lead-test-engineer-automation-40578|f106d4abcd8cf4bd
 https://www.jobsgopublic.com/job/senior-test-engineer-40761|e8c468bee652d3fb
+https://www.jobsgopublic.com/job/senior-test-engineer-ps81736-75224|bafbe7e2eea726cc
 https://www.jobsgopublic.com/job/systems-test-engineer-42031|e7fa5e24d0f6f187
 https://www.jobsgopublic.com/job/test-engineer-42038|c25171f4def6acd0
 https://www.jobsgopublic.com/job/test-engineer-44451|c711b8352b522ead
