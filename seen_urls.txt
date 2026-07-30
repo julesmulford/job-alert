@@ -889,6 +889,7 @@ https://uk.linkedin.com/jobs/view/sc-cleared-automation-test-engineer-at-hays-44
 https://uk.linkedin.com/jobs/view/sc-cleared-manual-tester-at-experis-uk-4413484194|4cd5026d4f40df3b
 https://uk.linkedin.com/jobs/view/sc-cleared-qa-engineer-at-experis-uk-4392069111|2e79da66ec0091c7
 https://uk.linkedin.com/jobs/view/scada-test-lead-at-queen-square-recruitment-4433181071|bdeeda302e2ab32b
+https://uk.linkedin.com/jobs/view/sdet-at-la-fosse-4446779710|5a27bae071163b29
 https://uk.linkedin.com/jobs/view/sdet-at-techshack-4359410354|cfde93afeb07d39f
 https://uk.linkedin.com/jobs/view/sdet-at-xcede-4325820951|5d46d56bc466b04d
 https://uk.linkedin.com/jobs/view/sdet-engineer-at-clearroute-4369294926|c0cc81cf38c49f9f
