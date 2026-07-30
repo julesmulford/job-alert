@@ -709,7 +709,7 @@ https://uk.linkedin.com/jobs/view/qa-engineer-at-netrolynx-ai-4400904066|777f4f0
 https://uk.linkedin.com/jobs/view/qa-engineer-at-netrolynx-ai-4409840524|ec3636ccb76a4af4
 https://uk.linkedin.com/jobs/view/qa-engineer-at-ohmyfood-4430714984|2c909e9008f7fbd1
 https://uk.linkedin.com/jobs/view/qa-engineer-at-opus-recruitment-solutions-4392192500|aabe8f956a2efc2b
-https://uk.linkedin.com/jobs/view/qa-engineer-at-opus-recruitment-solutions-4446401055|9704474367cb1938
+https://uk.linkedin.com/jobs/view/qa-engineer-at-opus-recruitment-solutions-4446401055|afc8f64517c1d56f
 https://uk.linkedin.com/jobs/view/qa-engineer-at-person-centred-software-ltd-4376751447|6bc0c8359f292f52
 https://uk.linkedin.com/jobs/view/qa-engineer-at-radius-4377861129|575daf99b84b2976
 https://uk.linkedin.com/jobs/view/qa-engineer-at-reassured-4442818255|506374850a2865cd
@@ -1245,7 +1245,7 @@ https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-data-tes
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-at-bede-gaming-4397503215|c8fa1c114fb75bfc
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-at-mindstep-4443504702|81260fc955b9455a
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-defence-at-ibm-4372625294|9d8c5924906886f5
-https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-java-at-br-dge-4446049399|884fd52cf6de4f85
+https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-sdet-java-at-br-dge-4446049399|c7a7e6a6600f32c7
 https://uk.linkedin.com/jobs/view/software-development-test-engineer-at-barclays-4422767539|7d9c8feb7aa5a8cf
 https://uk.linkedin.com/jobs/view/software-development-test-engineer-at-haystack-4398406307|7b0635c84ceb6721
 https://uk.linkedin.com/jobs/view/software-engineer-iii-sdet-at-hackajob-4329392484|cb7f223f5b6091c4
@@ -1436,7 +1436,7 @@ https://uk.linkedin.com/jobs/view/test-automation-engineer-sc-cleared-at-version
 https://uk.linkedin.com/jobs/view/test-automation-lead-at-natobotics-4346044508|1202ef8b183040bc
 https://uk.linkedin.com/jobs/view/test-automation-lead-at-premier-group-4430951195|ad3a06b7a2382f74
 https://uk.linkedin.com/jobs/view/test-automation-lead-at-premier-group-4442577908|d4194d0f3cc50074
-https://uk.linkedin.com/jobs/view/test-automation-lead-senior-qa-automation-engineer-at-n-consulting-global-4446586824|bfc3fe4b0119683d
+https://uk.linkedin.com/jobs/view/test-automation-lead-senior-qa-automation-engineer-at-n-consulting-global-4446586824|a67f0cd2271a5c17
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-83zero-4361861230|151e79f8e8f78d58
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-ceox-services-ltd-4345182421|0cbc1dbc9a3a05d3
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-coforge-4389582934|6a2ed6687c1833f5
