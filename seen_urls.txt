@@ -574,7 +574,7 @@ https://uk.linkedin.com/jobs/view/low-code-automation-engineer-freelance-ai-trai
 https://uk.linkedin.com/jobs/view/lqa-game-tester-with-dutch-at-testronic-4412472898?position=19&pageNum=0&refId=35Foyzen9iNcbas9lfS3eA==&trackingId=3BgZ3HsDbNBtRkYrlfMQbA==|ae543ea7a7e3b9fd
 https://uk.linkedin.com/jobs/view/magnus-test-team-at-st-vincent-s-foundation-victoria-4444688715|096877f2f1a8dceb
 https://uk.linkedin.com/jobs/view/manual-automation-tester-at-sparta-global-4416813827|753edf736d46e42d
-https://uk.linkedin.com/jobs/view/manual-qa-engineer-uk-at-flosum-4447591413|666170a1bd033001
+https://uk.linkedin.com/jobs/view/manual-qa-engineer-uk-at-flosum-4447591413|6a4511ac5d96a725
 https://uk.linkedin.com/jobs/view/manual-test-engineer-application-testing-and-network-testing-at-queen-square-recruitment-4389648078|926b39ed6ecc8760
 https://uk.linkedin.com/jobs/view/manual-test-engineer-at-oho-group-4407920631|77901384096f8ced
 https://uk.linkedin.com/jobs/view/manual-test-engineer-at-socium-4424177519|880dfb728a8643c3
@@ -1029,7 +1029,7 @@ https://uk.linkedin.com/jobs/view/senior-qa-engineer-sports-tech-at-client-serve
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-sportsbook-at-sportserve-4369230284|b275f81d8c191d62
 https://uk.linkedin.com/jobs/view/senior-qa-manual-tester-at-maxwell-bond-4395077129|cfcdd8dca0aa3489
 https://uk.linkedin.com/jobs/view/senior-qa-sdet-at-albert-bow-4431918309|6af7c3cd3d817316
-https://uk.linkedin.com/jobs/view/senior-qa-test-lead-at-agntx-4445549248|d22be0ad9f2af8d7
+https://uk.linkedin.com/jobs/view/senior-qa-test-lead-at-agntx-4445549248|4e1da864019b95c8
 https://uk.linkedin.com/jobs/view/senior-qa-tester-ai-solutions-at-mcs-group-your-specialist-recruitment-consultancy-4427038520|2a16141d702850ef
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-clover-4383203683|2ec63e44caf6ced3
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-department-for-work-and-pensions-dwp-4377369600|5075ddaf7fb53d3e
@@ -1053,7 +1053,7 @@ https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-formula-4
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-gravitas-recruitment-group-global-ltd-4381709384|1c87717a8eb0c52f
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-ice-4435172963|bf317a8a39d07df8
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-mhr-4379900477|ad9a2b02e1b5eaf6
-https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-mostyn-chase-4445535089|cabc4e7ec0928b7c
+https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-mostyn-chase-4445535089|45549e22333b74e5
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-at-spacelabs-healthcare-4370274131|2cff467bf705948c
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-engineer-lead-at-eteam-4434448493|4112a9917e754ab8
 https://uk.linkedin.com/jobs/view/senior-quality-assurance-specialist-at-arevna-4387985166|bf234fdf1ef2df61
@@ -1143,7 +1143,7 @@ https://uk.linkedin.com/jobs/view/senior-test-development-engineer-at-ic-resourc
 https://uk.linkedin.com/jobs/view/senior-test-development-engineer-at-ic-resources-4438221535|1ee699cec6724650
 https://uk.linkedin.com/jobs/view/senior-test-development-engineer-at-kaminsky-consulting-4382317048|44948a73a887ebb0
 https://uk.linkedin.com/jobs/view/senior-test-development-engineer-at-morson-talent-4405657098|0f6d937dde2ff73e
-https://uk.linkedin.com/jobs/view/senior-test-development-engineer-at-redline-uk-4447736588|ef39c95eb91ea739
+https://uk.linkedin.com/jobs/view/senior-test-development-engineer-at-redline-uk-4447736588|f8ff83894ffc4ce9
 https://uk.linkedin.com/jobs/view/senior-test-engineer-4g-5g-network-at-vallum-associates-4435168630|9a4ccc842b16adbd
 https://uk.linkedin.com/jobs/view/senior-test-engineer-aims-team-at-cox-automotive-europe-4361768359|d020a1d0249dde09
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-1spatial-4340312479|1c3ed75608427f8e
