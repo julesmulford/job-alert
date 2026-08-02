@@ -104,6 +104,7 @@ https://uk.jobrapido.com/jobpreview/3797409158110642176|f0cb35e69812acf9
 https://uk.jobrapido.com/jobpreview/3800011444435550208|486bf1e4c5161dd2
 https://uk.jobrapido.com/jobpreview/3831600654019723264|e6e7f6da63cdbcb7
 https://uk.jobrapido.com/jobpreview/3833319345312759808|9442d5f525a37fc0
+https://uk.jobrapido.com/jobpreview/402798849963327488|6e232a8af4153fc4
 https://uk.jobrapido.com/jobpreview/4035414324141883392|dd87e234bcac2140
 https://uk.jobrapido.com/jobpreview/4127332826209058816|4d66f1e5e26e90bb
 https://uk.jobrapido.com/jobpreview/4163225352505655296|941069eabffe393a
@@ -223,6 +224,7 @@ https://uk.jobrapido.com/jobpreview/9094772428873138176|3dde5765aea2b34c
 https://uk.jobrapido.com/jobpreview/9114528110203633664|048267a1fa94deda
 https://uk.jobrapido.com/jobpreview/9182285823502974976|3ee4c61d276c4688
 https://uk.jobrapido.com/jobpreview/9193484821878276096|e820d75a22f26709
+https://uk.jobted.com/job/7dfba73063e9d84a5b7fcce966b485da|cf2cbee888dbae96
 https://uk.jobtome.com/job/ai-and-automation-engineer/9e5bacf019879c813fb4e0fafb529473|237ca9162903f374
 https://uk.jobtome.com/job/automation-engineer/26634f8456de7c57c65731aa5c90aea1|2bb723bfa466a766
 https://uk.jobtome.com/job/automation-engineer/5e3f4fcfb8bbc63ee2a60c7e9196d9bc|b2c6653613eddc8d
@@ -290,6 +292,7 @@ https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-hackajob-4324082996|
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-kennedypearce-consulting-4345851075|76be3af28a108a33
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-recepio-lab-4386627361|ea1e0355df9be22f
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-besque-at-jobster-4321426547|9fc06ef842bced82
+https://uk.linkedin.com/jobs/view/ai-automation-engineer-n8n-ai-integrations-remote-at-n8n-devs-4447864482|bfd198bd94c5c22a
 https://uk.linkedin.com/jobs/view/ai-automation-lead-pe-backed-healthtech-at-la-fosse-4403321450|d08f855e215a1311
 https://uk.linkedin.com/jobs/view/ai-automation-specialist-contract-at-aurea-ai-solutions-4381272478|24dcf5e639d64384
 https://uk.linkedin.com/jobs/view/ai-quality-analyst-$70-hr-remote-at-crossing-hurdles-4436089309|8458a2b605bb15d4
@@ -913,7 +916,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-coforge-44417058
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-copello-global-4437286102|2d0c49829d54c137
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-emagine-4433294103|6a887cbba63b11b9
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-haystack-4417511179|5647818d18a740cf
-https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-hyper-recruitment-solutions-4447492530|70ca96b5b6bf7e9f
+https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-hyper-recruitment-solutions-4447492530|b0a858129c8e543f
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-in-technology-group-4429198296|40e2a96ac88b081a
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-kainos-4345647757|d20f9b074a651b7c
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-mrj-recruitment-4424883764|8e4ba6d6c77026c5
@@ -1171,6 +1174,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-diversejobsmatter-4343
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-djr-4431726541|b6043b81b2d1c284
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-drpg-4395867080|f1552489abac2d6e
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-drpg-4416701634|fa49f34e6d042b5c
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-drpg-4447608180|49a7d2041d3842b3
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-dwp-digital-4378785384|89e5a5b58834fc50
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-eclectic-recruitment-ltd-4350658842|7e34576cdebd2678
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-eclerx-4404337793|11e3c5bef3f190cb
@@ -1223,7 +1227,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-aws-microservices-transfo
 https://uk.linkedin.com/jobs/view/senior-test-engineer-d365-at-ao-4327302357|2120d2ade0c3f0f1
 https://uk.linkedin.com/jobs/view/senior-test-engineer-department-for-work-and-pensions-g7-at-manchester-digital-4379187505|4bd35cc3b6041f82
 https://uk.linkedin.com/jobs/view/senior-test-engineer-driver-vehicle-licensing-agency-at-manchester-digital-4403693103|4af008fe784b2cb6
-https://uk.linkedin.com/jobs/view/senior-test-engineer-government-digital-service-g7-at-manchester-digital-4447475549|8411d6d2795d26c6
+https://uk.linkedin.com/jobs/view/senior-test-engineer-government-digital-service-g7-at-manchester-digital-4447475549|e48c29fe5dadb8fb
 https://uk.linkedin.com/jobs/view/senior-test-engineer-mastek-at-jobster-4351888412|3efc0d7a88b7c4d5
 https://uk.linkedin.com/jobs/view/senior-test-engineer-oho-group-ltd-at-jobster-4321515263|ce1e057d1d8ae19d
 https://uk.linkedin.com/jobs/view/senior-test-engineer-public-at-hackajob-4427223458|3729467cdf219551
