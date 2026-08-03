@@ -104,7 +104,7 @@ https://uk.jobrapido.com/jobpreview/3797409158110642176|f0cb35e69812acf9
 https://uk.jobrapido.com/jobpreview/3800011444435550208|486bf1e4c5161dd2
 https://uk.jobrapido.com/jobpreview/3831600654019723264|e6e7f6da63cdbcb7
 https://uk.jobrapido.com/jobpreview/3833319345312759808|9442d5f525a37fc0
-https://uk.jobrapido.com/jobpreview/402798849963327488|d336fc11500e3efa
+https://uk.jobrapido.com/jobpreview/402798849963327488|8962a865bc9fa470
 https://uk.jobrapido.com/jobpreview/4035414324141883392|dd87e234bcac2140
 https://uk.jobrapido.com/jobpreview/4127332826209058816|4d66f1e5e26e90bb
 https://uk.jobrapido.com/jobpreview/4163225352505655296|941069eabffe393a
@@ -185,7 +185,7 @@ https://uk.jobrapido.com/jobpreview/7254862933811789824|3edd1a93f25ed989
 https://uk.jobrapido.com/jobpreview/7280000449682341888|7defc45187488bf7
 https://uk.jobrapido.com/jobpreview/7310275571072630784|ff99219e65ce263e
 https://uk.jobrapido.com/jobpreview/7316729807406891008|6e53c1198e082bb0
-https://uk.jobrapido.com/jobpreview/7466074191180070912|3c97466fd0e95d2b
+https://uk.jobrapido.com/jobpreview/7466074191180070912|46f6b3ba368b0cc0
 https://uk.jobrapido.com/jobpreview/7502031068971663360|92725a7a7e1e788a
 https://uk.jobrapido.com/jobpreview/7540432612083367936|6c82509342352ecc
 https://uk.jobrapido.com/jobpreview/768035047679721472|2b56f6c9b23a4869
@@ -225,7 +225,7 @@ https://uk.jobrapido.com/jobpreview/9094772428873138176|3dde5765aea2b34c
 https://uk.jobrapido.com/jobpreview/9114528110203633664|048267a1fa94deda
 https://uk.jobrapido.com/jobpreview/9182285823502974976|3ee4c61d276c4688
 https://uk.jobrapido.com/jobpreview/9193484821878276096|e820d75a22f26709
-https://uk.jobted.com/job/7dfba73063e9d84a5b7fcce966b485da|cf8a9a1d487bf469
+https://uk.jobted.com/job/7dfba73063e9d84a5b7fcce966b485da|767d55a11f46041d
 https://uk.jobtome.com/job/ai-and-automation-engineer/9e5bacf019879c813fb4e0fafb529473|237ca9162903f374
 https://uk.jobtome.com/job/automation-engineer/26634f8456de7c57c65731aa5c90aea1|2bb723bfa466a766
 https://uk.jobtome.com/job/automation-engineer/5e3f4fcfb8bbc63ee2a60c7e9196d9bc|b2c6653613eddc8d
@@ -293,7 +293,7 @@ https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-hackajob-4324082996|
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-kennedypearce-consulting-4345851075|76be3af28a108a33
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-at-recepio-lab-4386627361|ea1e0355df9be22f
 https://uk.linkedin.com/jobs/view/ai-automation-engineer-besque-at-jobster-4321426547|9fc06ef842bced82
-https://uk.linkedin.com/jobs/view/ai-automation-engineer-n8n-ai-integrations-remote-at-n8n-devs-4447864482|5fe6564b93dc3515
+https://uk.linkedin.com/jobs/view/ai-automation-engineer-n8n-ai-integrations-remote-at-n8n-devs-4447864482|4519207a6fe37539
 https://uk.linkedin.com/jobs/view/ai-automation-lead-pe-backed-healthtech-at-la-fosse-4403321450|d08f855e215a1311
 https://uk.linkedin.com/jobs/view/ai-automation-specialist-contract-at-aurea-ai-solutions-4381272478|24dcf5e639d64384
 https://uk.linkedin.com/jobs/view/ai-quality-analyst-$70-hr-remote-at-crossing-hurdles-4436089309|8458a2b605bb15d4
@@ -1175,7 +1175,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-diversejobsmatter-4343
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-djr-4431726541|b6043b81b2d1c284
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-drpg-4395867080|f1552489abac2d6e
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-drpg-4416701634|fa49f34e6d042b5c
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-drpg-4447608180|68dbb9b474969d09
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-drpg-4447608180|59ee21efefcdf37a
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-dwp-digital-4378785384|89e5a5b58834fc50
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-eclectic-recruitment-ltd-4350658842|7e34576cdebd2678
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-eclerx-4404337793|11e3c5bef3f190cb
@@ -1425,7 +1425,7 @@ https://uk.linkedin.com/jobs/view/test-apps-and-websites-at-userfeel-4433828598|
 https://uk.linkedin.com/jobs/view/test-architect-at-vallum-associates-4421690307|ae2b3cfe9a14df03
 https://uk.linkedin.com/jobs/view/test-area-team-lead-at-tld-4355770978|dc4b8c264c8e2874
 https://uk.linkedin.com/jobs/view/test-authentication-automation-engineer-at-teksystems-4404977885|2acd5efac1a7dd26
-https://uk.linkedin.com/jobs/view/test-automation-architect-at-easiio-inc-4447812133|c3295987b1493343
+https://uk.linkedin.com/jobs/view/test-automation-architect-at-easiio-inc-4447812133|8ab6352795883245
 https://uk.linkedin.com/jobs/view/test-automation-consultant-at-srmd-ltd-4424181837|66fc89365b30a772
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-admiral-money-4443143356|957c060bad56f1f3
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-anson-mccade-4433958884|86eb77f125a45e66
