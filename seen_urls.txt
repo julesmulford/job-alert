@@ -846,7 +846,7 @@ https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-transport-for-lo
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-tria-4350252385|7524309888b21991
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-at-workmaze-4350562868|0d5e8cefa61fc974
 https://uk.linkedin.com/jobs/view/quality-assurance-engineer-data-centre-at-ten11-4397547749|4c865469465d7167
-https://uk.linkedin.com/jobs/view/quality-assurance-engineer-remote-at-hired-4448807724|8ac0409025c3d291
+https://uk.linkedin.com/jobs/view/quality-assurance-engineer-remote-at-hired-4448807724|247943234320fd2e
 https://uk.linkedin.com/jobs/view/quality-assurance-improvement-engineer-at-cambridge-aerospace-4404076178|bd24341a067201c6
 https://uk.linkedin.com/jobs/view/quality-assurance-lead-at-test-yantra-4418595503|2ba6cd4c1e681cac
 https://uk.linkedin.com/jobs/view/quality-assurance-performance-tester-at-infosum-4416629947|bffaf72c121e4615
@@ -1295,7 +1295,7 @@ https://uk.linkedin.com/jobs/view/software-engineer-in-test-at-tact-4433823327|0
 https://uk.linkedin.com/jobs/view/software-engineer-in-test-balance-talent-at-jobster-4360393554|825b9c0992a30987
 https://uk.linkedin.com/jobs/view/software-engineer-in-test-sdet-at-sgi-4400405805|a5c1ab357a9e8548
 https://uk.linkedin.com/jobs/view/software-engineer-in-test-software-development-engineer-in-test-at-datapath-4410967709|ff1915fc655c7a1a
-https://uk.linkedin.com/jobs/view/software-engineer-test-at-resillion-4446648039|ff4823c41404d4c8
+https://uk.linkedin.com/jobs/view/software-engineer-test-at-resillion-4446648039|6515570e847280ac
 https://uk.linkedin.com/jobs/view/software-firmware-test-engineer-at-unipart-4396073060|83e2bd4f1bd597c9
 https://uk.linkedin.com/jobs/view/software-qa-analyst-at-spectrum-it-recruitment-4390968042|b693f19377d05eba
 https://uk.linkedin.com/jobs/view/software-qa-engineer-at-hired-4409461041|cbda71359684a23d
