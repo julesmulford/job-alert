@@ -396,7 +396,7 @@ https://uk.linkedin.com/jobs/view/automation-test-analyst-lead-at-ampstek-441785
 https://uk.linkedin.com/jobs/view/automation-test-analyst-studentjob-co-uk-at-jobster-4367740133|f8757f24b5c8f272
 https://uk.linkedin.com/jobs/view/automation-test-architect-at-dxc-technology-4383975166|8b6f7fdeb6e2562b
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-accenture-4441808873|1f753806517115bb
-https://uk.linkedin.com/jobs/view/automation-test-engineer-at-altus-group-4448037509|9384cc2626ebbea5
+https://uk.linkedin.com/jobs/view/automation-test-engineer-at-altus-group-4448037509|94c07c3fe51564b1
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-amber-labs-4369132371|dcf50af6ecd575b4
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-cgi-4378007828|e856eaa8afe68fda
 https://uk.linkedin.com/jobs/view/automation-test-engineer-at-coltech-4417209552|2368351fadae1ab5
@@ -635,7 +635,7 @@ https://uk.linkedin.com/jobs/view/performance-qa-engineer-at-opus-recruitment-so
 https://uk.linkedin.com/jobs/view/performance-test-engineer-at-coforge-4327626051|646ad838432143d4
 https://uk.linkedin.com/jobs/view/performance-test-engineer-at-primus-global-solutions-primus-uk-europe-4421804760|6eff1241254ae600
 https://uk.linkedin.com/jobs/view/performance-test-engineer-at-test-yantra-4400376893|bfc672f00af8b27d
-https://uk.linkedin.com/jobs/view/performance-test-lead-at-csi-global-ltd-4450256704|b8820430d1c8f52b
+https://uk.linkedin.com/jobs/view/performance-test-lead-at-csi-global-ltd-4450256704|74ada00a5a90c699
 https://uk.linkedin.com/jobs/view/performance-test-lead-at-infoplus-technologies-uk-limited-4435535571|21eb94d466e70f82
 https://uk.linkedin.com/jobs/view/performance-tester-at-insight-international-uk-ltd-4414102493|fe30bc3f31ab3827
 https://uk.linkedin.com/jobs/view/performance-tester-jmeter-loadrunner-at-insight-international-uk-ltd-4414128740|e3162b4b9c9cccce
@@ -1163,7 +1163,7 @@ https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-nhs-blood-a
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-satalia-4398523342|9f6c8613d75472a6
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-xperi-inc-4326506723|2745901db43560f3
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-contract-at-epam-systems-4389181506|84d6ff88d966c455
-https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-playwright-at-w3global-4438214094|ac2ed7b1db64993a
+https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-playwright-at-w3global-4438214094|c4c20fb0267287e4
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-workday-product-incubator-at-kainos-4391598569|87bdeaca968ab3ac
 https://uk.linkedin.com/jobs/view/senior-test-capability-engineer-platform-recruitment-at-jobster-4368601051|d4497f76b06d7945
 https://uk.linkedin.com/jobs/view/senior-test-development-engineer-at-copello-global-4413616692|977f74aeed38915d
@@ -1222,7 +1222,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-ncr-atleos-4328117500|
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-oho-group-4417591820|8a1976a75cabfaac
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-opus-recruitment-solutions-4416158972|6568962e93522360
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-platform-recruitment-4353124635|d6451abbc33d4f61
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-primus-global-solutions-primus-uk-europe-4450264644|1f944d340aea2b06
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-primus-global-solutions-primus-uk-europe-4450264644|2dccbed97bc53daf
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-public-sector-resourcing-4415520063|a991e8c754b61959
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-queen-square-recruitment-4431919397|e5647454d10dafa1
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-randstad-digital-4363069521|8b4188bf5d8e63a8
@@ -1249,10 +1249,10 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-aws-microservices-transfo
 https://uk.linkedin.com/jobs/view/senior-test-engineer-d365-at-ao-4327302357|2120d2ade0c3f0f1
 https://uk.linkedin.com/jobs/view/senior-test-engineer-department-for-work-and-pensions-g7-at-manchester-digital-4379187505|4bd35cc3b6041f82
 https://uk.linkedin.com/jobs/view/senior-test-engineer-driver-vehicle-licensing-agency-at-manchester-digital-4403693103|4af008fe784b2cb6
-https://uk.linkedin.com/jobs/view/senior-test-engineer-fixed-term-contract-at-onefamily-4448451043|45196c24c51c56ba
+https://uk.linkedin.com/jobs/view/senior-test-engineer-fixed-term-contract-at-onefamily-4448451043|174a03881346296b
 https://uk.linkedin.com/jobs/view/senior-test-engineer-government-digital-service-g7-at-manchester-digital-4447475549|aff9ae7a7580b521
 https://uk.linkedin.com/jobs/view/senior-test-engineer-mastek-at-jobster-4351888412|3efc0d7a88b7c4d5
-https://uk.linkedin.com/jobs/view/senior-test-engineer-mobile-at-government-digital-service-4448447135|6b760e191fd390a0
+https://uk.linkedin.com/jobs/view/senior-test-engineer-mobile-at-government-digital-service-4448447135|6cc7a0fbb27c4e3d
 https://uk.linkedin.com/jobs/view/senior-test-engineer-oho-group-ltd-at-jobster-4321515263|ce1e057d1d8ae19d
 https://uk.linkedin.com/jobs/view/senior-test-engineer-public-at-hackajob-4427223458|3729467cdf219551
 https://uk.linkedin.com/jobs/view/senior-test-engineer-public-at-kainos-4407446936|a74394bee864ff3b
@@ -1347,7 +1347,7 @@ https://uk.linkedin.com/jobs/view/software-test-engineer-at-ic-resources-4359453
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-mac-recruit-group-ltd-4385508006|21f15aca31582afd
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-motorola-solutions-4378021573|6ff98973b9e84f3b
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-motorola-solutions-4401750406|2ed396725451c7c1
-https://uk.linkedin.com/jobs/view/software-test-engineer-at-motorola-solutions-4450624637|e38f5d5eab2e27e3
+https://uk.linkedin.com/jobs/view/software-test-engineer-at-motorola-solutions-4450624637|a391879effb70da3
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-pearson-carter-4369497007|a3658eb849249364
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-radley-james-4426723833|b83508c00d78c4c9
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-sii-group-uk-4384237536|1a6acf9bb5c47bcf
@@ -1690,7 +1690,7 @@ https://uk.linkedin.com/jobs/view/trainee-software-tester-at-taxpad-ltd-43464120
 https://uk.linkedin.com/jobs/view/uat-tester-at-deloitte-4395418794|dc69d9da1a97893b
 https://uk.linkedin.com/jobs/view/uft-test-engineer-at-gazelle-global-4398275282|2f194bc14141f898
 https://uk.linkedin.com/jobs/view/uft-test-engineer-at-queen-square-recruitment-4441049750|f6a37dc1e3f23489
-https://uk.linkedin.com/jobs/view/uk-qa-engineer-at-reset-health-4450258479|70e70c57d50b6a3a
+https://uk.linkedin.com/jobs/view/uk-qa-engineer-at-reset-health-4450258479|e900e1e0aff47258
 https://uk.linkedin.com/jobs/view/validation-engineer-at-ic-resources-4345646712|16505730f1ae5d37
 https://uk.linkedin.com/jobs/view/vehicle-test-engineer-adas-systems-at-jlr-4362128333|09423538761595d1
 https://uk.linkedin.com/jobs/view/vehicle-test-engineer-at-quintessential-design-services-limited-4364037357|aaeb3843eba85fed
@@ -2220,7 +2220,7 @@ https://uk.talent.com/view?id=625135137128124692|dec84aee1f4ca568
 https://uk.talent.com/view?id=625135597928388113|24f6bed4ddfd3abf
 https://uk.talent.com/view?id=625214109967850364|b079d838a14b5952
 https://uk.talent.com/view?id=62d14b5494a4|ab6f13ecaf13f849
-https://uk.talent.com/view?id=631551406558022783|a135245b527176b3
+https://uk.talent.com/view?id=631551406558022783|d8d25858b1d15ef5
 https://uk.talent.com/view?id=6370cbf75224|5ede33e8a63dedf3
 https://uk.talent.com/view?id=64cb0997426d|7098affe2f69f1dc
 https://uk.talent.com/view?id=6581187a15eb|f2a191d8937e441f
