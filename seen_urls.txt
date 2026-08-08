@@ -77,7 +77,7 @@ https://uk.jobrapido.com/jobpreview/2476180787255312384|60e17fcebd5320c7
 https://uk.jobrapido.com/jobpreview/2561643764498038784|428df22d365da24b
 https://uk.jobrapido.com/jobpreview/2561860574447140864|bbdef7927ec97330
 https://uk.jobrapido.com/jobpreview/2572252264999682048|7b672033bf11dc9a
-https://uk.jobrapido.com/jobpreview/2573729514706173952|980849d2316dd266
+https://uk.jobrapido.com/jobpreview/2573729514706173952|6bad34e76faf94f3
 https://uk.jobrapido.com/jobpreview/2642825088843382784|1773c0180304ca9a
 https://uk.jobrapido.com/jobpreview/2681833888791134208|81d384daa8ed2ec2
 https://uk.jobrapido.com/jobpreview/2697116516301668352|b0fd35eefbe40346
@@ -949,7 +949,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-engineer-fx-etrading-citi-at
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-game-engine-at-games-factory-talents-connecting-passion-talent-4352326737|9d405b627825e91b
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-london-global-prime-brokerage-financing-platform-at-jobs-via-efinancialcareers-4354670360|3075a98a7f834576
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-python-llm-spark-etl-at-hcltech-4410313642?refId=SNxU94+yWHXTQpZ0ErgOpw==&trackingId=TPOcuvJi+EPv19u3VE54og==|1855aef04a025dd6
-https://uk.linkedin.com/jobs/view/senior-automation-engineer-sdet-at-bighand-4449208299|c49456842c0d0683
+https://uk.linkedin.com/jobs/view/senior-automation-engineer-sdet-at-bighand-4449208299|bc558076a7b06568
 https://uk.linkedin.com/jobs/view/senior-automation-qa-engineer-at-tradingview-4400743993|a46949a76e038c78
 https://uk.linkedin.com/jobs/view/senior-automation-qa-remote-at-tiptopjob-4346999306|d9970c705c6a87d5
 https://uk.linkedin.com/jobs/view/senior-automation-service-engineer-at-spx-flow-inc-4349524418|20157b13a0845e6c
@@ -1212,7 +1212,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-hackajob-4372099231|e7
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-hackajob-4390993468|6c0b8d6466ef62d4
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-hackajob-4396058555|5f5170c52ad9b7a4
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-henderson-scott-4426432049|ae5bf7ca8bc2a81c
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-hm-revenue-customs-4449224641|121e854af6604b6a
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-hm-revenue-customs-4449224641|fce9f27bed4f2f0b
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-ic-resources-4366382846|a103624c885ecfcf
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-it-world-limited-4356701720|798f6e79427b7782
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-l3harris-technologies-4439319746|6515a8e5ba60b139
@@ -1490,7 +1490,7 @@ https://uk.linkedin.com/jobs/view/test-automation-specialist-at-83zero-436186123
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-ceox-services-ltd-4345182421|0cbc1dbc9a3a05d3
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-coforge-4389582934|6a2ed6687c1833f5
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-coforge-4439145651|bc0e7cc68c48d798
-https://uk.linkedin.com/jobs/view/test-automation-specialist-at-eteam-4451053667|8bbe42391b461902
+https://uk.linkedin.com/jobs/view/test-automation-specialist-at-eteam-4451053667|48077b55becf03b0
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-infinity-quest-4435123709|18c8baa95815dd40
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-opus-recruitment-solutions-4430382836|2adab9748fca202d
 https://uk.linkedin.com/jobs/view/test-automation-specialist-at-response-informatics-4435570557|6339fb389d17ad80
