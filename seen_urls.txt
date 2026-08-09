@@ -1308,6 +1308,7 @@ https://uk.linkedin.com/jobs/view/software-engineer-in-test-sdet-at-sgi-44004058
 https://uk.linkedin.com/jobs/view/software-engineer-in-test-software-development-engineer-in-test-at-datapath-4410967709|ff1915fc655c7a1a
 https://uk.linkedin.com/jobs/view/software-engineer-test-at-resillion-4446648039|375a5e3b221513be
 https://uk.linkedin.com/jobs/view/software-firmware-test-engineer-at-unipart-4396073060|83e2bd4f1bd597c9
+https://uk.linkedin.com/jobs/view/software-integration-test-engineer-maritime-autonomy-all-genders-at-quantum-stack-jobs-4451318452|9afa1cd8191ba366
 https://uk.linkedin.com/jobs/view/software-qa-analyst-at-spectrum-it-recruitment-4390968042|b693f19377d05eba
 https://uk.linkedin.com/jobs/view/software-qa-engineer-at-hired-4409461041|cbda71359684a23d
 https://uk.linkedin.com/jobs/view/software-qa-engineer-at-light-wonder-4418403928|03f79f46cb09657c
@@ -1333,7 +1334,7 @@ https://uk.linkedin.com/jobs/view/software-quality-engineer-at-helic-co-44189551
 https://uk.linkedin.com/jobs/view/software-quality-engineer-at-helic-co-4431689434|94088e2e4ce18cb6
 https://uk.linkedin.com/jobs/view/software-quality-engineer-at-helic-co-4442598975|5b7d89fa6ce977c2
 https://uk.linkedin.com/jobs/view/software-quality-engineer-at-lockheed-martin-4438485158|f4d0b39dbbdb4001
-https://uk.linkedin.com/jobs/view/software-quality-engineer-remote-at-quik-hire-staffing-4451330556|d7b4c690e1c8d941
+https://uk.linkedin.com/jobs/view/software-quality-engineer-remote-at-quik-hire-staffing-4451330556|1e517358438a4ce6
 https://uk.linkedin.com/jobs/view/software-quality-test-engineer-at-gi-group-4448168520?position=28&pageNum=0&refId=LDboDEt/CbNyCy77/eSWAQ==&trackingId=0xT1DMTxUaMEiq3X4YzZRw==|2e10482fdb66aef5
 https://uk.linkedin.com/jobs/view/software-test-automation-engineer-at-technical-futures-ltd-4418093452?position=54&pageNum=0&refId=PI0FaoHFAzhgwDclzgz/5Q==&trackingId=wBRM5BvyGW/IDFkjsP60Ww==|179ae7223e9bde74
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-apex-resources-ltd-4427011966|fcc9e9678153cfe4
