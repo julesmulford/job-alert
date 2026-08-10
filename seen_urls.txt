@@ -933,7 +933,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-coforge-44417058
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-copello-global-4437286102|2d0c49829d54c137
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-emagine-4433294103|6a887cbba63b11b9
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-haystack-4417511179|5647818d18a740cf
-https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-hunter-savage-4451522704|804c3e3080fd7558
+https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-hunter-savage-4451522704|f907d996cc69bcae
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-hyper-recruitment-solutions-4447492530|168d2cb3de928086
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-in-technology-group-4429198296|40e2a96ac88b081a
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-kainos-4345647757|d20f9b074a651b7c
@@ -1456,6 +1456,7 @@ https://uk.linkedin.com/jobs/view/test-analyst-part-time-20-hours-per-week-stude
 https://uk.linkedin.com/jobs/view/test-analyst-tester-daventry-northamptonshire-at-myo-talent-4439307798|9be80a991dbe65df
 https://uk.linkedin.com/jobs/view/test-and-assurance-lead-at-nhs-business-services-authority-4435366277|1a615748532fae3d
 https://uk.linkedin.com/jobs/view/test-and-authentication-engineer-at-navantia-uk-4328911069|7f975253b620c28c
+https://uk.linkedin.com/jobs/view/test-and-development-engineer-at-alexander-dennis-4451544074|3cb75875fd989ba3
 https://uk.linkedin.com/jobs/view/test-and-development-engineer-at-tiptopjob-4412577907|b3c5000642b55161
 https://uk.linkedin.com/jobs/view/test-and-run-technician-at-speedy-hire-ireland-limited-4429196292|424ed17f99e6c9de
 https://uk.linkedin.com/jobs/view/test-apps-and-websites-at-userfeel-4433828598|742248cd22feeccf
@@ -2490,6 +2491,7 @@ https://www.jobsgopublic.com/job/test-engineer-48097|ac15e20d5ba3d5f3
 https://www.jobsgopublic.com/job/test-engineer-71786|bafbe7e2eea726cc
 https://www.jobsinwales.com/jobs-in-bassaleg/test-engineer_1430130?region=south|37705c64e5734de4
 https://www.jobsinwales.com/jobs-in-cardiff/automation-engineer_1450763?region=south|47c95eb7459a24f9
+https://www.jobsinwales.com/jobs-in-cardiff/automation-engineer_1474011?region=south|9be6a6defba03653
 https://www.jobsinwales.com/jobs-in-cardiff/lead-qa-engineer_1450778?region=south|b113f2d0e905b073
 https://www.jobsinwales.com/jobs-in-cardiff/senior-test-automation-engineer-data_1450006?region=south|6953a0aad1a2c2ec
 https://www.jobsinwales.com/jobs-in-cardiff/senior-test-automation-engineer-data_1456469?region=south|5ec22e461d8ad9ca
@@ -2525,7 +2527,7 @@ https://www.s1jobs.com/job/senior-ai-automation-engineer-test-lead-126146833|1d5
 https://www.s1jobs.com/job/senior-medical-device-qa-engineer-regulatory-quality-126196837|0a33fa6055c0c165
 https://www.s1jobs.com/job/senior-product-test-engineer-electronics-127035742|43173027732ff9f4
 https://www.s1jobs.com/job/senior-test-automation-engineer-healthcare-platform-126121086|15bce13f0f4c4c2e
-https://www.s1jobs.com/job/test-engineer-127175678|08184d15cf09d3a6
+https://www.s1jobs.com/job/test-engineer-127175678|a63c8bc9e1d42662
 https://www.s1jobs.com/job/test-engineer-level-2-126832622|503b3bf7bb32fae7
 https://www.securityclearedjobs.com/job/802067479/manufacturing-test-engineer/|a4648775d19b6a5e
 https://www.securityclearedjobs.com/job/802070029/environmental-test-engineer/|e9cf3f66d52eae9e
