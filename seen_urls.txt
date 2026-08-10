@@ -538,6 +538,7 @@ https://uk.linkedin.com/jobs/view/infrastructure-test-analysts-at-xpertise-recru
 https://uk.linkedin.com/jobs/view/infrastructure-test-engineer-dv-security-clearance-at-women-in-tech-4434438147|a2a9aec6cf11d378
 https://uk.linkedin.com/jobs/view/infrastructure-test-engineer-secure-cloud-infrastructure-sc-clearance-at-cgi-4403526522|ce86c3d06a536bba
 https://uk.linkedin.com/jobs/view/infrastructure-test-engineer-secure-cloud-infrastructure-sc-clearance-at-women-in-tech-4445670051|9623b855b60ac1b9
+https://uk.linkedin.com/jobs/view/infrastructure-tester-at-women-in-tech-4451378158|9c3607bf17fb178d
 https://uk.linkedin.com/jobs/view/ingeniero-qa-crm-at-babel-4403541301|ed1f9c7b540a08b6
 https://uk.linkedin.com/jobs/view/integration-test-engineer-at-hme-4364014827|2d4657fb83b4c3dd
 https://uk.linkedin.com/jobs/view/integration-test-engineer-at-hme-4422147142|e246a26ab9320e85
@@ -1059,7 +1060,7 @@ https://uk.linkedin.com/jobs/view/senior-qa-engineer-sports-tech-at-client-serve
 https://uk.linkedin.com/jobs/view/senior-qa-engineer-sportsbook-at-sportserve-4369230284|b275f81d8c191d62
 https://uk.linkedin.com/jobs/view/senior-qa-manual-tester-at-maxwell-bond-4395077129|cfcdd8dca0aa3489
 https://uk.linkedin.com/jobs/view/senior-qa-sdet-at-albert-bow-4431918309|6af7c3cd3d817316
-https://uk.linkedin.com/jobs/view/senior-qa-specialist-at-supercell-4449529074|7df9c48ff6801154
+https://uk.linkedin.com/jobs/view/senior-qa-specialist-at-supercell-4449529074|6990ace757bc9ac1
 https://uk.linkedin.com/jobs/view/senior-qa-test-lead-at-agntx-4445549248|7e7a99414aa4fda3
 https://uk.linkedin.com/jobs/view/senior-qa-tester-ai-solutions-at-mcs-group-your-specialist-recruitment-consultancy-4427038520|2a16141d702850ef
 https://uk.linkedin.com/jobs/view/senior-qa-tester-at-clover-4383203683|2ec63e44caf6ced3
@@ -1400,6 +1401,7 @@ https://uk.linkedin.com/jobs/view/software-tester-innova-recruitment-at-jobster-
 https://uk.linkedin.com/jobs/view/software-tester-martech-at-bet365-4410557851|537f1928134eb8e6
 https://uk.linkedin.com/jobs/view/software-tester-martech-at-bet365-4440025088|449c5343f108771c
 https://uk.linkedin.com/jobs/view/software-tester-pam-at-bet365-4428480571|7a4a990c47d2f8de
+https://uk.linkedin.com/jobs/view/software-tester-qa-at-free-work-uk-4451379375|7e474b0602ee7e56
 https://uk.linkedin.com/jobs/view/software-tester-qa-at-robertson-sumner-4348480072|99f79aa851119221
 https://uk.linkedin.com/jobs/view/software-tester-qa-at-robertson-sumner-4351213562|5989d0e52918d75f
 https://uk.linkedin.com/jobs/view/software-testing-engineer-at-anson-mccade-4437279905|a70461837ca6d325
