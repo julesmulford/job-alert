@@ -933,7 +933,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-coforge-44417058
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-copello-global-4437286102|2d0c49829d54c137
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-emagine-4433294103|6a887cbba63b11b9
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-haystack-4417511179|5647818d18a740cf
-https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-hunter-savage-4451522704|32c82123fe27fefe
+https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-hunter-savage-4451522704|804c3e3080fd7558
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-hyper-recruitment-solutions-4447492530|168d2cb3de928086
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-in-technology-group-4429198296|40e2a96ac88b081a
 https://uk.linkedin.com/jobs/view/senior-automation-engineer-at-kainos-4345647757|d20f9b074a651b7c
@@ -2525,7 +2525,7 @@ https://www.s1jobs.com/job/senior-ai-automation-engineer-test-lead-126146833|1d5
 https://www.s1jobs.com/job/senior-medical-device-qa-engineer-regulatory-quality-126196837|0a33fa6055c0c165
 https://www.s1jobs.com/job/senior-product-test-engineer-electronics-127035742|43173027732ff9f4
 https://www.s1jobs.com/job/senior-test-automation-engineer-healthcare-platform-126121086|15bce13f0f4c4c2e
-https://www.s1jobs.com/job/test-engineer-127175678|891740e39afebba0
+https://www.s1jobs.com/job/test-engineer-127175678|08184d15cf09d3a6
 https://www.s1jobs.com/job/test-engineer-level-2-126832622|503b3bf7bb32fae7
 https://www.securityclearedjobs.com/job/802067479/manufacturing-test-engineer/|a4648775d19b6a5e
 https://www.securityclearedjobs.com/job/802070029/environmental-test-engineer/|e9cf3f66d52eae9e
