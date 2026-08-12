@@ -1165,6 +1165,7 @@ https://uk.linkedin.com/jobs/view/senior-test-analyst-at-recruit-with-purpose-44
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-royal-london-4438633860|e4f54d5065fc86a3
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-trust-in-soda-4370200377|ee34b72dfa859b63
 https://uk.linkedin.com/jobs/view/senior-test-analyst-at-ventula-consulting-4426978621?position=8&pageNum=0&refId=FrIlwOXUBQPvd7U7RMxI6g==&trackingId=qFJ57/4gR2EI9ZhhRHS2aQ==|bce1585f4760c18f
+https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-cgi-4453033653|c0e025b62144cef5
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-goodman-masson-4445487496|bb555df48496120a
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-hackajob-4328310922|3e71ee73833045a8
 https://uk.linkedin.com/jobs/view/senior-test-automation-engineer-at-ignitetech-4446392834|282accf9ca477c82
@@ -2237,7 +2238,7 @@ https://uk.talent.com/view?id=625135123665522964|e2349874bbb2210b
 https://uk.talent.com/view?id=625135137128124692|dec84aee1f4ca568
 https://uk.talent.com/view?id=625135597928388113|24f6bed4ddfd3abf
 https://uk.talent.com/view?id=625214109967850364|b079d838a14b5952
-https://uk.talent.com/view?id=626575880237090684|455eceb17d1ca995
+https://uk.talent.com/view?id=626575880237090684|fe874497d7d470f7
 https://uk.talent.com/view?id=626575996268053008|b0971327e333f07b
 https://uk.talent.com/view?id=627936638932036872|2becd0481829fff7
 https://uk.talent.com/view?id=628157031246212360|a78a181c824893ba
