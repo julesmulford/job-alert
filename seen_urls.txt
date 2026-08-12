@@ -1107,6 +1107,7 @@ https://uk.linkedin.com/jobs/view/senior-quality-test-engineer-at-yolk-recruitme
 https://uk.linkedin.com/jobs/view/senior-rf-test-engineer-at-ic-resources-4372011405|53baac7e648cb266
 https://uk.linkedin.com/jobs/view/senior-rf-test-engineer-at-ic-resources-4415542178|42f6e3d9a05da776
 https://uk.linkedin.com/jobs/view/senior-safety-testing-engineer-at-avetix-engineering-4391563950|5c8ced7614266264
+https://uk.linkedin.com/jobs/view/senior-sdet-ai-transformation-at-semble-4450112944|c08e593974769a5a
 https://uk.linkedin.com/jobs/view/senior-sdet-at-harmonic-security-4363652290|70f45dc3adb62e27
 https://uk.linkedin.com/jobs/view/senior-sdet-at-ntt-data-europe-latam-4436584869|8ac8ef1b9bccbc4e
 https://uk.linkedin.com/jobs/view/senior-sdet-at-visa-4325523240|19fa7180632f86c5
@@ -1485,7 +1486,7 @@ https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-437492417
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-hackajob-4379453515|1f2a14b883ecc4dc
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-health-project-4340703016|bfd4d5ddc8cd9317
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-infinity-quest-4436727870|deb51c2855efd4c7
-https://uk.linkedin.com/jobs/view/test-automation-engineer-at-infinity-quest-4453150562|87bbe2be83d8457a
+https://uk.linkedin.com/jobs/view/test-automation-engineer-at-infinity-quest-4453150562|c59869b72347348f
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-interact-software-4408810080|8268b389c83c0f8b
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-kerv-4390721587|fc4de88f4d6f3dd6
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-kerv-4425717190|73ed4aaa0376796f
