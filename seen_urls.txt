@@ -503,7 +503,7 @@ https://uk.linkedin.com/jobs/view/engineer-test-and-inspection-whitemoor-at-gov-
 https://uk.linkedin.com/jobs/view/engineer-test-capability-at-rolls-royce-smr-4434573459|c6e32f59360577f7
 https://uk.linkedin.com/jobs/view/environmental-test-engineer-aerospace-at-alten-4380280393|f8e7a04e306411c4
 https://uk.linkedin.com/jobs/view/ers-test-engineer-shifts-at-red-bull-racing-red-bull-technology-4350994981|17e367b82a7962d8
-https://uk.linkedin.com/jobs/view/expert-opportunity-qa-specialist-$70-hr-up-to-$1-400-week-at-ethos-4455145467|38c5347093db15b4
+https://uk.linkedin.com/jobs/view/expert-opportunity-qa-specialist-$70-hr-up-to-$1-400-week-at-ethos-4455145467|abb8352b04be94f6
 https://uk.linkedin.com/jobs/view/f5-automation-engineer-at-auxo-talent-4370298846|0bb1914baaa80abd
 https://uk.linkedin.com/jobs/view/flexcube-qa-testing-analyst-at-zenith-bank-uk-limited-4345657112|c75a91273ecc0692
 https://uk.linkedin.com/jobs/view/flexi-prac-test-at-nudge-education-limited-4417097703|cb8a8ab02d4056d8
@@ -1150,7 +1150,7 @@ https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-national-phys
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-oni-4448171117|363d646c6b283e93
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-at-synergize-consulting-4348876811|e4f77cf02e1ac09e
 https://uk.linkedin.com/jobs/view/senior-software-test-engineer-m-w-d-at-roche-4436361762|aecdb06071f07795
-https://uk.linkedin.com/jobs/view/senior-software-tester-at-decillion-ai-4455134137|b17589c0df1f052f
+https://uk.linkedin.com/jobs/view/senior-software-tester-at-decillion-ai-4455134137|91343b1c3c760e0d
 https://uk.linkedin.com/jobs/view/senior-software-tester-at-digital-waffle-4426089245|193b87075886d12b
 https://uk.linkedin.com/jobs/view/senior-software-tester-at-haystack-4400288610|639e2d7b7a2225e3
 https://uk.linkedin.com/jobs/view/senior-software-tester-at-primus-connect-4439689267|0f66a3719c264136
@@ -1260,7 +1260,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-teledyne-technologies-
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-the-one-group-ltd-4379832081|4439b2c530e6d726
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-thermo-fisher-scientific-4398676217|aa58742ef503b860
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-thermo-fisher-scientific-4408170976|cad63dc98c3f26db
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-tiptopjob-4455136949|288094bf9fa1ef94
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-tiptopjob-4455136949|e37092012ca79f0b
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-tombola-4410875820|ec4bf8f9dbf3fcb3
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-trs-staffing-solutions-4321497038|53495690671905ee
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-trs-staffing-solutions-4413083596|a055ede49654b59e
