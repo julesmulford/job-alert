@@ -438,7 +438,7 @@ https://uk.linkedin.com/jobs/view/automation-tester-dv-security-clearance-at-wom
 https://uk.linkedin.com/jobs/view/automation-tester-functional-at-dns-info-ltd-4393516996|c6f7152f84127f8a
 https://uk.linkedin.com/jobs/view/automation-tester-government-at-stealth-it-consulting-4328978615|e187652c0ee5c47a
 https://uk.linkedin.com/jobs/view/automation-tester-security-clearance-at-women-in-tech-4439707524|f32241414214b9d4
-https://uk.linkedin.com/jobs/view/automation-tester-security-clearance-at-women-in-tech-4455179410|20ef98631c373c3f
+https://uk.linkedin.com/jobs/view/automation-tester-security-clearance-at-women-in-tech-4455179410|0348b46f85133d2e
 https://uk.linkedin.com/jobs/view/avaloq-test-lead-manager-at-us3-consulting-4433898416|844e35db05a27076
 https://uk.linkedin.com/jobs/view/back-end-automation-engineer-at-kham-lab-4363877284|ba9c5fb4530e905e
 https://uk.linkedin.com/jobs/view/building-automation-apprentice-at-cundall-4355695384|6283fca1e3b95bb9
@@ -476,7 +476,7 @@ https://uk.linkedin.com/jobs/view/electrical-domestic-tester-at-rge-services-434
 https://uk.linkedin.com/jobs/view/electrical-test-engineer-at-msp-technologies-ltd-4414083797|8882acccec30de96
 https://uk.linkedin.com/jobs/view/electrical-test-engineer-at-tiptopjob-4365700648|893da8ed5bde33b0
 https://uk.linkedin.com/jobs/view/electrical-test-engineer-at-tiptopjob-4436982203|f789a95952c1ef57
-https://uk.linkedin.com/jobs/view/electrical-test-engineer-at-tiptopjob-4455140884|00162bba5afd8561
+https://uk.linkedin.com/jobs/view/electrical-test-engineer-at-tiptopjob-4455140884|44fd9ce7693b992e
 https://uk.linkedin.com/jobs/view/electrical-test-engineer-at-yoh-solutions-ltd-4425189562|e2acb83864ba646b
 https://uk.linkedin.com/jobs/view/electrical-test-engineer-automotive-at-alten-ltd-uk-4413594045?position=23&pageNum=0&refId=Bg6HC5ueEh1R8Fzng9xLNw==&trackingId=sEUmwpffwltjsmB6ULFp0g==|c92f756ff0820a97
 https://uk.linkedin.com/jobs/view/electrical-tester-at-connolly-ltd-4372337301|68e00dacc6e8eeb2
@@ -505,7 +505,7 @@ https://uk.linkedin.com/jobs/view/engineer-test-and-inspection-whitemoor-at-gov-
 https://uk.linkedin.com/jobs/view/engineer-test-capability-at-rolls-royce-smr-4434573459|c6e32f59360577f7
 https://uk.linkedin.com/jobs/view/environmental-test-engineer-aerospace-at-alten-4380280393|f8e7a04e306411c4
 https://uk.linkedin.com/jobs/view/ers-test-engineer-shifts-at-red-bull-racing-red-bull-technology-4350994981|17e367b82a7962d8
-https://uk.linkedin.com/jobs/view/expert-opportunity-qa-specialist-$70-hr-up-to-$1-400-week-at-ethos-4455145467|64c98f1f871dc80e
+https://uk.linkedin.com/jobs/view/expert-opportunity-qa-specialist-$70-hr-up-to-$1-400-week-at-ethos-4455145467|8d7702dad1065d1b
 https://uk.linkedin.com/jobs/view/f5-automation-engineer-at-auxo-talent-4370298846|0bb1914baaa80abd
 https://uk.linkedin.com/jobs/view/flexcube-qa-testing-analyst-at-zenith-bank-uk-limited-4345657112|c75a91273ecc0692
 https://uk.linkedin.com/jobs/view/flexi-prac-test-at-nudge-education-limited-4417097703|cb8a8ab02d4056d8
@@ -534,7 +534,7 @@ https://uk.linkedin.com/jobs/view/graduate-test-engineer-at-grayce-4369746600|e6
 https://uk.linkedin.com/jobs/view/hardware-test-compliance-engineer-at-fuse-energy-4361666692|6def7703801c2e84
 https://uk.linkedin.com/jobs/view/hardware-test-engineer-at-vector-recruitment-ltd-4362265252|cc1f7710c58bba24
 https://uk.linkedin.com/jobs/view/hebrew-qa-lead-remote-at-yo-it-consulting-4429427178|bad5df5d0d344a7c
-https://uk.linkedin.com/jobs/view/high-voltage-test-engineer-at-redline-uk-4455130549|cc7eae6ba769f22b
+https://uk.linkedin.com/jobs/view/high-voltage-test-engineer-at-redline-uk-4455130549|63f1a2b6056b01eb
 https://uk.linkedin.com/jobs/view/hil-test-automation-engineer-at-axiscades-4387589068|0aa611ce8ab3274b
 https://uk.linkedin.com/jobs/view/hiring-manual-tester-net-erp-api-remote-uk-shift-6-month-contract-outside-ir35-at-kiaratech-solutions-limited-4399944773|1651c9239d494783
 https://uk.linkedin.com/jobs/view/iam-automation-test-engineer-at-test-yantra-4440006254|73740c749da90f92
@@ -1263,7 +1263,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-teledyne-technologies-
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-the-one-group-ltd-4379832081|4439b2c530e6d726
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-thermo-fisher-scientific-4398676217|aa58742ef503b860
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-thermo-fisher-scientific-4408170976|cad63dc98c3f26db
-https://uk.linkedin.com/jobs/view/senior-test-engineer-at-tiptopjob-4455136949|eb18bf0d8fba2573
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-tiptopjob-4455136949|537b65ee5e405b82
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-tombola-4410875820|ec4bf8f9dbf3fcb3
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-trs-staffing-solutions-4321497038|53495690671905ee
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-trs-staffing-solutions-4413083596|a055ede49654b59e
@@ -1463,7 +1463,7 @@ https://uk.linkedin.com/jobs/view/test-acceptance-manager-dv-clearance-at-the-jm
 https://uk.linkedin.com/jobs/view/test-advert-at-cb-i-4420911839|1db7619ca9a2fdfa
 https://uk.linkedin.com/jobs/view/test-analyst-at-adroit-people-limited-uk-4401464277|4322b204b75f2db9
 https://uk.linkedin.com/jobs/view/test-analyst-at-aqa-4445901768|742da93413b80b96
-https://uk.linkedin.com/jobs/view/test-analyst-at-coforge-4453911008|007efdc808c3c7c8
+https://uk.linkedin.com/jobs/view/test-analyst-at-coforge-4453911008|ae317555a822ba8e
 https://uk.linkedin.com/jobs/view/test-analyst-at-hok-consulting-technical-recruitment-consultancy-4440014780|e8bc56fdce2f3ab0
 https://uk.linkedin.com/jobs/view/test-analyst-at-ixceed-solutions-4422385113|b43939a53b8c0289
 https://uk.linkedin.com/jobs/view/test-analyst-at-mygwork-lgbtq+-business-community-4386603221|8b83a6bb52a7faf3
@@ -1676,7 +1676,7 @@ https://uk.linkedin.com/jobs/view/test-job-at-weplay-4435827590|2ae4d010ce17eb5c
 https://uk.linkedin.com/jobs/view/test-job-at-wireless-logic-4409249551|5ca8e4f71252c7eb
 https://uk.linkedin.com/jobs/view/test-job-ml-2-at-recruitee-middleware-test-company-4439774642|0c35fec4b284eed0
 https://uk.linkedin.com/jobs/view/test-lead-at-avance-consulting-4408672116|f6808ac8a8a903c7
-https://uk.linkedin.com/jobs/view/test-lead-at-coforge-4453789909|e87be7461916c854
+https://uk.linkedin.com/jobs/view/test-lead-at-coforge-4453789909|d4be456500bbcc67
 https://uk.linkedin.com/jobs/view/test-lead-at-hcltech-4350695341|658e32187b176a1b
 https://uk.linkedin.com/jobs/view/test-lead-at-la-fosse-4424216496|0bf6937cc56b1a50
 https://uk.linkedin.com/jobs/view/test-lead-at-national-trust-4404056616|9c1b7dbaa81cc63e
@@ -1693,7 +1693,7 @@ https://uk.linkedin.com/jobs/view/test-manager-at-stellar-omada-4424754552|b14e5
 https://uk.linkedin.com/jobs/view/test-means-engineer-at-scalian-4379912037|bb106f967f196aaa
 https://uk.linkedin.com/jobs/view/test-means-engineer-at-segula-technologies-4388521223|388153e58fe49a38
 https://uk.linkedin.com/jobs/view/test-posting-at-mcallister-4429106339|baa1293374fdd480
-https://uk.linkedin.com/jobs/view/test-rig-engineer-at-orion-electrotech-4455184653|df95c1f8a9af3bf1
+https://uk.linkedin.com/jobs/view/test-rig-engineer-at-orion-electrotech-4455184653|657181aae8b399c3
 https://uk.linkedin.com/jobs/view/test-rig-engineer-at-trescal-4362404132|0e8ef14e05b26c6b
 https://uk.linkedin.com/jobs/view/test-run-technician-pat-tester-at-first-response-site-services-ltd-4381256041|ee90cc745abe8975
 https://uk.linkedin.com/jobs/view/test-software-engineer-at-bullhorn-middleware-test-company-4365329510|8ea9184d8f5fc36e
