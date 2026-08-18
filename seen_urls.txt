@@ -1252,6 +1252,7 @@ https://uk.linkedin.com/jobs/view/senior-test-engineer-at-public-sector-resourci
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-queen-square-recruitment-4431919397|e5647454d10dafa1
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-randstad-digital-4363069521|8b4188bf5d8e63a8
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-raytheon-uk-4400548094|47126127ce304187
+https://uk.linkedin.com/jobs/view/senior-test-engineer-at-rc-fornax-4454493738|2f90f6ed6e572d41
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-redtech-recruitment-4363953251|4fc318021a15f295
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-scott-logic-4441247160|271aa965662c162d
 https://uk.linkedin.com/jobs/view/senior-test-engineer-at-sepura-4342671512|802c4a8e196a88f1
@@ -1360,7 +1361,7 @@ https://uk.linkedin.com/jobs/view/software-quality-engineer-at-helic-co-44425989
 https://uk.linkedin.com/jobs/view/software-quality-engineer-at-lockheed-martin-4438485158|f4d0b39dbbdb4001
 https://uk.linkedin.com/jobs/view/software-quality-engineer-remote-at-quik-hire-staffing-4451330556|1e517358438a4ce6
 https://uk.linkedin.com/jobs/view/software-quality-test-engineer-at-gi-group-4448168520?position=28&pageNum=0&refId=LDboDEt/CbNyCy77/eSWAQ==&trackingId=0xT1DMTxUaMEiq3X4YzZRw==|2e10482fdb66aef5
-https://uk.linkedin.com/jobs/view/software-test-analyst-at-develop-4452269910|6334856996cdaf44
+https://uk.linkedin.com/jobs/view/software-test-analyst-at-develop-4452269910|2823e10f7dbbe673
 https://uk.linkedin.com/jobs/view/software-test-automation-engineer-at-technical-futures-ltd-4418093452?position=54&pageNum=0&refId=PI0FaoHFAzhgwDclzgz/5Q==&trackingId=wBRM5BvyGW/IDFkjsP60Ww==|179ae7223e9bde74
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-apex-resources-ltd-4427011966|fcc9e9678153cfe4
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-avance-consulting-4398104755|936ba7da8baa2c39
@@ -1511,6 +1512,7 @@ https://uk.linkedin.com/jobs/view/test-automation-engineer-at-pentenamio-4337852
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-person-centred-software-ltd-4408033427|6928fa6bedb20e0a
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-randstad-digital-4429884419|2b06d47f2d02b766
 https://uk.linkedin.com/jobs/view/test-automation-engineer-at-shawbrook-4359646770|a3f308934b6f493b
+https://uk.linkedin.com/jobs/view/test-automation-engineer-at-sparta-global-4452580506|d254036e9eaa528c
 https://uk.linkedin.com/jobs/view/test-automation-engineer-for-the-banking-sector-helsinki-at-invest-in-finland-4415897592|76227932973714c0
 https://uk.linkedin.com/jobs/view/test-automation-engineer-java-at-persistent-systems-4413477094|7344c4a8694bff2a
 https://uk.linkedin.com/jobs/view/test-automation-engineer-leidos-at-jobster-4321435601|605bff8319f9c382
@@ -2531,7 +2533,7 @@ https://www.jobsgopublic.com/job/test-engineer-71786|bafbe7e2eea726cc
 https://www.jobsinwales.com/jobs-in-bassaleg/test-engineer_1430130?region=south|37705c64e5734de4
 https://www.jobsinwales.com/jobs-in-cardiff/automation-engineer_1450763?region=south|47c95eb7459a24f9
 https://www.jobsinwales.com/jobs-in-cardiff/automation-engineer_1474011?region=south|1d042dca81a6069d
-https://www.jobsinwales.com/jobs-in-cardiff/automation-engineer_1475407|3f42af6a8d110d76
+https://www.jobsinwales.com/jobs-in-cardiff/automation-engineer_1475407|0a4e324f1aad949e
 https://www.jobsinwales.com/jobs-in-cardiff/lead-qa-engineer_1450778?region=south|b113f2d0e905b073
 https://www.jobsinwales.com/jobs-in-cardiff/senior-test-automation-engineer-data_1450006?region=south|6953a0aad1a2c2ec
 https://www.jobsinwales.com/jobs-in-cardiff/senior-test-automation-engineer-data_1456469?region=south|5ec22e461d8ad9ca
