@@ -1360,6 +1360,7 @@ https://uk.linkedin.com/jobs/view/software-quality-engineer-at-helic-co-44425989
 https://uk.linkedin.com/jobs/view/software-quality-engineer-at-lockheed-martin-4438485158|f4d0b39dbbdb4001
 https://uk.linkedin.com/jobs/view/software-quality-engineer-remote-at-quik-hire-staffing-4451330556|1e517358438a4ce6
 https://uk.linkedin.com/jobs/view/software-quality-test-engineer-at-gi-group-4448168520?position=28&pageNum=0&refId=LDboDEt/CbNyCy77/eSWAQ==&trackingId=0xT1DMTxUaMEiq3X4YzZRw==|2e10482fdb66aef5
+https://uk.linkedin.com/jobs/view/software-test-analyst-at-develop-4452269910|76d65cdb0707f897
 https://uk.linkedin.com/jobs/view/software-test-automation-engineer-at-technical-futures-ltd-4418093452?position=54&pageNum=0&refId=PI0FaoHFAzhgwDclzgz/5Q==&trackingId=wBRM5BvyGW/IDFkjsP60Ww==|179ae7223e9bde74
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-apex-resources-ltd-4427011966|fcc9e9678153cfe4
 https://uk.linkedin.com/jobs/view/software-test-engineer-at-avance-consulting-4398104755|936ba7da8baa2c39
@@ -2520,6 +2521,7 @@ https://www.jobsgopublic.com/job/lead-test-engineer-50154|a90ac971c5bf5346
 https://www.jobsgopublic.com/job/lead-test-engineer-63610|bafbe7e2eea726cc
 https://www.jobsgopublic.com/job/lead-test-engineer-automation-40578|f106d4abcd8cf4bd
 https://www.jobsgopublic.com/job/senior-test-engineer-40761|e8c468bee652d3fb
+https://www.jobsgopublic.com/job/senior-test-engineer-79116|bafbe7e2eea726cc
 https://www.jobsgopublic.com/job/senior-test-engineer-ps81736-75224|bafbe7e2eea726cc
 https://www.jobsgopublic.com/job/systems-test-engineer-42031|e7fa5e24d0f6f187
 https://www.jobsgopublic.com/job/test-engineer-42038|c25171f4def6acd0
@@ -2529,6 +2531,7 @@ https://www.jobsgopublic.com/job/test-engineer-71786|bafbe7e2eea726cc
 https://www.jobsinwales.com/jobs-in-bassaleg/test-engineer_1430130?region=south|37705c64e5734de4
 https://www.jobsinwales.com/jobs-in-cardiff/automation-engineer_1450763?region=south|47c95eb7459a24f9
 https://www.jobsinwales.com/jobs-in-cardiff/automation-engineer_1474011?region=south|1d042dca81a6069d
+https://www.jobsinwales.com/jobs-in-cardiff/automation-engineer_1475407|dff0c310b673b82a
 https://www.jobsinwales.com/jobs-in-cardiff/lead-qa-engineer_1450778?region=south|b113f2d0e905b073
 https://www.jobsinwales.com/jobs-in-cardiff/senior-test-automation-engineer-data_1450006?region=south|6953a0aad1a2c2ec
 https://www.jobsinwales.com/jobs-in-cardiff/senior-test-automation-engineer-data_1456469?region=south|5ec22e461d8ad9ca
