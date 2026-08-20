@@ -974,6 +974,7 @@ https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-caci-digita
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-datacareers-4375234557|a4ddf745b8f5699b
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-oho-group-4426973678|d4643364af75fb24
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-ve3-4437556299|87e5672139cf25d7
+https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-ve3-4456000184|3bc36974e756f808
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-at-version-1-4373468517|5e8c2759bd581fc4
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-esc-or-edv-required-at-ibm-4401662637|580c664b78018541
 https://uk.linkedin.com/jobs/view/senior-automation-test-engineer-etrm-trading-platforms-at-datacareers-4375231554|42994fca54e8759a
@@ -1310,6 +1311,7 @@ https://uk.linkedin.com/jobs/view/software-and-systems-test-coordination-enginee
 https://uk.linkedin.com/jobs/view/software-and-test-engineer-apprenticeships-it-dwp-digital-studentjob-co-uk-at-jobster-4390780909|8e4651472481a254
 https://uk.linkedin.com/jobs/view/software-automation-engineer-at-owen-daniels-4348882795|4484d7689910b096
 https://uk.linkedin.com/jobs/view/software-automation-engineer-at-rise10-recruitment-4435261777|0af0a5b23e55d54e
+https://uk.linkedin.com/jobs/view/software-automation-test-engineer-at-express-recruitment-4454105389|543fa627d4eda23a
 https://uk.linkedin.com/jobs/view/software-developer-in-test-sdet-at-milltech-4431508318|11670418d9a8f472
 https://uk.linkedin.com/jobs/view/software-developer-in-test-uk-security-clearance-eligibility-required-at-appvia-4402944708|c43e42445b902d7f
 https://uk.linkedin.com/jobs/view/software-development-engineer-in-test-at-mlabs-4421692539|52b625919f600022
