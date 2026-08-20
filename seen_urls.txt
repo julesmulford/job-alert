@@ -675,7 +675,7 @@ https://uk.linkedin.com/jobs/view/project-and-automation-engineer-at-years-com-m
 https://uk.linkedin.com/jobs/view/project-director-distribution-automation-engineer-at-cencora-4407708207|2807d9cd8b97632f
 https://uk.linkedin.com/jobs/view/pvd-test-and-install-engineer-at-korvus-technology-4414851788|b1abd761aa2c8e10
 https://uk.linkedin.com/jobs/view/qa-analyst-at-hackajob-4378266775|db75b839a6723228
-https://uk.linkedin.com/jobs/view/qa-analyst-at-unite-students-4455436411|148decf88644c3a8
+https://uk.linkedin.com/jobs/view/qa-analyst-at-unite-students-4455436411|c7a4c370855daec3
 https://uk.linkedin.com/jobs/view/qa-analyst-operations-automation-engineer-at-marex-4390160389|49637da6911c0f16
 https://uk.linkedin.com/jobs/view/qa-analyst-studentjob-co-uk-at-jobster-4367723252|05255b7de71d0a41
 https://uk.linkedin.com/jobs/view/qa-and-test-automation-engineer-at-meritus-4430468811|ebab39de3722641d
@@ -1114,7 +1114,7 @@ https://uk.linkedin.com/jobs/view/senior-quality-engineer-at-rotork-4417964328?p
 https://uk.linkedin.com/jobs/view/senior-quality-qa-engineer-at-technip-energies-4326188896|7ad09a3bef124353
 https://uk.linkedin.com/jobs/view/senior-quality-test-engineer-at-enterprise-recruitment-ltd-4437696061|0be28672f7d98eea
 https://uk.linkedin.com/jobs/view/senior-quality-test-engineer-at-yolk-recruitment-ltd-4342297879|32db6d1707978b69
-https://uk.linkedin.com/jobs/view/senior-quality-test-engineer-i-at-relx-4455478724|0d332fe1b61356bf
+https://uk.linkedin.com/jobs/view/senior-quality-test-engineer-i-at-relx-4455478724|6d984c95179deae5
 https://uk.linkedin.com/jobs/view/senior-rf-test-engineer-at-ic-resources-4372011405|53baac7e648cb266
 https://uk.linkedin.com/jobs/view/senior-rf-test-engineer-at-ic-resources-4415542178|42f6e3d9a05da776
 https://uk.linkedin.com/jobs/view/senior-safety-testing-engineer-at-avetix-engineering-4391563950|5c8ced7614266264
@@ -2491,7 +2491,7 @@ https://welovesalt.com/jobs/mainframe-system-automation-engineer-finance-notting
 https://welovesalt.com/jobs/powershell-automation-engineer-contractor-713509|64dd5ff7c2c91231
 https://welovesalt.com/jobs/quality-assurance-test-engineer-digital-banking-insurance-713921|48977243d8f5fc18
 https://welovesalt.com/jobs/senior-cyberark-automation-engineer-713823|f826caa124f8ecff
-https://www.careerboard.com/gb/en/search-jobs-in-Enfield,-Middlesex,-United-Kingdom/AUTOMATION-ENGINEER-D4D6CA58A84FF704AE/|079e2798bb5cdff2
+https://www.careerboard.com/gb/en/search-jobs-in-Enfield,-Middlesex,-United-Kingdom/AUTOMATION-ENGINEER-D4D6CA58A84FF704AE/|394cdd308c91c771
 https://www.cybersecurityjobsite.com/job/5510530/automation-test-engineer/|7b6ef0ca2f23b673
 https://www.cybersecurityjobsite.com/job/5517734/automation-test-engineer/|885b3dd37e1bdba6
 https://www.exec-appointments.com/job/1951249/senior-salesforce-test-engineer/|e3b0c44298fc1c14
