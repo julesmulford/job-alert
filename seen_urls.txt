@@ -1018,7 +1018,7 @@ https://uk.linkedin.com/jobs/view/senior-mobile-automation-tester-at-w3global-43
 https://uk.linkedin.com/jobs/view/senior-mobile-qa-at-waracle-4439088808|5a02afbada1dd808
 https://uk.linkedin.com/jobs/view/senior-mobile-qa-engineer-at-computer-futures-4443782725|b15b78dc5a7f6ce4
 https://uk.linkedin.com/jobs/view/senior-nft-test-engineer-at-barclays-4431981293|efc20ad0ab6a1968
-https://uk.linkedin.com/jobs/view/senior-or-principal-quality-assurance-engineer-at-leonardo-4456260117|be17a3fa8e30bbd4
+https://uk.linkedin.com/jobs/view/senior-or-principal-quality-assurance-engineer-at-leonardo-4456260117|8428c305a5d6873a
 https://uk.linkedin.com/jobs/view/senior-pa-qa-engineer-at-alten-4431085959|f5dc5ddb1a885891
 https://uk.linkedin.com/jobs/view/senior-peoplesoft-automation-test-engineer-at-datamatics-4425499875?position=45&pageNum=0&refId=UJLqIk5vzBgEX1llKatkIw==&trackingId=hmRAiuofiEniSAsqQjcrKA==|85a2501a6c0c22b2
 https://uk.linkedin.com/jobs/view/senior-performance-test-engineer-at-nfu-mutual-4430299738|e5b88b3b9b443d59
@@ -1411,7 +1411,7 @@ https://uk.linkedin.com/jobs/view/software-test-engineer-qa-at-wcs-india-inc-444
 https://uk.linkedin.com/jobs/view/software-test-engineer-qa-automation-engineer-test-automation-engineer-at-hackajob-4430569673|754797e25194d83f
 https://uk.linkedin.com/jobs/view/software-test-engineers-at-hackajob-4329857405|eacb900a5b67cb11
 https://uk.linkedin.com/jobs/view/software-test-engineers-at-hackajob-4366436413|40dea1744f7d743d
-https://uk.linkedin.com/jobs/view/software-test-engineers-at-leonardo-4456258132|3adfd2aef26dfed0
+https://uk.linkedin.com/jobs/view/software-test-engineers-at-leonardo-4456258132|5ca4c80d485687b4
 https://uk.linkedin.com/jobs/view/software-tester-at-benenden-health-4418426550|8b24ebbf8186989b
 https://uk.linkedin.com/jobs/view/software-tester-at-bmc-recruitment-group-4407838764|ba3c53f9176e3537
 https://uk.linkedin.com/jobs/view/software-tester-at-culverdocs-4342181779|b35890caa39d6ecc
@@ -1438,6 +1438,7 @@ https://uk.linkedin.com/jobs/view/software-tester-qa-at-robertson-sumner-4348480
 https://uk.linkedin.com/jobs/view/software-tester-qa-at-robertson-sumner-4351213562|5989d0e52918d75f
 https://uk.linkedin.com/jobs/view/software-testing-engineer-at-anson-mccade-4437279905|a70461837ca6d325
 https://uk.linkedin.com/jobs/view/software-testing-intern-at-london-success-academy-4365663071|0b1034b7598b7072
+https://uk.linkedin.com/jobs/view/software-testing-qa-work-placement-remote-at-lsa-london-success-academy-4457522819|8e5556567d6cd294
 https://uk.linkedin.com/jobs/view/software-testing-work-placement-at-london-success-academy-4422449046?position=47&pageNum=0&refId=NImyWNwdaHi8ixyt+kf5IQ==&trackingId=CS2ChV3wuLkqmKMHZhJx7w==|f2dd31fcea07aef9
 https://uk.linkedin.com/jobs/view/solutions-qa-engineer-at-toppan-security-4390979058|fee8c7ad21a5f493
 https://uk.linkedin.com/jobs/view/sp-senior-system-integration-and-test-engineer-at-lockheed-martin-4452209408|9a45dec3884f5ff1
@@ -1626,6 +1627,7 @@ https://uk.linkedin.com/jobs/view/test-engineer-at-ko2-embedded-recruitment-solu
 https://uk.linkedin.com/jobs/view/test-engineer-at-la-fosse-4329705420|2bafa911600c8827
 https://uk.linkedin.com/jobs/view/test-engineer-at-la-fosse-4362021163|2aa01c2d0a4db8f7
 https://uk.linkedin.com/jobs/view/test-engineer-at-la-fosse-4376062563|5df60c5c1087f70a
+https://uk.linkedin.com/jobs/view/test-engineer-at-leidos-4457380345|4f8ca38f4a6a200a
 https://uk.linkedin.com/jobs/view/test-engineer-at-leonardo-4434200747|a34d5c3f0af1581b
 https://uk.linkedin.com/jobs/view/test-engineer-at-luxoft-4370535017|1e356c7503cdea8b
 https://uk.linkedin.com/jobs/view/test-engineer-at-mactaggart-scott-4389462389|2acd0a7d997a4564
