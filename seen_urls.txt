@@ -306,7 +306,7 @@ https://uk.linkedin.com/jobs/view/ai-quality-analyst-$70-hr-remote-at-crossing-h
 https://uk.linkedin.com/jobs/view/ai-red-team-tester-at-alignerr-4386060740|6c811812c23133ce
 https://uk.linkedin.com/jobs/view/ai-solutions-automation-architect-gohighlevel-at-huzzle-com-4400330006?position=45&pageNum=0&refId=GuBrCIjBJs7r1uTX2zuepQ==&trackingId=fH7vrx2zBnwuDm0s3akk3g==|4e6f67fe0369a6d7
 https://uk.linkedin.com/jobs/view/ai-test-automation-engineer-at-sthree-4350705806|649ad18633d5ec5b
-https://uk.linkedin.com/jobs/view/air-tightness-tester-at-tiptopjob-4457849801|de81037eb9e24fd6
+https://uk.linkedin.com/jobs/view/air-tightness-tester-at-tiptopjob-4457849801|c70ddcef9f183668
 https://uk.linkedin.com/jobs/view/api-automation-test-engineer-at-n-consulting-global-4427929007|f8542c0b7db9db2a
 https://uk.linkedin.com/jobs/view/api-test-engineer-ai-trainer-at-dataannotation-4397385901|d4f65265bf4e3072
 https://uk.linkedin.com/jobs/view/app-tester-uk-residents-at-testvox-4330053414|2f9ff29ee5acf29c
@@ -364,7 +364,7 @@ https://uk.linkedin.com/jobs/view/automation-engineer-at-logistex-4454697725|38e
 https://uk.linkedin.com/jobs/view/automation-engineer-at-luxoft-4409402901|85435814616c63f9
 https://uk.linkedin.com/jobs/view/automation-engineer-at-perimeter-automation-4378386838|9a52a0b356a619ed
 https://uk.linkedin.com/jobs/view/automation-engineer-at-premier-foods-4390609811|2350288d3f2113a5
-https://uk.linkedin.com/jobs/view/automation-engineer-at-premier-uk-foods-limited-4457872214|ef27c0cbde4ee4b0
+https://uk.linkedin.com/jobs/view/automation-engineer-at-premier-uk-foods-limited-4457872214|356377ac96c62ea6
 https://uk.linkedin.com/jobs/view/automation-engineer-at-robotics-jobs-uk-4442476265|b9f83a3c150e4e55
 https://uk.linkedin.com/jobs/view/automation-engineer-at-self-employed-4343378556|4e47adf5a3a804db
 https://uk.linkedin.com/jobs/view/automation-engineer-at-the-craneware-group-4354226833|a25d55e039f7afb9
@@ -834,7 +834,7 @@ https://uk.linkedin.com/jobs/view/qa-tester-remote-at-taskify-ai-4339450297|0f26
 https://uk.linkedin.com/jobs/view/qa-tester-temporary-at-elvis-4439445986|b2831dc5a97c2d8f
 https://uk.linkedin.com/jobs/view/qa-tester-unity-mobile-game-at-jobgether-4400709199|2e2f0cd35b07cb55
 https://uk.linkedin.com/jobs/view/qa-testing-engineer-fintech-saas-game-changer-hybrid-remote-at-debt-register-4383755794|b44a505fee330a44
-https://uk.linkedin.com/jobs/view/quality-analyst-remote-at-jobs-ai-4457871302|09a3aa2a6bda313e
+https://uk.linkedin.com/jobs/view/quality-analyst-remote-at-jobs-ai-4457871302|8e281459baff6ce6
 https://uk.linkedin.com/jobs/view/quality-and-test-engineer-at-sos-group-gbr-limited-4451393872|d01edfbcacbda379
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-ampstek-4384246751|1022bad25b4285a0
 https://uk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-cognify-search-4434458544|568e042602c0ba44
@@ -1736,7 +1736,7 @@ https://uk.linkedin.com/jobs/view/test-rig-engineer-at-trescal-4362404132|0e8ef1
 https://uk.linkedin.com/jobs/view/test-run-technician-pat-tester-at-first-response-site-services-ltd-4381256041|ee90cc745abe8975
 https://uk.linkedin.com/jobs/view/test-software-engineer-at-bullhorn-middleware-test-company-4365329510|8ea9184d8f5fc36e
 https://uk.linkedin.com/jobs/view/test-specialist-at-primus-global-solutions-primus-uk-europe-4426774178|aca8fd59482b8b7b
-https://uk.linkedin.com/jobs/view/test-stress-26c-position-at-telent-technology-services-ltd-4458114014|d08485afdda2fee9
+https://uk.linkedin.com/jobs/view/test-stress-26c-position-at-telent-technology-services-ltd-4458114014|52a013f5845a0cda
 https://uk.linkedin.com/jobs/view/test-technician-aerospace-propulsion-at-jobs-co-uk-4455215395|2e2f935ea7f470db
 https://uk.linkedin.com/jobs/view/test-technician-at-inspired-recruitment-4418468531|d11ca8104cc66764
 https://uk.linkedin.com/jobs/view/test-technician-at-trelleborg-sealing-solutions-4441307957|36a84b6e04cb79a9
